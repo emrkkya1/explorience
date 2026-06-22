@@ -1,0 +1,5560 @@
+[
+  {
+    "id": "ChIJ8wDqS2TeuxQRG8x_cr7ZIbQ",
+    "name": "Nasreddin Hoca Çocuk Kültür Bilim Merkezi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 301,
+    "location": {
+      "lat": 38.3560625,
+      "lng": 27.0953125
+    },
+    "primaryType": "museum",
+    "assignedCategory": "miscallaneous",
+    "rarity": "rare",
+    "description": "A children's culture and science center dedicated to the legendary folk figure Nasreddin Hoca, offering interactive exhibits and educational fun."
+  },
+  {
+    "id": "ChIJ_6xfYObeuxQRiClPB_kbbB8",
+    "name": "Mevlana Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 323,
+    "location": {
+      "lat": 38.36919960000001,
+      "lng": 27.124406099999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A mosque named after the revered poet Rumi, serving as a local place of worship and cultural touchpoint."
+  },
+  {
+    "id": "ChIJq7xCCSTfuxQRCxokIulffSk",
+    "name": "ÖDEMİŞLİ ADEM USTA",
+    "types": [
+      "meal_delivery",
+      "family_restaurant",
+      "soup_restaurant",
+      "health_food_store",
+      "kebab_shop",
+      "bar_and_grill",
+      "bar",
+      "food_delivery",
+      "middle_eastern_restaurant",
+      "food_store",
+      "health",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 1630,
+    "location": {
+      "lat": 38.3781494,
+      "lng": 27.1330809
+    },
+    "primaryType": "bar",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A lively bar and kebab spot in Ödemiş, popular for its hearty meals and casual atmosphere."
+  },
+  {
+    "id": "ChIJ_TR48z3fuxQRUbA1i4dr4xU",
+    "name": "Güler Kebap",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2535,
+    "location": {
+      "lat": 38.371075999999995,
+      "lng": 27.142775
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved kebab restaurant with a loyal following, known for its delicious Turkish kebabs."
+  },
+  {
+    "id": "ChIJN1hYCBTfuxQRgbp31Xg_HD4",
+    "name": "Buca belediyesi yeni spor tesisleri",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 227,
+    "location": {
+      "lat": 38.3766278,
+      "lng": 27.1631681
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A municipal sports complex in Buca, offering facilities for various athletic activities."
+  },
+  {
+    "id": "ChIJ0QvKxlrcuxQRZ5_XnTpaszw",
+    "name": "Nobili Park Balçova",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8504,
+    "location": {
+      "lat": 38.3874571,
+      "lng": 27.042844499999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "epic",
+    "description": "A top-rated breakfast restaurant in Balçova, famous for its delicious morning dishes and charming park setting."
+  },
+  {
+    "id": "ChIJDefcpE3cuxQR013SYjXIIt0",
+    "name": "Balçova Teleferik Tesisleri",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3773,
+    "location": {
+      "lat": 38.378380299999996,
+      "lng": 27.0460841
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A restaurant at the Balçova cable car station, offering scenic views and a memorable dining experience."
+  },
+  {
+    "id": "ChIJs5miSVrcuxQR-EoaNH3xekA",
+    "name": "Sakarya Parkı",
+    "types": [
+      "park",
+      "hiking_area",
+      "nature_preserve",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 566,
+    "location": {
+      "lat": 38.388300199999996,
+      "lng": 27.039455200000003
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A peaceful park in Sakarya, ideal for hiking, picnics, and enjoying nature within the city."
+  },
+  {
+    "id": "ChIJL2u0zEjcuxQRvDkQ8a3MRfk",
+    "name": "İzmir Ticaret Odası Hatıra Ormanı",
+    "types": [
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1931,
+    "location": {
+      "lat": 38.382602999999996,
+      "lng": 27.050003000000004
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A memorial forest by the Izmir Chamber of Commerce, providing a lush retreat with walking trails."
+  },
+  {
+    "id": "ChIJv8q4urjeuxQRVg70Tz-dDao",
+    "name": "Yadigar Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 297,
+    "location": {
+      "lat": 38.386646999999996,
+      "lng": 27.102169
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A local mosque offering a peaceful setting for prayer and community gatherings."
+  },
+  {
+    "id": "ChIJ36Wt5cLeuxQROlYg8HJXBCk",
+    "name": "Dönerci Kenan Opsar",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2703,
+    "location": {
+      "lat": 38.3804251,
+      "lng": 27.1127434
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved döner spot known for its succulent meat and quick service, a local favorite in Izmir."
+  },
+  {
+    "id": "ChIJVZDyfDXfuxQRV86BzaAZsN4",
+    "name": "Sirinyer Racecourse",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 4544,
+    "location": {
+      "lat": 38.388004599999995,
+      "lng": 27.1513125
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A lively bar in Şirinyer drawing crowds with its energetic vibe and extensive drink menu."
+  },
+  {
+    "id": "ChIJd8-R8jPfuxQRSefYXzTqYf4",
+    "name": "Hacı Ahmet Susuzlu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 330,
+    "location": {
+      "lat": 38.3862976,
+      "lng": 27.1435424
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A neighborhood mosque with traditional architecture, providing a serene worship space."
+  },
+  {
+    "id": "ChIJtzvisvxhuRQRjnXRN5BZ06s",
+    "name": "By mehmali Steak & Food",
+    "types": [
+      "restaurant",
+      "barbecue_restaurant",
+      "salad_shop",
+      "historical_landmark",
+      "historical_place",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 4195,
+    "location": {
+      "lat": 38.385131699999995,
+      "lng": 27.1700679
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A steakhouse set in a historic building, combining dining with a touch of history."
+  },
+  {
+    "id": "ChIJmQTT3ArZuxQRhe79yFBWhNE",
+    "name": "Haus Pera Coffee Buca",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 221,
+    "location": {
+      "lat": 38.3845302,
+      "lng": 27.171334100000003
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy café in Buca serving quality coffee in a relaxed setting."
+  },
+  {
+    "id": "ChIJmWkdzgNiuRQRL1NbP1Vi4sA",
+    "name": "İzmir Büyükşehir Belediyesi Hasanağa Bahçesi",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 14527,
+    "location": {
+      "lat": 38.3828136,
+      "lng": 27.177658200000003
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A sprawling municipal garden offering lush greenery, walking paths, and recreational facilities."
+  },
+  {
+    "id": "ChIJof0AOKdjuRQRbY4GhB07Xzo",
+    "name": "Buca Tostçusu Atom Evi",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2693,
+    "location": {
+      "lat": 38.384602,
+      "lng": 27.1739785
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Famous for its crispy tost sandwiches, this eatery is a go-to for a quick, tasty meal in Buca."
+  },
+  {
+    "id": "ChIJuc8v9-pjuRQRcs_-pQr1A9g",
+    "name": "Atölye Coffee Company",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 731,
+    "location": {
+      "lat": 38.384670400000005,
+      "lng": 27.1877472
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A specialty coffee shop where you can enjoy artisanal beverages in a creative workspace."
+  },
+  {
+    "id": "ChIJJUKfGEXcuxQRR8mb3ArQsGM",
+    "name": "İZULAŞ A.Ş. İZMİR BALÇOVA TELEFERİK",
+    "types": [
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 4688,
+    "location": {
+      "lat": 38.3875794,
+      "lng": 27.044776199999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A scenic cable car ride in Balçova offering breathtaking views of Izmir and the coastline."
+  },
+  {
+    "id": "ChIJ2SSUVEPcuxQRRW6gc0wbYAU",
+    "name": "Ugur Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 236,
+    "location": {
+      "lat": 38.3908333,
+      "lng": 27.044166699999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A local mosque with a welcoming atmosphere for worshippers and visitors alike."
+  },
+  {
+    "id": "ChIJjRiykaDduxQRG--THhlDsXw",
+    "name": "Lucifer Gastropub",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 341,
+    "location": {
+      "lat": 38.3930781,
+      "lng": 27.038223199999997
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A themed gastropub serving creative drinks in a lively, sometimes dark ambiance."
+  },
+  {
+    "id": "ChIJy2oqfFncuxQRnDxa2K3nnq4",
+    "name": "Balçova Atatürk Stadyumu",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 325,
+    "location": {
+      "lat": 38.3899237,
+      "lng": 27.038014699999998
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A local stadium hosting sports events and community gatherings in Balçova."
+  },
+  {
+    "id": "ChIJ4Yvc5mrcuxQRVbR86-OHKVU",
+    "name": "İzmir Agora Mall",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 18271,
+    "location": {
+      "lat": 38.3949777,
+      "lng": 27.0535265
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "rare",
+    "description": "A major shopping mall in Izmir with a vast array of shops, restaurants, and entertainment options."
+  },
+  {
+    "id": "ChIJlxmGbdzduxQRStjdsLH9a9E",
+    "name": "POLIGON ISGOREN - IZMIR POLİGON & MKE & OUTDOOR",
+    "types": [
+      "tourist_attraction",
+      "sports_complex",
+      "sporting_goods_store",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 642,
+    "location": {
+      "lat": 38.3955507,
+      "lng": 27.050145999999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "miscallaneous",
+    "rarity": "rare",
+    "description": "An outdoor recreation center featuring shooting ranges, gear, and adventure activities."
+  },
+  {
+    "id": "ChIJ74eL72rcuxQRagGYIpx6sy4",
+    "name": "Agora Cinemas",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 3159,
+    "location": {
+      "lat": 38.3944863,
+      "lng": 27.053750800000003
+    },
+    "primaryType": "movie_theater",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A modern cinema complex showing the latest blockbusters in comfortable screening rooms."
+  },
+  {
+    "id": "ChIJpeggfYfduxQRC0zNzdD6hvQ",
+    "name": "Sir Winston Pub Balçova",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 965,
+    "location": {
+      "lat": 38.3944912,
+      "lng": 27.0506426
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A British-themed pub offering a wide selection of beers and a cozy atmosphere."
+  },
+  {
+    "id": "ChIJL1VGiULcuxQR_my7lFJ_AJ4",
+    "name": "Pizza Locale",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1359,
+    "location": {
+      "lat": 38.393957,
+      "lng": 27.047074
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A popular pizzeria serving up delicious pizzas with a variety of toppings."
+  },
+  {
+    "id": "ChIJY_qkqrXduxQRzbjsPhqVmXI",
+    "name": "Kokoreçci Asım Usta Göztepe",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1915,
+    "location": {
+      "lat": 38.396388900000005,
+      "lng": 27.0727449
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A legendary kokoreç shop in Göztepe, serving perfectly spiced grilled lamb intestines since decades."
+  },
+  {
+    "id": "ChIJAxtXl-XfuxQR6HH93zHjVCY",
+    "name": "NE TOST",
+    "types": [
+      "sandwich_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 788,
+    "location": {
+      "lat": 38.3964378,
+      "lng": 27.074710699999997
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A tiny sandwich shop famous for its crispy, cheese-filled toasties that locals love."
+  },
+  {
+    "id": "ChIJ4x8tRK_euxQRVkR_i5QtQfI",
+    "name": "Hakim Efendi Camii 1895",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 231,
+    "location": {
+      "lat": 38.395619599999996,
+      "lng": 27.086215499999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A historic mosque built in 1895, featuring elegant Ottoman architecture and a serene courtyard."
+  },
+  {
+    "id": "ChIJi4doBEbfuxQRftAYkFkxbW0",
+    "name": "Göztepe LaVia Kasap Döner Izgara",
+    "types": [
+      "butcher_shop",
+      "bar_and_grill",
+      "turkish_restaurant",
+      "bar",
+      "manufacturer",
+      "restaurant",
+      "food_store",
+      "food",
+      "service",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 350,
+    "location": {
+      "lat": 38.3933995,
+      "lng": 27.085647599999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A casual eatery offering succulent döner kebabs and grilled meat dishes in Göztepe."
+  },
+  {
+    "id": "ChIJi2hkfB_fuxQRNwTHpe9Cxco",
+    "name": "Kebapçı Murat",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6064,
+    "location": {
+      "lat": 38.3891697,
+      "lng": 27.0955398
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A renowned kebab restaurant in Izmir, known for its exceptional döner and traditional Turkish flavors."
+  },
+  {
+    "id": "ChIJu82UqALfuxQRzyzkSzRdoPM",
+    "name": "Pilav Tanesi",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1504,
+    "location": {
+      "lat": 38.3915965,
+      "lng": 27.097249100000003
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A cozy restaurant specializing in flavorful rice pilaf dishes, a comforting local favorite."
+  },
+  {
+    "id": "ChIJ20H2lM3euxQRnMaTbUNj2n4",
+    "name": "Yeşilyurt Merkez Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 308,
+    "location": {
+      "lat": 38.3942143,
+      "lng": 27.1135605
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A central mosque in Yeşilyurt, providing a peaceful space for worship and community."
+  },
+  {
+    "id": "ChIJYXNSE8zeuxQRWgrZL-OsPVI",
+    "name": "Yeşilyurt Ulu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 399,
+    "location": {
+      "lat": 38.3949316,
+      "lng": 27.110194699999997
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "The great mosque of Yeşilyurt, an important religious and architectural landmark."
+  },
+  {
+    "id": "ChIJ_SMNTCzfuxQRQS5_169zFaU",
+    "name": "4x4 Night Club",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 42,
+    "location": {
+      "lat": 38.3888046,
+      "lng": 27.134993599999998
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A lively night club with a vibrant dance floor, popular for late-night entertainment."
+  },
+  {
+    "id": "ChIJKVtwmVLfuxQREvA2r3XIykw",
+    "name": "Ortadoğu Akvaryum Tropikal Balık Deposu",
+    "types": [
+      "aquarium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 89,
+    "location": {
+      "lat": 38.3893546,
+      "lng": 27.1330021
+    },
+    "primaryType": "aquarium",
+    "assignedCategory": "shopping",
+    "rarity": "common",
+    "description": "A specialist tropical fish store offering a wide variety of aquatic life and supplies for hobbyists."
+  },
+  {
+    "id": "ChIJCf1CgtLYuxQRnpAVjUMxVaw",
+    "name": "Kızılçullu Su Kemerleri",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 108,
+    "location": {
+      "lat": 38.393588,
+      "lng": 27.1381375
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "Ancient Roman aqueducts that once carried water across the region, now a fascinating historical site."
+  },
+  {
+    "id": "ChIJ34z9WcnZuxQRv3-Mh4tBwRY",
+    "name": "01 Şırdancı Sedat buca",
+    "types": [
+      "restaurant",
+      "turkish_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1217,
+    "location": {
+      "lat": 38.3932165,
+      "lng": 27.1445449
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular spot in Buca known for its delicious şırdan, a traditional Turkish sausage."
+  },
+  {
+    "id": "ChIJ1zoPa7XYuxQRH369na07GHU",
+    "name": "Avni Naili Limboz Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 288,
+    "location": {
+      "lat": 38.3896365,
+      "lng": 27.151303
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A well-regarded mosque in Buca offering a peaceful atmosphere for prayer and reflection."
+  },
+  {
+    "id": "ChIJI7mJsdTZuxQRRlSKczmzICw",
+    "name": "HUNGRY DOG PUB",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1518,
+    "location": {
+      "lat": 38.3882499,
+      "lng": 27.1724498
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A lively pub in Buca with a great selection of drinks and a friendly atmosphere."
+  },
+  {
+    "id": "ChIJJT5mBJfZuxQRhd9kwr3K0OU",
+    "name": "Comolokko Buca",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 617,
+    "location": {
+      "lat": 38.3864264,
+      "lng": 27.1707632
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Cozy cafe in Buca perfect for enjoying a cup of coffee and relaxing."
+  },
+  {
+    "id": "ChIJFUOK3bPYuxQRhMxX1rcfid8",
+    "name": "EDEM",
+    "types": [
+      "dessert_restaurant",
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2396,
+    "location": {
+      "lat": 38.391062999999995,
+      "lng": 27.157525999999997
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved dessert shop in Buca known for its ice cream and sweet treats."
+  },
+  {
+    "id": "ChIJez8rco3ZuxQRzDrwJzQrYig",
+    "name": "Kız Kulesi",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 565,
+    "location": {
+      "lat": 38.3951864,
+      "lng": 27.164788299999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "The Maiden's Tower in Izmir, a historic landmark offering scenic views of the city."
+  },
+  {
+    "id": "ChIJBd-2UF5juRQRFCRDj3p_Jec",
+    "name": "Faun Social",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 656,
+    "location": {
+      "lat": 38.3887202,
+      "lng": 27.1753093
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A popular nightclub in Izmir known for its vibrant atmosphere and music."
+  },
+  {
+    "id": "ChIJt3IgWRRiuRQRmyIsia8ARao",
+    "name": "Buca Stadium",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 840,
+    "location": {
+      "lat": 38.3947755,
+      "lng": 27.193277600000002
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "The local stadium in Buca, hosting sports events and gatherings."
+  },
+  {
+    "id": "ChIJ6dN12VJjuRQRy-wlt5yAtpM",
+    "name": "ÜNLÜ Pide Buca",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 1049,
+    "location": {
+      "lat": 38.38968,
+      "lng": 27.186761999999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Famous pide restaurant in Buca, serving delicious Turkish pide with a perfect rating."
+  },
+  {
+    "id": "ChIJizSXx9rcuxQROU5JGFhL_nw",
+    "name": "Şehitlik Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 457,
+    "location": {
+      "lat": 38.3958333,
+      "lng": 27
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "Şehitlik Mosque in Buca, a place of worship with a tranquil atmosphere."
+  },
+  {
+    "id": "ChIJ55ERGWPcuxQRNwe_I0Axcd4",
+    "name": "İnciraltı Keyfi Şahane",
+    "types": [
+      "wedding_venue",
+      "concert_hall",
+      "auditorium",
+      "live_music_venue",
+      "bar",
+      "event_venue",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 513,
+    "location": {
+      "lat": 38.398374499999996,
+      "lng": 27.037560199999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A versatile venue in İnciraltı hosting weddings, concerts, and live music events."
+  },
+  {
+    "id": "ChIJOUFVMh3cuxQRdGYfP4JdxUU",
+    "name": "Beyaz Ev",
+    "types": [
+      "gastropub",
+      "bar",
+      "restaurant",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 519,
+    "location": {
+      "lat": 38.3971148,
+      "lng": 27.034666200000004
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "Beyaz Ev offers a cozy gastropub experience with delicious food and drinks."
+  },
+  {
+    "id": "ChIJYyjCvRLduxQR8GBqcC0bcCA",
+    "name": "İstinyePark İzmir",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 17600,
+    "location": {
+      "lat": 38.3992487,
+      "lng": 27.068297599999998
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "epic",
+    "description": "A premier shopping mall in Izmir offering a wide range of stores, dining, and entertainment."
+  },
+  {
+    "id": "ChIJOXUILgPcuxQRY7xKHWOOmh4",
+    "name": "ISONEM Park Gürsel Aksel Spor ve Sağlıklı Yaşam Merkezi",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4495,
+    "location": {
+      "lat": 38.3968929,
+      "lng": 27.0758606
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "rare",
+    "description": "A modern sports and wellness center in Izmir, named after Gürsel Aksel, offering top-notch facilities."
+  },
+  {
+    "id": "ChIJ7ae6F7GuvhQRqu5L__LX17o",
+    "name": "Ahmed Adnan Saygun Sanat Merkezi",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5161,
+    "location": {
+      "lat": 38.397364800000005,
+      "lng": 27.0783103
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "Ahmed Adnan Saygun Art Center in Izmir is a prominent cultural venue hosting concerts and exhibitions."
+  },
+  {
+    "id": "ChIJd_tvQBDcuxQR7vX9leUnn_g",
+    "name": "Dönerci Vedat Usta | İzmir - İstinyePark",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6293,
+    "location": {
+      "lat": 38.398424899999995,
+      "lng": 27.068781299999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Famous döner spot located in İstinyePark, beloved by locals for its succulent meat and vibrant atmosphere."
+  },
+  {
+    "id": "ChIJ8X37-qjeuxQR3LjkPdslZbw",
+    "name": "Güzelyali Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 5355,
+    "location": {
+      "lat": 38.397725,
+      "lng": 27.0829082
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A spacious seaside park in Güzelyalı offering stunning views of the bay and a perfect spot for a leisurely stroll."
+  },
+  {
+    "id": "ChIJVfZrI7PeuxQRAFSy4LGFGYQ",
+    "name": "İzmir Büyükşehir Belediyesi Susuzdede Parkı",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2390,
+    "location": {
+      "lat": 38.3996328,
+      "lng": 27.0935834
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A well-maintained municipal park in Izmir, featuring walking paths and green spaces for relaxation."
+  },
+  {
+    "id": "ChIJ7ae6F7GuvhQRQWaeAq1ksK4",
+    "name": "La Folie",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1535,
+    "location": {
+      "lat": 38.3981725,
+      "lng": 27.084192599999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A trendy bar and café in Izmir, known for its lively ambiance and creative drinks."
+  },
+  {
+    "id": "ChIJ11G0Xy7ZuxQR2wMAV8OI9uk",
+    "name": "Karabağlar Belediyesi Uğur Mumcu Parkı",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 3448,
+    "location": {
+      "lat": 38.4030056,
+      "lng": 27.117619299999998
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A popular neighborhood park in Karabağlar, ideal for family outings and outdoor activities."
+  },
+  {
+    "id": "ChIJGyLuv_zZuxQRr4eDCX03w7g",
+    "name": "HOUDİNİ PUB",
+    "types": [
+      "bar",
+      "bistro",
+      "cafeteria",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 865,
+    "location": {
+      "lat": 38.4019616,
+      "lng": 27.1162007
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A cozy pub with a magical theme, drawing in locals for its affordable drinks and friendly vibe."
+  },
+  {
+    "id": "ChIJwfE1w9bYuxQRBLdcA8UgJ4Y",
+    "name": "Çinili Cami",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 468,
+    "location": {
+      "lat": 38.399981,
+      "lng": 27.131081
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A historic mosque adorned with stunning blue tiles, reflecting classic Ottoman architecture and serving as a peaceful retreat."
+  },
+  {
+    "id": "ChIJjXcPOK_YuxQR5saNPYCCZTI",
+    "name": "Artım Güzel Sanatlara Hazırlık Resim Kursu",
+    "types": [
+      "art_gallery",
+      "educational_institution",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 27,
+    "location": {
+      "lat": 38.3928285,
+      "lng": 27.1669752
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "An art course and gallery space that nurtures local talent and showcases student works from time to time."
+  },
+  {
+    "id": "ChIJ_x2TqazYuxQRFn4pJk39onA",
+    "name": "COFFEEİZ",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "wholesaler",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 148,
+    "location": {
+      "lat": 38.3965256,
+      "lng": 27.1753483
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy coffee shop with exceptional brews and a warm atmosphere, perfect for a quiet afternoon."
+  },
+  {
+    "id": "ChIJR22gHpbcuxQRE69kDSsNrR0",
+    "name": "Baku Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2824,
+    "location": {
+      "lat": 38.408622,
+      "lng": 27.010130699999998
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A serene park offering green spaces and recreational areas, named after Azerbaijan's capital, providing a peaceful escape in the city."
+  },
+  {
+    "id": "ChIJjfabmYfcuxQRUGaJMNvE3DI",
+    "name": "Özdilek İzmir AVM",
+    "types": [
+      "department_store",
+      "shopping_mall",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 14732,
+    "location": {
+      "lat": 38.410610299999995,
+      "lng": 27.031833
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "common",
+    "description": "A major shopping mall in İzmir, featuring a wide range of stores, dining options, and entertainment facilities."
+  },
+  {
+    "id": "ChIJ3YvJTnzduxQRJe-3e1EtTmk",
+    "name": "Yenikale İnciraltı",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 7,
+    "location": {
+      "lat": 38.4116327,
+      "lng": 27.0231911
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A historic castle ruin located in the İnciraltı area, offering a glimpse into the region's past."
+  },
+  {
+    "id": "ChIJYxMcX3zcuxQRvEHa8SgSKGg",
+    "name": "İnciraltı Bahçe Cafe",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 1981,
+    "location": {
+      "lat": 38.4099838,
+      "lng": 27.0363077
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy garden cafe in İnciraltı, perfect for enjoying breakfast or a relaxing drink in a lush setting."
+  },
+  {
+    "id": "ChIJe8WYqw7cuxQRIZDoXid_Oag",
+    "name": "İnciraltı Kent Ormanı",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 10167,
+    "location": {
+      "lat": 38.4080398,
+      "lng": 27.0637471
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A large urban forest park in İnciraltı, popular for walking, picnics, and enjoying nature within the city."
+  },
+  {
+    "id": "ChIJSfhSAN7duxQRtcnToSZGg7Q",
+    "name": "Engelliler Parkı",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 4180,
+    "location": {
+      "lat": 38.4105291,
+      "lng": 27.0593798
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "An accessible park designed for all visitors, featuring paths and facilities for disabled individuals alongside green areas."
+  },
+  {
+    "id": "ChIJzZJLNIfZuxQROXMNJu8JBCc",
+    "name": "Karantina Parkı",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1819,
+    "location": {
+      "lat": 38.4077658,
+      "lng": 27.1062685
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A historic park in the Karantina neighborhood, offering sea views and a pleasant atmosphere for leisurely strolls."
+  },
+  {
+    "id": "ChIJyd5kGjfZuxQRJZjvRQ_CSCU",
+    "name": "Hamidiye Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 232,
+    "location": {
+      "lat": 38.4072222,
+      "lng": 27.1069444
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A historic mosque built during the Hamidiye period, known for its architectural details and peaceful courtyard."
+  },
+  {
+    "id": "ChIJW59-HRTfuxQRF_X9HbuwS1k",
+    "name": "By the Way Coffee",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 242,
+    "location": {
+      "lat": 38.408267099999996,
+      "lng": 27.108652
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A trendy coffee shop known for its specialty brews and relaxed ambiance, a favorite among locals."
+  },
+  {
+    "id": "ChIJ9yZupyXZuxQRRy6zC9zfQLU",
+    "name": "İzmir Historical Elevator Building",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 29497,
+    "location": {
+      "lat": 38.4086587,
+      "lng": 27.1176455
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "The iconic century-old elevator building offering panoramic views of the city and the bay, a must-visit landmark."
+  },
+  {
+    "id": "ChIJLRM2NjbZuxQRq3cCII6nBEk",
+    "name": "Zoe Coffee",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 532,
+    "location": {
+      "lat": 38.41029290000001,
+      "lng": 27.1215063
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A modern coffee house serving specialty coffee and light bites in a stylish setting."
+  },
+  {
+    "id": "ChIJ4di3nNTZuxQR19qPPlTGDlI",
+    "name": "Kırkmerdiven",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 826,
+    "location": {
+      "lat": 38.4091956,
+      "lng": 27.119073699999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A charming cafe named after the nearby forty steps, offering a cozy atmosphere and refreshments."
+  },
+  {
+    "id": "ChIJzdNI2d_YuxQR73CkeG3uZWg",
+    "name": "Izmir Archaeological Museum",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3458,
+    "location": {
+      "lat": 38.4136982,
+      "lng": 27.1285353
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "Home to a vast collection of artifacts from Aegean civilizations, this museum showcases the rich history of the region from prehistoric to Roman times."
+  },
+  {
+    "id": "ChIJEQ11ztjYuxQR86xehrI_CwU",
+    "name": "Eşrefpaşa Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 395,
+    "location": {
+      "lat": 38.4086204,
+      "lng": 27.129192999999997
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A historic mosque offering a glimpse into Izmir's religious architecture and local community life."
+  },
+  {
+    "id": "ChIJYW1s7N_YuxQR2GyyM7bxIs8",
+    "name": "Varyant",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 490,
+    "location": {
+      "lat": 38.4113032,
+      "lng": 27.1277518
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "Famous stepped street in Izmir, offering scenic views and a vibrant atmosphere."
+  },
+  {
+    "id": "ChIJcbynHefYuxQRKhSjKxD6pks",
+    "name": "İkiçeşmelik Camii",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 447,
+    "location": {
+      "lat": 38.414408699999996,
+      "lng": 27.1343517
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A local mosque with historical significance, nestled in the heart of Izmir."
+  },
+  {
+    "id": "ChIJjyrJ-9_YuxQRMwT1G5b0fI0",
+    "name": "Ümran Baradan Çocuk Müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 305,
+    "location": {
+      "lat": 38.4134533,
+      "lng": 27.1269119
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A children's museum dedicated to interactive learning and cultural exhibits."
+  },
+  {
+    "id": "ChIJY1USmN_YuxQRHYxpwx5u0ss",
+    "name": "Fatih Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 332,
+    "location": {
+      "lat": 38.4118011,
+      "lng": 27.127876999999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A grand mosque known for its striking architecture and spiritual ambiance."
+  },
+  {
+    "id": "ChIJRSt9QenYuxQRwrjEp0JfXNs",
+    "name": "Hava Şehitleri Kadifekale Cami",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 326,
+    "location": {
+      "lat": 38.413508199999995,
+      "lng": 27.1429467
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A mosque perched on Kadifekale hill, blending religious heritage with panoramic views."
+  },
+  {
+    "id": "ChIJB8wzYJ3YuxQRba2k_gCnz1o",
+    "name": "Fasülye Tanesi",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1262,
+    "location": {
+      "lat": 38.4106741,
+      "lng": 27.1734729
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular Turkish restaurant serving authentic flavors in a cozy setting."
+  },
+  {
+    "id": "ChIJl6Bvrv_duxQRQ1HOyx89Rig",
+    "name": "Zaitun Seafood Cafe & Restaurant",
+    "types": [
+      "restaurant",
+      "seafood_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 943,
+    "location": {
+      "lat": 38.412864,
+      "lng": 27.015328
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Seafood cafe and restaurant offering fresh catches along the Izmir coast."
+  },
+  {
+    "id": "ChIJuak52-nZuxQRXoA9ZdSw8Kw",
+    "name": "Konak Sahili",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 309,
+    "location": {
+      "lat": 38.4175963,
+      "lng": 27.125071499999997
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A scenic coastal promenade perfect for leisurely strolls and sea views."
+  },
+  {
+    "id": "ChIJ50QX-uPYuxQRyBM2_ZLjFfw",
+    "name": "Kemeraltı Bazaar",
+    "types": [
+      "tourist_attraction",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 32987,
+    "location": {
+      "lat": 38.418699,
+      "lng": 27.1330088
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "shopping",
+    "rarity": "epic",
+    "description": "Historic covered bazaar brimming with shops, spices, and local crafts."
+  },
+  {
+    "id": "ChIJ4X3zvOTYuxQRIW0mwDcQjpM",
+    "name": "Kızlarağası Inn",
+    "types": [
+      "historical_landmark",
+      "department_store",
+      "tourist_attraction",
+      "cafe",
+      "inn",
+      "historical_place",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 18738,
+    "location": {
+      "lat": 38.421203,
+      "lng": 27.132794
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "Restored Ottoman inn turned shopping arcade, rich with history and charm."
+  },
+  {
+    "id": "ChIJZ50aMOLYuxQRvGo84DXFhcU",
+    "name": "Clock Tower of İzmir",
+    "types": [
+      "tourist_attraction",
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 25947,
+    "location": {
+      "lat": 38.418869,
+      "lng": 27.1286678
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "The iconic symbol of Izmir, a beautiful clock tower standing in Konak Square."
+  },
+  {
+    "id": "ChIJz4HKgu_YuxQRbTOT_QxqU4U",
+    "name": "Agora Ören Yeri",
+    "types": [
+      "tourist_attraction",
+      "historical_place",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3263,
+    "location": {
+      "lat": 38.4197774,
+      "lng": 27.1384233
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "Ancient Roman agora offering a fascinating glimpse into Izmir's classical past."
+  },
+  {
+    "id": "ChIJ1WsDf9nZuxQRMVlavoiTyvc",
+    "name": "Konak iskele",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1303,
+    "location": {
+      "lat": 38.4188331,
+      "lng": 27.127122200000002
+    },
+    "primaryType": "park",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A bustling ferry pier and park area, a hub for local transportation and relaxation."
+  },
+  {
+    "id": "ChIJm-wTsuTYuxQREHrr3Pi3PJ8",
+    "name": "Meşhur Hisarönü Şambalicisi 1942'den Beri",
+    "types": [
+      "dessert_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 2626,
+    "location": {
+      "lat": 38.4218664,
+      "lng": 27.1331221
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A historic dessert shop serving traditional şambali since 1942, a sweet taste of Izmir's culinary heritage."
+  },
+  {
+    "id": "ChIJDRzetuTYuxQRZk7hl5YOQlc",
+    "name": "Hisar Mosque",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 3640,
+    "location": {
+      "lat": 38.4215,
+      "lng": 27.133499999999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A stunning 16th-century Ottoman mosque in the heart of Izmir, renowned for its elegant architecture and spiritual significance."
+  },
+  {
+    "id": "ChIJ95G6XuTYuxQRBGeooizjtCE",
+    "name": "Numan Pide",
+    "types": [
+      "middle_eastern_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 3086,
+    "location": {
+      "lat": 38.4191061,
+      "lng": 27.134137
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Famous for its delicious pide baked in a traditional stone oven, a beloved Izmir eatery."
+  },
+  {
+    "id": "ChIJByxmkO_YuxQRx0f1bGicRzs",
+    "name": "Agora of Smyrna",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 3654,
+    "location": {
+      "lat": 38.418841,
+      "lng": 27.1390592
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "legendary",
+    "description": "The ancient Roman marketplace of Smyrna, offering a fascinating glimpse into the city's 2,000-year-old history."
+  },
+  {
+    "id": "ChIJifDUAPPYuxQR5lRagBZvDl8",
+    "name": "Church of St. Vukolos",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 998,
+    "location": {
+      "lat": 38.4214757,
+      "lng": 27.1476197
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "One of Izmir's oldest churches, with a history dating back to the Byzantine era."
+  },
+  {
+    "id": "ChIJYeFtCozYuxQRrKijeIiEGdo",
+    "name": "Konya Mandırası Kahvaltı Salonu",
+    "types": [
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1251,
+    "location": {
+      "lat": 38.421774899999996,
+      "lng": 27.154453099999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy spot serving traditional Turkish breakfast with fresh ingredients from Konya."
+  },
+  {
+    "id": "ChIJt3EJXvHYuxQRb25eMCu9A9k",
+    "name": "Sevinç Kebap & Dürüm Salonu",
+    "types": [
+      "kebab_shop",
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1412,
+    "location": {
+      "lat": 38.423201299999995,
+      "lng": 27.143672900000002
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A popular kebab spot in Izmir, known for its flavorful dürüm and friendly service."
+  },
+  {
+    "id": "ChIJ4aJWx_HYuxQRYZ71U-pxfog",
+    "name": "Izmir Women's Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "history_museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 221,
+    "location": {
+      "lat": 38.421033,
+      "lng": 27.142259
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A museum celebrating the contributions of women to Izmir's culture and history."
+  },
+  {
+    "id": "ChIJB7GsePHYuxQRdcSjdt7Y2zg",
+    "name": "Çorakkapı Mosque",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 380,
+    "location": {
+      "lat": 38.421873399999996,
+      "lng": 27.1436776
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A historic mosque with elegant Ottoman design, tucked away in Izmir's old quarter."
+  },
+  {
+    "id": "ChIJuUeJCvnYuxQRJ0BUKuOXnJg",
+    "name": "Swissôtel Büyük Efes İzmir",
+    "types": [
+      "hotel",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 18166,
+    "location": {
+      "lat": 38.427957,
+      "lng": 27.1357655
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A historic luxury hotel that has hosted dignitaries and celebrities, blending Ottoman elegance with modern comfort."
+  },
+  {
+    "id": "ChIJqZzO7fnYuxQRyGM5l4E5GEI",
+    "name": "Karaca Cinema",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1611,
+    "location": {
+      "lat": 38.4267675,
+      "lng": 27.1371269
+    },
+    "primaryType": "movie_theater",
+    "assignedCategory": "miscallaneous",
+    "rarity": "rare",
+    "description": "A classic movie theater in Izmir, showcasing both blockbusters and art-house films in a nostalgic setting."
+  },
+  {
+    "id": "ChIJy20mmlfYuxQRZvUFG4A_bZ8",
+    "name": "Arkas Sanat Alsancak",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2609,
+    "location": {
+      "lat": 38.431978699999995,
+      "lng": 27.136829199999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A vibrant contemporary art center in Alsancak, hosting rotating exhibitions of Turkish and international artists."
+  },
+  {
+    "id": "ChIJx2s8MPbYuxQRdgdXSysPTd8",
+    "name": "Kültürpark İzmir",
+    "types": [
+      "park",
+      "city_park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 21082,
+    "location": {
+      "lat": 38.4284811,
+      "lng": 27.145345
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "Izmir's largest urban park, a green oasis hosting cultural festivals, open-air concerts, and tranquil gardens."
+  },
+  {
+    "id": "ChIJT8TzfljYuxQRvb4mx_xujcU",
+    "name": "Leone Patisserie & Boulangerie - Alsancak",
+    "types": [
+      "pastry_shop",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2118,
+    "location": {
+      "lat": 38.430162,
+      "lng": 27.1412382
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A popular French-style patisserie in Alsancak, offering exquisite pastries and baked goods."
+  },
+  {
+    "id": "ChIJZalFowDZuxQRdYyPB8he5w4",
+    "name": "Two Hands Burger & Toastery",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1760,
+    "location": {
+      "lat": 38.4310085,
+      "lng": 27.1416179
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A go-to spot for gourmet burgers and toasts in Izmir."
+  },
+  {
+    "id": "ChIJa5UWmPfYuxQRp-muszhGrU0",
+    "name": "St. John's Cathedral",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 384,
+    "location": {
+      "lat": 38.4284882,
+      "lng": 27.139641200000003
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A historic Catholic cathedral in Izmir, known for its impressive Gothic architecture."
+  },
+  {
+    "id": "ChIJa60o-PPYuxQR0CfwnzmiJLo",
+    "name": "Sayanora",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 132,
+    "location": {
+      "lat": 38.423836,
+      "lng": 27.1448377
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A lively nightclub in Izmir, perfect for a night out."
+  },
+  {
+    "id": "ChIJhQJA-_XYuxQRJOcfUYZBsJM",
+    "name": "İzmir Resim Heykel Müzesi Kültürpark Sanat Galerisi",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 176,
+    "location": {
+      "lat": 38.428312399999996,
+      "lng": 27.1445848
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "An art gallery within Kültürpark, showcasing local artworks and sculptures."
+  },
+  {
+    "id": "ChIJXeGwmZtiuRQR91dCF6yPu4I",
+    "name": "Zaim Usta",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 5671,
+    "location": {
+      "lat": 38.4323306,
+      "lng": 27.1808698
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "epic",
+    "description": "A celebrated Turkish restaurant known for its expertly prepared traditional dishes."
+  },
+  {
+    "id": "ChIJNSARSSJjuRQR0nWDvHZkGTE",
+    "name": "BRATE GAZINOSU",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 11,
+    "location": {
+      "lat": 38.4261027,
+      "lng": 27.181300699999998
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A local nightclub with a vibrant atmosphere in Izmir."
+  },
+  {
+    "id": "ChIJD4kl_8JiuRQRM6UV0580DsQ",
+    "name": "KUYU KOKOREÇ",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1393,
+    "location": {
+      "lat": 38.425588499999996,
+      "lng": 27.202784299999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A specialty restaurant famous for its delicious kokoreç, a Turkish street food classic."
+  },
+  {
+    "id": "ChIJqZiyfutiuRQRAY72n8llbc0",
+    "name": "Sami Usta Ev Yemekleri",
+    "types": [
+      "turkish_restaurant",
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 4746,
+    "location": {
+      "lat": 38.430437399999995,
+      "lng": 27.200024499999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "epic",
+    "description": "A top-rated home-cooking restaurant serving authentic Turkish cuisine."
+  },
+  {
+    "id": "ChIJAQDH0u5iuRQRcGfllnrP8XU",
+    "name": "Dönerci Vedat Usta | İzmir - Altındağ",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 9416,
+    "location": {
+      "lat": 38.4284387,
+      "lng": 27.205276299999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "epic",
+    "description": "A renowned döner kebab restaurant in Altındağ, a must-visit for kebab lovers."
+  },
+  {
+    "id": "ChIJbdfM9O5iuRQRhPq0HUuEOq4",
+    "name": "Mescidi Aksa Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 177,
+    "location": {
+      "lat": 38.4264468,
+      "lng": 27.2043552
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A peaceful mosque in Izmir, serving as a local place of worship."
+  },
+  {
+    "id": "ChIJkeJbMFrYuxQRV_DQMvjsjdk",
+    "name": "Ataturk Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2975,
+    "location": {
+      "lat": 38.4355952,
+      "lng": 27.1405833
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A museum honoring Mustafa Kemal Ataturk, with exhibits on his life and Turkey's history."
+  },
+  {
+    "id": "ChIJE69dyBHZuxQRoM-ZyN5tz5I",
+    "name": "Alsancak Gündoğdu Meydanı",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1675,
+    "location": {
+      "lat": 38.4358061,
+      "lng": 27.1394477
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A bustling square in Alsancak, a central meeting point with scenic views."
+  },
+  {
+    "id": "ChIJjcvmHlvYuxQRcOJSV83Im2o",
+    "name": "Kordon Alsancak İzmir",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 26611,
+    "location": {
+      "lat": 38.4381638,
+      "lng": 27.1414413
+    },
+    "primaryType": "park",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "The scenic seaside promenade along the Izmir coast, perfect for walks and enjoying the sea view."
+  },
+  {
+    "id": "ChIJi0cqgkTYuxQRj2sz5BAsVf0",
+    "name": "Çelebi Unlu Mamuller",
+    "types": [
+      "bakery",
+      "pastry_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 14508,
+    "location": {
+      "lat": 38.441198799999995,
+      "lng": 27.144019200000002
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved bakery known for its fresh pastries and Turkish delights in Alsancak."
+  },
+  {
+    "id": "ChIJExaHs1zYuxQR31aELybEmgY",
+    "name": "Zeynel Ergin Gevrek Fırını",
+    "types": [
+      "bakery",
+      "breakfast_restaurant",
+      "restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 7061,
+    "location": {
+      "lat": 38.4384435,
+      "lng": 27.145073399999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Famous bakery specializing in gevrek, the crunchy sesame-covered simit that is a Izmir specialty."
+  },
+  {
+    "id": "ChIJG9lMKlrYuxQRKYqtEb2yjAs",
+    "name": "Sevinç Pastanesi - Alsancak",
+    "types": [
+      "ice_cream_shop",
+      "pastry_shop",
+      "dessert_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 6979,
+    "location": {
+      "lat": 38.434757,
+      "lng": 27.142028
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular pastry shop with a long history, offering delicious desserts and ice cream."
+  },
+  {
+    "id": "ChIJEWR0vGnYuxQRAOBLlviYHys",
+    "name": "Tarihi Havagazı Fabrikası Kültür Merkezi",
+    "types": [
+      "event_venue",
+      "convention_center",
+      "art_gallery",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 4342,
+    "location": {
+      "lat": 38.4402101,
+      "lng": 27.151797199999997
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A historic gas plant turned cultural center, hosting art exhibitions and events."
+  },
+  {
+    "id": "ChIJYbWD60TYuxQRp9yUwEKv1Ww",
+    "name": "Tavacı Recep Usta Alsancak - İzmir",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 9017,
+    "location": {
+      "lat": 38.440627899999996,
+      "lng": 27.142688999999997
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A popular restaurant serving traditional Turkish meat dishes, especially tavacı style."
+  },
+  {
+    "id": "ChIJwdXwAVzYuxQR-Npdnqti5Cg",
+    "name": "Alsancak Hocazade Camii",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1610,
+    "location": {
+      "lat": 38.433968899999996,
+      "lng": 27.1443817
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A beautiful mosque in Alsancak, known for its elegant architecture and peaceful atmosphere."
+  },
+  {
+    "id": "ChIJ_XVVOznZuxQRYfW_RRYZHdo",
+    "name": "Kantin Alsancak",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 653,
+    "location": {
+      "lat": 38.438536899999995,
+      "lng": 27.147051400000002
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A cozy pub in Alsancak, popular for drinks and casual nights out."
+  },
+  {
+    "id": "ChIJbTydVlPZuxQRDVwfTvpDpcc",
+    "name": "Alsancak Mustafa Denizli Stadium",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1016,
+    "location": {
+      "lat": 38.4372543,
+      "lng": 27.1507914
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A local football stadium, home to Altay SK and other teams."
+  },
+  {
+    "id": "ChIJh3e5IlnYuxQR5hcjJbJrt_w",
+    "name": "Pizza Locale",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2817,
+    "location": {
+      "lat": 38.432477,
+      "lng": 27.142723999999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A popular pizza place in Alsancak, known for its delicious pizzas."
+  },
+  {
+    "id": "ChIJ12aWrUTYuxQR7HQmG5Oauoo",
+    "name": "Varuna Gezgin Cafe - İzmir - Alsancak",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 4105,
+    "location": {
+      "lat": 38.4392542,
+      "lng": 27.1434949
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A trendy cafe-bar offering a variety of drinks and snacks in a comfortable setting."
+  },
+  {
+    "id": "ChIJ-XgrxvvYuxQRK4FpK_G4Zq8",
+    "name": "Mumlu Meyhane",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 681,
+    "location": {
+      "lat": 38.438491299999995,
+      "lng": 27.158852399999997
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A traditional Turkish meyhane offering meze and drinks in a lively atmosphere."
+  },
+  {
+    "id": "ChIJxUkmR_l9uRQRCchLyZ2QaYQ",
+    "name": "Maze İzmir",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 202,
+    "location": {
+      "lat": 38.439432000000004,
+      "lng": 27.1588368
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A night club in Alsancak for dancing and entertainment."
+  },
+  {
+    "id": "ChIJVWSCLpxiuRQROlggUiUnS_g",
+    "name": "İzmir Ataturk Stadium",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 5015,
+    "location": {
+      "lat": 38.434954399999995,
+      "lng": 27.177980299999998
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "Major sports stadium hosting football matches and concerts in Izmir."
+  },
+  {
+    "id": "ChIJPwFC5ZdiuRQRkX8EFmA-LlY",
+    "name": "Havuzlu Meyhane",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 758,
+    "location": {
+      "lat": 38.4376143,
+      "lng": 27.1859006
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "Historic meyhane offering traditional Turkish meze and rakı by the seaside."
+  },
+  {
+    "id": "ChIJVYYXuZtiuRQR_ZEjOhO9ELk",
+    "name": "Samko's Place",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1084,
+    "location": {
+      "lat": 38.4332026,
+      "lng": 27.1813695
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Popular eatery known for its lively atmosphere and diverse menu."
+  },
+  {
+    "id": "ChIJ2Vb0QJhiuRQRHggquPP1i3Q",
+    "name": "Koraç Meyhanesi",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 246,
+    "location": {
+      "lat": 38.437604799999995,
+      "lng": 27.184331500000003
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "Cozy meyhane serving classic mezes and an extensive rakı selection."
+  },
+  {
+    "id": "ChIJmXC4n59iuRQRS_rIrTOvJIg",
+    "name": "Mersinli Yeni Mosque",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 180,
+    "location": {
+      "lat": 38.4394905,
+      "lng": 27.1766547
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "Neighborhood mosque serving the local community."
+  },
+  {
+    "id": "ChIJkwMAPcdiuRQR6yesN0qjqwA",
+    "name": "Kokorecci Asim Usta",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 10307,
+    "location": {
+      "lat": 38.4408593,
+      "lng": 27.1991461
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Famous spot for grilled kokoreç, a beloved Turkish street food."
+  },
+  {
+    "id": "ChIJOf0fXZliuRQR6GCrLJYBLBk",
+    "name": "Akbıyık Doner & Steakhouse",
+    "types": [
+      "turkish_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 5452,
+    "location": {
+      "lat": 38.434826099999995,
+      "lng": 27.192257299999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular doner and steakhouse known for its quality meats."
+  },
+  {
+    "id": "ChIJqxIsLJ7ZuxQRZCtkyC_SDic",
+    "name": "Atatürk Parkı",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 5148,
+    "location": {
+      "lat": 38.4362399,
+      "lng": 27.1974232
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "Spacious park ideal for relaxing walks and enjoying nature."
+  },
+  {
+    "id": "ChIJFSmoTsdiuRQRhoHfoc439vA",
+    "name": "Bramare Burger",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2056,
+    "location": {
+      "lat": 38.440456,
+      "lng": 27.198309
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Modern burger joint offering creative burgers and sides."
+  },
+  {
+    "id": "ChIJ995NKsdiuRQRvU1iI7F9OWg",
+    "name": "Taşköprü Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 185,
+    "location": {
+      "lat": 38.439907,
+      "lng": 27.199726899999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "Local mosque serving the neighborhood."
+  },
+  {
+    "id": "ChIJv24g2pViuRQRp1L4xdwBmZ8",
+    "name": "Debre Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 233,
+    "location": {
+      "lat": 38.435116,
+      "lng": 27.191435
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "Local mosque with a peaceful atmosphere."
+  },
+  {
+    "id": "ChIJd_u_HcViuRQRYDiWZUAfM1w",
+    "name": "Ulu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 221,
+    "location": {
+      "lat": 38.4402778,
+      "lng": 27.206944399999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "Grand mosque in Izmir, a historic architectural landmark."
+  },
+  {
+    "id": "ChIJj5om8sFjuRQR2AwkI4LqeU4",
+    "name": "Sokak Kebapçısı",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 439,
+    "location": {
+      "lat": 38.4372634,
+      "lng": 27.208627699999997
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Small kebab shop renowned for its flavorful grilled meats."
+  },
+  {
+    "id": "ChIJJ2g5sdBiuRQRilakOclniGM",
+    "name": "Yeşilova Höyük Visitor Center",
+    "types": [
+      "history_museum",
+      "tourist_attraction",
+      "historical_landmark",
+      "historical_place",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 475,
+    "location": {
+      "lat": 38.4409241,
+      "lng": 27.213769100000004
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "Visitor center for the ancient Yeşilova Höyük, providing insights into prehistoric Izmir."
+  },
+  {
+    "id": "ChIJUTAcdSZjuRQRqPf604EmPJI",
+    "name": "İzeltaş Galeria",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 26,
+    "location": {
+      "lat": 38.4365771,
+      "lng": 27.226273499999998
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "Small art gallery showcasing local artists."
+  },
+  {
+    "id": "ChIJydvLZMp9uRQRzdp7LyNJeRQ",
+    "name": "Mandela's Ubuntu Alsancak",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2063,
+    "location": {
+      "lat": 38.4378112,
+      "lng": 27.1424558
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A vibrant bar in Alsancak inspired by Ubuntu philosophy, offering a welcoming atmosphere and creative drinks."
+  },
+  {
+    "id": "ChIJPUx24k3ZuxQRMGHYy6BWzfo",
+    "name": "Hamurcu - Alsancak",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 788,
+    "location": {
+      "lat": 38.438108,
+      "lng": 27.144309
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved pastry shop in Alsancak, famous for its fresh, flaky dough treats and Turkish specialties."
+  },
+  {
+    "id": "ChIJNbkKM7vZuxQRwPPFlDU6QKg",
+    "name": "Sopung Kore İzmir",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 2457,
+    "location": {
+      "lat": 38.437593,
+      "lng": 27.141488
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Authentic Korean cuisine in Izmir, known for its flavorful dishes and lively dining experience."
+  },
+  {
+    "id": "ChIJm7HSzUTYuxQRQE1ov93XXqM",
+    "name": "Moresi Kordon",
+    "types": [
+      "breakfast_restaurant",
+      "german_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2537,
+    "location": {
+      "lat": 38.4395741,
+      "lng": 27.142225099999997
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A popular breakfast and European restaurant along the Kordon, perfect for a leisurely meal with a view."
+  },
+  {
+    "id": "ChIJgfxEemDYuxQRw0fQPbyPTJY",
+    "name": "Chamber of Architects",
+    "types": [
+      "association_or_organization",
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 668,
+    "location": {
+      "lat": 38.4401821,
+      "lng": 27.1453837
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "miscallaneous",
+    "rarity": "rare",
+    "description": "The Chamber of Architects building in Izmir, hosting rotating art exhibitions and cultural events."
+  },
+  {
+    "id": "ChIJ75ZlTqLZuxQRq5u3cgjvikQ",
+    "name": "Yaşar Müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 40,
+    "location": {
+      "lat": 38.4382453,
+      "lng": 27.161953500000003
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "common",
+    "description": "A small museum in Izmir showcasing local art and cultural artifacts, offering a quiet cultural retreat."
+  },
+  {
+    "id": "ChIJk-DWVNnZuxQRS9z79cEXXfY",
+    "name": "Çatı Sanat Alanı ve Cafe",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 14,
+    "location": {
+      "lat": 38.4373474,
+      "lng": 27.1588413
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A cozy art gallery and cafe on a rooftop, providing creative ambiance and art exhibitions."
+  },
+  {
+    "id": "ChIJTZRIzrxiuRQRu4mDG2jjcmc",
+    "name": "Köfteci Tamer",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2182,
+    "location": {
+      "lat": 38.441196999999995,
+      "lng": 27.185813
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A favorite köfte restaurant in Izmir, serving up delicious Turkish meatballs with a loyal following."
+  },
+  {
+    "id": "ChIJteLfK_RjuRQR9BP442X4MzE",
+    "name": "PAÇACI APO",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1617,
+    "location": {
+      "lat": 38.44107700000001,
+      "lng": 27.199904
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A renowned spot for traditional paça soup and dishes, beloved by locals for its authentic flavors."
+  },
+  {
+    "id": "ChIJV0TAhcZiuRQRQESHVlmlOEk",
+    "name": "Kokoreçci Niyazi Usta",
+    "types": [
+      "family_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1397,
+    "location": {
+      "lat": 38.4410732,
+      "lng": 27.202235299999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A famous kokoreç joint in Izmir, grilling up savory lamb intestines to perfection."
+  },
+  {
+    "id": "ChIJlRWZe9JiuRQRNmfIKZogrxQ",
+    "name": "Forum Bornova",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 34553,
+    "location": {
+      "lat": 38.4504294,
+      "lng": 27.210946999999997
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "epic",
+    "description": "A massive shopping mall in Bornova, offering a wide range of stores, dining, and entertainment options."
+  },
+  {
+    "id": "ChIJtaAyi81iuRQRQHXVgqDU95o",
+    "name": "Cihan Et Kasap ve Et Pişiricisi",
+    "types": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 4028,
+    "location": {
+      "lat": 38.4485889,
+      "lng": 27.208479099999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A popular steakhouse and butcher shop, known for high-quality meats and grilled dishes."
+  },
+  {
+    "id": "ChIJCY9k-Q1juRQRoTgVxPDuvtM",
+    "name": "MUSA ASPAVA İZMİR BORNOVA",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2293,
+    "location": {
+      "lat": 38.4464397,
+      "lng": 27.2055057
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A top-rated restaurant in Bornova, celebrated for its delicious Turkish cuisine and warm hospitality."
+  },
+  {
+    "id": "ChIJs8eEwc5iuRQRZ6PbtD-Wc80",
+    "name": "Yusuf Tırpancı Football Field",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 307,
+    "location": {
+      "lat": 38.446438,
+      "lng": 27.204618
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A local football field where community matches are played."
+  },
+  {
+    "id": "ChIJawfDg9JiuRQRFgJA17IeAJQ",
+    "name": "Paribu Cineverse Forum Bornova",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 2654,
+    "location": {
+      "lat": 38.4502236,
+      "lng": 27.208771799999997
+    },
+    "primaryType": "movie_theater",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A modern movie theater showing the latest films in Bornova."
+  },
+  {
+    "id": "ChIJzUSs-pHZuxQRRScunPFi4Yc",
+    "name": "Bostanlı Coast",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 14623,
+    "location": {
+      "lat": 38.456198199999996,
+      "lng": 27.0918808
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A scenic coastal promenade perfect for walks and watching the sunset over the Aegean Sea."
+  },
+  {
+    "id": "ChIJuT3-sJHZuxQRX8saRKpUYqM",
+    "name": "Bostanlı Günbatımı Seyir Terası",
+    "types": [
+      "scenic_spot",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 5865,
+    "location": {
+      "lat": 38.455322599999995,
+      "lng": 27.093086
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A popular terrace offering stunning views of the sunset over Izmir's coastline."
+  },
+  {
+    "id": "ChIJKSGbT4zZuxQRv6et5zQzkV4",
+    "name": "Bostanlı Skate Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 658,
+    "location": {
+      "lat": 38.4573227,
+      "lng": 27.090296600000002
+    },
+    "primaryType": "park",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A dedicated skate park for skaters and BMX riders to practice tricks."
+  },
+  {
+    "id": "ChIJu7S50UrZuxQRUef9kPPSMaQ",
+    "name": "Filozof Bostanlı",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8933,
+    "location": {
+      "lat": 38.459128,
+      "lng": 27.097748000000003
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved restaurant known for its delicious breakfast and brunch options."
+  },
+  {
+    "id": "ChIJMfkw1ZDZuxQRUFZXhxzMoMA",
+    "name": "Denizpark Cafe & Restaurant",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 4571,
+    "location": {
+      "lat": 38.4528058,
+      "lng": 27.0970478
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A waterfront cafe and restaurant offering casual dining with sea views."
+  },
+  {
+    "id": "ChIJ0ZmhZ5XZuxQRLH079WzMhEU",
+    "name": "Nuvia Bostanlı Breakfast - Kitchen & Bar",
+    "types": [
+      "breakfast_restaurant",
+      "bistro",
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6816,
+    "location": {
+      "lat": 38.4561801,
+      "lng": 27.0941865
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A trendy breakfast spot and bar serving creative dishes in a stylish setting."
+  },
+  {
+    "id": "ChIJAZluTZTZuxQRUp4wPeR9D1U",
+    "name": "Morisi Kahvaltı Bostanlı",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 9061,
+    "location": {
+      "lat": 38.4561026,
+      "lng": 27.100605500000004
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A popular breakfast restaurant famous for its extensive kahvaltı spreads."
+  },
+  {
+    "id": "ChIJNQN0d73ZuxQR-oIpZt_CwfE",
+    "name": "Dolphins Statue",
+    "types": [
+      "monument",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2830,
+    "location": {
+      "lat": 38.45122,
+      "lng": 27.103731099999997
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A bronze statue of dolphins that has become a beloved landmark in Bostanlı."
+  },
+  {
+    "id": "ChIJX597CpTZuxQRdS4ltulLnmc",
+    "name": "The Optimist Coffee Co.",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1140,
+    "location": {
+      "lat": 38.4565069,
+      "lng": 27.0970524
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy coffee shop offering specialty brews and a relaxed atmosphere."
+  },
+  {
+    "id": "ChIJt69R4YvZuxQR6wq3hjhVxII",
+    "name": "Jungle Burger",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1280,
+    "location": {
+      "lat": 38.458341499999996,
+      "lng": 27.097090599999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A burger joint known for its juicy, gourmet burgers and vibrant decor."
+  },
+  {
+    "id": "ChIJSZmChpbZuxQRfATkldfDtw4",
+    "name": "Şehnaz Özbek Mantısı",
+    "types": [
+      "dumpling_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1514,
+    "location": {
+      "lat": 38.454537099999996,
+      "lng": 27.1066862
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A restaurant specializing in Turkish manti (dumplings) with various fillings."
+  },
+  {
+    "id": "ChIJmXbuJPrZuxQRIoUSLxv4wVE",
+    "name": "80ler kahvaltı",
+    "types": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 877,
+    "location": {
+      "lat": 38.4578451,
+      "lng": 27.101628899999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A retro-themed breakfast place serving classic Turkish kahvaltı in a nostalgic setting."
+  },
+  {
+    "id": "ChIJd5g378nZuxQRRTicgnehIA4",
+    "name": "Karşıyaka Bazaar",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 15801,
+    "location": {
+      "lat": 38.455342,
+      "lng": 27.119732199999998
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "rare",
+    "description": "A bustling local market offering everything from fresh produce to textiles in the heart of Karşıyaka."
+  },
+  {
+    "id": "ChIJxTpjGrrZuxQRCTPXpmSVRjI",
+    "name": "Karşıyaka Sahil",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 4184,
+    "location": {
+      "lat": 38.4529613,
+      "lng": 27.117711999999997
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A scenic coastal promenade perfect for evening strolls with views of the bay."
+  },
+  {
+    "id": "ChIJ2WOAU9vZuxQRvi4f1fwzEJQ",
+    "name": "Coffee LAB Karşıyaka Löhner Köşkü",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1109,
+    "location": {
+      "lat": 38.4540271,
+      "lng": 27.1175288
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy cafe housed in a historic mansion, blending modern coffee culture with traditional architecture."
+  },
+  {
+    "id": "ChIJTUqCzMfZuxQR-s3r0oDFqzI",
+    "name": "Latife Hanim Mansion and Memorial House",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3138,
+    "location": {
+      "lat": 38.458343500000005,
+      "lng": 27.113555899999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "The former residence of Latife Hanım, Atatürk's wife, now a museum showcasing early Republican era memorabilia."
+  },
+  {
+    "id": "ChIJHTh6r7fZuxQRc07_35yMDa8",
+    "name": "Efes Corner",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 240,
+    "location": {
+      "lat": 38.453505799999995,
+      "lng": 27.116988499999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A lively bar frequented by locals for its friendly atmosphere and selection of drinks."
+  },
+  {
+    "id": "ChIJz40HCcnZuxQRV8SViUSj-9k",
+    "name": "Pan Kitabevi Ve Cafe",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2550,
+    "location": {
+      "lat": 38.45663,
+      "lng": 27.1183192
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A charming bookstore-cafe that invites readers to enjoy coffee amidst shelves of books."
+  },
+  {
+    "id": "ChIJB9X1_rnZuxQRueDcqYmnaPM",
+    "name": "Durock",
+    "types": [
+      "irish_pub",
+      "pub",
+      "bar",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1382,
+    "location": {
+      "lat": 38.4521498,
+      "lng": 27.1154366
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "An Irish pub in İzmir known for its live music and hearty pub fare, a favorite among expats and locals."
+  },
+  {
+    "id": "ChIJQ9NKILjZuxQRI72Z3McnrAU",
+    "name": "Catholic Church of St. Helen",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 243,
+    "location": {
+      "lat": 38.4547387,
+      "lng": 27.1145954
+    },
+    "primaryType": "church",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A historic Catholic church in İzmir, notable for its architecture and serene atmosphere."
+  },
+  {
+    "id": "ChIJlyL_A3bZuxQRUNd-j9nrW5Q",
+    "name": "Izmir Cruise Pirs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 42,
+    "location": {
+      "lat": 38.445512099999995,
+      "lng": 27.1474376
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "The main docking point for cruise ships visiting İzmir, offering easy access to the city's attractions."
+  },
+  {
+    "id": "ChIJq18U1LNjuRQRhfcfzkxTz0Y",
+    "name": "Mersinli Ciğerci Apo",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 13970,
+    "location": {
+      "lat": 38.4557675,
+      "lng": 27.1795029
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A legendary liver restaurant that has been serving perfectly grilled ciğer for decades, a must-visit for meat lovers."
+  },
+  {
+    "id": "ChIJn3pzP0xjuRQR6N2LJD-pNVw",
+    "name": "MEŞHUR YILDIZ ASPAVA İZMİR DÖNER VE PİDE SALONU",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 3718,
+    "location": {
+      "lat": 38.4512467,
+      "lng": 27.180829
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A famous spot for döner and pide, known for its generous portions and authentic flavors."
+  },
+  {
+    "id": "ChIJw6xT399juRQRMy_pVEu7Jw8",
+    "name": "Ziyade",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3430,
+    "location": {
+      "lat": 38.4515436,
+      "lng": 27.182269899999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A traditional Turkish restaurant specializing in home-style dishes, praised for its warm hospitality."
+  },
+  {
+    "id": "ChIJe7ONB5FjuRQRlRjOA4yN1C4",
+    "name": "Arpa Suyu Midye Kokoreç",
+    "types": [
+      "beer_garden",
+      "bar",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 1218,
+    "location": {
+      "lat": 38.4518852,
+      "lng": 27.184248999999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A lively bar known for its midye and kokoreç, popular among locals."
+  },
+  {
+    "id": "ChIJOQ0ZRZ1juRQRxBnyNCsZ9H4",
+    "name": "Sifon Gastropub",
+    "types": [
+      "cocktail_bar",
+      "gastropub",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4942,
+    "location": {
+      "lat": 38.4526989,
+      "lng": 27.1808245
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A popular gastropub offering a wide selection of cocktails and beers in a modern setting."
+  },
+  {
+    "id": "ChIJcfB7069iuRQRgPP9sYN02FU",
+    "name": "Efendiler Kulübü Yeni Nesil Meyhane",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5259,
+    "location": {
+      "lat": 38.4504291,
+      "lng": 27.185550199999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A modern take on the traditional meyhane, serving authentic Turkish dishes and drinks in a vibrant atmosphere."
+  },
+  {
+    "id": "ChIJkaPdz1d9uRQRpmFgRAkYzl8",
+    "name": "Pod Coffee & Eatery",
+    "types": [
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 456,
+    "location": {
+      "lat": 38.4507696,
+      "lng": 27.201916399999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy coffee shop and eatery known for its breakfast options and specialty coffee."
+  },
+  {
+    "id": "ChIJhY25DKx9uRQRUg6vbd9WNPU",
+    "name": "Hai Hai Pub (Sushi/Chinese/Mexican Kitchen)",
+    "types": [
+      "asian_restaurant",
+      "sushi_restaurant",
+      "mexican_restaurant",
+      "japanese_restaurant",
+      "pub",
+      "bar",
+      "association_or_organization",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 652,
+    "location": {
+      "lat": 38.4517507,
+      "lng": 27.2012014
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "An eclectic pub offering a fusion of sushi, Chinese, and Mexican dishes in a casual setting."
+  },
+  {
+    "id": "ChIJnRwPb7JiuRQRgRdGpH9GjSE",
+    "name": "Parachute Coffee House",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 807,
+    "location": {
+      "lat": 38.454322,
+      "lng": 27.185317899999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A highly-rated coffee house known for its excellent brews and cozy ambiance."
+  },
+  {
+    "id": "ChIJhS8TapLbuxQR53ex63whInQ",
+    "name": "Kemane Yuvalama Noktası",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 10,
+    "location": {
+      "lat": 38.460555899999996,
+      "lng": 27.0706189
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A local eatery specializing in yuvalama, a traditional Turkish soup."
+  },
+  {
+    "id": "ChIJDcY7IkLbuxQR9N3_uwVWWuE",
+    "name": "Karşıyaka Spor tarihi müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 11,
+    "location": {
+      "lat": 38.4677113,
+      "lng": 27.068949999999997
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A small museum showcasing the sports heritage of Karşıyaka, a district of Izmir."
+  },
+  {
+    "id": "ChIJS4tIW4vZuxQRgiDNdnNQRc0",
+    "name": "Yasemin Restaurant - Cafe",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 9528,
+    "location": {
+      "lat": 38.462641999999995,
+      "lng": 27.084597
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A well-known restaurant and cafe offering a diverse menu and a relaxed atmosphere."
+  },
+  {
+    "id": "ChIJF_aLAZrZuxQRutkcf2plOuw",
+    "name": "Rast Bira Bahçesi",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1671,
+    "location": {
+      "lat": 38.467740299999996,
+      "lng": 27.0859354
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A beer garden with a convivial atmosphere, perfect for enjoying drinks outdoors."
+  },
+  {
+    "id": "ChIJh-esqvTZuxQRnZICKel0ajU",
+    "name": "H. Mustafa Mosque Besikcioglu",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 785,
+    "location": {
+      "lat": 38.463155,
+      "lng": 27.085187899999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A beautiful mosque known for its serene atmosphere and architectural details."
+  },
+  {
+    "id": "ChIJ5dJ-bSLZuxQRqB6pBoJqhWs",
+    "name": "Cadı'nın Evi BOSTANLI",
+    "types": [
+      "chocolate_shop",
+      "dessert_restaurant",
+      "candy_store",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2145,
+    "location": {
+      "lat": 38.460279199999995,
+      "lng": 27.090999
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A whimsical dessert shop offering a variety of chocolates, candies, and sweet treats."
+  },
+  {
+    "id": "ChIJhcHfRfLZuxQRHFQAuTBPUgY",
+    "name": "Hasan Turkish Football Fields",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 426,
+    "location": {
+      "lat": 38.4658596,
+      "lng": 27.089495000000003
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A local sports complex with football fields and facilities for athletic activities."
+  },
+  {
+    "id": "ChIJbYZw5JPZuxQRoLItL4yDQsU",
+    "name": "Pizza Locale",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2635,
+    "location": {
+      "lat": 38.463690199999995,
+      "lng": 27.092148299999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A popular pizza spot known for its fresh ingredients and Italian-inspired menu."
+  },
+  {
+    "id": "ChIJDSVxFa3ZuxQRKof0K5rgMWQ",
+    "name": "Künefeci Sergen Usta",
+    "types": [
+      "dessert_shop",
+      "ice_cream_shop",
+      "dessert_restaurant",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1436,
+    "location": {
+      "lat": 38.4653047,
+      "lng": 27.089912199999997
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Indulge in the gooey, cheesy delight of freshly made künefe at this beloved specialty shop."
+  },
+  {
+    "id": "ChIJbajuXwzZuxQRY9z1700B6Yg",
+    "name": "Bostanlı Meyhanesi",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 287,
+    "location": {
+      "lat": 38.462903,
+      "lng": 27.0928108
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "Experience a classic Turkish meyhane evening with mezes, rakı, and live music at this Bostanlı institution."
+  },
+  {
+    "id": "ChIJJw_MbarZuxQRTKmaRyJL33k",
+    "name": "Cordelion Sports Pub",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 467,
+    "location": {
+      "lat": 38.4646106,
+      "lng": 27.084206599999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "Catch the big game with a cold beer in hand at this lively sports pub."
+  },
+  {
+    "id": "ChIJfQNVv7PZuxQRbME2gLppeoU",
+    "name": "ingo Breakfast Club",
+    "types": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 443,
+    "location": {
+      "lat": 38.46178,
+      "lng": 27.093154
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Start your day right with a hearty breakfast and artisanal coffee at this popular morning spot."
+  },
+  {
+    "id": "ChIJ8WzwnZPZuxQRh_5pqpnpUOw",
+    "name": "Bravo Patiserie",
+    "types": [
+      "pastry_shop",
+      "ice_cream_shop",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 5564,
+    "location": {
+      "lat": 38.458276399999995,
+      "lng": 27.0952044
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Treat yourself to exquisite pastries and cakes at this celebrated patisserie with a loyal following."
+  },
+  {
+    "id": "ChIJ4zKoJ_nZuxQRyqI5XQkGN7E",
+    "name": "Goldenfingers Burger & Cheesesteak",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2946,
+    "location": {
+      "lat": 38.4605684,
+      "lng": 27.0967089
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Sink your teeth into juicy burgers and authentic cheesesteaks at this American-style joint."
+  },
+  {
+    "id": "ChIJQ0N_1mrZuxQRiIT5SiB9hZw",
+    "name": "Makco",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2101,
+    "location": {
+      "lat": 38.4598662,
+      "lng": 27.1008765
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Enjoy a wide-ranging menu of Turkish and international dishes at this consistently excellent restaurant."
+  },
+  {
+    "id": "ChIJeUxlxD_ZuxQRSATeoRNQc1Y",
+    "name": "Türker Alcohol Center",
+    "types": [
+      "general_store",
+      "liquor_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 587,
+    "location": {
+      "lat": 38.465366599999996,
+      "lng": 27.106129199999998
+    },
+    "primaryType": "liquor_store",
+    "assignedCategory": "shopping",
+    "rarity": "common",
+    "description": "Browse a vast selection of local wines, beers, and spirits at this top-rated liquor store."
+  },
+  {
+    "id": "ChIJXyfWz8nZuxQR_5ZNz8RkBzE",
+    "name": "Mustafa Kemalpaşa Mosque",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 840,
+    "location": {
+      "lat": 38.4556703,
+      "lng": 27.118147699999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "Visit this important mosque named after Atatürk, admired for its elegant design and tranquil atmosphere."
+  },
+  {
+    "id": "ChIJ64flSTPYuxQR_x-Tq7T_Z7E",
+    "name": "Cafe Boatyard",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 3494,
+    "location": {
+      "lat": 38.459009,
+      "lng": 27.1269349
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Relax with a cup of coffee and enjoy maritime views at this charming boatyard-themed cafe."
+  },
+  {
+    "id": "ChIJ3xZllQ3ZuxQRA-PS8DAxVQ0",
+    "name": "Fafuly Karadeniz Mutfağı",
+    "types": [
+      "restaurant",
+      "brunch_restaurant",
+      "turkish_restaurant",
+      "seafood_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2573,
+    "location": {
+      "lat": 38.4654348,
+      "lng": 27.126171799999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Savor the unique and bold flavors of the Black Sea region at this highly acclaimed restaurant."
+  },
+  {
+    "id": "ChIJA3-7XszZuxQRah2eXUsee98",
+    "name": "Alaybey Camii",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 242,
+    "location": {
+      "lat": 38.4601862,
+      "lng": 27.123233499999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "Discover the peaceful beauty and historical architecture of Alaybey Camii, a local tourist gem."
+  },
+  {
+    "id": "ChIJC8CeO9rZuxQR18C_vs9dII8",
+    "name": "Ata Bisiklet & Coffee",
+    "types": [
+      "bicycle_store",
+      "cafe",
+      "sporting_goods_store",
+      "store",
+      "food",
+      "manufacturer",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 173,
+    "location": {
+      "lat": 38.4611401,
+      "lng": 27.126990199999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "Combine your love for cycling and coffee at this unique hybrid shop and cafe."
+  },
+  {
+    "id": "ChIJ8yMyBvjXuxQRy1G-U2JVkbc",
+    "name": "Bayraklı Sahil",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 8129,
+    "location": {
+      "lat": 38.463755299999995,
+      "lng": 27.162450699999997
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "Stroll along the scenic Bayraklı coastline, a favorite spot for walks, picnics, and sunset views."
+  },
+  {
+    "id": "ChIJK7HSEf_XuxQRj3AMHe3bKZo",
+    "name": "Smyrna Bayraklı Höyüğü",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 173,
+    "location": {
+      "lat": 38.4642546,
+      "lng": 27.1694417
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "Ancient settlement mound that marks the original location of Old Smyrna, with ruins spanning thousands of years of history."
+  },
+  {
+    "id": "ChIJ2d7WfJl9uRQR1OscGy8ofM0",
+    "name": "Üstat Kebap",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1670,
+    "location": {
+      "lat": 38.4627577,
+      "lng": 27.182575
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A beloved kebab house in Bayraklı known for its flavorful and authentic Turkish cuisine."
+  },
+  {
+    "id": "ChIJx4vcbgBjuRQRyuyQ5YVY0lI",
+    "name": "Cadı’nın Evi Bayraklı",
+    "types": [
+      "dessert_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 273,
+    "location": {
+      "lat": 38.4548177,
+      "lng": 27.1817907
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A whimsical-themed café offering delightful desserts and a charming atmosphere inspired by folklore."
+  },
+  {
+    "id": "ChIJT8YPduF9uRQRlKVhk9KXqw0",
+    "name": "Cafe Şölen",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 894,
+    "location": {
+      "lat": 38.4599745,
+      "lng": 27.193563599999997
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A popular local cafe known for its cozy ambiance and variety of beverages."
+  },
+  {
+    "id": "ChIJpTmE7DV9uRQRXXl2jhHtWoQ",
+    "name": "Batı Sineması",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 838,
+    "location": {
+      "lat": 38.4588651,
+      "lng": 27.1983078
+    },
+    "primaryType": "movie_theater",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A classic movie theater in Bayraklı, offering a range of films for a pleasant cinematic experience."
+  },
+  {
+    "id": "ChIJpbUsDF59uRQRzOkPr5VDE_o",
+    "name": "Kırık Kalpler Dükkanı",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 346,
+    "location": {
+      "lat": 38.4621297,
+      "lng": 27.1974721
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A charming café with an evocative name, serving delicious breakfast and specialty drinks in a warm setting."
+  },
+  {
+    "id": "ChIJm2Klj5J9uRQRzIC9XkXiuYE",
+    "name": "Küçükpark",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 1889,
+    "location": {
+      "lat": 38.4601109,
+      "lng": 27.2133902
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A small urban park offering a green retreat for relaxation and leisure in the heart of Bayraklı."
+  },
+  {
+    "id": "ChIJI21-Rjt9uRQRXYZg7gSW9A4",
+    "name": "Aşık Veysel Rekreasyon Alanı",
+    "types": [
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 7422,
+    "location": {
+      "lat": 38.4674967,
+      "lng": 27.2090203
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A sprawling recreational park named after the beloved folk poet Aşık Veysel, featuring green spaces, walking paths, and sports facilities."
+  },
+  {
+    "id": "ChIJnTXU8CZ9uRQRk3mmmtcY2TI",
+    "name": "Büyükpark",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 10768,
+    "location": {
+      "lat": 38.4625244,
+      "lng": 27.216949399999997
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A expansive urban park that serves as a popular green oasis for recreation, events, and community gatherings in Izmir."
+  },
+  {
+    "id": "ChIJIUlNZyp9uRQR9mKpvr5g428",
+    "name": "Berry Coffee Company Bornova",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1084,
+    "location": {
+      "lat": 38.461199,
+      "lng": 27.215069099999997
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy coffee shop in Bornova offering a variety of brews and a relaxing atmosphere."
+  },
+  {
+    "id": "ChIJWY5CyHB9uRQRbJBeKdXeCGs",
+    "name": "Punt Ancient Pub",
+    "types": [
+      "cocktail_bar",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 3793,
+    "location": {
+      "lat": 38.4617563,
+      "lng": 27.2129227
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "epic",
+    "description": "A lively pub with an ancient theme, serving drinks and hosting social gatherings in a unique atmosphere."
+  },
+  {
+    "id": "ChIJQf_-tTp9uRQRnYVyf_zkYic",
+    "name": "Bornova Stadium",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 469,
+    "location": {
+      "lat": 38.4634436,
+      "lng": 27.2077946
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "A local stadium in Bornova, hosting various sports events and community activities."
+  },
+  {
+    "id": "ChIJC9sTdiB9uRQR9NjCRqMKqK0",
+    "name": "Üniversite 2 Unlu Mamulleri",
+    "types": [
+      "bakery",
+      "brunch_restaurant",
+      "pastry_shop",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 3269,
+    "location": {
+      "lat": 38.4600352,
+      "lng": 27.2140843
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular bakery and pastry shop near the university, known for its fresh bread and sweet treats."
+  },
+  {
+    "id": "ChIJi7qjS919uRQRGA_BrArq1Fs",
+    "name": "Bavyera Gastro & Pub",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1666,
+    "location": {
+      "lat": 38.4603057,
+      "lng": 27.2117847
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "Bavarian-themed gastro pub offering a lively atmosphere and a selection of beers and hearty dishes."
+  },
+  {
+    "id": "ChIJndfTY019uRQRUW_6jsjxk2o",
+    "name": "Boho Social Pub",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5221,
+    "location": {
+      "lat": 38.4647521,
+      "lng": 27.227783199999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "epic",
+    "description": "Trendy social pub with a bohemian vibe, popular among locals and visitors for its craft cocktails and live music."
+  },
+  {
+    "id": "ChIJN8-bsiB9uRQRgfMdFrhat9U",
+    "name": "Buenas",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2284,
+    "location": {
+      "lat": 38.4640913,
+      "lng": 27.2195948
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular restaurant serving flavorful dishes in a welcoming atmosphere, a favorite among locals."
+  },
+  {
+    "id": "ChIJqWjxdtt8uRQRc_8Jg0yj1AA",
+    "name": "Bilal Saygılı Camii Ve Külliyesi",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 742,
+    "location": {
+      "lat": 38.4611792,
+      "lng": 27.2297793
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A mosque complex known for its architectural beauty and spiritual significance, offering a peaceful atmosphere."
+  },
+  {
+    "id": "ChIJxeeIryB9uRQRyo4XxmeswqA",
+    "name": "Arkas Maritime History Center",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 524,
+    "location": {
+      "lat": 38.463504,
+      "lng": 27.219988100000002
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "Museum dedicated to maritime history, showcasing the rich seafaring heritage of Izmir and the Aegean region."
+  },
+  {
+    "id": "ChIJ1Sjx_Sx9uRQRlgYAj-M6bo0",
+    "name": "Natural History Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 416,
+    "location": {
+      "lat": 38.458715399999996,
+      "lng": 27.231287
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "Museum exploring the natural history of the region, featuring exhibits on geology, paleontology, and local ecosystems."
+  },
+  {
+    "id": "ChIJoXd-jBzauxQR_t1IkfYUNSw",
+    "name": "MaviBahçe",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 31381,
+    "location": {
+      "lat": 38.4737602,
+      "lng": 27.074342299999998
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "epic",
+    "description": "Large shopping mall with a wide range of stores, dining options, and entertainment, a major retail destination in Izmir."
+  },
+  {
+    "id": "ChIJc6OuBh_auxQRyWLXnm7sF6s",
+    "name": "Deniz Kent Restaurant",
+    "types": [
+      "restaurant",
+      "seafood_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 6045,
+    "location": {
+      "lat": 38.467555999999995,
+      "lng": 27.076683
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Popular seafood restaurant offering fresh dishes with a view of the sea, a favorite among seafood lovers."
+  },
+  {
+    "id": "ChIJu0JEFmS3yhQRXRXE9Cu4LH8",
+    "name": "Paribu Cineverse Mavibahçe",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 6402,
+    "location": {
+      "lat": 38.4747255,
+      "lng": 27.0747827
+    },
+    "primaryType": "movie_theater",
+    "assignedCategory": "miscallaneous",
+    "rarity": "rare",
+    "description": "Modern cinema complex showing the latest blockbusters, part of the MaviBahçe shopping center."
+  },
+  {
+    "id": "ChIJH_Sm14HZuxQR5u68k9okBvM",
+    "name": "Soldout Performance Hall",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 1597,
+    "location": {
+      "lat": 38.4748726,
+      "lng": 27.074169299999998
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "Live music venue and bar hosting performances from local and touring artists."
+  },
+  {
+    "id": "ChIJ_zXWpxDauxQRbdAh0Vb161M",
+    "name": "TAY PARK",
+    "types": [
+      "cafe",
+      "park",
+      "sports_school",
+      "sports_coaching",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 1604,
+    "location": {
+      "lat": 38.473245999999996,
+      "lng": 27.067489
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A park and cafe complex offering a green space for relaxation, light meals, and sports activities."
+  },
+  {
+    "id": "ChIJI8xrsR_auxQRt2-Gw-BHVh8",
+    "name": "Mavişehir Sahili",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1048,
+    "location": {
+      "lat": 38.4673422,
+      "lng": 27.0774647
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "Scenic coastal park offering beautiful views of the sea and a relaxing atmosphere for walks and picnics."
+  },
+  {
+    "id": "ChIJAcD6B9zbuxQRrpP7zkSQLRs",
+    "name": "Container Park Mavişehir",
+    "types": [
+      "beer_garden",
+      "pizza_restaurant",
+      "sandwich_shop",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 470,
+    "location": {
+      "lat": 38.4725422,
+      "lng": 27.0736095
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "Trendy container park with various food and drink outlets, creating a vibrant social atmosphere."
+  },
+  {
+    "id": "ChIJuykApvnZuxQRhYK4EUcRxWY",
+    "name": "Universal Children's Museum and Theme Park",
+    "types": [
+      "tourist_attraction",
+      "planetarium",
+      "educational_institution",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1913,
+    "location": {
+      "lat": 38.474800699999996,
+      "lng": 27.0833072
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A family-friendly attraction featuring interactive exhibits, a planetarium, and outdoor activity areas."
+  },
+  {
+    "id": "ChIJs4VgEfHZuxQRVioNap-_puc",
+    "name": "Alsancak Dostlar Fırını - KARŞIYAKA Boyoz",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1784,
+    "location": {
+      "lat": 38.469252999999995,
+      "lng": 27.087225
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "epic",
+    "description": "Legendary bakery in Karşıyaka famous for its savory boyoz, a beloved local breakfast pastry."
+  },
+  {
+    "id": "ChIJFZrUh-bZuxQR5N_Egk1ap9Y",
+    "name": "Cey Alcohol Center Prime",
+    "types": [
+      "deli",
+      "liquor_store",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2267,
+    "location": {
+      "lat": 38.472503599999996,
+      "lng": 27.0973597
+    },
+    "primaryType": "liquor_store",
+    "assignedCategory": "shopping",
+    "rarity": "common",
+    "description": "Well-stocked liquor store offering a wide range of alcoholic beverages, including local Turkish spirits."
+  },
+  {
+    "id": "ChIJIWA2MsLZuxQRv4oPtYZZljY",
+    "name": "Goncalar Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 288,
+    "location": {
+      "lat": 38.463820999999996,
+      "lng": 27.105603799999997
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A neighborhood mosque providing a serene space for prayer and reflection in the Goncalar area."
+  },
+  {
+    "id": "ChIJvTZOm-_ZuxQRKFOdCS1Yv3c",
+    "name": "Şemikler Merkez Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 351,
+    "location": {
+      "lat": 38.4703553,
+      "lng": 27.093754999999998
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "Central mosque of Şemikler, serving as a spiritual hub for the local community."
+  },
+  {
+    "id": "ChIJR7A5UX3XuxQRco4M8WV4SQs",
+    "name": "Ayder Karadeniz Ev Yemekleri",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1453,
+    "location": {
+      "lat": 38.475803,
+      "lng": 27.115102999999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "Restaurant specializing in hearty Black Sea cuisine, bringing authentic flavors from Turkey's north coast."
+  },
+  {
+    "id": "ChIJXT-zkIDXuxQRbkWvZd0Zi2I",
+    "name": "Gümüşpala Hizmet İzmir İslami İlimler Federasyonu",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 120,
+    "location": {
+      "lat": 38.472338,
+      "lng": 27.130474699999997
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A community mosque and Islamic studies center in Gümüşpala."
+  },
+  {
+    "id": "ChIJ8WBSwvPXuxQRFhM4DXMkfd8",
+    "name": "Terrace Cafe Baybel",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 2257,
+    "location": {
+      "lat": 38.4717887,
+      "lng": 27.1548172
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "Popular cafe with a terrace, perfect for relaxing over coffee and light bites."
+  },
+  {
+    "id": "ChIJpYxTu_XXuxQRFxxOvjj3KcQ",
+    "name": "Tac Mahal",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.5,
+    "totalReviews": 410,
+    "location": {
+      "lat": 38.4672333,
+      "lng": 27.153688199999998
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "Vibrant nightclub in Izmir offering a lively dance floor and DJ sets."
+  },
+  {
+    "id": "ChIJqZwFKYjXuxQR8SplN9rT-dY",
+    "name": "Şehit Teğmen Önder Sert Spor ve Park Alanı",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 210,
+    "location": {
+      "lat": 38.469367,
+      "lng": 27.1405861
+    },
+    "primaryType": "stadium",
+    "assignedCategory": "miscallaneous",
+    "rarity": "common",
+    "description": "Sports complex and park dedicated to a local hero, featuring fields for various sports and leisure."
+  },
+  {
+    "id": "ChIJG8tfO1p9uRQRXuU196zl5u0",
+    "name": "Çay Mahallesi Sancak Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 244,
+    "location": {
+      "lat": 38.470592599999996,
+      "lng": 27.1801231
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A quiet mosque in Çay Mahallesi known for its peaceful atmosphere."
+  },
+  {
+    "id": "ChIJ5fITdU59uRQR3MEdNyONqrA",
+    "name": "Mopub&chill",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 290,
+    "location": {
+      "lat": 38.4630607,
+      "lng": 27.2125997
+    },
+    "primaryType": "bar",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "Cozy pub and bar popular for drinks and socializing in a relaxed setting."
+  },
+  {
+    "id": "ChIJ-9sOEyR9uRQRAIRcTyvscnc",
+    "name": "Paterson Köşkü",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 567,
+    "location": {
+      "lat": 38.4642628,
+      "lng": 27.213443899999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "Historic Paterson Mansion, beautifully preserved and reflecting Izmir's cosmopolitan heritage."
+  },
+  {
+    "id": "ChIJaefYQCB9uRQRfS_m_Yv6VG8",
+    "name": "Hüseyin İsabey Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 402,
+    "location": {
+      "lat": 38.4675444,
+      "lng": 27.218872299999997
+    },
+    "primaryType": "mosque",
+    "assignedCategory": "landmark",
+    "rarity": "common",
+    "description": "A mosque in the Hüseyin İsabey area, serving worshippers with its calm ambiance."
+  },
+  {
+    "id": "ChIJy1Tn33F9uRQR4Pec6JjWU1Y",
+    "name": "Silent Cafe Bornova",
+    "types": [
+      "library",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 317,
+    "location": {
+      "lat": 38.4643197,
+      "lng": 27.2160938
+    },
+    "primaryType": "library",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A quiet cafe in Bornova that offers a serene atmosphere for reading and studying."
+  },
+  {
+    "id": "ChIJc0geZiV9uRQRIuh42nL9PyY",
+    "name": "FUO Coffee",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 208,
+    "location": {
+      "lat": 38.4651315,
+      "lng": 27.2092484
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A popular coffee shop known for its quality brews and cozy ambiance."
+  },
+  {
+    "id": "ChIJywffBTt9uRQRBJSxZGXCWD4",
+    "name": "Bodrum Balıkçısı Bahri Baba",
+    "types": [
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 352,
+    "location": {
+      "lat": 38.4653875,
+      "lng": 27.2063847
+    },
+    "primaryType": "bar",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A seafood restaurant and bar offering fresh fish dishes and a lively atmosphere."
+  },
+  {
+    "id": "ChIJwxsj0ud8uRQRHkYYYN0ep1A",
+    "name": "Topraktan",
+    "types": [
+      "pastry_shop",
+      "dessert_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "bakery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2712,
+    "location": {
+      "lat": 38.4680556,
+      "lng": 27.231666699999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A delightful pastry shop and cafe known for its delicious desserts and charming ambiance."
+  },
+  {
+    "id": "ChIJaUJPCyB9uRQRR_nIpJxd7o8",
+    "name": "Dramalılar Köşkü",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 169,
+    "location": {
+      "lat": 38.4674124,
+      "lng": 27.2203026
+    },
+    "primaryType": "museum",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A historic mansion turned museum, showcasing the elegant lifestyle of Izmir's past."
+  },
+  {
+    "id": "ChIJYdc6eN3buxQRFaCcNYREac4",
+    "name": "Lofthouse Garage",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 94,
+    "location": {
+      "lat": 38.4811775,
+      "lng": 27.0529518
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "common",
+    "description": "A trendy night club offering a vibrant atmosphere and music."
+  },
+  {
+    "id": "ChIJV9eFwdPZuxQRRyPoIll9MKg",
+    "name": "Hilltown Shopping Mall",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 23849,
+    "location": {
+      "lat": 38.479447199999996,
+      "lng": 27.074672399999997
+    },
+    "primaryType": "shopping_mall",
+    "assignedCategory": "shopping",
+    "rarity": "rare",
+    "description": "A large shopping mall with a wide variety of stores, dining options, and entertainment."
+  },
+  {
+    "id": "ChIJTy7ppSnZuxQRRBoB7KE08yQ",
+    "name": "İzmir Aspava",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 3814,
+    "location": {
+      "lat": 38.4775923,
+      "lng": 27.086429499999998
+    },
+    "primaryType": "restaurant",
+    "assignedCategory": "food",
+    "rarity": "rare",
+    "description": "A well-known restaurant in Izmir serving traditional Turkish cuisine with a modern twist."
+  },
+  {
+    "id": "ChIJ3c_naR3XuxQRLi9h4ly5HFo",
+    "name": "Coffeerem - Karşıyaka",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 403,
+    "location": {
+      "lat": 38.4824483,
+      "lng": 27.112629700000003
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A cozy coffee shop in Karşıyaka known for its specialty coffees and friendly service."
+  },
+  {
+    "id": "ChIJfSwxfZHXuxQRQiVKNMUule8",
+    "name": "İzmir Atatürk Ormanı",
+    "types": [
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 90,
+    "location": {
+      "lat": 38.4803217,
+      "lng": 27.143993199999997
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A peaceful forested area in Izmir, ideal for nature walks and relaxation."
+  },
+  {
+    "id": "ChIJU5S_rEV9uRQRdfeuq4TkFHo",
+    "name": "Funtastic Aquariums İzmir",
+    "types": [
+      "aquarium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 7422,
+    "location": {
+      "lat": 38.4807518,
+      "lng": 27.178617799999998
+    },
+    "primaryType": "aquarium",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A fascinating aquarium showcasing diverse marine life and interactive exhibits."
+  },
+  {
+    "id": "ChIJDzBLzqd9uRQRGOYc6qA1Du0",
+    "name": "Westpark Özsüt",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1570,
+    "location": {
+      "lat": 38.4803396,
+      "lng": 27.181309199999998
+    },
+    "primaryType": "cafe",
+    "assignedCategory": "food",
+    "rarity": "common",
+    "description": "A branch of the popular Özsüt cafe chain, offering desserts and beverages in a pleasant setting."
+  }
+]

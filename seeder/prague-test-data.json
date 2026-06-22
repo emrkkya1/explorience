@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Charles Bridge",
+    "google_place_id": "ChIJn7WO5eWUC0cRJrHT0TiXIHU",
+    "types": [
+      "bridge",
+      "tourist_attraction",
+      "transportation_service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 194313,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.411",
+    "coordinates": {
+      "lat": 50.0864771,
+      "lng": 14.411436600000002
+    }
+  },
+  {
+    "name": "Old Town Square",
+    "google_place_id": "ChIJIfpRNOmUC0cRxHIewgck75c",
+    "types": [
+      "plaza",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 120268,
+    "calculated_rarity": 1,
+    "grid_id": "50.087,14.421",
+    "coordinates": {
+      "lat": 50.0875692,
+      "lng": 14.421187399999999
+    }
+  },
+  {
+    "name": "Prague Astronomical Clock",
+    "google_place_id": "ChIJSS_AOemUC0cRlgaiWrJEe_E",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 97430,
+    "calculated_rarity": 1,
+    "grid_id": "50.087,14.420",
+    "coordinates": {
+      "lat": 50.0870215,
+      "lng": 14.420706500000001
+    }
+  },
+  {
+    "name": "The Powder Tower",
+    "google_place_id": "ChIJBfIPBeuUC0cRphNG7F-4SZM",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 48261,
+    "calculated_rarity": 1,
+    "grid_id": "50.087,14.427",
+    "coordinates": {
+      "lat": 50.087272999999996,
+      "lng": 14.4277887
+    }
+  },
+  {
+    "name": "National Museum",
+    "google_place_id": "ChIJua9Ogo2UC0cRpkk9dANajkI",
+    "types": [
+      "museum",
+      "cultural_center",
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 47574,
+    "calculated_rarity": 1,
+    "grid_id": "50.078,14.430",
+    "coordinates": {
+      "lat": 50.078970399999996,
+      "lng": 14.430936899999997
+    }
+  },
+  {
+    "name": "Lennon Wall",
+    "google_place_id": "ChIJ3fi1iOOUC0cR__Q9EXbH-kc",
+    "types": [
+      "monument",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "total_reviews": 45358,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.406",
+    "coordinates": {
+      "lat": 50.0862506,
+      "lng": 14.406791799999999
+    }
+  },
+  {
+    "name": "Franz Kafka - Rotating Head by David Cerny",
+    "google_place_id": "ChIJSfv87u2UC0cRMLvFpMvuPNY",
+    "types": [
+      "tourist_attraction",
+      "sculpture",
+      "monument",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 41494,
+    "calculated_rarity": 1,
+    "grid_id": "50.081,14.420",
+    "coordinates": {
+      "lat": 50.0816514,
+      "lng": 14.420820999999998
+    }
+  },
+  {
+    "name": "Havelské tržiště",
+    "google_place_id": "ChIJp9JHkO6UC0cRfEdsFamVHGE",
+    "types": [
+      "market",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 31425,
+    "calculated_rarity": 1,
+    "grid_id": "50.084,14.420",
+    "coordinates": {
+      "lat": 50.0847749,
+      "lng": 14.4209608
+    }
+  },
+  {
+    "name": "Letna Park",
+    "google_place_id": "ChIJbSZndNuUC0cR2lgM9o_zW5Q",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 28960,
+    "calculated_rarity": 1,
+    "grid_id": "50.095,14.415",
+    "coordinates": {
+      "lat": 50.0959864,
+      "lng": 14.4152831
+    }
+  },
+  {
+    "name": "Klementinum",
+    "google_place_id": "ChIJNUIyNe-UC0cRnw1-EJKuNLI",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 22824,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.416",
+    "coordinates": {
+      "lat": 50.0865979,
+      "lng": 14.4160186
+    }
+  },
+  {
+    "name": "Waldstein Garden",
+    "google_place_id": "ChIJ6b6z1OaUC0cROV8QtOpp8W0",
+    "types": [
+      "garden",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 14824,
+    "calculated_rarity": 2,
+    "grid_id": "50.090,14.407",
+    "coordinates": {
+      "lat": 50.090402999999995,
+      "lng": 14.407880599999999
+    }
+  },
+  {
+    "name": "National Theatre",
+    "google_place_id": "ChIJKatTv-iUC0cR_ptOFAQG8Z0",
+    "types": [
+      "performing_arts_theater",
+      "tourist_attraction",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 14614,
+    "calculated_rarity": 2,
+    "grid_id": "50.080,14.413",
+    "coordinates": {
+      "lat": 50.0808458,
+      "lng": 14.413575299999998
+    }
+  },
+  {
+    "name": "Museum of Fantastic Illusions",
+    "google_place_id": "ChIJLUUI0NqVC0cRVKJ37PrZI7M",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 11502,
+    "calculated_rarity": 2,
+    "grid_id": "50.081,14.424",
+    "coordinates": {
+      "lat": 50.081061399999996,
+      "lng": 14.424499
+    }
+  },
+  {
+    "name": "Prague's narrowest alley",
+    "google_place_id": "ChIJ_9hlpuaUC0cRFyqldrQ5cb0",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "total_reviews": 9017,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.409",
+    "coordinates": {
+      "lat": 50.0879538,
+      "lng": 14.409542199999999
+    }
+  },
+  {
+    "name": "Spanish Synagogue",
+    "google_place_id": "ChIJZ9pfyumUC0cR3ZMJBZmRTrc",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 8873,
+    "calculated_rarity": 2,
+    "grid_id": "50.090,14.420",
+    "coordinates": {
+      "lat": 50.0901479,
+      "lng": 14.420846500000001
+    }
+  },
+  {
+    "name": "Church of Our Lady before Týn",
+    "google_place_id": "ChIJu2niIWeTC0cRHEJGY5xf_Io",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 8039,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.422",
+    "coordinates": {
+      "lat": 50.0877486,
+      "lng": 14.422539599999999
+    }
+  },
+  {
+    "name": "Franz Kafka Museum",
+    "google_place_id": "ChIJQzLeouaUC0cR4fUhSHxAfD8",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "total_reviews": 7384,
+    "calculated_rarity": 2,
+    "grid_id": "50.088,14.410",
+    "coordinates": {
+      "lat": 50.0883196,
+      "lng": 14.410143199999998
+    }
+  },
+  {
+    "name": "Municipal Library of Prague",
+    "google_place_id": "ChIJj50TuOiUC0cRg0Hnn7_KvtA",
+    "types": [
+      "library",
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 2155,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.417",
+    "coordinates": {
+      "lat": 50.087396899999995,
+      "lng": 14.417366399999999
+    }
+  },
+  {
+    "name": "Prague Jewish Quarter",
+    "google_place_id": "ChIJKee8y-mUC0cRSaT5SgePAEQ",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 1803,
+    "calculated_rarity": 3,
+    "grid_id": "50.090,14.420",
+    "coordinates": {
+      "lat": 50.0905184,
+      "lng": 14.4203456
+    }
+  },
+  {
+    "name": "Old Jewish Cemetery | Prague",
+    "google_place_id": "ChIJAQAAAOyUC0cR1V8UnwOCrIc",
+    "types": [
+      "cemetery",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 1189,
+    "calculated_rarity": 3,
+    "grid_id": "50.089,14.417",
+    "coordinates": {
+      "lat": 50.0894826,
+      "lng": 14.4174435
+    }
+  }
+]

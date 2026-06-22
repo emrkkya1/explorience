@@ -1,0 +1,2644 @@
+[
+  {
+    "name": "Prague Castle",
+    "google_place_id": "ChIJw7ckbB6VC0cRnyUSr4g8zyo",
+    "types": [
+      "castle",
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 197559,
+    "calculated_rarity": 1,
+    "grid_id": "50.091,14.401",
+    "coordinates": {
+      "lat": 50.0910966,
+      "lng": 14.4016165
+    }
+  },
+  {
+    "name": "Charles Bridge",
+    "google_place_id": "ChIJn7WO5eWUC0cRJrHT0TiXIHU",
+    "types": [
+      "bridge",
+      "tourist_attraction",
+      "transportation_service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 194315,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.411",
+    "coordinates": {
+      "lat": 50.0864771,
+      "lng": 14.411436600000002
+    }
+  },
+  {
+    "name": "Old Town Square",
+    "google_place_id": "ChIJIfpRNOmUC0cRxHIewgck75c",
+    "types": [
+      "plaza",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 120268,
+    "calculated_rarity": 1,
+    "grid_id": "50.087,14.421",
+    "coordinates": {
+      "lat": 50.0875692,
+      "lng": 14.421187399999999
+    }
+  },
+  {
+    "name": "Prague Astronomical Clock",
+    "google_place_id": "ChIJSS_AOemUC0cRlgaiWrJEe_E",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 97430,
+    "calculated_rarity": 1,
+    "grid_id": "50.087,14.420",
+    "coordinates": {
+      "lat": 50.0870215,
+      "lng": 14.420706500000001
+    }
+  },
+  {
+    "name": "St. Vitus Cathedral",
+    "google_place_id": "ChIJW08COB6VC0cRoonZ8lA4rWk",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 94324,
+    "calculated_rarity": 1,
+    "grid_id": "50.090,14.400",
+    "coordinates": {
+      "lat": 50.090891799999994,
+      "lng": 14.4005114
+    }
+  },
+  {
+    "name": "Dancing House",
+    "google_place_id": "ChIJFz83wvaUC0cRRDMLBTdlAZM",
+    "types": [
+      "landmark",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 68711,
+    "calculated_rarity": 1,
+    "grid_id": "50.075,14.414",
+    "coordinates": {
+      "lat": 50.075403099999996,
+      "lng": 14.4141786
+    }
+  },
+  {
+    "name": "Prague Zoo",
+    "google_place_id": "ChIJmwPb-dTqC0cRvbXrAjxU2ZY",
+    "types": [
+      "zoo",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 68410,
+    "calculated_rarity": 1,
+    "grid_id": "50.117,14.406",
+    "coordinates": {
+      "lat": 50.1177321,
+      "lng": 14.406201300000001
+    }
+  },
+  {
+    "name": "Vyšehrad",
+    "google_place_id": "ChIJCd13PWeUC0cRZihTX2RPn0w",
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 52649,
+    "calculated_rarity": 1,
+    "grid_id": "50.064,14.418",
+    "coordinates": {
+      "lat": 50.064194099999995,
+      "lng": 14.4188977
+    }
+  },
+  {
+    "name": "The Powder Tower",
+    "google_place_id": "ChIJBfIPBeuUC0cRphNG7F-4SZM",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 48262,
+    "calculated_rarity": 1,
+    "grid_id": "50.087,14.427",
+    "coordinates": {
+      "lat": 50.087272999999996,
+      "lng": 14.4277887
+    }
+  },
+  {
+    "name": "National Museum",
+    "google_place_id": "ChIJua9Ogo2UC0cRpkk9dANajkI",
+    "types": [
+      "museum",
+      "cultural_center",
+      "historical_landmark",
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 47574,
+    "calculated_rarity": 1,
+    "grid_id": "50.078,14.430",
+    "coordinates": {
+      "lat": 50.078970399999996,
+      "lng": 14.430936899999997
+    }
+  },
+  {
+    "name": "Lennon Wall",
+    "google_place_id": "ChIJ3fi1iOOUC0cR__Q9EXbH-kc",
+    "types": [
+      "monument",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "total_reviews": 45358,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.406",
+    "coordinates": {
+      "lat": 50.0862506,
+      "lng": 14.406791799999999
+    }
+  },
+  {
+    "name": "Franz Kafka - Rotating Head by David Cerny",
+    "google_place_id": "ChIJSfv87u2UC0cRMLvFpMvuPNY",
+    "types": [
+      "tourist_attraction",
+      "monument",
+      "sculpture",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 41494,
+    "calculated_rarity": 1,
+    "grid_id": "50.081,14.420",
+    "coordinates": {
+      "lat": 50.0816514,
+      "lng": 14.420820999999998
+    }
+  },
+  {
+    "name": "Petrin Tower",
+    "google_place_id": "ChIJd71LDf2UC0cRkcGvwf8x33E",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 35512,
+    "calculated_rarity": 1,
+    "grid_id": "50.083,14.395",
+    "coordinates": {
+      "lat": 50.083527,
+      "lng": 14.395083699999999
+    }
+  },
+  {
+    "name": "Havelské tržiště",
+    "google_place_id": "ChIJp9JHkO6UC0cRfEdsFamVHGE",
+    "types": [
+      "market",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 31425,
+    "calculated_rarity": 1,
+    "grid_id": "50.084,14.420",
+    "coordinates": {
+      "lat": 50.0847749,
+      "lng": 14.4209608
+    }
+  },
+  {
+    "name": "Letna Park",
+    "google_place_id": "ChIJbSZndNuUC0cR2lgM9o_zW5Q",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 28961,
+    "calculated_rarity": 1,
+    "grid_id": "50.095,14.415",
+    "coordinates": {
+      "lat": 50.0959864,
+      "lng": 14.4152831
+    }
+  },
+  {
+    "name": "Žižkov Television Tower",
+    "google_place_id": "ChIJweACSJyUC0cRE4gGU06KHKY",
+    "types": [
+      "tourist_attraction",
+      "observation_deck",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 23491,
+    "calculated_rarity": 1,
+    "grid_id": "50.081,14.451",
+    "coordinates": {
+      "lat": 50.0810526,
+      "lng": 14.451174100000001
+    }
+  },
+  {
+    "name": "Klementinum",
+    "google_place_id": "ChIJNUIyNe-UC0cRnw1-EJKuNLI",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 22824,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.416",
+    "coordinates": {
+      "lat": 50.0865979,
+      "lng": 14.4160186
+    }
+  },
+  {
+    "name": "Holešovice Market",
+    "google_place_id": "ChIJNdK6c7qUC0cRIDJjoyBB2Z8",
+    "types": [
+      "market",
+      "tourist_attraction",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "total_reviews": 18437,
+    "calculated_rarity": 1,
+    "grid_id": "50.099,14.444",
+    "coordinates": {
+      "lat": 50.0997529,
+      "lng": 14.444713899999998
+    }
+  },
+  {
+    "name": "Strahov Monastery",
+    "google_place_id": "ChIJu2niIWeTC0cR8Bp28z1iNc8",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 17188,
+    "calculated_rarity": 1,
+    "grid_id": "50.086,14.389",
+    "coordinates": {
+      "lat": 50.0861478,
+      "lng": 14.3892515
+    }
+  },
+  {
+    "name": "National Theatre",
+    "google_place_id": "ChIJKatTv-iUC0cR_ptOFAQG8Z0",
+    "types": [
+      "performing_arts_theater",
+      "tourist_attraction",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 14614,
+    "calculated_rarity": 2,
+    "grid_id": "50.080,14.413",
+    "coordinates": {
+      "lat": 50.0808458,
+      "lng": 14.413575299999998
+    }
+  },
+  {
+    "name": "Grébovka (Havlíčkovy sady)",
+    "google_place_id": "ChIJEw1qJX6UC0cRZz0wkkTsrcg",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 13876,
+    "calculated_rarity": 2,
+    "grid_id": "50.069,14.444",
+    "coordinates": {
+      "lat": 50.069469600000005,
+      "lng": 14.4449921
+    }
+  },
+  {
+    "name": "Riegrovy Sady",
+    "google_place_id": "ChIJ-53TmZqUC0cRiqnBgT93RXQ",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 11783,
+    "calculated_rarity": 2,
+    "grid_id": "50.080,14.441",
+    "coordinates": {
+      "lat": 50.0802844,
+      "lng": 14.441560599999999
+    }
+  },
+  {
+    "name": "Přírodní park Šárka - Lysolaje",
+    "google_place_id": "ChIJo_PlyuS_C0cRoNY0J75l4sw",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 11512,
+    "calculated_rarity": 2,
+    "grid_id": "50.107,14.349",
+    "coordinates": {
+      "lat": 50.1078523,
+      "lng": 14.3492818
+    }
+  },
+  {
+    "name": "Museum of Fantastic Illusions",
+    "google_place_id": "ChIJLUUI0NqVC0cRVKJ37PrZI7M",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 11502,
+    "calculated_rarity": 2,
+    "grid_id": "50.081,14.424",
+    "coordinates": {
+      "lat": 50.081061399999996,
+      "lng": 14.424499
+    }
+  },
+  {
+    "name": "Statue of Saint Wenceslas",
+    "google_place_id": "ChIJT-xQfI2UC0cR0IsM7hl2QjA",
+    "types": [
+      "historical_landmark",
+      "hiking_area",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 11409,
+    "calculated_rarity": 2,
+    "grid_id": "50.079,14.429",
+    "coordinates": {
+      "lat": 50.0797799,
+      "lng": 14.4297318
+    }
+  },
+  {
+    "name": "Municipal house",
+    "google_place_id": "ChIJL0C4HuuUC0cREJonDZJQMWo",
+    "types": [
+      "concert_hall",
+      "tourist_attraction",
+      "auditorium",
+      "live_music_venue",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 11195,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.427",
+    "coordinates": {
+      "lat": 50.0877208,
+      "lng": 14.4277908
+    }
+  },
+  {
+    "name": "Prague's narrowest alley",
+    "google_place_id": "ChIJ_9hlpuaUC0cRFyqldrQ5cb0",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "total_reviews": 9017,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.409",
+    "coordinates": {
+      "lat": 50.0879538,
+      "lng": 14.409542199999999
+    }
+  },
+  {
+    "name": "Spanish Synagogue",
+    "google_place_id": "ChIJZ9pfyumUC0cR3ZMJBZmRTrc",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 8873,
+    "calculated_rarity": 2,
+    "grid_id": "50.090,14.420",
+    "coordinates": {
+      "lat": 50.0901479,
+      "lng": 14.420846500000001
+    }
+  },
+  {
+    "name": "Žluté lázně",
+    "google_place_id": "ChIJmbSWtH6UC0cRB44jDVi45To",
+    "types": [
+      "sports_complex",
+      "bar_and_grill",
+      "playground",
+      "tourist_attraction",
+      "meal_takeaway",
+      "catering_service",
+      "food_delivery",
+      "bar",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 8849,
+    "calculated_rarity": 2,
+    "grid_id": "50.048,14.414",
+    "coordinates": {
+      "lat": 50.048674600000005,
+      "lng": 14.4144549
+    }
+  },
+  {
+    "name": "Park Průhonice",
+    "google_place_id": "ChIJvbeYxT-OC0cRekLReBPO3wc",
+    "types": [
+      "park",
+      "botanical_garden",
+      "historical_landmark",
+      "historical_place",
+      "event_venue",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 8502,
+    "calculated_rarity": 2,
+    "grid_id": "49.989,14.552",
+    "coordinates": {
+      "lat": 49.98997120000001,
+      "lng": 14.5525763
+    }
+  },
+  {
+    "name": "Museum of Communism",
+    "google_place_id": "ChIJr2hh9eyUC0cRmkht0yRT89E",
+    "types": [
+      "history_museum",
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "total_reviews": 8240,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.429",
+    "coordinates": {
+      "lat": 50.0879687,
+      "lng": 14.4299825
+    }
+  },
+  {
+    "name": "Aquacentrum Šutka",
+    "google_place_id": "ChIJoVqTUkfrC0cRq0Y2xL2kAvE",
+    "types": [
+      "water_park",
+      "tourist_attraction",
+      "sauna",
+      "public_bath",
+      "amusement_park",
+      "swimming_pool",
+      "spa",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 7992,
+    "calculated_rarity": 2,
+    "grid_id": "50.126,14.436",
+    "coordinates": {
+      "lat": 50.1264853,
+      "lng": 14.4363339
+    }
+  },
+  {
+    "name": "Museum of Senses",
+    "google_place_id": "ChIJo5SaSZOUC0cRoPL218x9kxU",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "amusement_center",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 7560,
+    "calculated_rarity": 2,
+    "grid_id": "50.083,14.429",
+    "coordinates": {
+      "lat": 50.083990899999996,
+      "lng": 14.429051499999998
+    }
+  },
+  {
+    "name": "Flea market",
+    "google_place_id": "ChIJn81nkNrsC0cRIW9lns4QMC4",
+    "types": [
+      "flea_market",
+      "tourist_attraction",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "total_reviews": 7071,
+    "calculated_rarity": 2,
+    "grid_id": "50.102,14.519",
+    "coordinates": {
+      "lat": 50.102067999999996,
+      "lng": 14.5193126
+    }
+  },
+  {
+    "name": "Sea World",
+    "google_place_id": "ChIJaeJNqM6UC0cRmq08-ahMzKk",
+    "types": [
+      "aquarium",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.7,
+    "total_reviews": 6947,
+    "calculated_rarity": 2,
+    "grid_id": "50.105,14.431",
+    "coordinates": {
+      "lat": 50.1056781,
+      "lng": 14.431626900000001
+    }
+  },
+  {
+    "name": "Vítkov",
+    "google_place_id": "ChIJOyEcl6GUC0cRgjtxJnRaU4M",
+    "types": [
+      "historical_landmark",
+      "hiking_area",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 6662,
+    "calculated_rarity": 2,
+    "grid_id": "50.088,14.451",
+    "coordinates": {
+      "lat": 50.088767,
+      "lng": 14.4514582
+    }
+  },
+  {
+    "name": "DinoPark Harfa Praha",
+    "google_place_id": "ChIJ4S5LS0uTC0cR1yZ1NrIRupM",
+    "types": [
+      "amusement_park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 6562,
+    "calculated_rarity": 2,
+    "grid_id": "50.104,14.490",
+    "coordinates": {
+      "lat": 50.1046985,
+      "lng": 14.490969000000002
+    }
+  },
+  {
+    "name": "Království Železnic",
+    "google_place_id": "ChIJ2b26R1aUC0cRk8obXQqE9yM",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 6423,
+    "calculated_rarity": 2,
+    "grid_id": "50.071,14.402",
+    "coordinates": {
+      "lat": 50.0712712,
+      "lng": 14.402625599999999
+    }
+  },
+  {
+    "name": "Botanic Garden of the Faculty of Science, Charles University",
+    "google_place_id": "ChIJTdpaTPWUC0cR5cdCYIPAh5U",
+    "types": [
+      "botanical_garden",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 6058,
+    "calculated_rarity": 2,
+    "grid_id": "50.071,14.421",
+    "coordinates": {
+      "lat": 50.0713843,
+      "lng": 14.4214886
+    }
+  },
+  {
+    "name": "National Gallery Prague – Trade Fair Palace",
+    "google_place_id": "ChIJXxfnk8iUC0cRrg0wjivvhdQ",
+    "types": [
+      "art_gallery",
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 5886,
+    "calculated_rarity": 2,
+    "grid_id": "50.101,14.432",
+    "coordinates": {
+      "lat": 50.1018276,
+      "lng": 14.4326413
+    }
+  },
+  {
+    "name": "Prokop Valley",
+    "google_place_id": "ChIJG4u6e9GVC0cRdd_jlTayJzU",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 5793,
+    "calculated_rarity": 2,
+    "grid_id": "50.042,14.369",
+    "coordinates": {
+      "lat": 50.042435999999995,
+      "lng": 14.369596800000002
+    }
+  },
+  {
+    "name": "Ladronka",
+    "google_place_id": "ChIJbbnu8HWVC0cRN6y9rOEUqsw",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 5791,
+    "calculated_rarity": 2,
+    "grid_id": "50.078,14.360",
+    "coordinates": {
+      "lat": 50.0787307,
+      "lng": 14.3607205
+    }
+  },
+  {
+    "name": "DOX Centre for Contemporary Art",
+    "google_place_id": "ChIJHSZvhrSUC0cRkZEFYoz-_5c",
+    "types": [
+      "art_gallery",
+      "cultural_center",
+      "tourist_attraction",
+      "coffee_shop",
+      "book_store",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 5712,
+    "calculated_rarity": 2,
+    "grid_id": "50.106,14.447",
+    "coordinates": {
+      "lat": 50.1068153,
+      "lng": 14.447828300000001
+    }
+  },
+  {
+    "name": "Hvězda",
+    "google_place_id": "ChIJwd-VWtO_C0cR4cFrUtJDO3Q",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 5700,
+    "calculated_rarity": 2,
+    "grid_id": "50.082,14.331",
+    "coordinates": {
+      "lat": 50.082302399999996,
+      "lng": 14.3314518
+    }
+  },
+  {
+    "name": "Divoká Šárka",
+    "google_place_id": "ChIJf27sN8e_C0cR3tig9ehM_ig",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 5175,
+    "calculated_rarity": 2,
+    "grid_id": "50.093,14.325",
+    "coordinates": {
+      "lat": 50.093301600000004,
+      "lng": 14.325003899999999
+    }
+  },
+  {
+    "name": "Břevnov Monastery",
+    "google_place_id": "ChIJ-Y4NmHCVC0cRMeUShKcq63s",
+    "types": [
+      "tourist_attraction",
+      "inn",
+      "church",
+      "event_venue",
+      "place_of_worship",
+      "lodging",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 5002,
+    "calculated_rarity": 2,
+    "grid_id": "50.084,14.356",
+    "coordinates": {
+      "lat": 50.0846831,
+      "lng": 14.356885799999997
+    }
+  },
+  {
+    "name": "Central Park Prague",
+    "google_place_id": "ChIJXyCELPuVC0cRRh7v8HS3m0c",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 5001,
+    "calculated_rarity": 2,
+    "grid_id": "50.046,14.335",
+    "coordinates": {
+      "lat": 50.046468499999996,
+      "lng": 14.335032600000002
+    }
+  },
+  {
+    "name": "Bazilika sv. Ludmily",
+    "google_place_id": "ChIJAyNP5o6UC0cRH2h_j6e-d9c",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 4855,
+    "calculated_rarity": 2,
+    "grid_id": "50.075,14.436",
+    "coordinates": {
+      "lat": 50.0754692,
+      "lng": 14.4368227
+    }
+  },
+  {
+    "name": "Malešice park",
+    "google_place_id": "ChIJteh5-TyTC0cRCKgnejF1ZQ0",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 4834,
+    "calculated_rarity": 2,
+    "grid_id": "50.085,14.499",
+    "coordinates": {
+      "lat": 50.0850143,
+      "lng": 14.499155
+    }
+  },
+  {
+    "name": "Grotta Umělá jeskyně",
+    "google_place_id": "ChIJ2ffL1ICUC0cRX92Gw9Hapco",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 4819,
+    "calculated_rarity": 2,
+    "grid_id": "50.070,14.443",
+    "coordinates": {
+      "lat": 50.0700386,
+      "lng": 14.443271799999998
+    }
+  },
+  {
+    "name": "Jerusalem Synagogue | Prague",
+    "google_place_id": "ChIJO_W-fZOUC0cRramNCQnVkuA",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "museum",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 4745,
+    "calculated_rarity": 2,
+    "grid_id": "50.084,14.432",
+    "coordinates": {
+      "lat": 50.0847038,
+      "lng": 14.432020399999997
+    }
+  },
+  {
+    "name": "State Opera",
+    "google_place_id": "ChIJE5AKFJKUC0cRY2EE_Oh9MhY",
+    "types": [
+      "opera_house",
+      "concert_hall",
+      "tourist_attraction",
+      "performing_arts_theater",
+      "auditorium",
+      "live_music_venue",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 4523,
+    "calculated_rarity": 2,
+    "grid_id": "50.080,14.432",
+    "coordinates": {
+      "lat": 50.0807207,
+      "lng": 14.432691799999999
+    }
+  },
+  {
+    "name": "Saints Peter & Paul Basilica",
+    "google_place_id": "ChIJZRuQ9F2UC0cRMemKZykpEMk",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 4365,
+    "calculated_rarity": 2,
+    "grid_id": "50.064,14.417",
+    "coordinates": {
+      "lat": 50.064426399999995,
+      "lng": 14.417886699999997
+    }
+  },
+  {
+    "name": "AquaDream",
+    "google_place_id": "ChIJL1RDbH2WC0cRZzonvxfhWNY",
+    "types": [
+      "water_park",
+      "tourist_attraction",
+      "amusement_park",
+      "swimming_pool",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 4217,
+    "calculated_rarity": 2,
+    "grid_id": "50.026,14.367",
+    "coordinates": {
+      "lat": 50.0265492,
+      "lng": 14.3676184
+    }
+  },
+  {
+    "name": "Aircraft museum Prague-Kbely",
+    "google_place_id": "ChIJu2niIWeTC0cRq-BNOHo-NWY",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 4142,
+    "calculated_rarity": 2,
+    "grid_id": "50.125,14.535",
+    "coordinates": {
+      "lat": 50.125255599999996,
+      "lng": 14.5355237
+    }
+  },
+  {
+    "name": "Natural park Košíře-Motol",
+    "google_place_id": "ChIJ22Q675OVC0cRlz0Ox87ESzk",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 3889,
+    "calculated_rarity": 2,
+    "grid_id": "50.061,14.347",
+    "coordinates": {
+      "lat": 50.0614321,
+      "lng": 14.347148799999998
+    }
+  },
+  {
+    "name": "Central Park Pankrác",
+    "google_place_id": "ChIJ91XxZnOUC0cRi_HO0dT6VHg",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 3827,
+    "calculated_rarity": 2,
+    "grid_id": "50.049,14.432",
+    "coordinates": {
+      "lat": 50.0496852,
+      "lng": 14.432972099999999
+    }
+  },
+  {
+    "name": "Military History Institute in Prague: The Army Museum Žižkov",
+    "google_place_id": "ChIJA-MeHpiUC0cR4Wgcnqy9fh4",
+    "types": [
+      "history_museum",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "total_reviews": 3816,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.444",
+    "coordinates": {
+      "lat": 50.087570799999995,
+      "lng": 14.444667599999999
+    }
+  },
+  {
+    "name": "Smíchovská náplavka",
+    "google_place_id": "ChIJU6ko4FiUC0cRUeCY6SMC1tQ",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 3240,
+    "calculated_rarity": 2,
+    "grid_id": "50.068,14.411",
+    "coordinates": {
+      "lat": 50.068442,
+      "lng": 14.4116055
+    }
+  },
+  {
+    "name": "National Monument at Vítkov",
+    "google_place_id": "ChIJZ5ERZaKUC0cRry0Q82U8Sr0",
+    "types": [
+      "museum",
+      "hiking_area",
+      "tourist_attraction",
+      "cemetery",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 3199,
+    "calculated_rarity": 2,
+    "grid_id": "50.088,14.449",
+    "coordinates": {
+      "lat": 50.0884776,
+      "lng": 14.4495136
+    }
+  },
+  {
+    "name": "Czech Police Museum",
+    "google_place_id": "ChIJ2_4A-GGUC0cR3pM5OOBPWyQ",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 3018,
+    "calculated_rarity": 2,
+    "grid_id": "50.069,14.428",
+    "coordinates": {
+      "lat": 50.069151399999996,
+      "lng": 14.428287099999999
+    }
+  },
+  {
+    "name": "Přírodní park Botič - Milíčov",
+    "google_place_id": "ChIJBzrUKeaNC0cR_8Hg4h4OGJs",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 3018,
+    "calculated_rarity": 2,
+    "grid_id": "50.016,14.555",
+    "coordinates": {
+      "lat": 50.0168675,
+      "lng": 14.5557905
+    }
+  },
+  {
+    "name": "Přírodní park Radotínsko-Chuchelský háj",
+    "google_place_id": "ChIJi9dJQ1GWC0cRZCyk87XL8vk",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 2857,
+    "calculated_rarity": 2,
+    "grid_id": "49.997,14.357",
+    "coordinates": {
+      "lat": 49.9972262,
+      "lng": 14.3576733
+    }
+  },
+  {
+    "name": "JumpPark Prague",
+    "google_place_id": "ChIJ_91zsziTC0cRBe3RtGtr1Ws",
+    "types": [
+      "amusement_park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 2684,
+    "calculated_rarity": 2,
+    "grid_id": "50.088,14.491",
+    "coordinates": {
+      "lat": 50.088445199999995,
+      "lng": 14.4912203
+    }
+  },
+  {
+    "name": "Dendrological Garden",
+    "google_place_id": "ChIJsTXzBnWOC0cRKqccit8d4Mw",
+    "types": [
+      "botanical_garden",
+      "hiking_area",
+      "tourist_attraction",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 2649,
+    "calculated_rarity": 2,
+    "grid_id": "50.007,14.567",
+    "coordinates": {
+      "lat": 50.00767,
+      "lng": 14.567881
+    }
+  },
+  {
+    "name": "MeetFactory",
+    "google_place_id": "ChIJV-uD-UCUC0cR9T0TytOvJ00",
+    "types": [
+      "concert_hall",
+      "tourist_attraction",
+      "performing_arts_theater",
+      "auditorium",
+      "art_gallery",
+      "live_music_venue",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 2593,
+    "calculated_rarity": 2,
+    "grid_id": "50.053,14.408",
+    "coordinates": {
+      "lat": 50.0532585,
+      "lng": 14.408155200000001
+    }
+  },
+  {
+    "name": "Church of Saints Cyril and Methodius (Karlín)",
+    "google_place_id": "ChIJZ6M-R6OUC0cRDPZZeMrSwt4",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 2363,
+    "calculated_rarity": 2,
+    "grid_id": "50.091,14.448",
+    "coordinates": {
+      "lat": 50.0911425,
+      "lng": 14.448161400000002
+    }
+  },
+  {
+    "name": "Krizik Fountain",
+    "google_place_id": "ChIJEWAByMuUC0cRk_xn037C4HM",
+    "types": [
+      "fountain",
+      "tourist_attraction",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 2316,
+    "calculated_rarity": 2,
+    "grid_id": "50.107,14.429",
+    "coordinates": {
+      "lat": 50.1074425,
+      "lng": 14.4292622
+    }
+  },
+  {
+    "name": "Průhonice Chateau",
+    "google_place_id": "ChIJv6QXZg2OC0cRWtTsWkOWBKw",
+    "types": [
+      "park",
+      "historical_landmark",
+      "castle",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 2298,
+    "calculated_rarity": 2,
+    "grid_id": "50.000,14.557",
+    "coordinates": {
+      "lat": 50.0004486,
+      "lng": 14.557557000000001
+    }
+  },
+  {
+    "name": "Rozhledna DOUBRAVKA XIV",
+    "google_place_id": "ChIJDYWe6ubtC0cR3bxSYyBcR-Q",
+    "types": [
+      "scenic_spot",
+      "observation_deck",
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 2268,
+    "calculated_rarity": 2,
+    "grid_id": "50.097,14.557",
+    "coordinates": {
+      "lat": 50.097257,
+      "lng": 14.557223700000002
+    }
+  },
+  {
+    "name": "Aquacentrum Letňany Lagoon",
+    "google_place_id": "ChIJP_5aFI7sC0cRBsoTrFRG5h4",
+    "types": [
+      "water_park",
+      "tourist_attraction",
+      "amusement_park",
+      "swimming_pool",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "total_reviews": 2236,
+    "calculated_rarity": 2,
+    "grid_id": "50.134,14.504",
+    "coordinates": {
+      "lat": 50.1344444,
+      "lng": 14.504999999999997
+    }
+  },
+  {
+    "name": "Municipal Library of Prague",
+    "google_place_id": "ChIJj50TuOiUC0cRg0Hnn7_KvtA",
+    "types": [
+      "library",
+      "tourist_attraction",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 2155,
+    "calculated_rarity": 2,
+    "grid_id": "50.087,14.417",
+    "coordinates": {
+      "lat": 50.087396899999995,
+      "lng": 14.417366399999999
+    }
+  },
+  {
+    "name": "Zoo Milíčov",
+    "google_place_id": "ChIJ8UGOQAmSC0cRA14J9kZKAps",
+    "types": [
+      "zoo",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 2065,
+    "calculated_rarity": 2,
+    "grid_id": "50.027,14.540",
+    "coordinates": {
+      "lat": 50.0278539,
+      "lng": 14.540058299999998
+    }
+  },
+  {
+    "name": "Dinosauria Museum Prague",
+    "google_place_id": "ChIJ0yVIW8G_C0cRERWl11l4V0g",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 2057,
+    "calculated_rarity": 2,
+    "grid_id": "50.126,14.280",
+    "coordinates": {
+      "lat": 50.126496599999996,
+      "lng": 14.2806322
+    }
+  },
+  {
+    "name": "Kunratice Brook Valley",
+    "google_place_id": "ChIJUV114NmTC0cRb9sKTdIzRWQ",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 2044,
+    "calculated_rarity": 2,
+    "grid_id": "50.027,14.462",
+    "coordinates": {
+      "lat": 50.0271329,
+      "lng": 14.462945000000001
+    }
+  },
+  {
+    "name": "Sauna Spot",
+    "google_place_id": "ChIJKTuzVhSUC0cRmp2upqhecI0",
+    "types": [
+      "sauna",
+      "tourist_attraction",
+      "public_bath",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 1870,
+    "calculated_rarity": 3,
+    "grid_id": "50.047,14.413",
+    "coordinates": {
+      "lat": 50.0474726,
+      "lng": 14.413649599999998
+    }
+  },
+  {
+    "name": "Prague Jewish Quarter",
+    "google_place_id": "ChIJKee8y-mUC0cRSaT5SgePAEQ",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 1803,
+    "calculated_rarity": 3,
+    "grid_id": "50.090,14.420",
+    "coordinates": {
+      "lat": 50.0905184,
+      "lng": 14.4203456
+    }
+  },
+  {
+    "name": "Hvězda Summer Pavilion",
+    "google_place_id": "ChIJf8CdpNK_C0cRjR4Zjteu_j0",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 1774,
+    "calculated_rarity": 3,
+    "grid_id": "50.083,14.326",
+    "coordinates": {
+      "lat": 50.0833908,
+      "lng": 14.326230599999999
+    }
+  },
+  {
+    "name": "Trojský most",
+    "google_place_id": "ChIJDTJHnTTrC0cRJlONpw6jHkQ",
+    "types": [
+      "bridge",
+      "tourist_attraction",
+      "transportation_service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 1628,
+    "calculated_rarity": 3,
+    "grid_id": "50.112,14.436",
+    "coordinates": {
+      "lat": 50.1124219,
+      "lng": 14.436167999999999
+    }
+  },
+  {
+    "name": "Emmaus Monastery",
+    "google_place_id": "ChIJwfokpfWUC0cRQxoc4BXW49A",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 1383,
+    "calculated_rarity": 3,
+    "grid_id": "50.072,14.417",
+    "coordinates": {
+      "lat": 50.072148,
+      "lng": 14.4172742
+    }
+  },
+  {
+    "name": "Džbán",
+    "google_place_id": "ChIJibEDtcW_C0cRT-oSWAk6Lcw",
+    "types": [
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 1238,
+    "calculated_rarity": 3,
+    "grid_id": "50.095,14.325",
+    "coordinates": {
+      "lat": 50.095027699999996,
+      "lng": 14.3254774
+    }
+  },
+  {
+    "name": "Chodovská tvrz (Kulturní Jižní Město, o. p. s. )",
+    "google_place_id": "ChIJG8jyrTaSC0cR_OOn6Gzr-W0",
+    "types": [
+      "cultural_center",
+      "historical_landmark",
+      "tourist_attraction",
+      "art_gallery",
+      "historical_place",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 1237,
+    "calculated_rarity": 3,
+    "grid_id": "50.034,14.499",
+    "coordinates": {
+      "lat": 50.0345875,
+      "lng": 14.499047800000001
+    }
+  },
+  {
+    "name": "Old Jewish Cemetery | Prague",
+    "google_place_id": "ChIJAQAAAOyUC0cR1V8UnwOCrIc",
+    "types": [
+      "cemetery",
+      "historical_place",
+      "tourist_attraction",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "total_reviews": 1189,
+    "calculated_rarity": 3,
+    "grid_id": "50.089,14.417",
+    "coordinates": {
+      "lat": 50.0894826,
+      "lng": 14.4174435
+    }
+  },
+  {
+    "name": "Únětice Creek Valley",
+    "google_place_id": "ChIJjw6nNSfAC0cRhT1DypDhmhI",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 860,
+    "calculated_rarity": 3,
+    "grid_id": "50.145,14.369",
+    "coordinates": {
+      "lat": 50.1457844,
+      "lng": 14.3699495
+    }
+  },
+  {
+    "name": "Tabor Gate",
+    "google_place_id": "ChIJnxuEeGaUC0cRL3XvhKPHwaA",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 850,
+    "calculated_rarity": 3,
+    "grid_id": "50.061,14.424",
+    "coordinates": {
+      "lat": 50.061693399999996,
+      "lng": 14.424227100000001
+    }
+  },
+  {
+    "name": "Staré Purkrabství",
+    "google_place_id": "ChIJxV2qf12UC0cRagx0aC36_T4",
+    "types": [
+      "historical_landmark",
+      "cultural_center",
+      "hiking_area",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 811,
+    "calculated_rarity": 3,
+    "grid_id": "50.062,14.417",
+    "coordinates": {
+      "lat": 50.0629844,
+      "lng": 14.4173952
+    }
+  },
+  {
+    "name": "Jan Žižka z Trocnova",
+    "google_place_id": "ChIJgcSiDpiUC0cRvA9IkZtbVtg",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 710,
+    "calculated_rarity": 3,
+    "grid_id": "50.088,14.449",
+    "coordinates": {
+      "lat": 50.0883976,
+      "lng": 14.449165399999998
+    }
+  },
+  {
+    "name": "Vyšehrad Cemetery",
+    "google_place_id": "ChIJxwk75V2UC0cRyILetfw_0xY",
+    "types": [
+      "cemetery",
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 708,
+    "calculated_rarity": 3,
+    "grid_id": "50.064,14.418",
+    "coordinates": {
+      "lat": 50.064723799999996,
+      "lng": 14.4180999
+    }
+  },
+  {
+    "name": "Park Jezerka",
+    "google_place_id": "ChIJAbNcDniUC0cRNKcsM9WmYvg",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 695,
+    "calculated_rarity": 3,
+    "grid_id": "50.058,14.444",
+    "coordinates": {
+      "lat": 50.0586018,
+      "lng": 14.444453299999997
+    }
+  },
+  {
+    "name": "Cairn Battle of White Mountain",
+    "google_place_id": "ChIJ7Y8KKzK-C0cRdEI46K0BewU",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 688,
+    "calculated_rarity": 3,
+    "grid_id": "50.078,14.319",
+    "coordinates": {
+      "lat": 50.0782223,
+      "lng": 14.319261399999998
+    }
+  },
+  {
+    "name": "Prague Airport Planespotting Point",
+    "google_place_id": "ChIJTQb4mkG_C0cRRa74x9iWHqo",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 684,
+    "calculated_rarity": 3,
+    "grid_id": "50.115,14.265",
+    "coordinates": {
+      "lat": 50.1155488,
+      "lng": 14.265054699999999
+    }
+  },
+  {
+    "name": "NEW CASTLE",
+    "google_place_id": "ChIJy0DJ_3yRC0cRHIzQ0cbeBBA",
+    "types": [
+      "historical_landmark",
+      "hiking_area",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 665,
+    "calculated_rarity": 3,
+    "grid_id": "50.019,14.471",
+    "coordinates": {
+      "lat": 50.0194049,
+      "lng": 14.471526400000002
+    }
+  },
+  {
+    "name": "Wild Garden Hostivař",
+    "google_place_id": "ChIJB5TVI0GSC0cRkVr-48jLiWY",
+    "types": [
+      "zoo",
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 651,
+    "calculated_rarity": 3,
+    "grid_id": "50.040,14.517",
+    "coordinates": {
+      "lat": 50.040214,
+      "lng": 14.517259899999997
+    }
+  },
+  {
+    "name": "GAME WORLD muzeum her",
+    "google_place_id": "ChIJU3Nw7pSVC0cRQSUAhHCGjdI",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 583,
+    "calculated_rarity": 3,
+    "grid_id": "50.093,14.290",
+    "coordinates": {
+      "lat": 50.093051599999995,
+      "lng": 14.290590799999999
+    }
+  },
+  {
+    "name": "The Pop Up!",
+    "google_place_id": "ChIJPX3sxTSVC0cRmVnOU5SyDHI",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 543,
+    "calculated_rarity": 3,
+    "grid_id": "50.046,14.415",
+    "coordinates": {
+      "lat": 50.0464073,
+      "lng": 14.415242099999997
+    }
+  },
+  {
+    "name": "Trabant muzeum Praha Motol",
+    "google_place_id": "ChIJER-28KKVC0cRm0D_zguqhF8",
+    "types": [
+      "museum",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 506,
+    "calculated_rarity": 3,
+    "grid_id": "50.067,14.348",
+    "coordinates": {
+      "lat": 50.067909099999994,
+      "lng": 14.3488987
+    }
+  },
+  {
+    "name": "Park Na Prameništi",
+    "google_place_id": "ChIJReREVG--C0cRsmjTsL7OnY0",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 447,
+    "calculated_rarity": 3,
+    "grid_id": "50.061,14.285",
+    "coordinates": {
+      "lat": 50.0612041,
+      "lng": 14.285058399999999
+    }
+  },
+  {
+    "name": "Podolí waterworks",
+    "google_place_id": "ChIJ9zFY4GiUC0cRgT1PWhzdX8Y",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 415,
+    "calculated_rarity": 3,
+    "grid_id": "50.057,14.420",
+    "coordinates": {
+      "lat": 50.057424999999995,
+      "lng": 14.420593499999999
+    }
+  },
+  {
+    "name": "Filmové ateliéry Barrandov",
+    "google_place_id": "ChIJCb5735CXC0cRiZkhAIrjZzs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 327,
+    "calculated_rarity": 3,
+    "grid_id": "50.030,14.391",
+    "coordinates": {
+      "lat": 50.0305799,
+      "lng": 14.391132599999999
+    }
+  },
+  {
+    "name": "Gutovka sport centre",
+    "google_place_id": "ChIJJ5RVxw-TC0cRm5eP3w1NQhY",
+    "types": [
+      "sports_complex",
+      "tourist_attraction",
+      "child_care_agency",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 327,
+    "calculated_rarity": 3,
+    "grid_id": "50.071,14.491",
+    "coordinates": {
+      "lat": 50.0713509,
+      "lng": 14.4912522
+    }
+  },
+  {
+    "name": "Rozhledna Cibulka",
+    "google_place_id": "ChIJu31TV5aVC0cRkT3-TKHU6QI",
+    "types": [
+      "observation_deck",
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 299,
+    "calculated_rarity": 3,
+    "grid_id": "50.064,14.355",
+    "coordinates": {
+      "lat": 50.0647233,
+      "lng": 14.3559117
+    }
+  },
+  {
+    "name": "Bertramka",
+    "google_place_id": "ChIJGaAUz1SUC0cR2AUnGYuNsrA",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 284,
+    "calculated_rarity": 3,
+    "grid_id": "50.070,14.395",
+    "coordinates": {
+      "lat": 50.070378399999996,
+      "lng": 14.3952014
+    }
+  },
+  {
+    "name": "Alšova prospect",
+    "google_place_id": "ChIJIwKdeCbAC0cR0p9GOJ44rpw",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "landmark",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 278,
+    "calculated_rarity": 3,
+    "grid_id": "50.148,14.366",
+    "coordinates": {
+      "lat": 50.1485883,
+      "lng": 14.3668343
+    }
+  },
+  {
+    "name": "LKPR Spotting Point - runway crossing",
+    "google_place_id": "ChIJgTZZxjq_C0cRXJ6O5pXzycU",
+    "types": [
+      "observation_deck",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 277,
+    "calculated_rarity": 3,
+    "grid_id": "50.103,14.250",
+    "coordinates": {
+      "lat": 50.103243,
+      "lng": 14.2501654
+    }
+  },
+  {
+    "name": "Nebušická vyhlídka",
+    "google_place_id": "ChIJd3t6B8C_C0cR08LZlB1SMgw",
+    "types": [
+      "tourist_attraction",
+      "landmark",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "total_reviews": 276,
+    "calculated_rarity": 3,
+    "grid_id": "50.103,14.321",
+    "coordinates": {
+      "lat": 50.103533899999995,
+      "lng": 14.3214539
+    }
+  },
+  {
+    "name": "LESOPARK ŘEPY",
+    "google_place_id": "ChIJe4GlZyS-C0cRsbdQT4YCjhA",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 261,
+    "calculated_rarity": 3,
+    "grid_id": "50.068,14.322",
+    "coordinates": {
+      "lat": 50.068380399999995,
+      "lng": 14.3222009
+    }
+  },
+  {
+    "name": "Kostel Panny Marie Královny míru",
+    "google_place_id": "ChIJXVyzuVCRC0cRu0GTXway28c",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 258,
+    "calculated_rarity": 3,
+    "grid_id": "50.020,14.437",
+    "coordinates": {
+      "lat": 50.020449,
+      "lng": 14.4375451
+    }
+  },
+  {
+    "name": "Sjezdový sál svědků Jehovových",
+    "google_place_id": "ChIJJXJFVfeVC0cRk4TfsG9SEec",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "total_reviews": 257,
+    "calculated_rarity": 3,
+    "grid_id": "50.051,14.333",
+    "coordinates": {
+      "lat": 50.0515311,
+      "lng": 14.333067499999997
+    }
+  },
+  {
+    "name": "Žižkov freight railway station",
+    "google_place_id": "ChIJEYC77WeTC0cRd-DHorDSdvM",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "total_reviews": 255,
+    "calculated_rarity": 3,
+    "grid_id": "50.084,14.471",
+    "coordinates": {
+      "lat": 50.0845826,
+      "lng": 14.471262500000002
+    }
+  },
+  {
+    "name": "Rothmayerova vila - Muzeum Prahy",
+    "google_place_id": "ChIJR2P_8m6VC0cR1ZFx57lEcsg",
+    "types": [
+      "museum",
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 223,
+    "calculated_rarity": 3,
+    "grid_id": "50.091,14.364",
+    "coordinates": {
+      "lat": 50.0912415,
+      "lng": 14.364261899999997
+    }
+  },
+  {
+    "name": "Home of St. Karla Boromejského",
+    "google_place_id": "ChIJiSMc6UO-C0cROtuuyBDeXnQ",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 193,
+    "calculated_rarity": 3,
+    "grid_id": "50.069,14.295",
+    "coordinates": {
+      "lat": 50.069276300000006,
+      "lng": 14.2951737
+    }
+  },
+  {
+    "name": "Kostel Stětí sv. Jana Křtitele",
+    "google_place_id": "ChIJx77kBF2SC0cRAdLkmd5JoNc",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 184,
+    "calculated_rarity": 3,
+    "grid_id": "50.049,14.524",
+    "coordinates": {
+      "lat": 50.0490302,
+      "lng": 14.524409299999997
+    }
+  },
+  {
+    "name": "Zázračná studánka",
+    "google_place_id": "ChIJ37AuDanqC0cRsRvlEpsDQUw",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 167,
+    "calculated_rarity": 3,
+    "grid_id": "50.125,14.367",
+    "coordinates": {
+      "lat": 50.125939599999995,
+      "lng": 14.3672848
+    }
+  },
+  {
+    "name": "Slavia Museum",
+    "google_place_id": "ChIJUYtwmkKTC0cRFSbwc9UmCvQ",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 163,
+    "calculated_rarity": 3,
+    "grid_id": "50.067,14.470",
+    "coordinates": {
+      "lat": 50.0672859,
+      "lng": 14.4705743
+    }
+  },
+  {
+    "name": "Radotínské údolí",
+    "google_place_id": "ChIJYYYDPc2XC0cREbhkmcNRyQQ",
+    "types": [
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 158,
+    "calculated_rarity": 3,
+    "grid_id": "49.997,14.313",
+    "coordinates": {
+      "lat": 49.9974892,
+      "lng": 14.313968399999998
+    }
+  },
+  {
+    "name": "Kostel Krista Spasitele",
+    "google_place_id": "ChIJ62NIg9KVC0cRLfzYomaWGbo",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 136,
+    "calculated_rarity": 3,
+    "grid_id": "50.035,14.373",
+    "coordinates": {
+      "lat": 50.0355796,
+      "lng": 14.3730291
+    }
+  },
+  {
+    "name": "CYBER ARCADE® muzeum her",
+    "google_place_id": "ChIJJT4OmtaVC0cR91c6fhZVrFc",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 132,
+    "calculated_rarity": 3,
+    "grid_id": "50.030,14.504",
+    "coordinates": {
+      "lat": 50.030502399999996,
+      "lng": 14.504992600000001
+    }
+  },
+  {
+    "name": "Church of Saint Agnes of Bohemia",
+    "google_place_id": "ChIJEybJSLiTC0cRJp75RiobHzg",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 129,
+    "calculated_rarity": 3,
+    "grid_id": "50.044,14.479",
+    "coordinates": {
+      "lat": 50.044066699999995,
+      "lng": 14.4790444
+    }
+  },
+  {
+    "name": "Pacoldova vápenka",
+    "google_place_id": "ChIJX_IKsIyWC0cRoWwQ0uhVNSI",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 126,
+    "calculated_rarity": 3,
+    "grid_id": "50.014,14.371",
+    "coordinates": {
+      "lat": 50.0145366,
+      "lng": 14.371304
+    }
+  },
+  {
+    "name": "Vodopád u rybníka Bořín",
+    "google_place_id": "ChIJd8EARzqOC0cRqQIENGGTTCM",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 120,
+    "calculated_rarity": 3,
+    "grid_id": "49.983,14.542",
+    "coordinates": {
+      "lat": 49.9834366,
+      "lng": 14.542403199999999
+    }
+  },
+  {
+    "name": "Medieval museum Řepora",
+    "google_place_id": "ChIJfWr2Evi9C0cRsDnk2CNfOQs",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "total_reviews": 119,
+    "calculated_rarity": 3,
+    "grid_id": "50.040,14.306",
+    "coordinates": {
+      "lat": 50.0409442,
+      "lng": 14.3069967
+    }
+  },
+  {
+    "name": "Bývalá Vápenka Biskup, Kvis & Kotrba",
+    "google_place_id": "ChIJRdqeNQ6WC0cRA9tFpbfvPqE",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "total_reviews": 104,
+    "calculated_rarity": 3,
+    "grid_id": "50.030,14.331",
+    "coordinates": {
+      "lat": 50.0305879,
+      "lng": 14.3313848
+    }
+  },
+  {
+    "name": "Kostel sv. Jakuba Staršího (většího)",
+    "google_place_id": "ChIJ7XA8B4ORC0cR3sSaNmn-Yuc",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 102,
+    "calculated_rarity": 3,
+    "grid_id": "50.013,14.483",
+    "coordinates": {
+      "lat": 50.013169100000006,
+      "lng": 14.4835102
+    }
+  },
+  {
+    "name": "Červený lom",
+    "google_place_id": "ChIJDQEHojOXC0cRpnmcumJnBX8",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 74,
+    "calculated_rarity": 3,
+    "grid_id": "50.035,14.353",
+    "coordinates": {
+      "lat": 50.0359829,
+      "lng": 14.353216900000001
+    }
+  },
+  {
+    "name": "Friedhof Praha (Franz Kafka Grave)",
+    "google_place_id": "ChIJ27_7S2mTC0cR5XTgUrgoaiU",
+    "types": [
+      "cemetery",
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "total_reviews": 66,
+    "calculated_rarity": 3,
+    "grid_id": "50.079,14.477",
+    "coordinates": {
+      "lat": 50.0797175,
+      "lng": 14.477525400000001
+    }
+  },
+  {
+    "name": "Libocká brána",
+    "google_place_id": "ChIJUS-Qy4G_C0cRqR332hrEd34",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 61,
+    "calculated_rarity": 3,
+    "grid_id": "50.084,14.336",
+    "coordinates": {
+      "lat": 50.0848479,
+      "lng": 14.336943999999997
+    }
+  },
+  {
+    "name": "Hradiště Šárka",
+    "google_place_id": "ChIJEy80xNm_C0cRQsKNjOTxR_0",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 61,
+    "calculated_rarity": 3,
+    "grid_id": "50.096,14.320",
+    "coordinates": {
+      "lat": 50.0962605,
+      "lng": 14.320811299999999
+    }
+  },
+  {
+    "name": "Heart Prague International Church",
+    "google_place_id": "ChIJmVC1cjGVC0cRC4ay-bFmJhQ",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "total_reviews": 54,
+    "calculated_rarity": 3,
+    "grid_id": "50.084,14.346",
+    "coordinates": {
+      "lat": 50.0847438,
+      "lng": 14.346457200000001
+    }
+  },
+  {
+    "name": "Kozák rock",
+    "google_place_id": "ChIJaZmKT8a_C0cR3WpbIpHPVI4",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "total_reviews": 50,
+    "calculated_rarity": 3,
+    "grid_id": "50.095,14.321",
+    "coordinates": {
+      "lat": 50.095349399999996,
+      "lng": 14.3217301
+    }
+  },
+  {
+    "name": "Shestakov rock",
+    "google_place_id": "ChIJn5mozMe_C0cRGFfC6FNcLHs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 49,
+    "calculated_rarity": 3,
+    "grid_id": "50.094,14.320",
+    "coordinates": {
+      "lat": 50.0946095,
+      "lng": 14.3203783
+    }
+  },
+  {
+    "name": "Clock in a wall",
+    "google_place_id": "ChIJI1iCfACVC0cRxOxckgB2B5Q",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "total_reviews": 47,
+    "calculated_rarity": 3,
+    "grid_id": "50.086,14.363",
+    "coordinates": {
+      "lat": 50.086757299999995,
+      "lng": 14.3632345
+    }
+  },
+  {
+    "name": "Náboženská Společnost Svědkové Jehovovi",
+    "google_place_id": "ChIJEat-skKVC0cRyAKHOv8IpqI",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "total_reviews": 47,
+    "calculated_rarity": 3,
+    "grid_id": "50.099,14.363",
+    "coordinates": {
+      "lat": 50.0993844,
+      "lng": 14.3634778
+    }
+  },
+  {
+    "name": "Kostel sv. Jakuba Staršího",
+    "google_place_id": "ChIJgVtCRAS-C0cR06fi1j_uHb8",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 43,
+    "calculated_rarity": 3,
+    "grid_id": "50.049,14.312",
+    "coordinates": {
+      "lat": 50.049186999999996,
+      "lng": 14.3127753
+    }
+  },
+  {
+    "name": "(Bývalý) Areál PVOS Vidoule",
+    "google_place_id": "ChIJjft__e2VC0cRzr4tod13gpA",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.5,
+    "total_reviews": 41,
+    "calculated_rarity": 3,
+    "grid_id": "50.059,14.350",
+    "coordinates": {
+      "lat": 50.059641299999996,
+      "lng": 14.350885199999997
+    }
+  },
+  {
+    "name": "Church of Saint Procopius",
+    "google_place_id": "ChIJ2zvOt-iVC0cR6bYp0ok9fYs",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "total_reviews": 36,
+    "calculated_rarity": 3,
+    "grid_id": "50.049,14.345",
+    "coordinates": {
+      "lat": 50.0498281,
+      "lng": 14.3454784
+    }
+  },
+  {
+    "name": "Hráz přehrady Hostivař",
+    "google_place_id": "ChIJs7fkI5qTC0cR6_E4m9G3lkE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "total_reviews": 33,
+    "calculated_rarity": 3,
+    "grid_id": "50.042,14.530",
+    "coordinates": {
+      "lat": 50.042749699999995,
+      "lng": 14.530527499999998
+    }
+  },
+  {
+    "name": "Chateau Veleslavín",
+    "google_place_id": "ChIJzdBovGOVC0cRaetvHq1Zdx0",
+    "types": [
+      "tourist_attraction",
+      "castle",
+      "historical_place",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "total_reviews": 31,
+    "calculated_rarity": 3,
+    "grid_id": "50.093,14.350",
+    "coordinates": {
+      "lat": 50.0933072,
+      "lng": 14.3508515
+    }
+  },
+  {
+    "name": "Butovické hradiště",
+    "google_place_id": "ChIJL1NgLN-VC0cRQAR8jHFUKg0",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "total_reviews": 27,
+    "calculated_rarity": 3,
+    "grid_id": "50.040,14.357",
+    "coordinates": {
+      "lat": 50.0401207,
+      "lng": 14.3570612
+    }
+  },
+  {
+    "name": "Lom na hlínu",
+    "google_place_id": "ChIJ01y74IyXC0cRGy6i_l-KT70",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "total_reviews": 16,
+    "calculated_rarity": 3,
+    "grid_id": "50.012,14.326",
+    "coordinates": {
+      "lat": 50.012324199999995,
+      "lng": 14.326999899999999
+    }
+  }
+]

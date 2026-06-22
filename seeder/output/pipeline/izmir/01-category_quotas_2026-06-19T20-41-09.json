@@ -1,0 +1,6052 @@
+[
+  {
+    "id": "ChIJ8wDqS2TeuxQRG8x_cr7ZIbQ",
+    "name": "Nasreddin Hoca Çocuk Kültür Bilim Merkezi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 301,
+    "location": {
+      "lat": 38.3560625,
+      "lng": 27.0953125
+    },
+    "gridId": "38.356,27.095",
+    "primaryType": "museum",
+    "qualityScore": 1.259446725911359
+  },
+  {
+    "id": "ChIJGXbxgFzfuxQRNok7FvOu2s4",
+    "name": "T.C Buca Müftülüğü Abil Efendi Camii 1989",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 218,
+    "location": {
+      "lat": 38.370203599999996,
+      "lng": 27.164524
+    },
+    "gridId": "38.370,27.164",
+    "primaryType": "mosque",
+    "qualityScore": 1.9809518988006758
+  },
+  {
+    "id": "ChIJ_6xfYObeuxQRiClPB_kbbB8",
+    "name": "Mevlana Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 323,
+    "location": {
+      "lat": 38.36919960000001,
+      "lng": 27.124406099999998
+    },
+    "gridId": "38.369,27.124",
+    "primaryType": "mosque",
+    "qualityScore": 2.0335414582673557
+  },
+  {
+    "id": "ChIJUdOZ8STfuxQRf7TicrAdt2c",
+    "name": "Kaymakkuyu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 352,
+    "location": {
+      "lat": 38.379056999999996,
+      "lng": 27.135895
+    },
+    "gridId": "38.379,27.135",
+    "primaryType": "mosque",
+    "qualityScore": 2.0636975113641363
+  },
+  {
+    "id": "ChIJ--AwByDfuxQRfVjp_S8YYBQ",
+    "name": "Yeni Camlık Selvili Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 176,
+    "location": {
+      "lat": 38.375319999999995,
+      "lng": 27.126600999999997
+    },
+    "gridId": "38.375,27.126",
+    "primaryType": "mosque",
+    "qualityScore": 1.9863091781572926
+  },
+  {
+    "id": "ChIJq7xCCSTfuxQRCxokIulffSk",
+    "name": "ÖDEMİŞLİ ADEM USTA",
+    "types": [
+      "meal_delivery",
+      "family_restaurant",
+      "soup_restaurant",
+      "health_food_store",
+      "kebab_shop",
+      "bar_and_grill",
+      "bar",
+      "food_delivery",
+      "middle_eastern_restaurant",
+      "food_store",
+      "health",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 1630,
+    "location": {
+      "lat": 38.3781494,
+      "lng": 27.1330809
+    },
+    "gridId": "38.378,27.133",
+    "primaryType": "bar",
+    "qualityScore": 1.3681198929278326
+  },
+  {
+    "id": "ChIJ_TR48z3fuxQRUbA1i4dr4xU",
+    "name": "Güler Kebap",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2535,
+    "location": {
+      "lat": 38.371075999999995,
+      "lng": 27.142775
+    },
+    "gridId": "38.371,27.142",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6544165351159117
+  },
+  {
+    "id": "ChIJ5xXrBTnfuxQRUSDZllcw-n0",
+    "name": "Bilali Habeşi Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 262,
+    "location": {
+      "lat": 38.3769444,
+      "lng": 27.146388899999998
+    },
+    "gridId": "38.376,27.146",
+    "primaryType": "mosque",
+    "qualityScore": 2.1382728993655506
+  },
+  {
+    "id": "ChIJN1hYCBTfuxQRgbp31Xg_HD4",
+    "name": "Buca belediyesi yeni spor tesisleri",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 227,
+    "location": {
+      "lat": 38.3766278,
+      "lng": 27.1631681
+    },
+    "gridId": "38.376,27.163",
+    "primaryType": "stadium",
+    "qualityScore": 1.1646311796304643
+  },
+  {
+    "id": "ChIJlZwhwPhhuRQRc2sFOAb2vzg",
+    "name": "Kurtuluş Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 166,
+    "location": {
+      "lat": 38.379501,
+      "lng": 27.18058
+    },
+    "gridId": "38.379,27.180",
+    "primaryType": "mosque",
+    "qualityScore": 1.963992273906005
+  },
+  {
+    "id": "ChIJHwibmL1huRQR6eSAkyKazw4",
+    "name": "Starbucks Buca",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 1616,
+    "location": {
+      "lat": 38.372862999999995,
+      "lng": 27.193261999999997
+    },
+    "gridId": "38.372,27.193",
+    "primaryType": "cafe",
+    "qualityScore": 1.4375020889180679
+  },
+  {
+    "id": "ChIJ0QvKxlrcuxQRZ5_XnTpaszw",
+    "name": "Nobili Park Balçova",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8504,
+    "location": {
+      "lat": 38.3874571,
+      "lng": 27.042844499999998
+    },
+    "gridId": "38.387,27.042",
+    "primaryType": "restaurant",
+    "qualityScore": 2.0833561364036237
+  },
+  {
+    "id": "ChIJDefcpE3cuxQR013SYjXIIt0",
+    "name": "Balçova Teleferik Tesisleri",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3773,
+    "location": {
+      "lat": 38.378380299999996,
+      "lng": 27.0460841
+    },
+    "gridId": "38.378,27.046",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6619252328779464
+  },
+  {
+    "id": "ChIJs5miSVrcuxQR-EoaNH3xekA",
+    "name": "Sakarya Parkı",
+    "types": [
+      "park",
+      "hiking_area",
+      "nature_preserve",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 566,
+    "location": {
+      "lat": 38.388300199999996,
+      "lng": 27.039455200000003
+    },
+    "gridId": "38.388,27.039",
+    "primaryType": "park",
+    "qualityScore": 2.09756943094226
+  },
+  {
+    "id": "ChIJL2u0zEjcuxQRvDkQ8a3MRfk",
+    "name": "İzmir Ticaret Odası Hatıra Ormanı",
+    "types": [
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1931,
+    "location": {
+      "lat": 38.382602999999996,
+      "lng": 27.050003000000004
+    },
+    "gridId": "38.382,27.050",
+    "primaryType": "park",
+    "qualityScore": 2.395499191995937
+  },
+  {
+    "id": "ChIJv8q4urjeuxQRVg70Tz-dDao",
+    "name": "Yadigar Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 297,
+    "location": {
+      "lat": 38.386646999999996,
+      "lng": 27.102169
+    },
+    "gridId": "38.386,27.102",
+    "primaryType": "mosque",
+    "qualityScore": 1.9160330749006527
+  },
+  {
+    "id": "ChIJ36Wt5cLeuxQROlYg8HJXBCk",
+    "name": "Dönerci Kenan Opsar",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2703,
+    "location": {
+      "lat": 38.3804251,
+      "lng": 27.1127434
+    },
+    "gridId": "38.380,27.112",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5946475871729466
+  },
+  {
+    "id": "ChIJVZDyfDXfuxQRV86BzaAZsN4",
+    "name": "Sirinyer Racecourse",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 4544,
+    "location": {
+      "lat": 38.388004599999995,
+      "lng": 27.1513125
+    },
+    "gridId": "38.388,27.151",
+    "primaryType": "bar",
+    "qualityScore": 1.9826759697674337
+  },
+  {
+    "id": "ChIJd8-R8jPfuxQRSefYXzTqYf4",
+    "name": "Hacı Ahmet Susuzlu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 330,
+    "location": {
+      "lat": 38.3862976,
+      "lng": 27.1435424
+    },
+    "gridId": "38.386,27.143",
+    "primaryType": "mosque",
+    "qualityScore": 2.132782413931768
+  },
+  {
+    "id": "ChIJtzvisvxhuRQRjnXRN5BZ06s",
+    "name": "By mehmali Steak & Food",
+    "types": [
+      "restaurant",
+      "barbecue_restaurant",
+      "salad_shop",
+      "historical_landmark",
+      "historical_place",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 4195,
+    "location": {
+      "lat": 38.385131699999995,
+      "lng": 27.1700679
+    },
+    "gridId": "38.385,27.170",
+    "primaryType": "restaurant",
+    "qualityScore": 1.8398207699202083
+  },
+  {
+    "id": "ChIJmQTT3ArZuxQRhe79yFBWhNE",
+    "name": "Haus Pera Coffee Buca",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 221,
+    "location": {
+      "lat": 38.3845302,
+      "lng": 27.171334100000003
+    },
+    "gridId": "38.384,27.171",
+    "primaryType": "cafe",
+    "qualityScore": 1.4512662417572093
+  },
+  {
+    "id": "ChIJmWkdzgNiuRQRL1NbP1Vi4sA",
+    "name": "İzmir Büyükşehir Belediyesi Hasanağa Bahçesi",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 14527,
+    "location": {
+      "lat": 38.3828136,
+      "lng": 27.177658200000003
+    },
+    "gridId": "38.382,27.177",
+    "primaryType": "park",
+    "qualityScore": 2.770530689464665
+  },
+  {
+    "id": "ChIJof0AOKdjuRQRbY4GhB07Xzo",
+    "name": "Buca Tostçusu Atom Evi",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2693,
+    "location": {
+      "lat": 38.384602,
+      "lng": 27.1739785
+    },
+    "gridId": "38.384,27.173",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5938999368620406
+  },
+  {
+    "id": "ChIJuc8v9-pjuRQRcs_-pQr1A9g",
+    "name": "Atölye Coffee Company",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 731,
+    "location": {
+      "lat": 38.384670400000005,
+      "lng": 27.1877472
+    },
+    "gridId": "38.384,27.187",
+    "primaryType": "cafe",
+    "qualityScore": 1.5527941668201333
+  },
+  {
+    "id": "ChIJJUKfGEXcuxQRR8mb3ArQsGM",
+    "name": "İZULAŞ A.Ş. İZMİR BALÇOVA TELEFERİK",
+    "types": [
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 4688,
+    "location": {
+      "lat": 38.3875794,
+      "lng": 27.044776199999998
+    },
+    "gridId": "38.387,27.044",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.5585960790096696
+  },
+  {
+    "id": "ChIJ2SSUVEPcuxQRRW6gc0wbYAU",
+    "name": "Ugur Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 236,
+    "location": {
+      "lat": 38.3908333,
+      "lng": 27.044166699999998
+    },
+    "gridId": "38.390,27.044",
+    "primaryType": "mosque",
+    "qualityScore": 2.0099870000629516
+  },
+  {
+    "id": "ChIJjRiykaDduxQRG--THhlDsXw",
+    "name": "Lucifer Gastropub",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 341,
+    "location": {
+      "lat": 38.3930781,
+      "lng": 27.038223199999997
+    },
+    "gridId": "38.393,27.038",
+    "primaryType": "bar",
+    "qualityScore": 1.5013597873161382
+  },
+  {
+    "id": "ChIJy2oqfFncuxQRnDxa2K3nnq4",
+    "name": "Balçova Atatürk Stadyumu",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 325,
+    "location": {
+      "lat": 38.3899237,
+      "lng": 27.038014699999998
+    },
+    "gridId": "38.389,27.038",
+    "primaryType": "stadium",
+    "qualityScore": 1.4249943792385213
+  },
+  {
+    "id": "ChIJ4Yvc5mrcuxQRVbR86-OHKVU",
+    "name": "İzmir Agora Mall",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 18271,
+    "location": {
+      "lat": 38.3949777,
+      "lng": 27.0535265
+    },
+    "gridId": "38.394,27.053",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.206411892736822
+  },
+  {
+    "id": "ChIJlxmGbdzduxQRStjdsLH9a9E",
+    "name": "POLIGON ISGOREN - IZMIR POLİGON & MKE & OUTDOOR",
+    "types": [
+      "tourist_attraction",
+      "sports_complex",
+      "sporting_goods_store",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 642,
+    "location": {
+      "lat": 38.3955507,
+      "lng": 27.050145999999998
+    },
+    "gridId": "38.395,27.050",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.427305236556781
+  },
+  {
+    "id": "ChIJ74eL72rcuxQRagGYIpx6sy4",
+    "name": "Agora Cinemas",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 3159,
+    "location": {
+      "lat": 38.3944863,
+      "lng": 27.053750800000003
+    },
+    "gridId": "38.394,27.053",
+    "primaryType": "movie_theater",
+    "qualityScore": 1.8825516754820915
+  },
+  {
+    "id": "ChIJpeggfYfduxQRC0zNzdD6hvQ",
+    "name": "Sir Winston Pub Balçova",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 965,
+    "location": {
+      "lat": 38.3944912,
+      "lng": 27.0506426
+    },
+    "gridId": "38.394,27.050",
+    "primaryType": "bar",
+    "qualityScore": 1.2712420585978303
+  },
+  {
+    "id": "ChIJL1VGiULcuxQR_my7lFJ_AJ4",
+    "name": "Pizza Locale",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1359,
+    "location": {
+      "lat": 38.393957,
+      "lng": 27.047074
+    },
+    "gridId": "38.393,27.047",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5228999094679256
+  },
+  {
+    "id": "ChIJY_qkqrXduxQRzbjsPhqVmXI",
+    "name": "Kokoreçci Asım Usta Göztepe",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1915,
+    "location": {
+      "lat": 38.396388900000005,
+      "lng": 27.0727449
+    },
+    "gridId": "38.396,27.072",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5952442153048676
+  },
+  {
+    "id": "ChIJAxtXl-XfuxQR6HH93zHjVCY",
+    "name": "NE TOST",
+    "types": [
+      "sandwich_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 788,
+    "location": {
+      "lat": 38.3964378,
+      "lng": 27.074710699999997
+    },
+    "gridId": "38.396,27.074",
+    "primaryType": "restaurant",
+    "qualityScore": 1.601967699694681
+  },
+  {
+    "id": "ChIJ4x8tRK_euxQRVkR_i5QtQfI",
+    "name": "Hakim Efendi Camii 1895",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 231,
+    "location": {
+      "lat": 38.395619599999996,
+      "lng": 27.086215499999998
+    },
+    "gridId": "38.395,27.086",
+    "primaryType": "mosque",
+    "qualityScore": 2.0021490304116574
+  },
+  {
+    "id": "ChIJi4doBEbfuxQRftAYkFkxbW0",
+    "name": "Göztepe LaVia Kasap Döner Izgara",
+    "types": [
+      "butcher_shop",
+      "bar_and_grill",
+      "turkish_restaurant",
+      "bar",
+      "manufacturer",
+      "restaurant",
+      "food_store",
+      "food",
+      "service",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 350,
+    "location": {
+      "lat": 38.3933995,
+      "lng": 27.085647599999998
+    },
+    "gridId": "38.393,27.085",
+    "primaryType": "bar",
+    "qualityScore": 1.1980251535781337
+  },
+  {
+    "id": "ChIJi2hkfB_fuxQRNwTHpe9Cxco",
+    "name": "Kebapçı Murat",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6064,
+    "location": {
+      "lat": 38.3891697,
+      "lng": 27.0955398
+    },
+    "gridId": "38.389,27.095",
+    "primaryType": "restaurant",
+    "qualityScore": 1.9210727961140839
+  },
+  {
+    "id": "ChIJu82UqALfuxQRzyzkSzRdoPM",
+    "name": "Pilav Tanesi",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1504,
+    "location": {
+      "lat": 38.3915965,
+      "lng": 27.097249100000003
+    },
+    "gridId": "38.391,27.097",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6136801361243809
+  },
+  {
+    "id": "ChIJ20H2lM3euxQRnMaTbUNj2n4",
+    "name": "Yeşilyurt Merkez Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 308,
+    "location": {
+      "lat": 38.3942143,
+      "lng": 27.1135605
+    },
+    "gridId": "38.394,27.113",
+    "primaryType": "mosque",
+    "qualityScore": 2.0168663683341164
+  },
+  {
+    "id": "ChIJYXNSE8zeuxQRWgrZL-OsPVI",
+    "name": "Yeşilyurt Ulu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 399,
+    "location": {
+      "lat": 38.3949316,
+      "lng": 27.110194699999997
+    },
+    "gridId": "38.394,27.110",
+    "primaryType": "mosque",
+    "qualityScore": 2.202383576659987
+  },
+  {
+    "id": "ChIJ_SMNTCzfuxQRQS5_169zFaU",
+    "name": "4x4 Night Club",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 42,
+    "location": {
+      "lat": 38.3888046,
+      "lng": 27.134993599999998
+    },
+    "gridId": "38.388,27.134",
+    "primaryType": "night_club",
+    "qualityScore": 0.8944219875371586
+  },
+  {
+    "id": "ChIJd1NskC7fuxQReT6JUWpr40E",
+    "name": "By Köşk Night Club",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 26,
+    "location": {
+      "lat": 38.3869407,
+      "lng": 27.1343931
+    },
+    "gridId": "38.386,27.134",
+    "primaryType": "night_club",
+    "qualityScore": 0.8244655281555768
+  },
+  {
+    "id": "ChIJKVtwmVLfuxQREvA2r3XIykw",
+    "name": "Ortadoğu Akvaryum Tropikal Balık Deposu",
+    "types": [
+      "aquarium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 89,
+    "location": {
+      "lat": 38.3893546,
+      "lng": 27.1330021
+    },
+    "gridId": "38.389,27.133",
+    "primaryType": "aquarium",
+    "qualityScore": 1.6209269070293535
+  },
+  {
+    "id": "ChIJCf1CgtLYuxQRnpAVjUMxVaw",
+    "name": "Kızılçullu Su Kemerleri",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 108,
+    "location": {
+      "lat": 38.393588,
+      "lng": 27.1381375
+    },
+    "gridId": "38.393,27.138",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.356192574089197
+  },
+  {
+    "id": "ChIJ34z9WcnZuxQRv3-Mh4tBwRY",
+    "name": "01 Şırdancı Sedat buca",
+    "types": [
+      "restaurant",
+      "turkish_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1217,
+    "location": {
+      "lat": 38.3932165,
+      "lng": 27.1445449
+    },
+    "gridId": "38.393,27.144",
+    "primaryType": "restaurant",
+    "qualityScore": 1.7062395245366295
+  },
+  {
+    "id": "ChIJ1zoPa7XYuxQRH369na07GHU",
+    "name": "Avni Naili Limboz Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 288,
+    "location": {
+      "lat": 38.3896365,
+      "lng": 27.151303
+    },
+    "gridId": "38.389,27.151",
+    "primaryType": "mosque",
+    "qualityScore": 2.0829039341091415
+  },
+  {
+    "id": "ChIJI7mJsdTZuxQRRlSKczmzICw",
+    "name": "HUNGRY DOG PUB",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1518,
+    "location": {
+      "lat": 38.3882499,
+      "lng": 27.1724498
+    },
+    "gridId": "38.388,27.172",
+    "primaryType": "bar",
+    "qualityScore": 1.6471560906842417
+  },
+  {
+    "id": "ChIJJT5mBJfZuxQRhd9kwr3K0OU",
+    "name": "Comolokko Buca",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 617,
+    "location": {
+      "lat": 38.3864264,
+      "lng": 27.1707632
+    },
+    "gridId": "38.386,27.170",
+    "primaryType": "cafe",
+    "qualityScore": 1.4449505533229814
+  },
+  {
+    "id": "ChIJFUOK3bPYuxQRhMxX1rcfid8",
+    "name": "EDEM",
+    "types": [
+      "dessert_restaurant",
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2396,
+    "location": {
+      "lat": 38.391062999999995,
+      "lng": 27.157525999999997
+    },
+    "gridId": "38.391,27.157",
+    "primaryType": "cafe",
+    "qualityScore": 1.8320504478889632
+  },
+  {
+    "id": "ChIJez8rco3ZuxQRzDrwJzQrYig",
+    "name": "Kız Kulesi",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 565,
+    "location": {
+      "lat": 38.3951864,
+      "lng": 27.164788299999998
+    },
+    "gridId": "38.395,27.164",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.665894391497894
+  },
+  {
+    "id": "ChIJBd-2UF5juRQRFCRDj3p_Jec",
+    "name": "Faun Social",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 656,
+    "location": {
+      "lat": 38.3887202,
+      "lng": 27.1753093
+    },
+    "gridId": "38.388,27.175",
+    "primaryType": "night_club",
+    "qualityScore": 1.9637303599683855
+  },
+  {
+    "id": "ChIJt3IgWRRiuRQRmyIsia8ARao",
+    "name": "Buca Stadium",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 840,
+    "location": {
+      "lat": 38.3947755,
+      "lng": 27.193277600000002
+    },
+    "gridId": "38.394,27.193",
+    "primaryType": "stadium",
+    "qualityScore": 1.2456121186904148
+  },
+  {
+    "id": "ChIJ6dN12VJjuRQRy-wlt5yAtpM",
+    "name": "ÜNLÜ Pide Buca",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 1049,
+    "location": {
+      "lat": 38.38968,
+      "lng": 27.186761999999998
+    },
+    "gridId": "38.389,27.186",
+    "primaryType": "restaurant",
+    "qualityScore": 1.8127135794419629
+  },
+  {
+    "id": "ChIJizSXx9rcuxQROU5JGFhL_nw",
+    "name": "Şehitlik Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 457,
+    "location": {
+      "lat": 38.3958333,
+      "lng": 27
+    },
+    "gridId": "38.395,27.000",
+    "primaryType": "mosque",
+    "qualityScore": 2.060574226166197
+  },
+  {
+    "id": "ChIJ55ERGWPcuxQRNwe_I0Axcd4",
+    "name": "İnciraltı Keyfi Şahane",
+    "types": [
+      "wedding_venue",
+      "concert_hall",
+      "auditorium",
+      "live_music_venue",
+      "bar",
+      "event_venue",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 513,
+    "location": {
+      "lat": 38.398374499999996,
+      "lng": 27.037560199999998
+    },
+    "gridId": "38.398,27.037",
+    "primaryType": "bar",
+    "qualityScore": 1.1545449731177082
+  },
+  {
+    "id": "ChIJOUFVMh3cuxQRdGYfP4JdxUU",
+    "name": "Beyaz Ev",
+    "types": [
+      "gastropub",
+      "bar",
+      "restaurant",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 519,
+    "location": {
+      "lat": 38.3971148,
+      "lng": 27.034666200000004
+    },
+    "gridId": "38.397,27.034",
+    "primaryType": "bar",
+    "qualityScore": 1.5399738958409313
+  },
+  {
+    "id": "ChIJYyjCvRLduxQR8GBqcC0bcCA",
+    "name": "İstinyePark İzmir",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 17600,
+    "location": {
+      "lat": 38.3992487,
+      "lng": 27.068297599999998
+    },
+    "gridId": "38.399,27.068",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.301420882858744
+  },
+  {
+    "id": "ChIJOXUILgPcuxQRY7xKHWOOmh4",
+    "name": "ISONEM Park Gürsel Aksel Spor ve Sağlıklı Yaşam Merkezi",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4495,
+    "location": {
+      "lat": 38.3968929,
+      "lng": 27.0758606
+    },
+    "gridId": "38.396,27.075",
+    "primaryType": "stadium",
+    "qualityScore": 2.259346124660033
+  },
+  {
+    "id": "ChIJ7ae6F7GuvhQRqu5L__LX17o",
+    "name": "Ahmed Adnan Saygun Sanat Merkezi",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5161,
+    "location": {
+      "lat": 38.397364800000005,
+      "lng": 27.0783103
+    },
+    "gridId": "38.397,27.078",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.9525813864852917
+  },
+  {
+    "id": "ChIJd_tvQBDcuxQR7vX9leUnn_g",
+    "name": "Dönerci Vedat Usta | İzmir - İstinyePark",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6293,
+    "location": {
+      "lat": 38.398424899999995,
+      "lng": 27.068781299999998
+    },
+    "gridId": "38.398,27.068",
+    "primaryType": "restaurant",
+    "qualityScore": 1.9292469549190456
+  },
+  {
+    "id": "ChIJMaQHHKjeuxQRYoxmNSoHcvc",
+    "name": "Güzelyalı Yeni Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 225,
+    "location": {
+      "lat": 38.397487999999996,
+      "lng": 27.0794599
+    },
+    "gridId": "38.397,27.079",
+    "primaryType": "mosque",
+    "qualityScore": 1.9068278357093948
+  },
+  {
+    "id": "ChIJ8X37-qjeuxQR3LjkPdslZbw",
+    "name": "Güzelyali Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 5355,
+    "location": {
+      "lat": 38.397725,
+      "lng": 27.0829082
+    },
+    "gridId": "38.397,27.082",
+    "primaryType": "park",
+    "qualityScore": 2.7183247743198393
+  },
+  {
+    "id": "ChIJVfZrI7PeuxQRAFSy4LGFGYQ",
+    "name": "İzmir Büyükşehir Belediyesi Susuzdede Parkı",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2390,
+    "location": {
+      "lat": 38.3996328,
+      "lng": 27.0935834
+    },
+    "gridId": "38.399,27.093",
+    "primaryType": "park",
+    "qualityScore": 2.145533174016562
+  },
+  {
+    "id": "ChIJ7ae6F7GuvhQRQWaeAq1ksK4",
+    "name": "La Folie",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1535,
+    "location": {
+      "lat": 38.3981725,
+      "lng": 27.084192599999998
+    },
+    "gridId": "38.398,27.084",
+    "primaryType": "cafe",
+    "qualityScore": 1.8066838192993444
+  },
+  {
+    "id": "ChIJGfF10zTZuxQRhtj0Zy3SWHI",
+    "name": "Büyük Hatay Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 254,
+    "location": {
+      "lat": 38.399304699999995,
+      "lng": 27.1066477
+    },
+    "gridId": "38.399,27.106",
+    "primaryType": "mosque",
+    "qualityScore": 1.9492975461515036
+  },
+  {
+    "id": "ChIJ11G0Xy7ZuxQR2wMAV8OI9uk",
+    "name": "Karabağlar Belediyesi Uğur Mumcu Parkı",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 3448,
+    "location": {
+      "lat": 38.4030056,
+      "lng": 27.117619299999998
+    },
+    "gridId": "38.403,27.117",
+    "primaryType": "park",
+    "qualityScore": 2.246576686151068
+  },
+  {
+    "id": "ChIJGyLuv_zZuxQRr4eDCX03w7g",
+    "name": "HOUDİNİ PUB",
+    "types": [
+      "bar",
+      "bistro",
+      "cafeteria",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 865,
+    "location": {
+      "lat": 38.4019616,
+      "lng": 27.1162007
+    },
+    "gridId": "38.401,27.116",
+    "primaryType": "bar",
+    "qualityScore": 1.450898837225208
+  },
+  {
+    "id": "ChIJj0tr9SvZuxQRcc4zG4ksmhE",
+    "name": "Helal Para Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 266,
+    "location": {
+      "lat": 38.3998412,
+      "lng": 27.120635399999998
+    },
+    "gridId": "38.399,27.120",
+    "primaryType": "mosque",
+    "qualityScore": 2.0537991316189763
+  },
+  {
+    "id": "ChIJYVHantXYuxQR2omLmOPlSfQ",
+    "name": "Kilimcitepe Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 315,
+    "location": {
+      "lat": 38.3967471,
+      "lng": 27.127668999999997
+    },
+    "gridId": "38.396,27.127",
+    "primaryType": "mosque",
+    "qualityScore": 2.1157351467282166
+  },
+  {
+    "id": "ChIJwfE1w9bYuxQRBLdcA8UgJ4Y",
+    "name": "Çinili Cami",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 468,
+    "location": {
+      "lat": 38.399981,
+      "lng": 27.131081
+    },
+    "gridId": "38.399,27.131",
+    "primaryType": "mosque",
+    "qualityScore": 2.163650002599218
+  },
+  {
+    "id": "ChIJqzxAcLfYuxQR2Lq9HViAkx0",
+    "name": "Laleli Mosque",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 258,
+    "location": {
+      "lat": 38.396916499999996,
+      "lng": 27.1536081
+    },
+    "gridId": "38.396,27.153",
+    "primaryType": "mosque",
+    "qualityScore": 2.042616920318371
+  },
+  {
+    "id": "ChIJjXcPOK_YuxQR5saNPYCCZTI",
+    "name": "Artım Güzel Sanatlara Hazırlık Resim Kursu",
+    "types": [
+      "art_gallery",
+      "educational_institution",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 27,
+    "location": {
+      "lat": 38.3928285,
+      "lng": 27.1669752
+    },
+    "gridId": "38.392,27.166",
+    "primaryType": "art_gallery",
+    "qualityScore": 1.2003307575164903
+  },
+  {
+    "id": "ChIJx4NAIw9iuRQRUKdiljMGICI",
+    "name": "Eyüp Sultan Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 348,
+    "location": {
+      "lat": 38.3926437,
+      "lng": 27.1804472
+    },
+    "gridId": "38.392,27.180",
+    "primaryType": "mosque",
+    "qualityScore": 2.2468405472611317
+  },
+  {
+    "id": "ChIJ_x2TqazYuxQRFn4pJk39onA",
+    "name": "COFFEEİZ",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "wholesaler",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 148,
+    "location": {
+      "lat": 38.3965256,
+      "lng": 27.1753483
+    },
+    "gridId": "38.396,27.175",
+    "primaryType": "cafe",
+    "qualityScore": 1.4609896645282037
+  },
+  {
+    "id": "ChIJ-5dcT0JiuRQRi7heRuNiGeg",
+    "name": "Mursal Meydanı",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 23,
+    "location": {
+      "lat": 38.402277,
+      "lng": 27.199301000000002
+    },
+    "gridId": "38.402,27.199",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 0.9187238109329132
+  },
+  {
+    "id": "ChIJR22gHpbcuxQRE69kDSsNrR0",
+    "name": "Baku Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2824,
+    "location": {
+      "lat": 38.408622,
+      "lng": 27.010130699999998
+    },
+    "gridId": "38.408,27.010",
+    "primaryType": "park",
+    "qualityScore": 2.5157924516213286
+  },
+  {
+    "id": "ChIJjfabmYfcuxQRUGaJMNvE3DI",
+    "name": "Özdilek İzmir AVM",
+    "types": [
+      "department_store",
+      "shopping_mall",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 14732,
+    "location": {
+      "lat": 38.410610299999995,
+      "lng": 27.031833
+    },
+    "gridId": "38.410,27.031",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.158007714292077
+  },
+  {
+    "id": "ChIJ3YvJTnzduxQRJe-3e1EtTmk",
+    "name": "Yenikale İnciraltı",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 7,
+    "location": {
+      "lat": 38.4116327,
+      "lng": 27.0231911
+    },
+    "gridId": "38.411,27.023",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 0.7805948611563565
+  },
+  {
+    "id": "ChIJYxMcX3zcuxQRvEHa8SgSKGg",
+    "name": "İnciraltı Bahçe Cafe",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 1981,
+    "location": {
+      "lat": 38.4099838,
+      "lng": 27.0363077
+    },
+    "gridId": "38.409,27.036",
+    "primaryType": "cafe",
+    "qualityScore": 1.4771024352668671
+  },
+  {
+    "id": "ChIJe8WYqw7cuxQRIZDoXid_Oag",
+    "name": "İnciraltı Kent Ormanı",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 10167,
+    "location": {
+      "lat": 38.4080398,
+      "lng": 27.0637471
+    },
+    "gridId": "38.408,27.063",
+    "primaryType": "park",
+    "qualityScore": 2.6673762632120868
+  },
+  {
+    "id": "ChIJSfhSAN7duxQRtcnToSZGg7Q",
+    "name": "Engelliler Parkı",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 4180,
+    "location": {
+      "lat": 38.4105291,
+      "lng": 27.0593798
+    },
+    "gridId": "38.410,27.059",
+    "primaryType": "park",
+    "qualityScore": 2.410468930728258
+  },
+  {
+    "id": "ChIJzZJLNIfZuxQROXMNJu8JBCc",
+    "name": "Karantina Parkı",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1819,
+    "location": {
+      "lat": 38.4077658,
+      "lng": 27.1062685
+    },
+    "gridId": "38.407,27.106",
+    "primaryType": "park",
+    "qualityScore": 2.37659204184112
+  },
+  {
+    "id": "ChIJyd5kGjfZuxQRJZjvRQ_CSCU",
+    "name": "Hamidiye Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 232,
+    "location": {
+      "lat": 38.4072222,
+      "lng": 27.1069444
+    },
+    "gridId": "38.407,27.106",
+    "primaryType": "mosque",
+    "qualityScore": 1.9175582960310755
+  },
+  {
+    "id": "ChIJW59-HRTfuxQRF_X9HbuwS1k",
+    "name": "By the Way Coffee",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 242,
+    "location": {
+      "lat": 38.408267099999996,
+      "lng": 27.108652
+    },
+    "gridId": "38.408,27.108",
+    "primaryType": "cafe",
+    "qualityScore": 1.475545192346028
+  },
+  {
+    "id": "ChIJ9yZupyXZuxQRRy6zC9zfQLU",
+    "name": "İzmir Historical Elevator Building",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 29497,
+    "location": {
+      "lat": 38.4086587,
+      "lng": 27.1176455
+    },
+    "gridId": "38.408,27.117",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.4049091891030803
+  },
+  {
+    "id": "ChIJga4VXADZuxQRJJZ1z4a9wa0",
+    "name": "Asansör",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 601,
+    "location": {
+      "lat": 38.409154,
+      "lng": 27.117619599999998
+    },
+    "gridId": "38.409,27.117",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.2104463137078727
+  },
+  {
+    "id": "ChIJLRM2NjbZuxQRq3cCII6nBEk",
+    "name": "Zoe Coffee",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 532,
+    "location": {
+      "lat": 38.41029290000001,
+      "lng": 27.1215063
+    },
+    "gridId": "38.410,27.121",
+    "primaryType": "cafe",
+    "qualityScore": 1.5460543275180665
+  },
+  {
+    "id": "ChIJ4di3nNTZuxQR19qPPlTGDlI",
+    "name": "Kırkmerdiven",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 826,
+    "location": {
+      "lat": 38.4091956,
+      "lng": 27.119073699999998
+    },
+    "gridId": "38.409,27.119",
+    "primaryType": "cafe",
+    "qualityScore": 1.5104509524055443
+  },
+  {
+    "id": "ChIJzdNI2d_YuxQR73CkeG3uZWg",
+    "name": "Izmir Archaeological Museum",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3458,
+    "location": {
+      "lat": 38.4136982,
+      "lng": 27.1285353
+    },
+    "gridId": "38.413,27.128",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.4665069837015303
+  },
+  {
+    "id": "ChIJyaWko0rZuxQRzaUTRCv-_fk",
+    "name": "Starbucks",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1562,
+    "location": {
+      "lat": 38.409079999999996,
+      "lng": 27.126972
+    },
+    "gridId": "38.409,27.126",
+    "primaryType": "cafe",
+    "qualityScore": 1.5033326117740706
+  },
+  {
+    "id": "ChIJEQ11ztjYuxQR86xehrI_CwU",
+    "name": "Eşrefpaşa Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 395,
+    "location": {
+      "lat": 38.4086204,
+      "lng": 27.129192999999997
+    },
+    "gridId": "38.408,27.129",
+    "primaryType": "mosque",
+    "qualityScore": 2.104133100599665
+  },
+  {
+    "id": "ChIJYW1s7N_YuxQR2GyyM7bxIs8",
+    "name": "Varyant",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 490,
+    "location": {
+      "lat": 38.4113032,
+      "lng": 27.1277518
+    },
+    "gridId": "38.411,27.127",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.049958237439592
+  },
+  {
+    "id": "ChIJcbynHefYuxQRKhSjKxD6pks",
+    "name": "İkiçeşmelik Camii",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 447,
+    "location": {
+      "lat": 38.414408699999996,
+      "lng": 27.1343517
+    },
+    "gridId": "38.414,27.134",
+    "primaryType": "mosque",
+    "qualityScore": 1.960885219153027
+  },
+  {
+    "id": "ChIJjyrJ-9_YuxQRMwT1G5b0fI0",
+    "name": "Ümran Baradan Çocuk Müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 305,
+    "location": {
+      "lat": 38.4134533,
+      "lng": 27.1269119
+    },
+    "gridId": "38.413,27.126",
+    "primaryType": "museum",
+    "qualityScore": 1.0523550231152419
+  },
+  {
+    "id": "ChIJY1USmN_YuxQRHYxpwx5u0ss",
+    "name": "Fatih Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 332,
+    "location": {
+      "lat": 38.4118011,
+      "lng": 27.127876999999998
+    },
+    "gridId": "38.411,27.127",
+    "primaryType": "mosque",
+    "qualityScore": 2.2288317247261844
+  },
+  {
+    "id": "ChIJRSt9QenYuxQRwrjEp0JfXNs",
+    "name": "Hava Şehitleri Kadifekale Cami",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 326,
+    "location": {
+      "lat": 38.413508199999995,
+      "lng": 27.1429467
+    },
+    "gridId": "38.413,27.142",
+    "primaryType": "mosque",
+    "qualityScore": 2.1283132178516655
+  },
+  {
+    "id": "ChIJB8wzYJ3YuxQRba2k_gCnz1o",
+    "name": "Fasülye Tanesi",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1262,
+    "location": {
+      "lat": 38.4106741,
+      "lng": 27.1734729
+    },
+    "gridId": "38.410,27.173",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5750166775460188
+  },
+  {
+    "id": "ChIJl6Bvrv_duxQRQ1HOyx89Rig",
+    "name": "Zaitun Seafood Cafe & Restaurant",
+    "types": [
+      "restaurant",
+      "seafood_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 943,
+    "location": {
+      "lat": 38.412864,
+      "lng": 27.015328
+    },
+    "gridId": "38.412,27.015",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5108097775843308
+  },
+  {
+    "id": "ChIJuak52-nZuxQRXoA9ZdSw8Kw",
+    "name": "Konak Sahili",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 309,
+    "location": {
+      "lat": 38.4175963,
+      "lng": 27.125071499999997
+    },
+    "gridId": "38.417,27.125",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.582114330052517
+  },
+  {
+    "id": "ChIJ50QX-uPYuxQRyBM2_ZLjFfw",
+    "name": "Kemeraltı Bazaar",
+    "types": [
+      "tourist_attraction",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 32987,
+    "location": {
+      "lat": 38.418699,
+      "lng": 27.1330088
+    },
+    "gridId": "38.418,27.133",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.149113387926657
+  },
+  {
+    "id": "ChIJ4X3zvOTYuxQRIW0mwDcQjpM",
+    "name": "Kızlarağası Inn",
+    "types": [
+      "historical_landmark",
+      "department_store",
+      "tourist_attraction",
+      "cafe",
+      "inn",
+      "historical_place",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 18738,
+    "location": {
+      "lat": 38.421203,
+      "lng": 27.132794
+    },
+    "gridId": "38.421,27.132",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.2548073061966174
+  },
+  {
+    "id": "ChIJZ50aMOLYuxQRvGo84DXFhcU",
+    "name": "Clock Tower of İzmir",
+    "types": [
+      "tourist_attraction",
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 25947,
+    "location": {
+      "lat": 38.418869,
+      "lng": 27.1286678
+    },
+    "gridId": "38.418,27.128",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.5102719768936828
+  },
+  {
+    "id": "ChIJz4HKgu_YuxQRbTOT_QxqU4U",
+    "name": "Agora Ören Yeri",
+    "types": [
+      "tourist_attraction",
+      "historical_place",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3263,
+    "location": {
+      "lat": 38.4197774,
+      "lng": 27.1384233
+    },
+    "gridId": "38.419,27.138",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.4489433046010283
+  },
+  {
+    "id": "ChIJ1WsDf9nZuxQRMVlavoiTyvc",
+    "name": "Konak iskele",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1303,
+    "location": {
+      "lat": 38.4188331,
+      "lng": 27.127122200000002
+    },
+    "gridId": "38.418,27.127",
+    "primaryType": "park",
+    "qualityScore": 2.171223870099288
+  },
+  {
+    "id": "ChIJm-wTsuTYuxQREHrr3Pi3PJ8",
+    "name": "Meşhur Hisarönü Şambalicisi 1942'den Beri",
+    "types": [
+      "dessert_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 2626,
+    "location": {
+      "lat": 38.4218664,
+      "lng": 27.1331221
+    },
+    "gridId": "38.421,27.133",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5174196018995463
+  },
+  {
+    "id": "ChIJDRzetuTYuxQRZk7hl5YOQlc",
+    "name": "Hisar Mosque",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 3640,
+    "location": {
+      "lat": 38.4215,
+      "lng": 27.133499999999998
+    },
+    "gridId": "38.421,27.133",
+    "primaryType": "mosque",
+    "qualityScore": 3.146694591906033
+  },
+  {
+    "id": "ChIJ95G6XuTYuxQRBGeooizjtCE",
+    "name": "Numan Pide",
+    "types": [
+      "middle_eastern_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 3086,
+    "location": {
+      "lat": 38.4191061,
+      "lng": 27.134137
+    },
+    "gridId": "38.419,27.134",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6959148019282986
+  },
+  {
+    "id": "ChIJByxmkO_YuxQRx0f1bGicRzs",
+    "name": "Agora of Smyrna",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 3654,
+    "location": {
+      "lat": 38.418841,
+      "lng": 27.1390592
+    },
+    "gridId": "38.418,27.139",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.5973449009632383
+  },
+  {
+    "id": "ChIJifDUAPPYuxQR5lRagBZvDl8",
+    "name": "Church of St. Vukolos",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 998,
+    "location": {
+      "lat": 38.4214757,
+      "lng": 27.1476197
+    },
+    "gridId": "38.421,27.147",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.090577162673981
+  },
+  {
+    "id": "ChIJYeFtCozYuxQRrKijeIiEGdo",
+    "name": "Konya Mandırası Kahvaltı Salonu",
+    "types": [
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1251,
+    "location": {
+      "lat": 38.421774899999996,
+      "lng": 27.154453099999998
+    },
+    "gridId": "38.421,27.154",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5054357038329635
+  },
+  {
+    "id": "ChIJvXJfk13ZuxQREozhDk0AeTI",
+    "name": "Best Western Hotel İzmir",
+    "types": [
+      "hotel",
+      "public_bath",
+      "spa",
+      "bar",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 276,
+    "location": {
+      "lat": 38.421885200000006,
+      "lng": 27.151426299999997
+    },
+    "gridId": "38.421,27.151",
+    "primaryType": "bar",
+    "qualityScore": 1.510722586761743
+  },
+  {
+    "id": "ChIJt3EJXvHYuxQRb25eMCu9A9k",
+    "name": "Sevinç Kebap & Dürüm Salonu",
+    "types": [
+      "kebab_shop",
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1412,
+    "location": {
+      "lat": 38.423201299999995,
+      "lng": 27.143672900000002
+    },
+    "gridId": "38.423,27.143",
+    "primaryType": "restaurant",
+    "qualityScore": 1.741902609815779
+  },
+  {
+    "id": "ChIJ76-wEO7YuxQRhjIThJNVZ-I",
+    "name": "Emir Sultan Türbesi",
+    "types": [
+      "cemetery",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 64,
+    "location": {
+      "lat": 38.418962,
+      "lng": 27.143062999999998
+    },
+    "gridId": "38.418,27.143",
+    "primaryType": "cemetery",
+    "qualityScore": 0.5012342848446166
+  },
+  {
+    "id": "ChIJ4aJWx_HYuxQRYZ71U-pxfog",
+    "name": "Izmir Women's Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "history_museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 221,
+    "location": {
+      "lat": 38.421033,
+      "lng": 27.142259
+    },
+    "gridId": "38.421,27.142",
+    "primaryType": "museum",
+    "qualityScore": 0.9009995421890455
+  },
+  {
+    "id": "ChIJB7GsePHYuxQRdcSjdt7Y2zg",
+    "name": "Çorakkapı Mosque",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 380,
+    "location": {
+      "lat": 38.421873399999996,
+      "lng": 27.1436776
+    },
+    "gridId": "38.421,27.143",
+    "primaryType": "mosque",
+    "qualityScore": 1.9986683011632003
+  },
+  {
+    "id": "ChIJuUeJCvnYuxQRJ0BUKuOXnJg",
+    "name": "Swissôtel Büyük Efes İzmir",
+    "types": [
+      "hotel",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 18166,
+    "location": {
+      "lat": 38.427957,
+      "lng": 27.1357655
+    },
+    "gridId": "38.427,27.135",
+    "primaryType": "restaurant",
+    "qualityScore": 2.355213247224402
+  },
+  {
+    "id": "ChIJqZzO7fnYuxQRyGM5l4E5GEI",
+    "name": "Karaca Cinema",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1611,
+    "location": {
+      "lat": 38.4267675,
+      "lng": 27.1371269
+    },
+    "gridId": "38.426,27.137",
+    "primaryType": "movie_theater",
+    "qualityScore": 2.0783725442799588
+  },
+  {
+    "id": "ChIJy20mmlfYuxQRZvUFG4A_bZ8",
+    "name": "Arkas Sanat Alsancak",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2609,
+    "location": {
+      "lat": 38.431978699999995,
+      "lng": 27.136829199999998
+    },
+    "gridId": "38.431,27.136",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.8338983024066637
+  },
+  {
+    "id": "ChIJx2s8MPbYuxQRdgdXSysPTd8",
+    "name": "Kültürpark İzmir",
+    "types": [
+      "park",
+      "city_park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 21082,
+    "location": {
+      "lat": 38.4284811,
+      "lng": 27.145345
+    },
+    "gridId": "38.428,27.145",
+    "primaryType": "park",
+    "qualityScore": 3.152146725984578
+  },
+  {
+    "id": "ChIJT8TzfljYuxQRvb4mx_xujcU",
+    "name": "Leone Patisserie & Boulangerie - Alsancak",
+    "types": [
+      "pastry_shop",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2118,
+    "location": {
+      "lat": 38.430162,
+      "lng": 27.1412382
+    },
+    "gridId": "38.430,27.141",
+    "primaryType": "cafe",
+    "qualityScore": 1.8859162524550206
+  },
+  {
+    "id": "ChIJZalFowDZuxQRdYyPB8he5w4",
+    "name": "Two Hands Burger & Toastery",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1760,
+    "location": {
+      "lat": 38.4310085,
+      "lng": 27.1416179
+    },
+    "gridId": "38.431,27.141",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6483264313344217
+  },
+  {
+    "id": "ChIJa5UWmPfYuxQRp-muszhGrU0",
+    "name": "St. John's Cathedral",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 384,
+    "location": {
+      "lat": 38.4284882,
+      "lng": 27.139641200000003
+    },
+    "gridId": "38.428,27.139",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.969500565310395
+  },
+  {
+    "id": "ChIJZWrWv2HZuxQRdHeVCQi48Eo",
+    "name": "Sosyal tesis",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 27,
+    "location": {
+      "lat": 38.423604399999995,
+      "lng": 27.1556902
+    },
+    "gridId": "38.423,27.155",
+    "primaryType": "campground",
+    "qualityScore": 0.6811483421921556
+  },
+  {
+    "id": "ChIJa60o-PPYuxQR0CfwnzmiJLo",
+    "name": "Sayanora",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 132,
+    "location": {
+      "lat": 38.423836,
+      "lng": 27.1448377
+    },
+    "gridId": "38.423,27.144",
+    "primaryType": "night_club",
+    "qualityScore": 1.3487307460797384
+  },
+  {
+    "id": "ChIJhQJA-_XYuxQRJOcfUYZBsJM",
+    "name": "İzmir Resim Heykel Müzesi Kültürpark Sanat Galerisi",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 176,
+    "location": {
+      "lat": 38.428312399999996,
+      "lng": 27.1445848
+    },
+    "gridId": "38.428,27.144",
+    "primaryType": "art_gallery",
+    "qualityScore": 1.6387725111777571
+  },
+  {
+    "id": "ChIJXeGwmZtiuRQR91dCF6yPu4I",
+    "name": "Zaim Usta",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 5671,
+    "location": {
+      "lat": 38.4323306,
+      "lng": 27.1808698
+    },
+    "gridId": "38.432,27.180",
+    "primaryType": "restaurant",
+    "qualityScore": 1.8243158039770548
+  },
+  {
+    "id": "ChIJNSARSSJjuRQR0nWDvHZkGTE",
+    "name": "BRATE GAZINOSU",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 11,
+    "location": {
+      "lat": 38.4261027,
+      "lng": 27.181300699999998
+    },
+    "gridId": "38.426,27.181",
+    "primaryType": "night_club",
+    "qualityScore": 0.7867231283687186
+  },
+  {
+    "id": "ChIJD4kl_8JiuRQRM6UV0580DsQ",
+    "name": "KUYU KOKOREÇ",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1393,
+    "location": {
+      "lat": 38.425588499999996,
+      "lng": 27.202784299999998
+    },
+    "gridId": "38.425,27.202",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5967824070272891
+  },
+  {
+    "id": "ChIJqZiyfutiuRQRAY72n8llbc0",
+    "name": "Sami Usta Ev Yemekleri",
+    "types": [
+      "turkish_restaurant",
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 4746,
+    "location": {
+      "lat": 38.430437399999995,
+      "lng": 27.200024499999998
+    },
+    "gridId": "38.430,27.200",
+    "primaryType": "restaurant",
+    "qualityScore": 2.118499818085388
+  },
+  {
+    "id": "ChIJAQDH0u5iuRQRcGfllnrP8XU",
+    "name": "Dönerci Vedat Usta | İzmir - Altındağ",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 9416,
+    "location": {
+      "lat": 38.4284387,
+      "lng": 27.205276299999998
+    },
+    "gridId": "38.428,27.205",
+    "primaryType": "restaurant",
+    "qualityScore": 1.9313215092239766
+  },
+  {
+    "id": "ChIJbdfM9O5iuRQRhPq0HUuEOq4",
+    "name": "Mescidi Aksa Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 177,
+    "location": {
+      "lat": 38.4264468,
+      "lng": 27.2043552
+    },
+    "gridId": "38.426,27.204",
+    "primaryType": "mosque",
+    "qualityScore": 1.9884711140401392
+  },
+  {
+    "id": "ChIJkeJbMFrYuxQRV_DQMvjsjdk",
+    "name": "Ataturk Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2975,
+    "location": {
+      "lat": 38.4355952,
+      "lng": 27.1405833
+    },
+    "gridId": "38.435,27.140",
+    "primaryType": "museum",
+    "qualityScore": 1.920780063244159
+  },
+  {
+    "id": "ChIJARSzSVjYuxQRKm8XiKPoHOQ",
+    "name": "Starbucks",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2939,
+    "location": {
+      "lat": 38.432981399999996,
+      "lng": 27.1392965
+    },
+    "gridId": "38.432,27.139",
+    "primaryType": "cafe",
+    "qualityScore": 1.7130861134371729
+  },
+  {
+    "id": "ChIJE69dyBHZuxQRoM-ZyN5tz5I",
+    "name": "Alsancak Gündoğdu Meydanı",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1675,
+    "location": {
+      "lat": 38.4358061,
+      "lng": 27.1394477
+    },
+    "gridId": "38.435,27.139",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.564071667127366
+  },
+  {
+    "id": "ChIJT2zK2FnYuxQRcPGZlNKi41A",
+    "name": "Starbucks",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 1674,
+    "location": {
+      "lat": 38.433845,
+      "lng": 27.138433
+    },
+    "gridId": "38.433,27.138",
+    "primaryType": "cafe",
+    "qualityScore": 1.5924053956332853
+  },
+  {
+    "id": "ChIJjcvmHlvYuxQRcOJSV83Im2o",
+    "name": "Kordon Alsancak İzmir",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 26611,
+    "location": {
+      "lat": 38.4381638,
+      "lng": 27.1414413
+    },
+    "gridId": "38.438,27.141",
+    "primaryType": "park",
+    "qualityScore": 3.225881508270255
+  },
+  {
+    "id": "ChIJi0cqgkTYuxQRj2sz5BAsVf0",
+    "name": "Çelebi Unlu Mamuller",
+    "types": [
+      "bakery",
+      "pastry_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 14508,
+    "location": {
+      "lat": 38.441198799999995,
+      "lng": 27.144019200000002
+    },
+    "gridId": "38.441,27.144",
+    "primaryType": "cafe",
+    "qualityScore": 2.359648451559503
+  },
+  {
+    "id": "ChIJExaHs1zYuxQR31aELybEmgY",
+    "name": "Zeynel Ergin Gevrek Fırını",
+    "types": [
+      "bakery",
+      "breakfast_restaurant",
+      "restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 7061,
+    "location": {
+      "lat": 38.4384435,
+      "lng": 27.145073399999998
+    },
+    "gridId": "38.438,27.145",
+    "primaryType": "restaurant",
+    "qualityScore": 1.954639449885239
+  },
+  {
+    "id": "ChIJG9lMKlrYuxQRKYqtEb2yjAs",
+    "name": "Sevinç Pastanesi - Alsancak",
+    "types": [
+      "ice_cream_shop",
+      "pastry_shop",
+      "dessert_restaurant",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 6979,
+    "location": {
+      "lat": 38.434757,
+      "lng": 27.142028
+    },
+    "gridId": "38.434,27.142",
+    "primaryType": "restaurant",
+    "qualityScore": 1.786008983567626
+  },
+  {
+    "id": "ChIJEWR0vGnYuxQRAOBLlviYHys",
+    "name": "Tarihi Havagazı Fabrikası Kültür Merkezi",
+    "types": [
+      "event_venue",
+      "convention_center",
+      "art_gallery",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 4342,
+    "location": {
+      "lat": 38.4402101,
+      "lng": 27.151797199999997
+    },
+    "gridId": "38.440,27.151",
+    "primaryType": "art_gallery",
+    "qualityScore": 2.6519487856050654
+  },
+  {
+    "id": "ChIJYbWD60TYuxQRp9yUwEKv1Ww",
+    "name": "Tavacı Recep Usta Alsancak - İzmir",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 9017,
+    "location": {
+      "lat": 38.440627899999996,
+      "lng": 27.142688999999997
+    },
+    "gridId": "38.440,27.142",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6744354673836932
+  },
+  {
+    "id": "ChIJwdXwAVzYuxQR-Npdnqti5Cg",
+    "name": "Alsancak Hocazade Camii",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1610,
+    "location": {
+      "lat": 38.433968899999996,
+      "lng": 27.1443817
+    },
+    "gridId": "38.433,27.144",
+    "primaryType": "mosque",
+    "qualityScore": 2.714485665410826
+  },
+  {
+    "id": "ChIJ_XVVOznZuxQRYfW_RRYZHdo",
+    "name": "Kantin Alsancak",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 653,
+    "location": {
+      "lat": 38.438536899999995,
+      "lng": 27.147051400000002
+    },
+    "gridId": "38.438,27.147",
+    "primaryType": "bar",
+    "qualityScore": 1.3906701614523223
+  },
+  {
+    "id": "ChIJbTydVlPZuxQRDVwfTvpDpcc",
+    "name": "Alsancak Mustafa Denizli Stadium",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1016,
+    "location": {
+      "lat": 38.4372543,
+      "lng": 27.1507914
+    },
+    "gridId": "38.437,27.150",
+    "primaryType": "stadium",
+    "qualityScore": 1.7051509803071963
+  },
+  {
+    "id": "ChIJh3e5IlnYuxQR5hcjJbJrt_w",
+    "name": "Pizza Locale",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2817,
+    "location": {
+      "lat": 38.432477,
+      "lng": 27.142723999999998
+    },
+    "gridId": "38.432,27.142",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6766713205438422
+  },
+  {
+    "id": "ChIJ12aWrUTYuxQR7HQmG5Oauoo",
+    "name": "Varuna Gezgin Cafe - İzmir - Alsancak",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 4105,
+    "location": {
+      "lat": 38.4392542,
+      "lng": 27.1434949
+    },
+    "gridId": "38.439,27.143",
+    "primaryType": "cafe",
+    "qualityScore": 1.870739256223299
+  },
+  {
+    "id": "ChIJ-XgrxvvYuxQRK4FpK_G4Zq8",
+    "name": "Mumlu Meyhane",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 681,
+    "location": {
+      "lat": 38.438491299999995,
+      "lng": 27.158852399999997
+    },
+    "gridId": "38.438,27.158",
+    "primaryType": "bar",
+    "qualityScore": 1.3338056294633112
+  },
+  {
+    "id": "ChIJxUkmR_l9uRQRCchLyZ2QaYQ",
+    "name": "Maze İzmir",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 202,
+    "location": {
+      "lat": 38.439432000000004,
+      "lng": 27.1588368
+    },
+    "gridId": "38.439,27.158",
+    "primaryType": "night_club",
+    "qualityScore": 1.1995287403488046
+  },
+  {
+    "id": "ChIJY8JDh-j1uxQRE7HALxJfpYk",
+    "name": "MORNING AFTER ALSANCAK",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 2.8,
+    "totalReviews": 89,
+    "location": {
+      "lat": 38.4389045,
+      "lng": 27.1602496
+    },
+    "gridId": "38.438,27.160",
+    "primaryType": "night_club",
+    "qualityScore": 0.5515654058641549
+  },
+  {
+    "id": "ChIJVWSCLpxiuRQROlggUiUnS_g",
+    "name": "İzmir Ataturk Stadium",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 5015,
+    "location": {
+      "lat": 38.434954399999995,
+      "lng": 27.177980299999998
+    },
+    "gridId": "38.434,27.177",
+    "primaryType": "stadium",
+    "qualityScore": 1.6577601724645519
+  },
+  {
+    "id": "ChIJPwFC5ZdiuRQRkX8EFmA-LlY",
+    "name": "Havuzlu Meyhane",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 758,
+    "location": {
+      "lat": 38.4376143,
+      "lng": 27.1859006
+    },
+    "gridId": "38.437,27.185",
+    "primaryType": "bar",
+    "qualityScore": 1.633097086932737
+  },
+  {
+    "id": "ChIJVYYXuZtiuRQR_ZEjOhO9ELk",
+    "name": "Samko's Place",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1084,
+    "location": {
+      "lat": 38.4332026,
+      "lng": 27.1813695
+    },
+    "gridId": "38.433,27.181",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5415126382396407
+  },
+  {
+    "id": "ChIJ2Vb0QJhiuRQRHggquPP1i3Q",
+    "name": "Koraç Meyhanesi",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 246,
+    "location": {
+      "lat": 38.437604799999995,
+      "lng": 27.184331500000003
+    },
+    "gridId": "38.437,27.184",
+    "primaryType": "bar",
+    "qualityScore": 1.4176250908672863
+  },
+  {
+    "id": "ChIJmXC4n59iuRQRS_rIrTOvJIg",
+    "name": "Mersinli Yeni Mosque",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 180,
+    "location": {
+      "lat": 38.4394905,
+      "lng": 27.1766547
+    },
+    "gridId": "38.439,27.176",
+    "primaryType": "mosque",
+    "qualityScore": 2.0806765745994404
+  },
+  {
+    "id": "ChIJkwMAPcdiuRQR6yesN0qjqwA",
+    "name": "Kokorecci Asim Usta",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 10307,
+    "location": {
+      "lat": 38.4408593,
+      "lng": 27.1991461
+    },
+    "gridId": "38.440,27.199",
+    "primaryType": "restaurant",
+    "qualityScore": 1.8646813578061172
+  },
+  {
+    "id": "ChIJOf0fXZliuRQR6GCrLJYBLBk",
+    "name": "Akbıyık Doner & Steakhouse",
+    "types": [
+      "turkish_restaurant",
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 5452,
+    "location": {
+      "lat": 38.434826099999995,
+      "lng": 27.192257299999998
+    },
+    "gridId": "38.434,27.192",
+    "primaryType": "restaurant",
+    "qualityScore": 1.7361903176452052
+  },
+  {
+    "id": "ChIJqxIsLJ7ZuxQRZCtkyC_SDic",
+    "name": "Atatürk Parkı",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 5148,
+    "location": {
+      "lat": 38.4362399,
+      "lng": 27.1974232
+    },
+    "gridId": "38.436,27.197",
+    "primaryType": "park",
+    "qualityScore": 2.3570925052259675
+  },
+  {
+    "id": "ChIJFSmoTsdiuRQRhoHfoc439vA",
+    "name": "Bramare Burger",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2056,
+    "location": {
+      "lat": 38.440456,
+      "lng": 27.198309
+    },
+    "gridId": "38.440,27.198",
+    "primaryType": "restaurant",
+    "qualityScore": 1.539461181293037
+  },
+  {
+    "id": "ChIJ995NKsdiuRQRvU1iI7F9OWg",
+    "name": "Taşköprü Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 185,
+    "location": {
+      "lat": 38.439907,
+      "lng": 27.199726899999998
+    },
+    "gridId": "38.439,27.199",
+    "primaryType": "mosque",
+    "qualityScore": 1.9209157559860441
+  },
+  {
+    "id": "ChIJv24g2pViuRQRp1L4xdwBmZ8",
+    "name": "Debre Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 233,
+    "location": {
+      "lat": 38.435116,
+      "lng": 27.191435
+    },
+    "gridId": "38.435,27.191",
+    "primaryType": "mosque",
+    "qualityScore": 2.1834693341891875
+  },
+  {
+    "id": "ChIJd_u_HcViuRQRYDiWZUAfM1w",
+    "name": "Ulu Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 221,
+    "location": {
+      "lat": 38.4402778,
+      "lng": 27.206944399999998
+    },
+    "gridId": "38.440,27.206",
+    "primaryType": "mosque",
+    "qualityScore": 2.1623989012537086
+  },
+  {
+    "id": "ChIJj5om8sFjuRQR2AwkI4LqeU4",
+    "name": "Sokak Kebapçısı",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 439,
+    "location": {
+      "lat": 38.4372634,
+      "lng": 27.208627699999997
+    },
+    "gridId": "38.437,27.208",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5232631702984007
+  },
+  {
+    "id": "ChIJJ2g5sdBiuRQRilakOclniGM",
+    "name": "Yeşilova Höyük Visitor Center",
+    "types": [
+      "history_museum",
+      "tourist_attraction",
+      "historical_landmark",
+      "historical_place",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 475,
+    "location": {
+      "lat": 38.4409241,
+      "lng": 27.213769100000004
+    },
+    "gridId": "38.440,27.213",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.1293401530814453
+  },
+  {
+    "id": "ChIJUTAcdSZjuRQRqPf604EmPJI",
+    "name": "İzeltaş Galeria",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 26,
+    "location": {
+      "lat": 38.4365771,
+      "lng": 27.226273499999998
+    },
+    "gridId": "38.436,27.226",
+    "primaryType": "art_gallery",
+    "qualityScore": 0.8244655281555768
+  },
+  {
+    "id": "ChIJydvLZMp9uRQRzdp7LyNJeRQ",
+    "name": "Mandela's Ubuntu Alsancak",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2063,
+    "location": {
+      "lat": 38.4378112,
+      "lng": 27.1424558
+    },
+    "gridId": "38.437,27.142",
+    "primaryType": "bar",
+    "qualityScore": 1.7968378303571408
+  },
+  {
+    "id": "ChIJPUx24k3ZuxQRMGHYy6BWzfo",
+    "name": "Hamurcu - Alsancak",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 788,
+    "location": {
+      "lat": 38.438108,
+      "lng": 27.144309
+    },
+    "gridId": "38.438,27.144",
+    "primaryType": "restaurant",
+    "qualityScore": 1.601967699694681
+  },
+  {
+    "id": "ChIJNbkKM7vZuxQRwPPFlDU6QKg",
+    "name": "Sopung Kore İzmir",
+    "types": [
+      "korean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 2457,
+    "location": {
+      "lat": 38.437593,
+      "lng": 27.141488
+    },
+    "gridId": "38.437,27.141",
+    "primaryType": "restaurant",
+    "qualityScore": 1.504604614425541
+  },
+  {
+    "id": "ChIJm7HSzUTYuxQRQE1ov93XXqM",
+    "name": "Moresi Kordon",
+    "types": [
+      "breakfast_restaurant",
+      "german_restaurant",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2537,
+    "location": {
+      "lat": 38.4395741,
+      "lng": 27.142225099999997
+    },
+    "gridId": "38.439,27.142",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5818629852753963
+  },
+  {
+    "id": "ChIJgfxEemDYuxQRw0fQPbyPTJY",
+    "name": "Chamber of Architects",
+    "types": [
+      "association_or_organization",
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 668,
+    "location": {
+      "lat": 38.4401821,
+      "lng": 27.1453837
+    },
+    "gridId": "38.440,27.145",
+    "primaryType": "art_gallery",
+    "qualityScore": 2.1522965994708163
+  },
+  {
+    "id": "ChIJ75ZlTqLZuxQRq5u3cgjvikQ",
+    "name": "Yaşar Müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 40,
+    "location": {
+      "lat": 38.4382453,
+      "lng": 27.161953500000003
+    },
+    "gridId": "38.438,27.161",
+    "primaryType": "museum",
+    "qualityScore": 0.8918049614117448
+  },
+  {
+    "id": "ChIJk-DWVNnZuxQRS9z79cEXXfY",
+    "name": "Çatı Sanat Alanı ve Cafe",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 14,
+    "location": {
+      "lat": 38.4373474,
+      "lng": 27.1588413
+    },
+    "gridId": "38.437,27.158",
+    "primaryType": "art_gallery",
+    "qualityScore": 0.8958992774982556
+  },
+  {
+    "id": "ChIJjbu3JGnYuxQRH4P_E-BPeCg",
+    "name": "İnn After",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 2.7,
+    "totalReviews": 30,
+    "location": {
+      "lat": 38.439578999999995,
+      "lng": 27.1550288
+    },
+    "gridId": "38.439,27.155",
+    "primaryType": "night_club",
+    "qualityScore": 0.39139296292986653
+  },
+  {
+    "id": "ChIJTZRIzrxiuRQRu4mDG2jjcmc",
+    "name": "Köfteci Tamer",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2182,
+    "location": {
+      "lat": 38.441196999999995,
+      "lng": 27.185813
+    },
+    "gridId": "38.441,27.185",
+    "primaryType": "restaurant",
+    "qualityScore": 1.551457927759895
+  },
+  {
+    "id": "ChIJteLfK_RjuRQR9BP442X4MzE",
+    "name": "PAÇACI APO",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1617,
+    "location": {
+      "lat": 38.44107700000001,
+      "lng": 27.199904
+    },
+    "gridId": "38.441,27.199",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6296476502135724
+  },
+  {
+    "id": "ChIJV0TAhcZiuRQRQESHVlmlOEk",
+    "name": "Kokoreçci Niyazi Usta",
+    "types": [
+      "family_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1397,
+    "location": {
+      "lat": 38.4410732,
+      "lng": 27.202235299999998
+    },
+    "gridId": "38.441,27.202",
+    "primaryType": "restaurant",
+    "qualityScore": 1.528716485305096
+  },
+  {
+    "id": "ChIJlRWZe9JiuRQRNmfIKZogrxQ",
+    "name": "Forum Bornova",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 34553,
+    "location": {
+      "lat": 38.4504294,
+      "lng": 27.210946999999997
+    },
+    "gridId": "38.450,27.210",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.573328552493983
+  },
+  {
+    "id": "ChIJV5PAJ1ljuRQRM0LOvF9Mi6o",
+    "name": "KALT",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 2.9,
+    "totalReviews": 259,
+    "location": {
+      "lat": 38.4478954,
+      "lng": 27.209397799999998
+    },
+    "gridId": "38.447,27.209",
+    "primaryType": "night_club",
+    "qualityScore": 0.7311573308316448
+  },
+  {
+    "id": "ChIJtaAyi81iuRQRQHXVgqDU95o",
+    "name": "Cihan Et Kasap ve Et Pişiricisi",
+    "types": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 4028,
+    "location": {
+      "lat": 38.4485889,
+      "lng": 27.208479099999998
+    },
+    "gridId": "38.448,27.208",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5262963151215438
+  },
+  {
+    "id": "ChIJCY9k-Q1juRQRoTgVxPDuvtM",
+    "name": "MUSA ASPAVA İZMİR BORNOVA",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2293,
+    "location": {
+      "lat": 38.4464397,
+      "lng": 27.2055057
+    },
+    "gridId": "38.446,27.205",
+    "primaryType": "restaurant",
+    "qualityScore": 1.7816522041357528
+  },
+  {
+    "id": "ChIJs8eEwc5iuRQRZ6PbtD-Wc80",
+    "name": "Yusuf Tırpancı Football Field",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 307,
+    "location": {
+      "lat": 38.446438,
+      "lng": 27.204618
+    },
+    "gridId": "38.446,27.204",
+    "primaryType": "stadium",
+    "qualityScore": 1.1713110512424287
+  },
+  {
+    "id": "ChIJawfDg9JiuRQRFgJA17IeAJQ",
+    "name": "Paribu Cineverse Forum Bornova",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 2654,
+    "location": {
+      "lat": 38.4502236,
+      "lng": 27.208771799999997
+    },
+    "gridId": "38.450,27.208",
+    "primaryType": "movie_theater",
+    "qualityScore": 1.753121037013754
+  },
+  {
+    "id": "ChIJzUSs-pHZuxQRRScunPFi4Yc",
+    "name": "Bostanlı Coast",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 14623,
+    "location": {
+      "lat": 38.456198199999996,
+      "lng": 27.0918808
+    },
+    "gridId": "38.456,27.091",
+    "primaryType": "park",
+    "qualityScore": 3.17278081205018
+  },
+  {
+    "id": "ChIJuT3-sJHZuxQRX8saRKpUYqM",
+    "name": "Bostanlı Günbatımı Seyir Terası",
+    "types": [
+      "scenic_spot",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 5865,
+    "location": {
+      "lat": 38.455322599999995,
+      "lng": 27.093086
+    },
+    "gridId": "38.455,27.093",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.747121360751865
+  },
+  {
+    "id": "ChIJKSGbT4zZuxQRv6et5zQzkV4",
+    "name": "Bostanlı Skate Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 658,
+    "location": {
+      "lat": 38.4573227,
+      "lng": 27.090296600000002
+    },
+    "gridId": "38.457,27.090",
+    "primaryType": "park",
+    "qualityScore": 1.9646503785554414
+  },
+  {
+    "id": "ChIJu7S50UrZuxQRUef9kPPSMaQ",
+    "name": "Filozof Bostanlı",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8933,
+    "location": {
+      "lat": 38.459128,
+      "lng": 27.097748000000003
+    },
+    "gridId": "38.459,27.097",
+    "primaryType": "restaurant",
+    "qualityScore": 2.006499174301294
+  },
+  {
+    "id": "ChIJH96tPlrZuxQRjx5hki9-cM4",
+    "name": "Starbucks",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 1123,
+    "location": {
+      "lat": 38.452669199999995,
+      "lng": 27.1046377
+    },
+    "gridId": "38.452,27.104",
+    "primaryType": "cafe",
+    "qualityScore": 1.5068344964442244
+  },
+  {
+    "id": "ChIJMfkw1ZDZuxQRUFZXhxzMoMA",
+    "name": "Denizpark Cafe & Restaurant",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 4571,
+    "location": {
+      "lat": 38.4528058,
+      "lng": 27.0970478
+    },
+    "gridId": "38.452,27.097",
+    "primaryType": "cafe",
+    "qualityScore": 1.5587660377074952
+  },
+  {
+    "id": "ChIJ0ZmhZ5XZuxQRLH079WzMhEU",
+    "name": "Nuvia Bostanlı Breakfast - Kitchen & Bar",
+    "types": [
+      "breakfast_restaurant",
+      "bistro",
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6816,
+    "location": {
+      "lat": 38.4561801,
+      "lng": 27.0941865
+    },
+    "gridId": "38.456,27.094",
+    "primaryType": "cafe",
+    "qualityScore": 2.271327354828205
+  },
+  {
+    "id": "ChIJAZluTZTZuxQRUp4wPeR9D1U",
+    "name": "Morisi Kahvaltı Bostanlı",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 9061,
+    "location": {
+      "lat": 38.4561026,
+      "lng": 27.100605500000004
+    },
+    "gridId": "38.456,27.100",
+    "primaryType": "restaurant",
+    "qualityScore": 2.0979619065061335
+  },
+  {
+    "id": "ChIJNQN0d73ZuxQR-oIpZt_CwfE",
+    "name": "Dolphins Statue",
+    "types": [
+      "monument",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2830,
+    "location": {
+      "lat": 38.45122,
+      "lng": 27.103731099999997
+    },
+    "gridId": "38.451,27.103",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.5164641647671604
+  },
+  {
+    "id": "ChIJX597CpTZuxQRdS4ltulLnmc",
+    "name": "The Optimist Coffee Co.",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1140,
+    "location": {
+      "lat": 38.4565069,
+      "lng": 27.0970524
+    },
+    "gridId": "38.456,27.097",
+    "primaryType": "cafe",
+    "qualityScore": 1.5828179238281979
+  },
+  {
+    "id": "ChIJt69R4YvZuxQR6wq3hjhVxII",
+    "name": "Jungle Burger",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1280,
+    "location": {
+      "lat": 38.458341499999996,
+      "lng": 27.097090599999998
+    },
+    "gridId": "38.458,27.097",
+    "primaryType": "restaurant",
+    "qualityScore": 1.7183503667836217
+  },
+  {
+    "id": "ChIJSZmChpbZuxQRfATkldfDtw4",
+    "name": "Şehnaz Özbek Mantısı",
+    "types": [
+      "dumpling_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1514,
+    "location": {
+      "lat": 38.454537099999996,
+      "lng": 27.1066862
+    },
+    "gridId": "38.454,27.106",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6861275614255662
+  },
+  {
+    "id": "ChIJmXbuJPrZuxQRIoUSLxv4wVE",
+    "name": "80ler kahvaltı",
+    "types": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 877,
+    "location": {
+      "lat": 38.4578451,
+      "lng": 27.101628899999998
+    },
+    "gridId": "38.457,27.101",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6276347275154384
+  },
+  {
+    "id": "ChIJd5g378nZuxQRRTicgnehIA4",
+    "name": "Karşıyaka Bazaar",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 15801,
+    "location": {
+      "lat": 38.455342,
+      "lng": 27.119732199999998
+    },
+    "gridId": "38.455,27.119",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.276037832108135
+  },
+  {
+    "id": "ChIJxTpjGrrZuxQRCTPXpmSVRjI",
+    "name": "Karşıyaka Sahil",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 4184,
+    "location": {
+      "lat": 38.4529613,
+      "lng": 27.117711999999997
+    },
+    "gridId": "38.452,27.117",
+    "primaryType": "park",
+    "qualityScore": 2.6402159920380446
+  },
+  {
+    "id": "ChIJ2WOAU9vZuxQRvi4f1fwzEJQ",
+    "name": "Coffee LAB Karşıyaka Löhner Köşkü",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1109,
+    "location": {
+      "lat": 38.4540271,
+      "lng": 27.1175288
+    },
+    "gridId": "38.454,27.117",
+    "primaryType": "cafe",
+    "qualityScore": 1.5766246125774281
+  },
+  {
+    "id": "ChIJTUqCzMfZuxQR-s3r0oDFqzI",
+    "name": "Latife Hanim Mansion and Memorial House",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3138,
+    "location": {
+      "lat": 38.458343500000005,
+      "lng": 27.113555899999998
+    },
+    "gridId": "38.458,27.113",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.437123675390302
+  },
+  {
+    "id": "ChIJHTh6r7fZuxQRc07_35yMDa8",
+    "name": "Efes Corner",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 240,
+    "location": {
+      "lat": 38.453505799999995,
+      "lng": 27.116988499999998
+    },
+    "gridId": "38.453,27.116",
+    "primaryType": "bar",
+    "qualityScore": 1.2912437984389848
+  },
+  {
+    "id": "ChIJz40HCcnZuxQRV8SViUSj-9k",
+    "name": "Pan Kitabevi Ve Cafe",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2550,
+    "location": {
+      "lat": 38.45663,
+      "lng": 27.1183192
+    },
+    "gridId": "38.456,27.118",
+    "primaryType": "cafe",
+    "qualityScore": 1.9316048300317508
+  },
+  {
+    "id": "ChIJB9X1_rnZuxQRueDcqYmnaPM",
+    "name": "Durock",
+    "types": [
+      "irish_pub",
+      "pub",
+      "bar",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1382,
+    "location": {
+      "lat": 38.4521498,
+      "lng": 27.1154366
+    },
+    "gridId": "38.452,27.115",
+    "primaryType": "bar",
+    "qualityScore": 1.7025768873936553
+  },
+  {
+    "id": "ChIJQ9NKILjZuxQRI72Z3McnrAU",
+    "name": "Catholic Church of St. Helen",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 243,
+    "location": {
+      "lat": 38.4547387,
+      "lng": 27.1145954
+    },
+    "gridId": "38.454,27.114",
+    "primaryType": "church",
+    "qualityScore": 1.2569607435673413
+  },
+  {
+    "id": "ChIJRXuOOKXZuxQRj6ShL0_A1GU",
+    "name": "Saygı müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 9,
+    "location": {
+      "lat": 38.455523,
+      "lng": 27.124214199999997
+    },
+    "gridId": "38.455,27.124",
+    "primaryType": "museum",
+    "qualityScore": 0.42336000000000007
+  },
+  {
+    "id": "ChIJlyL_A3bZuxQRUNd-j9nrW5Q",
+    "name": "Izmir Cruise Pirs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 42,
+    "location": {
+      "lat": 38.445512099999995,
+      "lng": 27.1474376
+    },
+    "gridId": "38.445,27.147",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.0373178080312608
+  },
+  {
+    "id": "ChIJv1DpOwDZuxQR-tXKJOPVkG4",
+    "name": "Erownienin Ayak Dükkani",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 23,
+    "location": {
+      "lat": 38.4471644,
+      "lng": 27.1489056
+    },
+    "gridId": "38.447,27.148",
+    "primaryType": "night_club",
+    "qualityScore": 1.1448024123252745
+  },
+  {
+    "id": "ChIJ62orgC3ZuxQROwMbaoLWhcM",
+    "name": "Alice Wonder Club",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 6,
+    "location": {
+      "lat": 38.452730599999995,
+      "lng": 27.1721096
+    },
+    "gridId": "38.452,27.172",
+    "primaryType": "night_club",
+    "qualityScore": 0.7605882360128311
+  },
+  {
+    "id": "ChIJq18U1LNjuRQRhfcfzkxTz0Y",
+    "name": "Mersinli Ciğerci Apo",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 13970,
+    "location": {
+      "lat": 38.4557675,
+      "lng": 27.1795029
+    },
+    "gridId": "38.455,27.179",
+    "primaryType": "restaurant",
+    "qualityScore": 1.9260385021860087
+  },
+  {
+    "id": "ChIJn3pzP0xjuRQR6N2LJD-pNVw",
+    "name": "MEŞHUR YILDIZ ASPAVA İZMİR DÖNER VE PİDE SALONU",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 3718,
+    "location": {
+      "lat": 38.4512467,
+      "lng": 27.180829
+    },
+    "gridId": "38.451,27.180",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5115756268700549
+  },
+  {
+    "id": "ChIJw6xT399juRQRMy_pVEu7Jw8",
+    "name": "Ziyade",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 3430,
+    "location": {
+      "lat": 38.4515436,
+      "lng": 27.182269899999998
+    },
+    "gridId": "38.451,27.182",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6426978824376208
+  },
+  {
+    "id": "ChIJe7ONB5FjuRQRlRjOA4yN1C4",
+    "name": "Arpa Suyu Midye Kokoreç",
+    "types": [
+      "beer_garden",
+      "bar",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 1218,
+    "location": {
+      "lat": 38.4518852,
+      "lng": 27.184248999999998
+    },
+    "gridId": "38.451,27.184",
+    "primaryType": "bar",
+    "qualityScore": 1.247733018255624
+  },
+  {
+    "id": "ChIJOQ0ZRZ1juRQRxBnyNCsZ9H4",
+    "name": "Sifon Gastropub",
+    "types": [
+      "cocktail_bar",
+      "gastropub",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4942,
+    "location": {
+      "lat": 38.4526989,
+      "lng": 27.1808245
+    },
+    "gridId": "38.452,27.180",
+    "primaryType": "bar",
+    "qualityScore": 2.3830672226204563
+  },
+  {
+    "id": "ChIJcfB7069iuRQRgPP9sYN02FU",
+    "name": "Efendiler Kulübü Yeni Nesil Meyhane",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5259,
+    "location": {
+      "lat": 38.4504291,
+      "lng": 27.185550199999998
+    },
+    "gridId": "38.450,27.185",
+    "primaryType": "bar",
+    "qualityScore": 2.301504102473971
+  },
+  {
+    "id": "ChIJkaPdz1d9uRQRpmFgRAkYzl8",
+    "name": "Pod Coffee & Eatery",
+    "types": [
+      "breakfast_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 456,
+    "location": {
+      "lat": 38.4507696,
+      "lng": 27.201916399999998
+    },
+    "gridId": "38.450,27.201",
+    "primaryType": "cafe",
+    "qualityScore": 1.5759471502173845
+  },
+  {
+    "id": "ChIJhY25DKx9uRQRUg6vbd9WNPU",
+    "name": "Hai Hai Pub (Sushi/Chinese/Mexican Kitchen)",
+    "types": [
+      "asian_restaurant",
+      "sushi_restaurant",
+      "mexican_restaurant",
+      "japanese_restaurant",
+      "pub",
+      "bar",
+      "association_or_organization",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 652,
+    "location": {
+      "lat": 38.4517507,
+      "lng": 27.2012014
+    },
+    "gridId": "38.451,27.201",
+    "primaryType": "bar",
+    "qualityScore": 1.3249233361625514
+  },
+  {
+    "id": "ChIJnRwPb7JiuRQRgRdGpH9GjSE",
+    "name": "Parachute Coffee House",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 807,
+    "location": {
+      "lat": 38.454322,
+      "lng": 27.185317899999998
+    },
+    "gridId": "38.454,27.185",
+    "primaryType": "cafe",
+    "qualityScore": 1.954594509621539
+  },
+  {
+    "id": "ChIJhS8TapLbuxQR53ex63whInQ",
+    "name": "Kemane Yuvalama Noktası",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 10,
+    "location": {
+      "lat": 38.460555899999996,
+      "lng": 27.0706189
+    },
+    "gridId": "38.460,27.070",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 0.6613260107828792
+  },
+  {
+    "id": "ChIJDcY7IkLbuxQR9N3_uwVWWuE",
+    "name": "Karşıyaka Spor tarihi müzesi",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 11,
+    "location": {
+      "lat": 38.4677113,
+      "lng": 27.068949999999997
+    },
+    "gridId": "38.467,27.068",
+    "primaryType": "museum",
+    "qualityScore": 0.6475087476285749
+  },
+  {
+    "id": "ChIJS4tIW4vZuxQRgiDNdnNQRc0",
+    "name": "Yasemin Restaurant - Cafe",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 9528,
+    "location": {
+      "lat": 38.462641999999995,
+      "lng": 27.084597
+    },
+    "gridId": "38.462,27.084",
+    "primaryType": "cafe",
+    "qualityScore": 1.8728579958478675
+  },
+  {
+    "id": "ChIJF_aLAZrZuxQRutkcf2plOuw",
+    "name": "Rast Bira Bahçesi",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1671,
+    "location": {
+      "lat": 38.467740299999996,
+      "lng": 27.0859354
+    },
+    "gridId": "38.467,27.085",
+    "primaryType": "bar",
+    "qualityScore": 1.5171128490241186
+  },
+  {
+    "id": "ChIJh-esqvTZuxQRnZICKel0ajU",
+    "name": "H. Mustafa Mosque Besikcioglu",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 785,
+    "location": {
+      "lat": 38.463155,
+      "lng": 27.085187899999998
+    },
+    "gridId": "38.463,27.085",
+    "primaryType": "mosque",
+    "qualityScore": 2.3452922622919203
+  },
+  {
+    "id": "ChIJ5dJ-bSLZuxQRqB6pBoJqhWs",
+    "name": "Cadı'nın Evi BOSTANLI",
+    "types": [
+      "chocolate_shop",
+      "dessert_restaurant",
+      "candy_store",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2145,
+    "location": {
+      "lat": 38.460279199999995,
+      "lng": 27.090999
+    },
+    "gridId": "38.460,27.090",
+    "primaryType": "cafe",
+    "qualityScore": 1.6455585501317764
+  },
+  {
+    "id": "ChIJ0-n__5LZuxQRkJlubCvzt-Q",
+    "name": "Starbucks",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 2349,
+    "location": {
+      "lat": 38.458808,
+      "lng": 27.0942445
+    },
+    "gridId": "38.458,27.094",
+    "primaryType": "cafe",
+    "qualityScore": 1.5866942214140605
+  },
+  {
+    "id": "ChIJhcHfRfLZuxQRHFQAuTBPUgY",
+    "name": "Hasan Turkish Football Fields",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 426,
+    "location": {
+      "lat": 38.4658596,
+      "lng": 27.089495000000003
+    },
+    "gridId": "38.465,27.089",
+    "primaryType": "stadium",
+    "qualityScore": 1.29922093603236
+  },
+  {
+    "id": "ChIJbYZw5JPZuxQRoLItL4yDQsU",
+    "name": "Pizza Locale",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2635,
+    "location": {
+      "lat": 38.463690199999995,
+      "lng": 27.092148299999998
+    },
+    "gridId": "38.463,27.092",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5895080734075855
+  },
+  {
+    "id": "ChIJDSVxFa3ZuxQRKof0K5rgMWQ",
+    "name": "Künefeci Sergen Usta",
+    "types": [
+      "dessert_shop",
+      "ice_cream_shop",
+      "dessert_restaurant",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1436,
+    "location": {
+      "lat": 38.4653047,
+      "lng": 27.089912199999997
+    },
+    "gridId": "38.465,27.089",
+    "primaryType": "cafe",
+    "qualityScore": 1.790277987532106
+  },
+  {
+    "id": "ChIJbajuXwzZuxQRY9z1700B6Yg",
+    "name": "Bostanlı Meyhanesi",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 287,
+    "location": {
+      "lat": 38.462903,
+      "lng": 27.0928108
+    },
+    "gridId": "38.462,27.092",
+    "primaryType": "bar",
+    "qualityScore": 1.273276678762709
+  },
+  {
+    "id": "ChIJJw_MbarZuxQRTKmaRyJL33k",
+    "name": "Cordelion Sports Pub",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 467,
+    "location": {
+      "lat": 38.4646106,
+      "lng": 27.084206599999998
+    },
+    "gridId": "38.464,27.084",
+    "primaryType": "bar",
+    "qualityScore": 1.2568313181249284
+  },
+  {
+    "id": "ChIJfQNVv7PZuxQRbME2gLppeoU",
+    "name": "ingo Breakfast Club",
+    "types": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 443,
+    "location": {
+      "lat": 38.46178,
+      "lng": 27.093154
+    },
+    "gridId": "38.461,27.093",
+    "primaryType": "cafe",
+    "qualityScore": 1.4350933604397333
+  },
+  {
+    "id": "ChIJ8WzwnZPZuxQRh_5pqpnpUOw",
+    "name": "Bravo Patiserie",
+    "types": [
+      "pastry_shop",
+      "ice_cream_shop",
+      "bakery",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 5564,
+    "location": {
+      "lat": 38.458276399999995,
+      "lng": 27.0952044
+    },
+    "gridId": "38.458,27.095",
+    "primaryType": "cafe",
+    "qualityScore": 1.9391022271242084
+  },
+  {
+    "id": "ChIJ4zKoJ_nZuxQRyqI5XQkGN7E",
+    "name": "Goldenfingers Burger & Cheesesteak",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2946,
+    "location": {
+      "lat": 38.4605684,
+      "lng": 27.0967089
+    },
+    "gridId": "38.460,27.096",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6861187460230638
+  },
+  {
+    "id": "ChIJQ0N_1mrZuxQRiIT5SiB9hZw",
+    "name": "Makco",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2101,
+    "location": {
+      "lat": 38.4598662,
+      "lng": 27.1008765
+    },
+    "gridId": "38.459,27.100",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6147994978824205
+  },
+  {
+    "id": "ChIJeUxlxD_ZuxQRSATeoRNQc1Y",
+    "name": "Türker Alcohol Center",
+    "types": [
+      "general_store",
+      "liquor_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 587,
+    "location": {
+      "lat": 38.465366599999996,
+      "lng": 27.106129199999998
+    },
+    "gridId": "38.465,27.106",
+    "primaryType": "liquor_store",
+    "qualityScore": 1.5313548862270616
+  },
+  {
+    "id": "ChIJXyfWz8nZuxQR_5ZNz8RkBzE",
+    "name": "Mustafa Kemalpaşa Mosque",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 840,
+    "location": {
+      "lat": 38.4556703,
+      "lng": 27.118147699999998
+    },
+    "gridId": "38.455,27.118",
+    "primaryType": "mosque",
+    "qualityScore": 2.4755473308433524
+  },
+  {
+    "id": "ChIJyzjp88nZuxQRf069T7hxE40",
+    "name": "Starbucks",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1513,
+    "location": {
+      "lat": 38.4559108,
+      "lng": 27.1201474
+    },
+    "gridId": "38.455,27.120",
+    "primaryType": "cafe",
+    "qualityScore": 1.4968216469222166
+  },
+  {
+    "id": "ChIJ64flSTPYuxQR_x-Tq7T_Z7E",
+    "name": "Cafe Boatyard",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 3494,
+    "location": {
+      "lat": 38.459009,
+      "lng": 27.1269349
+    },
+    "gridId": "38.459,27.126",
+    "primaryType": "cafe",
+    "qualityScore": 1.6678297187208544
+  },
+  {
+    "id": "ChIJ3xZllQ3ZuxQRA-PS8DAxVQ0",
+    "name": "Fafuly Karadeniz Mutfağı",
+    "types": [
+      "restaurant",
+      "brunch_restaurant",
+      "turkish_restaurant",
+      "seafood_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2573,
+    "location": {
+      "lat": 38.4654348,
+      "lng": 27.126171799999998
+    },
+    "gridId": "38.465,27.126",
+    "primaryType": "restaurant",
+    "qualityScore": 1.6575557516882269
+  },
+  {
+    "id": "ChIJA3-7XszZuxQRah2eXUsee98",
+    "name": "Alaybey Camii",
+    "types": [
+      "mosque",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 242,
+    "location": {
+      "lat": 38.4601862,
+      "lng": 27.123233499999998
+    },
+    "gridId": "38.460,27.123",
+    "primaryType": "mosque",
+    "qualityScore": 1.932341081614633
+  },
+  {
+    "id": "ChIJC8CeO9rZuxQR18C_vs9dII8",
+    "name": "Ata Bisiklet & Coffee",
+    "types": [
+      "bicycle_store",
+      "cafe",
+      "sporting_goods_store",
+      "store",
+      "food",
+      "manufacturer",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 173,
+    "location": {
+      "lat": 38.4611401,
+      "lng": 27.126990199999998
+    },
+    "gridId": "38.461,27.126",
+    "primaryType": "cafe",
+    "qualityScore": 1.4454231310520704
+  },
+  {
+    "id": "ChIJ8yMyBvjXuxQRy1G-U2JVkbc",
+    "name": "Bayraklı Sahil",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 8129,
+    "location": {
+      "lat": 38.463755299999995,
+      "lng": 27.162450699999997
+    },
+    "gridId": "38.463,27.162",
+    "primaryType": "park",
+    "qualityScore": 2.4830639000740575
+  },
+  {
+    "id": "ChIJ6UT2BPnXuxQRHHmTUz5rOwc",
+    "name": "Bayraklı Merkez Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 207,
+    "location": {
+      "lat": 38.4658333,
+      "lng": 27.1652778
+    },
+    "gridId": "38.465,27.165",
+    "primaryType": "mosque",
+    "qualityScore": 2.0482407627730965
+  },
+  {
+    "id": "ChIJK7HSEf_XuxQRj3AMHe3bKZo",
+    "name": "Smyrna Bayraklı Höyüğü",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 173,
+    "location": {
+      "lat": 38.4642546,
+      "lng": 27.1694417
+    },
+    "gridId": "38.464,27.169",
+    "primaryType": "museum",
+    "qualityScore": 0.8603709113405184
+  },
+  {
+    "id": "ChIJ2d7WfJl9uRQR1OscGy8ofM0",
+    "name": "Üstat Kebap",
+    "types": [
+      "kebab_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1670,
+    "location": {
+      "lat": 38.4627577,
+      "lng": 27.182575
+    },
+    "gridId": "38.462,27.182",
+    "primaryType": "restaurant",
+    "qualityScore": 1.7086931946754806
+  },
+  {
+    "id": "ChIJ3ZHCH1J9uRQR7kwrPjvQAgc",
+    "name": "Manavkuyu Fatih Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 282,
+    "location": {
+      "lat": 38.4630556,
+      "lng": 27.1838889
+    },
+    "gridId": "38.463,27.183",
+    "primaryType": "mosque",
+    "qualityScore": 2.0751920390277587
+  },
+  {
+    "id": "ChIJx4vcbgBjuRQRyuyQ5YVY0lI",
+    "name": "Cadı’nın Evi Bayraklı",
+    "types": [
+      "dessert_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 273,
+    "location": {
+      "lat": 38.4548177,
+      "lng": 27.1817907
+    },
+    "gridId": "38.454,27.181",
+    "primaryType": "cafe",
+    "qualityScore": 1.5077974781156664
+  },
+  {
+    "id": "ChIJRyQQG0h9uRQR0q0w98bm-gA",
+    "name": "Taşkent Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 238,
+    "location": {
+      "lat": 38.464107999999996,
+      "lng": 27.196476099999998
+    },
+    "gridId": "38.464,27.196",
+    "primaryType": "mosque",
+    "qualityScore": 2.013075983362503
+  },
+  {
+    "id": "ChIJT8YPduF9uRQRlKVhk9KXqw0",
+    "name": "Cafe Şölen",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 894,
+    "location": {
+      "lat": 38.4599745,
+      "lng": 27.193563599999997
+    },
+    "gridId": "38.459,27.193",
+    "primaryType": "cafe",
+    "qualityScore": 1.673683661024122
+  },
+  {
+    "id": "ChIJpTmE7DV9uRQRXXl2jhHtWoQ",
+    "name": "Batı Sineması",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 838,
+    "location": {
+      "lat": 38.4588651,
+      "lng": 27.1983078
+    },
+    "gridId": "38.458,27.198",
+    "primaryType": "movie_theater",
+    "qualityScore": 1.6504051516485854
+  },
+  {
+    "id": "ChIJpbUsDF59uRQRzOkPr5VDE_o",
+    "name": "Kırık Kalpler Dükkanı",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 346,
+    "location": {
+      "lat": 38.4621297,
+      "lng": 27.1974721
+    },
+    "gridId": "38.462,27.197",
+    "primaryType": "cafe",
+    "qualityScore": 1.4403668122064253
+  },
+  {
+    "id": "ChIJm2Klj5J9uRQRzIC9XkXiuYE",
+    "name": "Küçükpark",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 1889,
+    "location": {
+      "lat": 38.4601109,
+      "lng": 27.2133902
+    },
+    "gridId": "38.460,27.213",
+    "primaryType": "park",
+    "qualityScore": 2.0806843041221774
+  },
+  {
+    "id": "ChIJI21-Rjt9uRQRXYZg7gSW9A4",
+    "name": "Aşık Veysel Rekreasyon Alanı",
+    "types": [
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 7422,
+    "location": {
+      "lat": 38.4674967,
+      "lng": 27.2090203
+    },
+    "gridId": "38.467,27.209",
+    "primaryType": "park",
+    "qualityScore": 2.8216524267429075
+  },
+  {
+    "id": "ChIJnTXU8CZ9uRQRk3mmmtcY2TI",
+    "name": "Büyükpark",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 10768,
+    "location": {
+      "lat": 38.4625244,
+      "lng": 27.216949399999997
+    },
+    "gridId": "38.462,27.216",
+    "primaryType": "park",
+    "qualityScore": 2.8102649507269923
+  },
+  {
+    "id": "ChIJIUlNZyp9uRQR9mKpvr5g428",
+    "name": "Berry Coffee Company Bornova",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1084,
+    "location": {
+      "lat": 38.461199,
+      "lng": 27.215069099999997
+    },
+    "gridId": "38.461,27.215",
+    "primaryType": "cafe",
+    "qualityScore": 1.571502684052904
+  },
+  {
+    "id": "ChIJWY5CyHB9uRQRbJBeKdXeCGs",
+    "name": "Punt Ancient Pub",
+    "types": [
+      "cocktail_bar",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 3793,
+    "location": {
+      "lat": 38.4617563,
+      "lng": 27.2129227
+    },
+    "gridId": "38.461,27.212",
+    "primaryType": "bar",
+    "qualityScore": 2.2137432784193414
+  },
+  {
+    "id": "ChIJQf_-tTp9uRQRnYVyf_zkYic",
+    "name": "Bornova Stadium",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 469,
+    "location": {
+      "lat": 38.4634436,
+      "lng": 27.2077946
+    },
+    "gridId": "38.463,27.207",
+    "primaryType": "stadium",
+    "qualityScore": 1.1379930357376635
+  },
+  {
+    "id": "ChIJC9sTdiB9uRQR9NjCRqMKqK0",
+    "name": "Üniversite 2 Unlu Mamulleri",
+    "types": [
+      "bakery",
+      "brunch_restaurant",
+      "pastry_shop",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 3269,
+    "location": {
+      "lat": 38.4600352,
+      "lng": 27.2140843
+    },
+    "gridId": "38.460,27.214",
+    "primaryType": "cafe",
+    "qualityScore": 1.819551662507283
+  },
+  {
+    "id": "ChIJi7qjS919uRQRGA_BrArq1Fs",
+    "name": "Bavyera Gastro & Pub",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1666,
+    "location": {
+      "lat": 38.4603057,
+      "lng": 27.2117847
+    },
+    "gridId": "38.460,27.211",
+    "primaryType": "bar",
+    "qualityScore": 1.5165006481270453
+  },
+  {
+    "id": "ChIJndfTY019uRQRUW_6jsjxk2o",
+    "name": "Boho Social Pub",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5221,
+    "location": {
+      "lat": 38.4647521,
+      "lng": 27.227783199999998
+    },
+    "gridId": "38.464,27.227",
+    "primaryType": "bar",
+    "qualityScore": 2.2995564592780133
+  },
+  {
+    "id": "ChIJN8-bsiB9uRQRgfMdFrhat9U",
+    "name": "Buenas",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2284,
+    "location": {
+      "lat": 38.4640913,
+      "lng": 27.2195948
+    },
+    "gridId": "38.464,27.219",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5606728860151435
+  },
+  {
+    "id": "ChIJqWjxdtt8uRQRc_8Jg0yj1AA",
+    "name": "Bilal Saygılı Camii Ve Külliyesi",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 742,
+    "location": {
+      "lat": 38.4611792,
+      "lng": 27.2297793
+    },
+    "gridId": "38.461,27.229",
+    "primaryType": "mosque",
+    "qualityScore": 2.6459032907617464
+  },
+  {
+    "id": "ChIJxeeIryB9uRQRyo4XxmeswqA",
+    "name": "Arkas Maritime History Center",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 524,
+    "location": {
+      "lat": 38.463504,
+      "lng": 27.219988100000002
+    },
+    "gridId": "38.463,27.219",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.2562089326170374
+  },
+  {
+    "id": "ChIJ1Sjx_Sx9uRQRlgYAj-M6bo0",
+    "name": "Natural History Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 416,
+    "location": {
+      "lat": 38.458715399999996,
+      "lng": 27.231287
+    },
+    "gridId": "38.458,27.231",
+    "primaryType": "museum",
+    "qualityScore": 1.2733861227172463
+  },
+  {
+    "id": "ChIJoXd-jBzauxQR_t1IkfYUNSw",
+    "name": "MaviBahçe",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 31381,
+    "location": {
+      "lat": 38.4737602,
+      "lng": 27.074342299999998
+    },
+    "gridId": "38.473,27.074",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.5496179104446504
+  },
+  {
+    "id": "ChIJc6OuBh_auxQRyWLXnm7sF6s",
+    "name": "Deniz Kent Restaurant",
+    "types": [
+      "restaurant",
+      "seafood_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 6045,
+    "location": {
+      "lat": 38.467555999999995,
+      "lng": 27.076683
+    },
+    "gridId": "38.467,27.076",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5255955075480947
+  },
+  {
+    "id": "ChIJu0JEFmS3yhQRXRXE9Cu4LH8",
+    "name": "Paribu Cineverse Mavibahçe",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 6402,
+    "location": {
+      "lat": 38.4747255,
+      "lng": 27.0747827
+    },
+    "gridId": "38.474,27.074",
+    "primaryType": "movie_theater",
+    "qualityScore": 2.252160990359323
+  },
+  {
+    "id": "ChIJH_Sm14HZuxQR5u68k9okBvM",
+    "name": "Soldout Performance Hall",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 1597,
+    "location": {
+      "lat": 38.4748726,
+      "lng": 27.074169299999998
+    },
+    "gridId": "38.474,27.074",
+    "primaryType": "bar",
+    "qualityScore": 1.364339276927619
+  },
+  {
+    "id": "ChIJ_zXWpxDauxQRbdAh0Vb161M",
+    "name": "TAY PARK",
+    "types": [
+      "cafe",
+      "park",
+      "sports_school",
+      "sports_coaching",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 1604,
+    "location": {
+      "lat": 38.473245999999996,
+      "lng": 27.067489
+    },
+    "gridId": "38.473,27.067",
+    "primaryType": "cafe",
+    "qualityScore": 1.4360528164599193
+  },
+  {
+    "id": "ChIJGY9LLq_buxQRFh8ubMEdpYg",
+    "name": "Memur Kardeşler Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 373,
+    "location": {
+      "lat": 38.4747793,
+      "lng": 27.068720300000003
+    },
+    "gridId": "38.474,27.068",
+    "primaryType": "mosque",
+    "qualityScore": 2.4709858867533416
+  },
+  {
+    "id": "ChIJI8xrsR_auxQRt2-Gw-BHVh8",
+    "name": "Mavişehir Sahili",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1048,
+    "location": {
+      "lat": 38.4673422,
+      "lng": 27.0774647
+    },
+    "gridId": "38.467,27.077",
+    "primaryType": "park",
+    "qualityScore": 2.301105935886324
+  },
+  {
+    "id": "ChIJAcD6B9zbuxQRrpP7zkSQLRs",
+    "name": "Container Park Mavişehir",
+    "types": [
+      "beer_garden",
+      "pizza_restaurant",
+      "sandwich_shop",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 470,
+    "location": {
+      "lat": 38.4725422,
+      "lng": 27.0736095
+    },
+    "gridId": "38.472,27.073",
+    "primaryType": "bar",
+    "qualityScore": 1.515602854342084
+  },
+  {
+    "id": "ChIJuykApvnZuxQRhYK4EUcRxWY",
+    "name": "Universal Children's Museum and Theme Park",
+    "types": [
+      "tourist_attraction",
+      "planetarium",
+      "educational_institution",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1913,
+    "location": {
+      "lat": 38.474800699999996,
+      "lng": 27.0833072
+    },
+    "gridId": "38.474,27.083",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.9860999804410493
+  },
+  {
+    "id": "ChIJs4VgEfHZuxQRVioNap-_puc",
+    "name": "Alsancak Dostlar Fırını - KARŞIYAKA Boyoz",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1784,
+    "location": {
+      "lat": 38.469252999999995,
+      "lng": 27.087225
+    },
+    "gridId": "38.469,27.087",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5802961751378313
+  },
+  {
+    "id": "ChIJFZrUh-bZuxQR5N_Egk1ap9Y",
+    "name": "Cey Alcohol Center Prime",
+    "types": [
+      "deli",
+      "liquor_store",
+      "grocery_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2267,
+    "location": {
+      "lat": 38.472503599999996,
+      "lng": 27.0973597
+    },
+    "gridId": "38.472,27.097",
+    "primaryType": "liquor_store",
+    "qualityScore": 1.8555363810501315
+  },
+  {
+    "id": "ChIJIWA2MsLZuxQRv4oPtYZZljY",
+    "name": "Goncalar Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 288,
+    "location": {
+      "lat": 38.463820999999996,
+      "lng": 27.105603799999997
+    },
+    "gridId": "38.463,27.105",
+    "primaryType": "mosque",
+    "qualityScore": 1.9057192894306711
+  },
+  {
+    "id": "ChIJvTZOm-_ZuxQRKFOdCS1Yv3c",
+    "name": "Şemikler Merkez Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 351,
+    "location": {
+      "lat": 38.4703553,
+      "lng": 27.093754999999998
+    },
+    "gridId": "38.470,27.093",
+    "primaryType": "mosque",
+    "qualityScore": 2.0626995574172864
+  },
+  {
+    "id": "ChIJR7A5UX3XuxQRco4M8WV4SQs",
+    "name": "Ayder Karadeniz Ev Yemekleri",
+    "types": [
+      "turkish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1453,
+    "location": {
+      "lat": 38.475803,
+      "lng": 27.115102999999998
+    },
+    "gridId": "38.475,27.115",
+    "primaryType": "restaurant",
+    "qualityScore": 1.5370063015701871
+  },
+  {
+    "id": "ChIJXT-zkIDXuxQRbkWvZd0Zi2I",
+    "name": "Gümüşpala Hizmet İzmir İslami İlimler Federasyonu",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 120,
+    "location": {
+      "lat": 38.472338,
+      "lng": 27.130474699999997
+    },
+    "gridId": "38.472,27.130",
+    "primaryType": "mosque",
+    "qualityScore": 2.0003070696519187
+  },
+  {
+    "id": "ChIJ8WBSwvPXuxQRFhM4DXMkfd8",
+    "name": "Terrace Cafe Baybel",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 2257,
+    "location": {
+      "lat": 38.4717887,
+      "lng": 27.1548172
+    },
+    "gridId": "38.471,27.154",
+    "primaryType": "cafe",
+    "qualityScore": 1.5024683240398493
+  },
+  {
+    "id": "ChIJpYxTu_XXuxQRFxxOvjj3KcQ",
+    "name": "Tac Mahal",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.5,
+    "totalReviews": 410,
+    "location": {
+      "lat": 38.4672333,
+      "lng": 27.153688199999998
+    },
+    "gridId": "38.467,27.153",
+    "primaryType": "night_club",
+    "qualityScore": 1.1527042434473465
+  },
+  {
+    "id": "ChIJjfzV8LzXuxQRLjIpMQwoVwU",
+    "name": "Montana After",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.5,
+    "totalReviews": 20,
+    "location": {
+      "lat": 38.467754899999996,
+      "lng": 27.154085
+    },
+    "gridId": "38.467,27.154",
+    "primaryType": "night_club",
+    "qualityScore": 0.5830987089776584
+  },
+  {
+    "id": "ChIJqZwFKYjXuxQR8SplN9rT-dY",
+    "name": "Şehit Teğmen Önder Sert Spor ve Park Alanı",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 210,
+    "location": {
+      "lat": 38.469367,
+      "lng": 27.1405861
+    },
+    "gridId": "38.469,27.140",
+    "primaryType": "stadium",
+    "qualityScore": 1.1480095903206364
+  },
+  {
+    "id": "ChIJG8tfO1p9uRQRXuU196zl5u0",
+    "name": "Çay Mahallesi Sancak Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 244,
+    "location": {
+      "lat": 38.470592599999996,
+      "lng": 27.1801231
+    },
+    "gridId": "38.470,27.180",
+    "primaryType": "mosque",
+    "qualityScore": 2.02219017380614
+  },
+  {
+    "id": "ChIJ5fITdU59uRQR3MEdNyONqrA",
+    "name": "Mopub&chill",
+    "types": [
+      "pub",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 290,
+    "location": {
+      "lat": 38.4630607,
+      "lng": 27.2125997
+    },
+    "gridId": "38.463,27.212",
+    "primaryType": "bar",
+    "qualityScore": 1.3356271114694809
+  },
+  {
+    "id": "ChIJ-9sOEyR9uRQRAIRcTyvscnc",
+    "name": "Paterson Köşkü",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 567,
+    "location": {
+      "lat": 38.4642628,
+      "lng": 27.213443899999998
+    },
+    "gridId": "38.464,27.213",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.431820438836016
+  },
+  {
+    "id": "ChIJaefYQCB9uRQRfS_m_Yv6VG8",
+    "name": "Hüseyin İsabey Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 402,
+    "location": {
+      "lat": 38.4675444,
+      "lng": 27.218872299999997
+    },
+    "gridId": "38.467,27.218",
+    "primaryType": "mosque",
+    "qualityScore": 2.2051301910538346
+  },
+  {
+    "id": "ChIJy1Tn33F9uRQR4Pec6JjWU1Y",
+    "name": "Silent Cafe Bornova",
+    "types": [
+      "library",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 317,
+    "location": {
+      "lat": 38.4643197,
+      "lng": 27.2160938
+    },
+    "gridId": "38.464,27.216",
+    "primaryType": "library",
+    "qualityScore": 1.5478012222527715
+  },
+  {
+    "id": "ChIJc0geZiV9uRQRIuh42nL9PyY",
+    "name": "FUO Coffee",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 208,
+    "location": {
+      "lat": 38.4651315,
+      "lng": 27.2092484
+    },
+    "gridId": "38.465,27.209",
+    "primaryType": "cafe",
+    "qualityScore": 1.4967727720959627
+  },
+  {
+    "id": "ChIJywffBTt9uRQRBJSxZGXCWD4",
+    "name": "Bodrum Balıkçısı Bahri Baba",
+    "types": [
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 352,
+    "location": {
+      "lat": 38.4653875,
+      "lng": 27.2063847
+    },
+    "gridId": "38.465,27.206",
+    "primaryType": "bar",
+    "qualityScore": 1.2583968824851535
+  },
+  {
+    "id": "ChIJwxsj0ud8uRQRHkYYYN0ep1A",
+    "name": "Topraktan",
+    "types": [
+      "pastry_shop",
+      "dessert_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "bakery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2712,
+    "location": {
+      "lat": 38.4680556,
+      "lng": 27.231666699999998
+    },
+    "gridId": "38.468,27.231",
+    "primaryType": "cafe",
+    "qualityScore": 1.9467660330628251
+  },
+  {
+    "id": "ChIJ7dyf-OZ8uRQRM6COQtbeZ2U",
+    "name": "Ali Rıza Güven Camii",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 315,
+    "location": {
+      "lat": 38.469166699999995,
+      "lng": 27.2294444
+    },
+    "gridId": "38.469,27.229",
+    "primaryType": "mosque",
+    "qualityScore": 2.1157351467282166
+  },
+  {
+    "id": "ChIJaUJPCyB9uRQRR_nIpJxd7o8",
+    "name": "Dramalılar Köşkü",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 169,
+    "location": {
+      "lat": 38.4674124,
+      "lng": 27.2203026
+    },
+    "gridId": "38.467,27.220",
+    "primaryType": "museum",
+    "qualityScore": 1.0839981757898414
+  },
+  {
+    "id": "ChIJYdc6eN3buxQRFaCcNYREac4",
+    "name": "Lofthouse Garage",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 94,
+    "location": {
+      "lat": 38.4811775,
+      "lng": 27.0529518
+    },
+    "gridId": "38.481,27.052",
+    "primaryType": "night_club",
+    "qualityScore": 1.3783942439421157
+  },
+  {
+    "id": "ChIJV9eFwdPZuxQRRyPoIll9MKg",
+    "name": "Hilltown Shopping Mall",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 23849,
+    "location": {
+      "lat": 38.479447199999996,
+      "lng": 27.074672399999997
+    },
+    "gridId": "38.479,27.074",
+    "primaryType": "shopping_mall",
+    "qualityScore": 2.4820359133742675
+  },
+  {
+    "id": "ChIJTy7ppSnZuxQRRBoB7KE08yQ",
+    "name": "İzmir Aspava",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 3814,
+    "location": {
+      "lat": 38.4775923,
+      "lng": 27.086429499999998
+    },
+    "gridId": "38.477,27.086",
+    "primaryType": "restaurant",
+    "qualityScore": 1.8188261883570096
+  },
+  {
+    "id": "ChIJZenFuALZuxQRq7Z-aNj2S1c",
+    "name": "1040 Mavişehir",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3,
+    "totalReviews": 157,
+    "location": {
+      "lat": 38.4784182,
+      "lng": 27.0815399
+    },
+    "gridId": "38.478,27.081",
+    "primaryType": "night_club",
+    "qualityScore": 0.712364896173233
+  },
+  {
+    "id": "ChIJ3c_naR3XuxQRLi9h4ly5HFo",
+    "name": "Coffeerem - Karşıyaka",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 403,
+    "location": {
+      "lat": 38.4824483,
+      "lng": 27.112629700000003
+    },
+    "gridId": "38.482,27.112",
+    "primaryType": "cafe",
+    "qualityScore": 1.6120990019482118
+  },
+  {
+    "id": "ChIJRVrGkHzXuxQRnEw0y9_X7No",
+    "name": "İzzet Erişen Cami",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 179,
+    "location": {
+      "lat": 38.479175,
+      "lng": 27.116595
+    },
+    "gridId": "38.479,27.116",
+    "primaryType": "mosque",
+    "qualityScore": 1.9088626483194377
+  },
+  {
+    "id": "ChIJfSwxfZHXuxQRQiVKNMUule8",
+    "name": "İzmir Atatürk Ormanı",
+    "types": [
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 90,
+    "location": {
+      "lat": 38.4803217,
+      "lng": 27.143993199999997
+    },
+    "gridId": "38.480,27.143",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 1.3040163123846127
+  },
+  {
+    "id": "ChIJU5S_rEV9uRQRdfeuq4TkFHo",
+    "name": "Funtastic Aquariums İzmir",
+    "types": [
+      "aquarium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 7422,
+    "location": {
+      "lat": 38.4807518,
+      "lng": 27.178617799999998
+    },
+    "gridId": "38.480,27.178",
+    "primaryType": "aquarium",
+    "qualityScore": 2.3423198663480624
+  },
+  {
+    "id": "ChIJDzBLzqd9uRQRGOYc6qA1Du0",
+    "name": "Westpark Özsüt",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1570,
+    "location": {
+      "lat": 38.4803396,
+      "lng": 27.181309199999998
+    },
+    "gridId": "38.480,27.181",
+    "primaryType": "cafe",
+    "qualityScore": 1.5043762067746143
+  }
+]

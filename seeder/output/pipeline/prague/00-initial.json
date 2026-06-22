@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "ChIJn7WO5eWUC0cRJrHT0TiXIHU",
+    "name": "Charles Bridge",
+    "types": [
+      "bridge",
+      "tourist_attraction",
+      "transportation_service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 194388,
+    "location": {
+      "lat": 50.0864771,
+      "lng": 14.411436600000002
+    },
+    "gridId": "50.086,14.411",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 4.3866358429196
+  },
+  {
+    "id": "ChIJIfpRNOmUC0cRxHIewgck75c",
+    "name": "Old Town Square",
+    "types": [
+      "plaza",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 120298,
+    "location": {
+      "lat": 50.0875692,
+      "lng": 14.421187399999999
+    },
+    "gridId": "50.087,14.421",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 4.21377252757075
+  },
+  {
+    "id": "ChIJw7ckbB6VC0cRnyUSr4g8zyo",
+    "name": "Prague Castle",
+    "types": [
+      "castle",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 197631,
+    "location": {
+      "lat": 50.0910966,
+      "lng": 14.4016165
+    },
+    "gridId": "50.091,14.401",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 4.211477531933586
+  },
+  {
+    "id": "ChIJW08COB6VC0cRoonZ8lA4rWk",
+    "name": "St. Vitus Cathedral",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 94341,
+    "location": {
+      "lat": 50.090891799999994,
+      "lng": 14.4005114
+    },
+    "gridId": "50.090,14.400",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 4.126219380575034
+  },
+  {
+    "id": "ChIJmwPb-dTqC0cRvbXrAjxU2ZY",
+    "name": "Prague Zoo",
+    "types": [
+      "zoo",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 68436,
+    "location": {
+      "lat": 50.1177321,
+      "lng": 14.406201300000001
+    },
+    "gridId": "50.117,14.406",
+    "primaryType": "zoo",
+    "qualityScore": 4.010583736832542
+  },
+  {
+    "id": "ChIJSS_AOemUC0cRlgaiWrJEe_E",
+    "name": "Prague Astronomical Clock",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 97522,
+    "location": {
+      "lat": 50.0870215,
+      "lng": 14.420706500000001
+    },
+    "gridId": "50.087,14.420",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.967537492486896
+  },
+  {
+    "id": "ChIJm3K2Pe2UC0cRr_kkQrOB3D8",
+    "name": "Duplex",
+    "types": [
+      "night_club",
+      "lounge_bar",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 54964,
+    "location": {
+      "lat": 50.082584,
+      "lng": 14.426568999999999
+    },
+    "gridId": "50.082,14.426",
+    "primaryType": "night_club",
+    "qualityScore": 3.9316171245234766
+  },
+  {
+    "id": "ChIJCd13PWeUC0cRZihTX2RPn0w",
+    "name": "Vyšehrad",
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 52672,
+    "location": {
+      "lat": 50.064194099999995,
+      "lng": 14.4188977
+    },
+    "gridId": "50.064,14.418",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.916273995825514
+  },
+  {
+    "id": "ChIJBfIPBeuUC0cRphNG7F-4SZM",
+    "name": "The Powder Tower",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 48282,
+    "location": {
+      "lat": 50.087272999999996,
+      "lng": 14.4277887
+    },
+    "gridId": "50.087,14.427",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.5679271052700474
+  },
+  {
+    "id": "ChIJbSZndNuUC0cR2lgM9o_zW5Q",
+    "name": "Letna Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 28969,
+    "location": {
+      "lat": 50.0959864,
+      "lng": 14.4152831
+    },
+    "gridId": "50.095,14.415",
+    "primaryType": "park",
+    "qualityScore": 3.5483199213258403
+  },
+  {
+    "id": "ChIJ2QFPvc-UC0cR-yep7ub8N78",
+    "name": "Královská obora Stromovka",
+    "types": [
+      "city_park",
+      "hiking_area",
+      "tourist_attraction",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 17653,
+    "location": {
+      "lat": 50.1063295,
+      "lng": 14.419128899999999
+    },
+    "gridId": "50.106,14.419",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.5225015593201348
+  },
+  {
+    "id": "ChIJ6b6z1OaUC0cROV8QtOpp8W0",
+    "name": "Waldstein Garden",
+    "types": [
+      "garden",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 14829,
+    "location": {
+      "lat": 50.090402999999995,
+      "lng": 14.407880599999999
+    },
+    "gridId": "50.090,14.407",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.459711316308981
+  },
+  {
+    "id": "ChIJKatTv-iUC0cR_ptOFAQG8Z0",
+    "name": "National Theatre",
+    "types": [
+      "performing_arts_theater",
+      "tourist_attraction",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 14617,
+    "location": {
+      "lat": 50.0808458,
+      "lng": 14.413575299999998
+    },
+    "gridId": "50.080,14.413",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.4545246675085752
+  },
+  {
+    "id": "ChIJEw1qJX6UC0cRZz0wkkTsrcg",
+    "name": "Grébovka (Havlíčkovy sady)",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 13887,
+    "location": {
+      "lat": 50.069469600000005,
+      "lng": 14.4449921
+    },
+    "gridId": "50.069,14.444",
+    "primaryType": "park",
+    "qualityScore": 3.43607107926452
+  },
+  {
+    "id": "ChIJ7Wz8at3qC0cRV_CD_fN8fTY",
+    "name": "Nature Park Draháň-Troja",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 17909,
+    "location": {
+      "lat": 50.1433925,
+      "lng": 14.4045062
+    },
+    "gridId": "50.143,14.404",
+    "primaryType": "park",
+    "qualityScore": 3.3822317336905847
+  },
+  {
+    "id": "ChIJSfv87u2UC0cRMLvFpMvuPNY",
+    "name": "Franz Kafka - Rotating Head by David Cerny",
+    "types": [
+      "tourist_attraction",
+      "sculpture",
+      "monument",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 41534,
+    "location": {
+      "lat": 50.0816514,
+      "lng": 14.420820999999998
+    },
+    "gridId": "50.081,14.420",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.3668239625901157
+  },
+  {
+    "id": "ChIJpVJlrAOVC0cRDJw3ZbtIsIY",
+    "name": "Petřín Gardens",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 24519,
+    "location": {
+      "lat": 50.0827039,
+      "lng": 14.398732400000002
+    },
+    "gridId": "50.082,14.398",
+    "primaryType": "park",
+    "qualityScore": 3.3437611100631357
+  },
+  {
+    "id": "ChIJd71LDf2UC0cRkcGvwf8x33E",
+    "name": "Petrin Tower",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 35525,
+    "location": {
+      "lat": 50.083527,
+      "lng": 14.395083699999999
+    },
+    "gridId": "50.083,14.395",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.317348261058455
+  },
+  {
+    "id": "ChIJ-53TmZqUC0cRiqnBgT93RXQ",
+    "name": "Riegrovy Sady",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 11790,
+    "location": {
+      "lat": 50.0802844,
+      "lng": 14.441560599999999
+    },
+    "gridId": "50.080,14.441",
+    "primaryType": "park",
+    "qualityScore": 3.23785993045016
+  },
+  {
+    "id": "ChIJo_PlyuS_C0cRoNY0J75l4sw",
+    "name": "Přírodní park Šárka - Lysolaje",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 11512,
+    "location": {
+      "lat": 50.1078523,
+      "lng": 14.3492818
+    },
+    "gridId": "50.107,14.349",
+    "primaryType": "park",
+    "qualityScore": 3.229619546447466
+  },
+  {
+    "id": "ChIJFz83wvaUC0cRRDMLBTdlAZM",
+    "name": "Dancing House",
+    "types": [
+      "landmark",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 68748,
+    "location": {
+      "lat": 50.075403099999996,
+      "lng": 14.4141786
+    },
+    "gridId": "50.075,14.414",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.2198779968080835
+  },
+  {
+    "id": "ChIJ4zz7t-eUC0cRYoyBVOzwQ-o",
+    "name": "Rudolfinum",
+    "types": [
+      "concert_hall",
+      "tourist_attraction",
+      "coffee_shop",
+      "auditorium",
+      "art_gallery",
+      "live_music_venue",
+      "cafe",
+      "food_store",
+      "event_venue",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10658,
+    "location": {
+      "lat": 50.089956199999996,
+      "lng": 14.4154393
+    },
+    "gridId": "50.089,14.415",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.2030012394070777
+  },
+  {
+    "id": "ChIJgZa7AeOUC0cRE4hLPeViQBU",
+    "name": "Church of Our Lady Victorious and The Infant Jesus of Prague",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10567,
+    "location": {
+      "lat": 50.0857287,
+      "lng": 14.403550500000001
+    },
+    "gridId": "50.085,14.403",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.2000400379352505
+  },
+  {
+    "id": "ChIJZ9pfyumUC0cR3ZMJBZmRTrc",
+    "name": "Spanish Synagogue",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 8877,
+    "location": {
+      "lat": 50.0901479,
+      "lng": 14.420846500000001
+    },
+    "gridId": "50.090,14.420",
+    "primaryType": "synagogue",
+    "qualityScore": 3.1981352639583718
+  },
+  {
+    "id": "ChIJkZsemNfqC0cRpLkKj1nUXlA",
+    "name": "Botanical Garden of the City Prague",
+    "types": [
+      "botanical_garden",
+      "hiking_area",
+      "vineyard",
+      "park",
+      "sports_activity_location",
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10103,
+    "location": {
+      "lat": 50.1213706,
+      "lng": 14.413249099999998
+    },
+    "gridId": "50.121,14.413",
+    "primaryType": "park",
+    "qualityScore": 3.1845332817510954
+  },
+  {
+    "id": "ChIJNUIyNe-UC0cRnw1-EJKuNLI",
+    "name": "Klementinum",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 22833,
+    "location": {
+      "lat": 50.0865979,
+      "lng": 14.4160186
+    },
+    "gridId": "50.086,14.416",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.177406275607797
+  },
+  {
+    "id": "ChIJ3UB98gKVC0cRwGV3D_tmxY4",
+    "name": "Kinsky Garden",
+    "types": [
+      "garden",
+      "tourist_attraction",
+      "hiking_area",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8336,
+    "location": {
+      "lat": 50.079558,
+      "lng": 14.3987203
+    },
+    "gridId": "50.079,14.398",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.118143834542502
+  },
+  {
+    "id": "ChIJO_W-fZOUC0cRramNCQnVkuA",
+    "name": "Jerusalem Synagogue | Prague",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 4748,
+    "location": {
+      "lat": 50.0847038,
+      "lng": 14.432020399999997
+    },
+    "gridId": "50.084,14.432",
+    "primaryType": "synagogue",
+    "qualityScore": 3.11187607633422
+  },
+  {
+    "id": "ChIJu2niIWeTC0cRHEJGY5xf_Io",
+    "name": "Church of Our Lady before Týn",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8045,
+    "location": {
+      "lat": 50.0877486,
+      "lng": 14.422539599999999
+    },
+    "gridId": "50.087,14.422",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.105873461653795
+  },
+  {
+    "id": "ChIJu2niIWeTC0cR8Bp28z1iNc8",
+    "name": "Strahov Monastery",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 17198,
+    "location": {
+      "lat": 50.0861478,
+      "lng": 14.3892515
+    },
+    "gridId": "50.086,14.389",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0876818302443723
+  },
+  {
+    "id": "ChIJf27sN8e_C0cR3tig9ehM_ig",
+    "name": "Divoká Šárka",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 5176,
+    "location": {
+      "lat": 50.093301600000004,
+      "lng": 14.325003899999999
+    },
+    "gridId": "50.093,14.325",
+    "primaryType": "park",
+    "qualityScore": 3.0806049931625505
+  },
+  {
+    "id": "ChIJAyNP5o6UC0cRH2h_j6e-d9c",
+    "name": "Bazilika sv. Ludmily",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4857,
+    "location": {
+      "lat": 50.0754692,
+      "lng": 14.4368227
+    },
+    "gridId": "50.075,14.436",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0576953174834998
+  },
+  {
+    "id": "ChIJ2ffL1ICUC0cRX92Gw9Hapco",
+    "name": "Grotta Umělá jeskyně",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4829,
+    "location": {
+      "lat": 50.0700386,
+      "lng": 14.443271799999998
+    },
+    "gridId": "50.070,14.443",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.055613108130534
+  },
+  {
+    "id": "ChIJweACSJyUC0cRE4gGU06KHKY",
+    "name": "Žižkov Television Tower",
+    "types": [
+      "tourist_attraction",
+      "observation_deck",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 23499,
+    "location": {
+      "lat": 50.0810526,
+      "lng": 14.451174100000001
+    },
+    "gridId": "50.081,14.451",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0464594572889103
+  },
+  {
+    "id": "ChIJOyEcl6GUC0cRgjtxJnRaU4M",
+    "name": "Vítkov",
+    "types": [
+      "historical_landmark",
+      "hiking_area",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 6662,
+    "location": {
+      "lat": 50.088767,
+      "lng": 14.4514582
+    },
+    "gridId": "50.088,14.451",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0407351823033535
+  },
+  {
+    "id": "ChIJE5AKFJKUC0cRY2EE_Oh9MhY",
+    "name": "State Opera",
+    "types": [
+      "opera_house",
+      "tourist_attraction",
+      "performing_arts_theater",
+      "concert_hall",
+      "live_music_venue",
+      "auditorium",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4526,
+    "location": {
+      "lat": 50.0807207,
+      "lng": 14.432691799999999
+    },
+    "gridId": "50.080,14.432",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.032275456554142
+  },
+  {
+    "id": "ChIJZRuQ9F2UC0cRMemKZykpEMk",
+    "name": "Saints Peter & Paul Basilica",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4375,
+    "location": {
+      "lat": 50.064426399999995,
+      "lng": 14.417886699999997
+    },
+    "gridId": "50.064,14.417",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0200551667645983
+  },
+  {
+    "id": "ChIJS7rJFh-VC0cR6yEQX6AGf9U",
+    "name": "Golden Lane",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 21482,
+    "location": {
+      "lat": 50.092049499999995,
+      "lng": 14.4040813
+    },
+    "gridId": "50.092,14.404",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0192968813297805
+  },
+  {
+    "id": "ChIJu2niIWeTC0cRq-BNOHo-NWY",
+    "name": "Aircraft museum Prague-Kbely",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4145,
+    "location": {
+      "lat": 50.125255599999996,
+      "lng": 14.5355237
+    },
+    "gridId": "50.125,14.535",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 3.0006064447322642
+  },
+  {
+    "id": "ChIJG4u6e9GVC0cRdd_jlTayJzU",
+    "name": "Prokop Valley",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "tourist_attraction",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5793,
+    "location": {
+      "lat": 50.042435999999995,
+      "lng": 14.369596800000002
+    },
+    "gridId": "50.042,14.369",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.9924710150776646
+  },
+  {
+    "id": "ChIJwd-VWtO_C0cR4cFrUtJDO3Q",
+    "name": "Hvězda",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5704,
+    "location": {
+      "lat": 50.082302399999996,
+      "lng": 14.3314518
+    },
+    "gridId": "50.082,14.331",
+    "primaryType": "park",
+    "qualityScore": 2.987124742115317
+  },
+  {
+    "id": "ChIJo5qt_WiSC0cRprcEw4NiFFA",
+    "name": "Nature Park Hostivař-Záběhlice",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8077,
+    "location": {
+      "lat": 50.0424089,
+      "lng": 14.530564400000001
+    },
+    "gridId": "50.042,14.530",
+    "primaryType": "park",
+    "qualityScore": 2.976427779887764
+  },
+  {
+    "id": "ChIJ-Y4NmHCVC0cRMeUShKcq63s",
+    "name": "Břevnov Monastery",
+    "types": [
+      "tourist_attraction",
+      "inn",
+      "church",
+      "event_venue",
+      "place_of_worship",
+      "lodging",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5002,
+    "location": {
+      "lat": 50.0846831,
+      "lng": 14.356885799999997
+    },
+    "gridId": "50.084,14.356",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.941776065113003
+  },
+  {
+    "id": "ChIJg36mqdXqC0cR4LeyXRtMpVw",
+    "name": "Trojský zámek",
+    "types": [
+      "hiking_area",
+      "historical_landmark",
+      "art_gallery",
+      "garden",
+      "castle",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 7050,
+    "location": {
+      "lat": 50.116455599999995,
+      "lng": 14.412874
+    },
+    "gridId": "50.116,14.412",
+    "primaryType": "art_gallery",
+    "qualityScore": 2.9314434644123835
+  },
+  {
+    "id": "ChIJteh5-TyTC0cRCKgnejF1ZQ0",
+    "name": "Malešice park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4839,
+    "location": {
+      "lat": 50.0850143,
+      "lng": 14.499155
+    },
+    "gridId": "50.085,14.499",
+    "primaryType": "park",
+    "qualityScore": 2.930336425394103
+  },
+  {
+    "id": "ChIJm-WdsPyUC0cRq14Y6AP1KW4",
+    "name": "Petrin Hill",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6903,
+    "location": {
+      "lat": 50.0815434,
+      "lng": 14.3969205
+    },
+    "gridId": "50.081,14.396",
+    "primaryType": "park",
+    "qualityScore": 2.9244734122350002
+  },
+  {
+    "id": "ChIJH3y4L-CUC0cRxLvVqnWQK2Q",
+    "name": "Lobkowicz Palace",
+    "types": [
+      "art_museum",
+      "history_museum",
+      "tourist_attraction",
+      "art_gallery",
+      "historical_landmark",
+      "historical_place",
+      "museum",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6823,
+    "location": {
+      "lat": 50.091648299999996,
+      "lng": 14.404950099999999
+    },
+    "gridId": "50.091,14.404",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.9206175624731547
+  },
+  {
+    "id": "ChIJTdpaTPWUC0cR5cdCYIPAh5U",
+    "name": "Botanic Garden of the Faculty of Science, Charles University",
+    "types": [
+      "botanical_garden",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6061,
+    "location": {
+      "lat": 50.0713843,
+      "lng": 14.4214886
+    },
+    "gridId": "50.071,14.421",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.8814455123843934
+  },
+  {
+    "id": "ChIJ_SWtQuKUC0cR52xyBNibDjA",
+    "name": "The Vrtba Garden",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4126,
+    "location": {
+      "lat": 50.086644,
+      "lng": 14.402878399999999
+    },
+    "gridId": "50.086,14.402",
+    "primaryType": "tourist_attraction",
+    "qualityScore": 2.875297155030077
+  },
+  {
+    "id": "ChIJVwJW9fmUC0cRu3WAFHD1hEc",
+    "name": "Jazz Dock",
+    "types": [
+      "night_club",
+      "bar",
+      "live_music_venue",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4027,
+    "location": {
+      "lat": 50.0773912,
+      "lng": 14.408485500000001
+    },
+    "gridId": "50.077,14.408",
+    "primaryType": "night_club",
+    "qualityScore": 2.866911343666709
+  }
+]

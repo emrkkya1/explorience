@@ -1,0 +1,7941 @@
+[
+  {
+    "id": "ChIJb1urovNdFkcRbsy09h0_Wxs",
+    "name": "Zapiekanki Adamus",
+    "types": [
+      "meal_takeaway",
+      "fast_food_restaurant",
+      "fine_dining_restaurant",
+      "meal_delivery",
+      "food_delivery",
+      "bar",
+      "restaurant",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 6937,
+    "location": {
+      "lat": 49.976678199999995,
+      "lng": 19.822334299999998
+    },
+    "gridId": "49.976,19.822",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJLeD_IItdFkcRetGD6qWiKg8",
+    "name": "Camena pool. Center for Culture and Sport",
+    "types": [
+      "tourist_attraction",
+      "swimming_pool",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2012,
+    "location": {
+      "lat": 49.972209899999996,
+      "lng": 19.8259678
+    },
+    "gridId": "49.972,19.825",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJCeNP_fRdFkcRqXJz3fy4AFM",
+    "name": "Skawina Park",
+    "types": [
+      "state_park",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2314,
+    "location": {
+      "lat": 49.97283290000001,
+      "lng": 19.8215307
+    },
+    "gridId": "49.972,19.821",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ54qlcgZeFkcRFsmmm5K2au8",
+    "name": "Kościół śś. Apostołów Szymona i Judy Tadeusza",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 501,
+    "location": {
+      "lat": 49.9758254,
+      "lng": 19.8285228
+    },
+    "gridId": "49.975,19.828",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ5VeoVfRdFkcR1REZoBEpWOU",
+    "name": "The City Park. march. Jozef Pilsudski",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2374,
+    "location": {
+      "lat": 49.97337640000001,
+      "lng": 19.821986499999998
+    },
+    "gridId": "49.973,19.821",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJaxJrKBRdFkcRhEqWQ7irMwc",
+    "name": "Krakowska Spiżarnia",
+    "types": [
+      "restaurant",
+      "pizza_restaurant",
+      "catering_service",
+      "food_delivery",
+      "hamburger_restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2380,
+    "location": {
+      "lat": 49.984131,
+      "lng": 19.8923265
+    },
+    "gridId": "49.984,19.892",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJTwFyPt9CFkcRbkOCjpYoz_Y",
+    "name": "Muzeum Spraw Wojskowych",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 235,
+    "location": {
+      "lat": 49.986967799999995,
+      "lng": 19.9574724
+    },
+    "gridId": "49.986,19.957",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJs0jKZc5DFkcRvQKVl5UnyFQ",
+    "name": "Kapliczka",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 5,
+    "location": {
+      "lat": 49.9845014,
+      "lng": 19.9518614
+    },
+    "gridId": "49.984,19.951",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJ7cIlUG5DFkcRnIm6wHhnaFE",
+    "name": "Ekologiczny Park Grabowki",
+    "types": [
+      "wildlife_park",
+      "zoo",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 60,
+    "location": {
+      "lat": 49.9784274,
+      "lng": 20.0345493
+    },
+    "gridId": "49.978,20.034",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJS46BBdhDFkcRFbST_a5JJZc",
+    "name": "Wieliczka Salt Mine",
+    "types": [
+      "historical_place",
+      "historical_landmark",
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 34470,
+    "location": {
+      "lat": 49.983501999999994,
+      "lng": 20.0551878
+    },
+    "gridId": "49.983,20.055",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJKUesathDFkcRqufOb9cbSCw",
+    "name": "Szyb Daniłowicza",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 17169,
+    "location": {
+      "lat": 49.9829624,
+      "lng": 20.0558037
+    },
+    "gridId": "49.982,20.055",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ_-zbl9lDFkcR7Q9voifZ6E4",
+    "name": "Brine Graduation Tower",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "spa",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1177,
+    "location": {
+      "lat": 49.9843573,
+      "lng": 20.0523784
+    },
+    "gridId": "49.984,20.052",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJZ5VhjNtDFkcRxw-2vLGaqmI",
+    "name": "Turówka Hotel & SPA",
+    "types": [
+      "hotel",
+      "swimming_pool",
+      "massage",
+      "cafeteria",
+      "spa",
+      "event_venue",
+      "lodging",
+      "sports_complex",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1972,
+    "location": {
+      "lat": 49.987505399999996,
+      "lng": 20.0505779
+    },
+    "gridId": "49.987,20.050",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJlzpnw2JBFkcR6tinVcuM7O8",
+    "name": "Creperie",
+    "types": [
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2552,
+    "location": {
+      "lat": 49.9819801,
+      "lng": 20.0597264
+    },
+    "gridId": "49.981,20.059",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJKQIM6BpBFkcRyzdhOHJISxQ",
+    "name": "Sztolnia Wieliczka",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4369,
+    "location": {
+      "lat": 49.9831039,
+      "lng": 20.059940299999997
+    },
+    "gridId": "49.983,20.059",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJawFJV2JBFkcRTawMK6bewTY",
+    "name": "The Regis Shaft",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1708,
+    "location": {
+      "lat": 49.9834958,
+      "lng": 20.061285899999998
+    },
+    "gridId": "49.983,20.061",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJmxs2PGNBFkcRmiGmAGMChN4",
+    "name": "Zajadalnia Wieliczka",
+    "types": [
+      "polish_restaurant",
+      "cafeteria",
+      "pizza_restaurant",
+      "salad_shop",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2383,
+    "location": {
+      "lat": 49.981745499999995,
+      "lng": 20.0619101
+    },
+    "gridId": "49.981,20.061",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ-ycQZGJBFkcRqhv9GRb-fv4",
+    "name": "Castle Saltworks - Saltworks Museum Wieliczka",
+    "types": [
+      "castle",
+      "tourist_attraction",
+      "historical_place",
+      "art_museum",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1018,
+    "location": {
+      "lat": 49.9839341,
+      "lng": 20.0600602
+    },
+    "gridId": "49.983,20.060",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJree55npBFkcR6W0Wa0zABE0",
+    "name": "St. Sebastian Catholic Church",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 652,
+    "location": {
+      "lat": 49.9780452,
+      "lng": 20.0660015
+    },
+    "gridId": "49.978,20.066",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJf2gJq8FBFkcRHVQ6GrEzJms",
+    "name": "Mediateka Biblioteka Miejska w Wieliczce",
+    "types": [
+      "library",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 353,
+    "location": {
+      "lat": 49.984690199999996,
+      "lng": 20.0644808
+    },
+    "gridId": "49.984,20.064",
+    "primaryType": "library"
+  },
+  {
+    "id": "ChIJVQpAQHFfFkcRBf7y2WDLIKY",
+    "name": "Kładka nad Skawinką WTR",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 73,
+    "location": {
+      "lat": 49.9926886,
+      "lng": 19.8004237
+    },
+    "gridId": "49.992,19.800",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJgajoO71fFkcRM-AOQz8JIe0",
+    "name": "Ujście Skawinki do Wisły",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 10,
+    "location": {
+      "lat": 49.995073,
+      "lng": 19.7961375
+    },
+    "gridId": "49.995,19.796",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJV7nQRZBEFkcRIWugmgq0b5E",
+    "name": "Browar Dwie Wieże",
+    "types": [
+      "brewery",
+      "coffee_shop",
+      "lounge_bar",
+      "night_club",
+      "pub",
+      "liquor_store",
+      "cocktail_bar",
+      "bar",
+      "cafe",
+      "manufacturer",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 62,
+    "location": {
+      "lat": 49.9917042,
+      "lng": 19.8498652
+    },
+    "gridId": "49.991,19.849",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJq6pq29hcFkcRIGEPO-1Zxqg",
+    "name": "Fort 52a",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 351,
+    "location": {
+      "lat": 49.997948,
+      "lng": 19.916828
+    },
+    "gridId": "49.997,19.916",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJS0KilOtDFkcRYrQEqO8SXkg",
+    "name": "WZGÓRZE RAJSKO 349 m n.p.m.",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 9,
+    "location": {
+      "lat": 49.988645899999995,
+      "lng": 19.9695234
+    },
+    "gridId": "49.988,19.969",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJvatdRxxDFkcRhcehBBMN_bI",
+    "name": "KS Rajsko",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 148,
+    "location": {
+      "lat": 49.988941,
+      "lng": 19.9752776
+    },
+    "gridId": "49.988,19.975",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJl0w0Iw9DFkcR2SHpNmdFYCM",
+    "name": "Fort Kosocice 50 1/2 O \"Barycz\" - Twierdza Kraków",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 141,
+    "location": {
+      "lat": 49.994833899999996,
+      "lng": 19.9920273
+    },
+    "gridId": "49.994,19.992",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJd-B3JjRDFkcRmlZOsLMswq8",
+    "name": "Mały Stolik Bistro",
+    "types": [
+      "restaurant",
+      "breakfast_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1645,
+    "location": {
+      "lat": 49.994783899999995,
+      "lng": 20.0196433
+    },
+    "gridId": "49.994,20.019",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJn9uVpsdDFkcRQevC9fsO_0I",
+    "name": "Roman Catholic Church of St. Paul the Apostle",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 594,
+    "location": {
+      "lat": 49.988426999999994,
+      "lng": 20.0318892
+    },
+    "gridId": "49.988,20.031",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJxTpWgMZDFkcRAhjVeE1LolI",
+    "name": "IN SITU Archeologiczna Pracownia Radosław Czerniak",
+    "types": [
+      "research_institute",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 5,
+    "location": {
+      "lat": 49.9878873,
+      "lng": 20.036819599999998
+    },
+    "gridId": "49.987,20.036",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJi0MEyMNDFkcRpS7Fw8ujEbc",
+    "name": "Klasztor Franciszkanów Reformatów w Wieliczce",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 135,
+    "location": {
+      "lat": 49.9876617,
+      "lng": 20.054617200000003
+    },
+    "gridId": "49.987,20.054",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJzcb6hFxBFkcRx6PykEoeBTY",
+    "name": "Karczma Pod Wielką Solą",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 11548,
+    "location": {
+      "lat": 49.99319810000001,
+      "lng": 20.0780846
+    },
+    "gridId": "49.993,20.078",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJmW79yuJfFkcRrctcBnE5qOk",
+    "name": "Ściejowice Łowisko Stowarzyszenie Wędkarskie Dęby",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 6,
+    "location": {
+      "lat": 49.9966967,
+      "lng": 19.7923093
+    },
+    "gridId": "49.996,19.792",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ89GDX9JdFkcRGgdUEXtsCH8",
+    "name": "Tyniec Forest",
+    "types": [
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1048,
+    "location": {
+      "lat": 50.0072827,
+      "lng": 19.8323178
+    },
+    "gridId": "50.007,19.832",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJKTWl849dFkcRjuvBpZCIa2c",
+    "name": "WZGÓRZE WIELOGÓRA 257 m n.p.m.",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 5,
+    "location": {
+      "lat": 49.999849600000005,
+      "lng": 19.8269225
+    },
+    "gridId": "49.999,19.826",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJRVKyLhVdFkcRzCjwQIVyxbM",
+    "name": "Kozobica Hill (282 m)",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 17,
+    "location": {
+      "lat": 50.003087199999996,
+      "lng": 19.8381857
+    },
+    "gridId": "50.003,19.838",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ50esz1JcFkcRIXAyG_BX5t0",
+    "name": "Fort 52 ½ Süd \"Sidzina\" - Twierdza Kraków",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 142,
+    "location": {
+      "lat": 50.005203599999994,
+      "lng": 19.8672371
+    },
+    "gridId": "50.005,19.867",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ0SthtlVcFkcRB6pNYLA0e-0",
+    "name": "KEBAB BAR 63",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 138,
+    "location": {
+      "lat": 50.0063082,
+      "lng": 19.877697899999998
+    },
+    "gridId": "50.006,19.877",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJG8xbnFJcFkcROLak1on2tG4",
+    "name": "Centrum Dokumentacji Zsyłek, Wypędzeń i Przesiedleń Uniwersytetu Komisji Edukacji Narodowej w Krakowie",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 5,
+    "location": {
+      "lat": 50.0067503,
+      "lng": 19.8658786
+    },
+    "gridId": "50.006,19.865",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJAe7Oq_9cFkcR9M_FaYYs9ag",
+    "name": "Uważaj na głowę - wystawa",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 5,
+    "location": {
+      "lat": 50.0042882,
+      "lng": 19.8834449
+    },
+    "gridId": "50.004,19.883",
+    "primaryType": "art_gallery"
+  },
+  {
+    "id": "ChIJZ03VnDldFkcRdUEoyCNx2Gg",
+    "name": "Pomnik Przyrody",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 8,
+    "location": {
+      "lat": 50.0079995,
+      "lng": 19.9343937
+    },
+    "gridId": "50.007,19.934",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJrVtokThDFkcRexSJ6RZd8I8",
+    "name": "Bistro Kolorowy Kogucik Kraków",
+    "types": [
+      "bistro",
+      "polish_restaurant",
+      "lounge_bar",
+      "night_club",
+      "pizza_restaurant",
+      "bar",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 1247,
+    "location": {
+      "lat": 50.0068014,
+      "lng": 19.967357099999997
+    },
+    "gridId": "50.006,19.967",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJrWkRoRRDFkcRk6KLNv7ZHYE",
+    "name": "KS Orzeł Piaski Wielkie",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 388,
+    "location": {
+      "lat": 50.003248199999994,
+      "lng": 19.9863635
+    },
+    "gridId": "50.003,19.986",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJA0qQ1WpDFkcRw2ZEVt-PGDU",
+    "name": "Kościół Najświętszego Serca Pana Jezusa w Krakowie",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 169,
+    "location": {
+      "lat": 50.0057986,
+      "lng": 19.9823281
+    },
+    "gridId": "50.005,19.982",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJy-180nJDFkcRCCpXtxs2TAo",
+    "name": "Restauracja Pół na Pół",
+    "types": [
+      "family_restaurant",
+      "pizza_delivery",
+      "polish_restaurant",
+      "pizza_restaurant",
+      "catering_service",
+      "meal_delivery",
+      "food_delivery",
+      "meal_takeaway",
+      "food_store",
+      "italian_restaurant",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 4663,
+    "location": {
+      "lat": 50.003327399999996,
+      "lng": 19.9944448
+    },
+    "gridId": "50.003,19.994",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ6wZak1RDFkcRH2PTP6TDJxI",
+    "name": "Punkt Przecięcia RÓWNOLEŻNIKA 50'N z POŁUDNIKIEM 20'E",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 165,
+    "location": {
+      "lat": 50,
+      "lng": 20
+    },
+    "gridId": "50.000,20.000",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ5zR0joNDFkcRWBqlutP-emY",
+    "name": "Park Słona Woda",
+    "types": [
+      "wildlife_park",
+      "zoo",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 42,
+    "location": {
+      "lat": 50.0070547,
+      "lng": 19.998152299999997
+    },
+    "gridId": "50.007,19.998",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJWTcxgYleFkcR5vSdUKu2t7k",
+    "name": "Benedictine Abbey in Tyniec",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10789,
+    "location": {
+      "lat": 50.0188018,
+      "lng": 19.8021785
+    },
+    "gridId": "50.018,19.802",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJxQWpAwBfFkcRVfxP8r5CkPg",
+    "name": "Wzgórze Grodzisko",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.1,
+    "totalReviews": 16,
+    "location": {
+      "lat": 50.0087207,
+      "lng": 19.79599
+    },
+    "gridId": "50.008,19.795",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJQe9VLHJfFkcRRpHTF7DANC4",
+    "name": "Pomnik Przyrody SKAŁKA OKRĄŻEK",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 10,
+    "location": {
+      "lat": 50.015029,
+      "lng": 19.794231999999997
+    },
+    "gridId": "50.015,19.794",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJvx4jDABfFkcR3yRw0S_miZ0",
+    "name": "Punkt widokowy na Beskidy",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 11,
+    "location": {
+      "lat": 50.009162499999995,
+      "lng": 19.8157969
+    },
+    "gridId": "50.009,19.815",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJwRr8putfFkcRsvb6yZBe9aw",
+    "name": "Jaskinia na Gołąbcu, tzw Kozierówka",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 13,
+    "location": {
+      "lat": 50.015111999999995,
+      "lng": 19.7927324
+    },
+    "gridId": "50.015,19.792",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJx1_dnNBfFkcRBhLgWk8bGTw",
+    "name": "Pomniki Przyrody Sześć Lip Drobnolistnych",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 10,
+    "location": {
+      "lat": 50.0192594,
+      "lng": 19.8035378
+    },
+    "gridId": "50.019,19.803",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ7WDTVStcFkcRCJASCKaEv7Q",
+    "name": "Nature Reserve Skołczanka",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 103,
+    "location": {
+      "lat": 50.0118417,
+      "lng": 19.828798199999998
+    },
+    "gridId": "50.011,19.828",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJbydPR6RdFkcRmFK-4N6IqrU",
+    "name": "Źródło Świętojańskie",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 25,
+    "location": {
+      "lat": 50.019231,
+      "lng": 19.828661
+    },
+    "gridId": "50.019,19.828",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ7TTk4SpcFkcRK8of4XHk46M",
+    "name": "Dębnicko-Tyniecki Obszar Łąkowy",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 11,
+    "location": {
+      "lat": 50.0135916,
+      "lng": 19.8262535
+    },
+    "gridId": "50.013,19.826",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJb_9z4K1dFkcRzMUAr1Qf1W0",
+    "name": "Uroczysko Skotniki 215.6m n.p.m.",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.7,
+    "totalReviews": 9,
+    "location": {
+      "lat": 50.017610999999995,
+      "lng": 19.853389
+    },
+    "gridId": "50.017,19.853",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ817jKNddFkcRK4ddg2iqlw0",
+    "name": "Skotnicka 105",
+    "types": [
+      "pizza_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 816,
+    "location": {
+      "lat": 50.012294,
+      "lng": 19.8761601
+    },
+    "gridId": "50.012,19.876",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJJ1iahGddFkcRWsPBWTSw6gY",
+    "name": "Hala Maki",
+    "types": [
+      "food_court",
+      "coffee_shop",
+      "brunch_restaurant",
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1187,
+    "location": {
+      "lat": 50.012679999999996,
+      "lng": 19.885329499999997
+    },
+    "gridId": "50.012,19.885",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJ_fRNWfBcFkcROYYhbMG3VUs",
+    "name": "Kościół MB Królowej Polski w Nowym Ruczaju",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 333,
+    "location": {
+      "lat": 50.011798899999995,
+      "lng": 19.8981221
+    },
+    "gridId": "50.011,19.898",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJX3AlA0pdFkcREKQK-eW-050",
+    "name": "Fast Food Corner & Kebab",
+    "types": [
+      "fast_food_restaurant",
+      "kebab_shop",
+      "vegetarian_restaurant",
+      "turkish_restaurant",
+      "meal_delivery",
+      "polish_restaurant",
+      "food_delivery",
+      "british_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1248,
+    "location": {
+      "lat": 50.0166641,
+      "lng": 19.886076499999998
+    },
+    "gridId": "50.016,19.886",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ658I-sRcFkcRMkCh7i5btaE",
+    "name": "Kościół pw. MB Zwycięskiej w Borku Fałęckim",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 237,
+    "location": {
+      "lat": 50.0076539,
+      "lng": 19.9257971
+    },
+    "gridId": "50.007,19.925",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJQ0f0A-BdFkcRQUklx7iaJaU",
+    "name": "LANE WINO C.K. WINIARNIA Ruczaj",
+    "types": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 183,
+    "location": {
+      "lat": 50.014191499999995,
+      "lng": 19.901777199999998
+    },
+    "gridId": "50.014,19.901",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJb75lGMdcFkcRe1qbVIfMh9c",
+    "name": "Cinema City IMAX Zakopianka",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 6136,
+    "location": {
+      "lat": 50.016287899999995,
+      "lng": 19.9304879
+    },
+    "gridId": "50.016,19.930",
+    "primaryType": "movie_theater"
+  },
+  {
+    "id": "ChIJ_yyeHshcFkcRbmiQr8GXrQQ",
+    "name": "The Centre of John Paul II Pontificate",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1057,
+    "location": {
+      "lat": 50.0131737,
+      "lng": 19.9364036
+    },
+    "gridId": "50.013,19.936",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJ7Z9iIsdcFkcRDdGkNN5cpds",
+    "name": "Tutti Santi",
+    "types": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4764,
+    "location": {
+      "lat": 50.015238499999995,
+      "lng": 19.932391
+    },
+    "gridId": "50.015,19.932",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJuedlGMdcFkcRu1zAvE5Kf_8",
+    "name": "Centrum Kultury Podgórza - Centrum Sztuki Współczesnej Solvay",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 272,
+    "location": {
+      "lat": 50.0151004,
+      "lng": 19.929502199999998
+    },
+    "gridId": "50.015,19.929",
+    "primaryType": "art_gallery"
+  },
+  {
+    "id": "ChIJMYp9eEhDFkcRmDQrsOq02R4",
+    "name": "Oberża Sąsiadów",
+    "types": [
+      "family_restaurant",
+      "catering_service",
+      "polish_restaurant",
+      "beer_garden",
+      "food_delivery",
+      "bar",
+      "restaurant",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1643,
+    "location": {
+      "lat": 50.010785,
+      "lng": 19.9650908
+    },
+    "gridId": "50.010,19.965",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ8duwGkpDFkcRciwH0MfRdas",
+    "name": "Good Lood – lody rzemieślnicze",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "coffee_shop",
+      "cafe",
+      "confectionery",
+      "food_store",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2099,
+    "location": {
+      "lat": 50.010880099999994,
+      "lng": 19.956172
+    },
+    "gridId": "50.010,19.956",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJJbxcHENDFkcRyGwZxh3KyfU",
+    "name": "Drwinka River Park",
+    "types": [
+      "city_park",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 252,
+    "location": {
+      "lat": 50.0148326,
+      "lng": 19.9799339
+    },
+    "gridId": "50.014,19.979",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJxSlqH2RDFkcRXqDxCPiHn-A",
+    "name": "Park im. Anny i Erazma Jerzmanowskich w Prokocimiu",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2637,
+    "location": {
+      "lat": 50.017988499999994,
+      "lng": 19.995086099999998
+    },
+    "gridId": "50.017,19.995",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJz7GhymRDFkcRlcKJ6t3EzG4",
+    "name": "Good Lood Prokocim",
+    "types": [
+      "ice_cream_shop",
+      "coffee_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "service",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1925,
+    "location": {
+      "lat": 50.01674380000001,
+      "lng": 20.0017456
+    },
+    "gridId": "50.016,20.001",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJ3YerAB9DFkcRGFm9e5nmY_o",
+    "name": "Kebab Szama",
+    "types": [
+      "kebab_shop",
+      "lounge_bar",
+      "night_club",
+      "fast_food_restaurant",
+      "hamburger_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1235,
+    "location": {
+      "lat": 50.015935999999996,
+      "lng": 20.0244239
+    },
+    "gridId": "50.015,20.024",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJjTGKo4lDFkcR3tvLnfXVdNo",
+    "name": "Bieżanowianka Kraków",
+    "types": [
+      "sports_club",
+      "stadium",
+      "playground",
+      "gym",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "association_or_organization",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 424,
+    "location": {
+      "lat": 50.0145388,
+      "lng": 20.0381398
+    },
+    "gridId": "50.014,20.038",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJD45BwIlDFkcRcMk76bQqxNg",
+    "name": "Roman Catholic parish of Our Lady of the Nativity",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 195,
+    "location": {
+      "lat": 50.0157248,
+      "lng": 20.0385287
+    },
+    "gridId": "50.015,20.038",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJG44pE7hGFkcRTYG7J42Omy0",
+    "name": "LKS Węgrzcanka Węgrzce Wielkie",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 102,
+    "location": {
+      "lat": 50.015453099999995,
+      "lng": 20.112911099999998
+    },
+    "gridId": "50.015,20.112",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJ3evt0HRfFkcRG7X5BzE-B_g",
+    "name": "Przeprawa Promowa Piekary - Tyniec",
+    "types": [
+      "marina",
+      "tourist_attraction",
+      "point_of_interest",
+      "transportation_service",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 59,
+    "location": {
+      "lat": 50.020472000000005,
+      "lng": 19.8003416
+    },
+    "gridId": "50.020,19.800",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJLxeLJcRdFkcRsy_zalJWs2Q",
+    "name": "Wjazd do UROCZYSKA SKOTNIKI - Północny",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 6,
+    "location": {
+      "lat": 50.021794,
+      "lng": 19.851723
+    },
+    "gridId": "50.021,19.851",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ41MSaPRcFkcRRbDGmdVeSHE",
+    "name": "Las Weges",
+    "types": [
+      "vegan_restaurant",
+      "coffee_shop",
+      "vegetarian_restaurant",
+      "tea_house",
+      "catering_service",
+      "food_delivery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 817,
+    "location": {
+      "lat": 50.0240119,
+      "lng": 19.903520099999998
+    },
+    "gridId": "50.024,19.903",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJ2R2VEeldFkcRS3lGw9BP7sU",
+    "name": "Good Lood – lody rzemieślnicze",
+    "types": [
+      "ice_cream_shop",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1342,
+    "location": {
+      "lat": 50.024239599999994,
+      "lng": 19.9026548
+    },
+    "gridId": "50.024,19.902",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJIYVLd5BcFkcRHXA_vgRy3Bw",
+    "name": "Kościół Zesłania Ducha Świętego w Krakowie na Ruczaju",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 491,
+    "location": {
+      "lat": 50.0278321,
+      "lng": 19.9164319
+    },
+    "gridId": "50.027,19.916",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJkwIc2ltdFkcRxSEJ40xGpCY",
+    "name": "Kebab u Pajdy",
+    "types": [
+      "kebab_shop",
+      "hamburger_restaurant",
+      "fast_food_restaurant",
+      "vegetarian_restaurant",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2610,
+    "location": {
+      "lat": 50.0237511,
+      "lng": 19.910532399999997
+    },
+    "gridId": "50.023,19.910",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ6WLE5h5dFkcR7OLs5eHK7Ls",
+    "name": "Biblioteka Kraków. Filia nr 31",
+    "types": [
+      "library",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 99,
+    "location": {
+      "lat": 50.0215646,
+      "lng": 19.9107664
+    },
+    "gridId": "50.021,19.910",
+    "primaryType": "library"
+  },
+  {
+    "id": "ChIJL2p-KgtdFkcR8hFoa3C5Zvs",
+    "name": "Good Lood – lody rzemieślnicze",
+    "types": [
+      "ice_cream_shop",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1103,
+    "location": {
+      "lat": 50.0285205,
+      "lng": 19.9170891
+    },
+    "gridId": "50.028,19.917",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJq9aw95pcFkcRcHQo9M8C2Zk",
+    "name": "Cheap alcohol s.c.",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 587,
+    "location": {
+      "lat": 50.0295427,
+      "lng": 19.9182257
+    },
+    "gridId": "50.029,19.918",
+    "primaryType": "liquor_store"
+  },
+  {
+    "id": "ChIJ0SyXdN5dFkcR3yHtf3S9-tE",
+    "name": "Łagiewniki Sanktuarium",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 888,
+    "location": {
+      "lat": 50.0217466,
+      "lng": 19.936869299999998
+    },
+    "gridId": "50.021,19.936",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJBwq-vfFdFkcRBNhY3FTVYUg",
+    "name": "Dinoworld Krakow",
+    "types": [
+      "tourist_attraction",
+      "amusement_park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.3,
+    "totalReviews": 307,
+    "location": {
+      "lat": 50.025564599999996,
+      "lng": 19.9457772
+    },
+    "gridId": "50.025,19.945",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJUVRIf1ZDFkcRBAVRDONWEDY",
+    "name": "Centrum Handlowe Bonarka",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 40878,
+    "location": {
+      "lat": 50.0280248,
+      "lng": 19.9510097
+    },
+    "gridId": "50.028,19.951",
+    "primaryType": "shopping_mall"
+  },
+  {
+    "id": "ChIJa37DIqlcFkcRynvxRCbsCTo",
+    "name": "Cinema City Bonarka",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 13963,
+    "location": {
+      "lat": 50.0269279,
+      "lng": 19.9497058
+    },
+    "gridId": "50.026,19.949",
+    "primaryType": "movie_theater"
+  },
+  {
+    "id": "ChIJS7sp6lNDFkcRSa3ef-UwzOo",
+    "name": "Kościół Zmartwychwstania Pańskiego w Woli Duchackiej",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 297,
+    "location": {
+      "lat": 50.0236405,
+      "lng": 19.9646226
+    },
+    "gridId": "50.023,19.964",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJq6NLAX5EFkcRVBjvmlzREqc",
+    "name": "Wieża do nawęglania parowozów",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 23,
+    "location": {
+      "lat": 50.024461699999996,
+      "lng": 20.0242136
+    },
+    "gridId": "50.024,20.024",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJkTVD7HhEFkcR_Jun4wzvNjI",
+    "name": "Łucja Kłańska-Kanarek - malarka",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 15,
+    "location": {
+      "lat": 50.0197309,
+      "lng": 20.0310323
+    },
+    "gridId": "50.019,20.031",
+    "primaryType": "art_gallery"
+  },
+  {
+    "id": "ChIJgyizBABDFkcRPGdaZqf409s",
+    "name": "Przyjemna ławka",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 7,
+    "location": {
+      "lat": 50.0168539,
+      "lng": 20.020979
+    },
+    "gridId": "50.016,20.020",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ7crOClVHFkcRidCQSNylI-E",
+    "name": "Zagroda Apolonia Fundacja Elżbiety Graboś",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 34,
+    "location": {
+      "lat": 50.018348499999995,
+      "lng": 20.145593299999998
+    },
+    "gridId": "50.018,20.145",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJlxxBzuxdFkcRIDABs9dDg3U",
+    "name": "Przystanek Kolna",
+    "types": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 574,
+    "location": {
+      "lat": 50.035177,
+      "lng": 19.841193699999998
+    },
+    "gridId": "50.035,19.841",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJg0Fi4ohcFkcRLzsAQD55eCo",
+    "name": "Centrum Edukacji Przyrodniczej Uniwersytetu Jagiellońskiego",
+    "types": [
+      "academic_department",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 316,
+    "location": {
+      "lat": 50.0275086,
+      "lng": 19.9022293
+    },
+    "gridId": "50.027,19.902",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJeyd4brtdFkcR7MZIyGYA0EQ",
+    "name": "Miejsce na biwak",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 11,
+    "location": {
+      "lat": 50.0338597,
+      "lng": 19.8835624
+    },
+    "gridId": "50.033,19.883",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJfXdaZCVdFkcRIhfMvyzC0ck",
+    "name": "Jaskinia Pychowicka (Wiślna)",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 17,
+    "location": {
+      "lat": 50.0366851,
+      "lng": 19.898941
+    },
+    "gridId": "50.036,19.898",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ16BfxeRdFkcReYQB2xlgtbw",
+    "name": "Miejsce lęgowe płazów",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 23,
+    "location": {
+      "lat": 50.0255905,
+      "lng": 19.8937237
+    },
+    "gridId": "50.025,19.893",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ_____4JcFkcR0uh5TEq7K9U",
+    "name": "Zakrzówek Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 5317,
+    "location": {
+      "lat": 50.035869,
+      "lng": 19.9120736
+    },
+    "gridId": "50.035,19.912",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJbz_3EZddFkcRw4LHdwd5KQM",
+    "name": "Miejsce kąpielowe morsów Zakrzówek",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 128,
+    "location": {
+      "lat": 50.036839799999996,
+      "lng": 19.911037
+    },
+    "gridId": "50.036,19.911",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJoQelJllbFkcRjhUoImc5cjM",
+    "name": "Punkt widokowy na Wawel",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 124,
+    "location": {
+      "lat": 50.039987599999996,
+      "lng": 19.9140236
+    },
+    "gridId": "50.039,19.914",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJSU20Fp9cFkcR98gi0_NC6ck",
+    "name": "GOjump Mateczny - Park Trampolin",
+    "types": [
+      "tourist_attraction",
+      "amusement_park",
+      "amusement_center",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 11330,
+    "location": {
+      "lat": 50.0326847,
+      "lng": 19.9308692
+    },
+    "gridId": "50.032,19.930",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJcT5KGmBbFkcRi3BISM_Rig0",
+    "name": "RKS Garbarnia Kraków",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "athletic_field",
+      "sports_club",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 649,
+    "location": {
+      "lat": 50.037318799999994,
+      "lng": 19.9349413
+    },
+    "gridId": "50.037,19.934",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJQ1RAiUNbFkcRzMfXfPfpavE",
+    "name": "Mezzalians",
+    "types": [
+      "middle_eastern_restaurant",
+      "vegan_restaurant",
+      "lebanese_restaurant",
+      "vegetarian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2744,
+    "location": {
+      "lat": 50.039611,
+      "lng": 19.941837
+    },
+    "gridId": "50.039,19.941",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJr2HkZTFdFkcRM_-_GtH8LC4",
+    "name": "Panda Sushi Kraków",
+    "types": [
+      "sushi_restaurant",
+      "meal_takeaway",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2175,
+    "location": {
+      "lat": 50.0346852,
+      "lng": 19.9337791
+    },
+    "gridId": "50.034,19.933",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ9apqJlxbFkcRygzHaqlH5uM",
+    "name": "Church of Our Lady of Perpetual Help",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 316,
+    "location": {
+      "lat": 50.0394103,
+      "lng": 19.943092099999998
+    },
+    "gridId": "50.039,19.943",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJD33rFlFbFkcRm8RI-zVdc3Y",
+    "name": "Krakus Mound",
+    "types": [
+      "historical_landmark",
+      "scenic_spot",
+      "tourist_attraction",
+      "landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 11079,
+    "location": {
+      "lat": 50.0380786,
+      "lng": 19.958436400000004
+    },
+    "gridId": "50.038,19.958",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJUzap3VVbFkcRlPTZOs84uX0",
+    "name": "Site of the German Nazi concentration camp Plaszow",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 462,
+    "location": {
+      "lat": 50.0315466,
+      "lng": 19.96086
+    },
+    "gridId": "50.031,19.960",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJC0NJMKtEFkcRkp32X0i9aUk",
+    "name": "The Grey House",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 669,
+    "location": {
+      "lat": 50.033184999999996,
+      "lng": 19.9663888
+    },
+    "gridId": "50.033,19.966",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJKfB3EapEFkcRKIbGMquTYsg",
+    "name": "Kościół św. Kingi w Krakowie",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 164,
+    "location": {
+      "lat": 50.0293195,
+      "lng": 19.970279899999998
+    },
+    "gridId": "50.029,19.970",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ_R8bHKNEFkcRS95b--BJjd0",
+    "name": "Bagry Beach",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8725,
+    "location": {
+      "lat": 50.0329256,
+      "lng": 19.9937465
+    },
+    "gridId": "50.032,19.993",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJGx-0HeRFFkcRJTutBJOLHaY",
+    "name": "Bagry Graduation Tower",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 256,
+    "location": {
+      "lat": 50.0333778,
+      "lng": 19.9986973
+    },
+    "gridId": "50.033,19.998",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJd9CjTaREFkcRlmunkpvMd10",
+    "name": "Underwater barge (6 meters below surface)",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 17,
+    "location": {
+      "lat": 50.0322301,
+      "lng": 19.9893152
+    },
+    "gridId": "50.032,19.989",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJwV431Z9GFkcR2u4BZMSnG24",
+    "name": "Campus Misericordiae",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 238,
+    "location": {
+      "lat": 50.0312221,
+      "lng": 20.0932149
+    },
+    "gridId": "50.031,20.093",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJHZAHGlhFFkcR4trkFWG-ofk",
+    "name": "Edges Island",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 20,
+    "location": {
+      "lat": 50.0337641,
+      "lng": 20.0841738
+    },
+    "gridId": "50.033,20.084",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJKcAEOtBeFkcRv1779dshihU",
+    "name": "Skansen Smaków",
+    "types": [
+      "restaurant",
+      "polish_restaurant",
+      "catering_service",
+      "family_restaurant",
+      "food_delivery",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6851,
+    "location": {
+      "lat": 50.050733,
+      "lng": 19.799436900000003
+    },
+    "gridId": "50.050,19.799",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJcTYDGtBeFkcRZRTy5MdlJM4",
+    "name": "Pizzeria Paolo",
+    "types": [
+      "european_restaurant",
+      "pizza_restaurant",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 6329,
+    "location": {
+      "lat": 50.0497746,
+      "lng": 19.7990411
+    },
+    "gridId": "50.049,19.799",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ-wBlAyhfFkcR9MWhPJqzHBg",
+    "name": "Szałas pod Sosnami. Bar. Kasprzycka-Wilk H.",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 815,
+    "location": {
+      "lat": 50.0487993,
+      "lng": 19.7986884
+    },
+    "gridId": "50.048,19.798",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJh1KP8lFfFkcR9-baA6mHu2U",
+    "name": "Burger Dinks",
+    "types": [
+      "hamburger_restaurant",
+      "fast_food_restaurant",
+      "bar_and_grill",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1182,
+    "location": {
+      "lat": 50.043561800000006,
+      "lng": 19.792298799999998
+    },
+    "gridId": "50.043,19.792",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ6wKOEgBfFkcR730-qW0Of0w",
+    "name": "Rowery wodne Kryspinów",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 22,
+    "location": {
+      "lat": 50.0495651,
+      "lng": 19.7972272
+    },
+    "gridId": "50.049,19.797",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJH6lQaqleFkcRA0HX7D946JQ",
+    "name": "Winnica Srebrna Góra",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 255,
+    "location": {
+      "lat": 50.0426449,
+      "lng": 19.833779399999997
+    },
+    "gridId": "50.042,19.833",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJFzozgLpeFkcRBxXikY1GRS8",
+    "name": "Thesaurus Cracoviensis - Centrum Interpretacji Artefaktów",
+    "types": [
+      "history_museum",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 79,
+    "location": {
+      "lat": 50.044258299999996,
+      "lng": 19.8244249
+    },
+    "gridId": "50.044,19.824",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJP6lQaqleFkcR78n-JNrAJ4E",
+    "name": "Church of the Assumption of the Blessed Virgin Mary",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 165,
+    "location": {
+      "lat": 50.04568,
+      "lng": 19.840806
+    },
+    "gridId": "50.045,19.840",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ5V5VDAJcFkcRbs3oc0GHnEY",
+    "name": "Bielańskie Skałki",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 38,
+    "location": {
+      "lat": 50.044722,
+      "lng": 19.845833
+    },
+    "gridId": "50.044,19.845",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJh-z_yANdFkcRydauDPMRGxQ",
+    "name": "Bielańsko-tyniecka północna trasa rowerowa w Krakowie",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 54,
+    "location": {
+      "lat": 50.045063,
+      "lng": 19.873661
+    },
+    "gridId": "50.045,19.873",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ150kHQBbFkcR3zg0NYt6WJY",
+    "name": "Smok na zjeżdżalni - figurka",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 6,
+    "location": {
+      "lat": 50.0474995,
+      "lng": 19.8713314
+    },
+    "gridId": "50.047,19.871",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJM6iTTOlbFkcR-GWiRbQh6Oo",
+    "name": "Zabytkowa Stróżówka z 1929 roku",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8,
+    "location": {
+      "lat": 50.049488399999994,
+      "lng": 19.871008000000003
+    },
+    "gridId": "50.049,19.871",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJd6QREIBbFkcRiG1df6JirOs",
+    "name": "Skałki Twardowskiego w Krakowie",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 3961,
+    "location": {
+      "lat": 50.0409886,
+      "lng": 19.903969
+    },
+    "gridId": "50.040,19.903",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJiQBFKYtbFkcRGs1s0KtTz4Y",
+    "name": "Camping nr 46 \"Smok\"",
+    "types": [
+      "campground",
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 861,
+    "location": {
+      "lat": 50.047864999999994,
+      "lng": 19.88095
+    },
+    "gridId": "50.047,19.880",
+    "primaryType": "campground"
+  },
+  {
+    "id": "ChIJL1Wnt39cFkcRyXRI2qsPquA",
+    "name": "Jaskinia Twardowskiego",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 448,
+    "location": {
+      "lat": 50.0388944,
+      "lng": 19.9025491
+    },
+    "gridId": "50.038,19.902",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJs4DP_RJdFkcRhAmlAscFP3o",
+    "name": "Jaskinia Jasna",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 35,
+    "location": {
+      "lat": 50.0395055,
+      "lng": 19.9008962
+    },
+    "gridId": "50.039,19.900",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJV3mxXYVbFkcRiFNcvi-5CoA",
+    "name": "Plaża miejska",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 11,
+    "location": {
+      "lat": 50.0463313,
+      "lng": 19.9039727
+    },
+    "gridId": "50.046,19.903",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJPzhmsH9cFkcR47MqrC4g3wA",
+    "name": "Jaskinia Niska (Zakrzówek)",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 9,
+    "location": {
+      "lat": 50.0387908,
+      "lng": 19.9017166
+    },
+    "gridId": "50.038,19.901",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJY3KwUoRdFkcRR7AGMbQ5xNk",
+    "name": "Okienko Zbójnickie",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 29,
+    "location": {
+      "lat": 50.0392387,
+      "lng": 19.903042
+    },
+    "gridId": "50.039,19.903",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJTx8uvoJbFkcRLkBdxFzSq48",
+    "name": "Villages of the World",
+    "types": [
+      "tourist_attraction",
+      "amusement_park",
+      "amusement_center",
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 391,
+    "location": {
+      "lat": 50.0484899,
+      "lng": 19.912295999999998
+    },
+    "gridId": "50.048,19.912",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJWbQLonhbFkcRm3S0w_RMm5c",
+    "name": "Bistro Praska",
+    "types": [
+      "bistro",
+      "beer_garden",
+      "pizza_restaurant",
+      "family_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2259,
+    "location": {
+      "lat": 50.046164499999996,
+      "lng": 19.9113293
+    },
+    "gridId": "50.046,19.911",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJaVyqeHdbFkcREnf4DPw5wRw",
+    "name": "Park Dębnicki w Krakowie",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1982,
+    "location": {
+      "lat": 50.049745699999995,
+      "lng": 19.9170385
+    },
+    "gridId": "50.049,19.917",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJ16zxlX9bFkcRzelHfFWhcfM",
+    "name": "Pomnik Elvisa Presleya",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 178,
+    "location": {
+      "lat": 50.043288999999994,
+      "lng": 19.9091339
+    },
+    "gridId": "50.043,19.909",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJPaWfjWlbFkcRDICApi0cF9M",
+    "name": "Nolio Restaurant",
+    "types": [
+      "italian_restaurant",
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 9315,
+    "location": {
+      "lat": 50.049258300000005,
+      "lng": 19.9429444
+    },
+    "gridId": "50.049,19.942",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ5UtSvmlbFkcRlr4A8A7qigU",
+    "name": "Akita Ramen",
+    "types": [
+      "ramen_restaurant",
+      "asian_fusion_restaurant",
+      "asian_restaurant",
+      "fusion_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 9233,
+    "location": {
+      "lat": 50.0485942,
+      "lng": 19.942389199999997
+    },
+    "gridId": "50.048,19.942",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJYSkA2mtbFkcRxV9nRzxep2c",
+    "name": "Kuchnia u Doroty",
+    "types": [
+      "polish_restaurant",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 11097,
+    "location": {
+      "lat": 50.0506239,
+      "lng": 19.9412378
+    },
+    "gridId": "50.050,19.941",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJF4FqFm5bFkcRh71dBn7SdpA",
+    "name": "Manggha Museum of Japanese Art and Technology",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 6128,
+    "location": {
+      "lat": 50.050565399999996,
+      "lng": 19.931556
+    },
+    "gridId": "50.050,19.931",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJ5URSqkNbFkcRabLySxVUxmk",
+    "name": "Father Bernatek’s Bridge",
+    "types": [
+      "bridge",
+      "tourist_attraction",
+      "point_of_interest",
+      "transportation_service",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 14076,
+    "location": {
+      "lat": 50.046492199999996,
+      "lng": 19.947568
+    },
+    "gridId": "50.046,19.947",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJb7MQjW9bFkcRJwL6Z5XtRGc",
+    "name": "Park Inn by Radisson Krakow",
+    "types": [
+      "hotel",
+      "fitness_center",
+      "gym",
+      "bar",
+      "lodging",
+      "sports_activity_location",
+      "restaurant",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2534,
+    "location": {
+      "lat": 50.047458999999996,
+      "lng": 19.9297859
+    },
+    "gridId": "50.047,19.929",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJYxyfh2lbFkcRa5oGzbImzRc",
+    "name": "Pierwszy Stopień Restaurant",
+    "types": [
+      "polish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4259,
+    "location": {
+      "lat": 50.049992499999995,
+      "lng": 19.9425796
+    },
+    "gridId": "50.049,19.942",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJXyavIGlbFkcRGGC9P9aiYTs",
+    "name": "Basilica of St. Michael the Archangel",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 3420,
+    "location": {
+      "lat": 50.048261,
+      "lng": 19.9377602
+    },
+    "gridId": "50.048,19.937",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJbR0jdrZbFkcRFkE5tYspKQw",
+    "name": "Jamra",
+    "types": [
+      "shawarma_restaurant",
+      "middle_eastern_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 5418,
+    "location": {
+      "lat": 50.0440043,
+      "lng": 19.946411299999998
+    },
+    "gridId": "50.044,19.946",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ2-L1uEhbFkcR-Zek84Ap7zI",
+    "name": "Oskar Schindler's Enamel Factory",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 25794,
+    "location": {
+      "lat": 50.0474296,
+      "lng": 19.961573599999998
+    },
+    "gridId": "50.047,19.961",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJky67f0VbFkcRvG_gIqlGgUE",
+    "name": "Remains of the Ghetto wall",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 4310,
+    "location": {
+      "lat": 50.0446492,
+      "lng": 19.9575523
+    },
+    "gridId": "50.044,19.957",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJaSfNOURbFkcRkLyTJ0-GQi8",
+    "name": "Ghetto Heroes Square",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 13198,
+    "location": {
+      "lat": 50.0466767,
+      "lng": 19.954448199999998
+    },
+    "gridId": "50.046,19.954",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJC8d5XvtbFkcRAAPrZU3lxbY",
+    "name": "Restauracja Olio | Pizza Napoletana",
+    "types": [
+      "pizza_restaurant",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4622,
+    "location": {
+      "lat": 50.0466517,
+      "lng": 19.9502356
+    },
+    "gridId": "50.046,19.950",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJi0qxkUhbFkcRpc7mocBiYbs",
+    "name": "Orzo Arancia Kraków",
+    "types": [
+      "breakfast_restaurant",
+      "vegetarian_restaurant",
+      "family_restaurant",
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 10033,
+    "location": {
+      "lat": 50.0475686,
+      "lng": 19.960097299999997
+    },
+    "gridId": "50.047,19.960",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJl9kwrURbFkcRqW7O6eoDkuU",
+    "name": "St. Joseph's Church",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2323,
+    "location": {
+      "lat": 50.043354099999995,
+      "lng": 19.949934499999998
+    },
+    "gridId": "50.043,19.949",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJ12hvZVtbFkcRfpDYbW520Ww",
+    "name": "Park im.Wojciecha Bednarskiego w Podgórzu",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 5100,
+    "location": {
+      "lat": 50.0418562,
+      "lng": 19.9497519
+    },
+    "gridId": "50.041,19.949",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJZ1yoYCBbFkcRdqU5VuiAD0k",
+    "name": "Best Market - Ukraiński Sklep Spożywczy",
+    "types": [
+      "grocery_store",
+      "deli",
+      "liquor_store",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 2430,
+    "location": {
+      "lat": 50.047256,
+      "lng": 19.954414
+    },
+    "gridId": "50.047,19.954",
+    "primaryType": "liquor_store"
+  },
+  {
+    "id": "ChIJHcBynkRbFkcRezU8fCCWKk8",
+    "name": "Gąska Restaurant",
+    "types": [
+      "polish_restaurant",
+      "family_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 3549,
+    "location": {
+      "lat": 50.0450739,
+      "lng": 19.9502909
+    },
+    "gridId": "50.045,19.950",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ113toBRbFkcRA-eJi_K-vIE",
+    "name": "Matt's",
+    "types": [
+      "meal_delivery",
+      "food_delivery",
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 5748,
+    "location": {
+      "lat": 50.0473922,
+      "lng": 19.9558063
+    },
+    "gridId": "50.047,19.955",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ34YvSURbFkcRRrFRmfKUu-s",
+    "name": "Apteka pod Orłem",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1647,
+    "location": {
+      "lat": 50.046236099999994,
+      "lng": 19.954278900000002
+    },
+    "gridId": "50.046,19.954",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJzbic67ZEFkcRIiy09E1ehoI",
+    "name": "Domus Mater Hotel",
+    "types": [
+      "hotel",
+      "cafe",
+      "event_venue",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 738,
+    "location": {
+      "lat": 50.043805899999995,
+      "lng": 19.9840013
+    },
+    "gridId": "50.043,19.984",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJCyZJT7FEFkcRyBCFb15NIjU",
+    "name": "KS Płaszowianka",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 330,
+    "location": {
+      "lat": 50.0430625,
+      "lng": 19.981812299999998
+    },
+    "gridId": "50.043,19.981",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJ4a1bGLBFFkcRev4Kmk9tKB4",
+    "name": "Chatka Skrzatka",
+    "types": [
+      "indoor_playground",
+      "dog_cafe",
+      "playground",
+      "tourist_attraction",
+      "coffee_shop",
+      "amusement_center",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 162,
+    "location": {
+      "lat": 50.0434845,
+      "lng": 19.988540399999998
+    },
+    "gridId": "50.043,19.988",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ-fWu7LZEFkcRon-YLExv67U",
+    "name": "Congregation of the Sacred Heart",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 262,
+    "location": {
+      "lat": 50.044402399999996,
+      "lng": 19.9840672
+    },
+    "gridId": "50.044,19.984",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJnc_2TL5EFkcRvwrXs98Bnhk",
+    "name": "Church of the Mother of God of Fatima",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 230,
+    "location": {
+      "lat": 50.0417901,
+      "lng": 20.0018282
+    },
+    "gridId": "50.041,20.001",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJLTls8r5EFkcRL5Ptsz9dHZ8",
+    "name": "Barbakan",
+    "types": [
+      "pizza_restaurant",
+      "beer_garden",
+      "fast_food_restaurant",
+      "hamburger_restaurant",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 887,
+    "location": {
+      "lat": 50.041776,
+      "lng": 19.999919
+    },
+    "gridId": "50.041,19.999",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJt7V2x-xEFkcRF30OyYWDYro",
+    "name": "Fort 50a Lasówka",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 232,
+    "location": {
+      "lat": 50.043188,
+      "lng": 20.0154624
+    },
+    "gridId": "50.043,20.015",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJCXvsaSpEFkcRUGPSxk0QLgM",
+    "name": "PGW Wody Polskie, Zarząd Zlewni w Krakowie, Śluza Przewóz",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 36,
+    "location": {
+      "lat": 50.044821899999995,
+      "lng": 20.1004951
+    },
+    "gridId": "50.044,20.100",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJS5pLlF9GFkcRwyyQmV4zSPk",
+    "name": "Wiślanka Grabie",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 65,
+    "location": {
+      "lat": 50.043496999999995,
+      "lng": 20.1385419
+    },
+    "gridId": "50.043,20.138",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJp9qPVNBeFkcRLYkH9w2JRyM",
+    "name": "Wakepark Kraków",
+    "types": [
+      "tourist_attraction",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 275,
+    "location": {
+      "lat": 50.0517241,
+      "lng": 19.7966344
+    },
+    "gridId": "50.051,19.796",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJWQlT_glfFkcRICvkMS70FvU",
+    "name": "BEZ DRAMY",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 5,
+    "location": {
+      "lat": 50.0485875,
+      "lng": 19.797846699999997
+    },
+    "gridId": "50.048,19.797",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJvZqg4v1bFkcRbEH9q5nupvM",
+    "name": "Kraków Zoo",
+    "types": [
+      "zoo",
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 27644,
+    "location": {
+      "lat": 50.05348420000001,
+      "lng": 19.8502798
+    },
+    "gridId": "50.053,19.850",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJhWQOxlBZFkcRYRF_KETlCrQ",
+    "name": "Kopiec Józefa Piłsudskiego",
+    "types": [
+      "scenic_spot",
+      "tourist_attraction",
+      "historical_landmark",
+      "hiking_area",
+      "historical_place",
+      "landmark",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 4409,
+    "location": {
+      "lat": 50.0601159,
+      "lng": 19.8471898
+    },
+    "gridId": "50.060,19.847",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ45BC4FVZFkcRYzdSVpAP_Kk",
+    "name": "Las Wolski",
+    "types": [
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 601,
+    "location": {
+      "lat": 50.0555185,
+      "lng": 19.8511182
+    },
+    "gridId": "50.055,19.851",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJQwGGo0ZaFkcRcEW_2rlnsWs",
+    "name": "Bielańsko-Tyniecki Landscape Park",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "hiking_area",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10700,
+    "location": {
+      "lat": 50.055875699999994,
+      "lng": 19.8500193
+    },
+    "gridId": "50.055,19.850",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJY9S0lElZFkcRzG0TNx7hyqs",
+    "name": "Pingwinarium w ZOO",
+    "types": [
+      "zoo",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 135,
+    "location": {
+      "lat": 50.054044999999995,
+      "lng": 19.8507113
+    },
+    "gridId": "50.054,19.850",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJA89FoUFZFkcRbyVXGHlHYRo",
+    "name": "Mini Zoo",
+    "types": [
+      "zoo",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 170,
+    "location": {
+      "lat": 50.0522791,
+      "lng": 19.8495339
+    },
+    "gridId": "50.052,19.849",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJP-zwyY5dFkcR95zFC1x9qAo",
+    "name": "Drzewo „Siedem Sióstr”",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 22,
+    "location": {
+      "lat": 50.048746699999995,
+      "lng": 19.8589088
+    },
+    "gridId": "50.048,19.858",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ8WOcVNxZFkcRX2S3ov39eYA",
+    "name": "Wybieg dla Żyraf w ZOO",
+    "types": [
+      "zoo",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 27,
+    "location": {
+      "lat": 50.053424,
+      "lng": 19.8485421
+    },
+    "gridId": "50.053,19.848",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJF0_lXQBbFkcRAND0ZFW3JZQ",
+    "name": "Smok ze zwierzętami - figurka",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 12,
+    "location": {
+      "lat": 50.055008699999995,
+      "lng": 19.854228199999998
+    },
+    "gridId": "50.055,19.854",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJXWgEJGlZFkcRhTBoarCcoFo",
+    "name": "Ostra Góra 341 m n.p.m.",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 12,
+    "location": {
+      "lat": 50.0532468,
+      "lng": 19.8436689
+    },
+    "gridId": "50.053,19.843",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJu1RbHfZbFkcRb3pj97TXg1M",
+    "name": "Przegorzalska Przełęcz 246 m n.p.m.",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 21,
+    "location": {
+      "lat": 50.055730999999994,
+      "lng": 19.8714667
+    },
+    "gridId": "50.055,19.871",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJnYyClpFbFkcRM1wE20RBCGc",
+    "name": "Kopiec Kościuszki",
+    "types": [
+      "museum",
+      "scenic_spot",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 24817,
+    "location": {
+      "lat": 50.054902899999995,
+      "lng": 19.8932496
+    },
+    "gridId": "50.054,19.893",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJcayj25pbFkcRM_gqisRky6Y",
+    "name": "Cmentarz Salwatorski",
+    "types": [
+      "cemetery",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 83,
+    "location": {
+      "lat": 50.0524142,
+      "lng": 19.9043831
+    },
+    "gridId": "50.052,19.904",
+    "primaryType": "cemetery"
+  },
+  {
+    "id": "ChIJdzz2lpFbFkcRwoIbgNSJzPc",
+    "name": "Kościuszko Museum",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 200,
+    "location": {
+      "lat": 50.0542246,
+      "lng": 19.893315599999998
+    },
+    "gridId": "50.054,19.893",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJGe5ba8RbFkcRqhLmtdhjWGg",
+    "name": "Muzyczna Polana",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 61,
+    "location": {
+      "lat": 50.0569426,
+      "lng": 19.8819561
+    },
+    "gridId": "50.056,19.881",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ-ZI3er1bFkcRxDioXrvWLwc",
+    "name": "Strzelnica - Skałka wspinaczkowa",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 64,
+    "location": {
+      "lat": 50.058477499999995,
+      "lng": 19.882063499999997
+    },
+    "gridId": "50.058,19.882",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJHYeWQHVbFkcRdtszia3pM-c",
+    "name": "Stadion Miejski im. Józefa Piłsudskiego",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 5421,
+    "location": {
+      "lat": 50.058020899999995,
+      "lng": 19.9204649
+    },
+    "gridId": "50.058,19.920",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJbVilzHRbFkcRRVLlOC1cpQk",
+    "name": "Kino Kijów",
+    "types": [
+      "movie_theater",
+      "amusement_center",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 5578,
+    "location": {
+      "lat": 50.058262199999994,
+      "lng": 19.924944999999997
+    },
+    "gridId": "50.058,19.924",
+    "primaryType": "movie_theater"
+  },
+  {
+    "id": "ChIJr5_eXplbFkcRduVexBBsXi8",
+    "name": "Salwator",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1029,
+    "location": {
+      "lat": 50.0533654,
+      "lng": 19.9114444
+    },
+    "gridId": "50.053,19.911",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJhyrcm3NbFkcRDKXKPk4yFKg",
+    "name": "Klub30 Kraków",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2775,
+    "location": {
+      "lat": 50.0551177,
+      "lng": 19.926701700000002
+    },
+    "gridId": "50.055,19.926",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJEwk2_rxbFkcRgqFk9CznNCQ",
+    "name": "Bezogródek Tropical Spot Food Truck Park",
+    "types": [
+      "food_court",
+      "lounge_bar",
+      "fast_food_restaurant",
+      "bar",
+      "night_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 3555,
+    "location": {
+      "lat": 50.056616,
+      "lng": 19.9083676
+    },
+    "gridId": "50.056,19.908",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ9QITtJhbFkcRx-jRTeHpdLo",
+    "name": "Błonia w Krakowie",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 7313,
+    "location": {
+      "lat": 50.0597699,
+      "lng": 19.909522799999998
+    },
+    "gridId": "50.059,19.909",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJuwZiqylbFkcRZRI27RpSCpo",
+    "name": "Tasty Beast Burger - Burgery Kraków, Rynek Dębnicki | Smash",
+    "types": [
+      "hamburger_restaurant",
+      "fast_food_restaurant",
+      "meal_delivery",
+      "food_delivery",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 3441,
+    "location": {
+      "lat": 50.051447800000005,
+      "lng": 19.9272252
+    },
+    "gridId": "50.051,19.927",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJWTl6nlFbFkcRd7e8_OydqiM",
+    "name": "VATTI indian & nepali restaurant Kraków (halal food)",
+    "types": [
+      "indian_restaurant",
+      "halal_restaurant",
+      "middle_eastern_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 3086,
+    "location": {
+      "lat": 50.055644099999995,
+      "lng": 19.9269754
+    },
+    "gridId": "50.055,19.926",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJpZxB7HNbFkcRiI_NeAhjEb4",
+    "name": "Smil'y Tavern",
+    "types": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 2333,
+    "location": {
+      "lat": 50.054145,
+      "lng": 19.9260003
+    },
+    "gridId": "50.054,19.926",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ9Rk2BW1bFkcRmKV_1sTfuaw",
+    "name": "Wawel Royal Castle-State Art Collection",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "castle",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 164490,
+    "location": {
+      "lat": 50.054111500000005,
+      "lng": 19.935423
+    },
+    "gridId": "50.054,19.935",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJZ9pVBBJbFkcRMw11Gwf1x8M",
+    "name": "Rynek Główny",
+    "types": [
+      "plaza",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 186439,
+    "location": {
+      "lat": 50.061897099999996,
+      "lng": 19.936756
+    },
+    "gridId": "50.061,19.936",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJiUzN6m1bFkcRaH3Imcxil4k",
+    "name": "Dragon Statue",
+    "types": [
+      "tourist_attraction",
+      "sculpture",
+      "monument",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 27681,
+    "location": {
+      "lat": 50.0530183,
+      "lng": 19.9335845
+    },
+    "gridId": "50.053,19.933",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJd1A69RFbFkcRMr_ccTAeN90",
+    "name": "St. Mary's Basilica",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 19568,
+    "location": {
+      "lat": 50.061641099999996,
+      "lng": 19.9393903
+    },
+    "gridId": "50.061,19.939",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJselQM0BbFkcRRNtlrwTACk4",
+    "name": "Old Synagogue",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "synagogue",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 5459,
+    "location": {
+      "lat": 50.051459699999995,
+      "lng": 19.9485937
+    },
+    "gridId": "50.051,19.948",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJY7-qdG1bFkcRJ3ataT_e_Hg",
+    "name": "Wawel Cathedral",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 32926,
+    "location": {
+      "lat": 50.0546371,
+      "lng": 19.935468399999998
+    },
+    "gridId": "50.054,19.935",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJK-sdYBJbFkcRef3k7_ZqTwc",
+    "name": "Restauracja McDonald's",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 9113,
+    "location": {
+      "lat": 50.0590086,
+      "lng": 19.9380038
+    },
+    "gridId": "50.059,19.938",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJpXNtPg1bFkcR770s5OVqBuY",
+    "name": "Radisson Blu Hotel, Krakow",
+    "types": [
+      "hotel",
+      "fitness_center",
+      "gym",
+      "bar",
+      "sports_activity_location",
+      "lodging",
+      "health",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 3920,
+    "location": {
+      "lat": 50.058299399999996,
+      "lng": 19.9331447
+    },
+    "gridId": "50.058,19.933",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJN-I3PxVbFkcRM9_QA0QcG04",
+    "name": "Biedronka",
+    "types": [
+      "discount_supermarket",
+      "cosmetics_store",
+      "supermarket",
+      "book_store",
+      "liquor_store",
+      "grocery_store",
+      "food_store",
+      "home_goods_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 4903,
+    "location": {
+      "lat": 50.055365599999995,
+      "lng": 19.9477813
+    },
+    "gridId": "50.055,19.947",
+    "primaryType": "liquor_store"
+  },
+  {
+    "id": "ChIJERHICBJbFkcRo-dPAVreKqU",
+    "name": "Rynek Underground Museum",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 9790,
+    "location": {
+      "lat": 50.061934,
+      "lng": 19.937770000000004
+    },
+    "gridId": "50.061,19.937",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ8f4YlmxbFkcRW1mJQ24Dmjk",
+    "name": "Pod Wawelem Kompania Kuflowa",
+    "types": [
+      "polish_restaurant",
+      "seafood_restaurant",
+      "czech_restaurant",
+      "german_restaurant",
+      "barbecue_restaurant",
+      "bar",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 32344,
+    "location": {
+      "lat": 50.054876,
+      "lng": 19.939403
+    },
+    "gridId": "50.054,19.939",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJz3vbN2pbFkcR8ATOA0llY-I",
+    "name": "HEVRE | Bar & Restaurant",
+    "types": [
+      "restaurant",
+      "community_center",
+      "cocktail_bar",
+      "bar",
+      "cafe",
+      "event_venue",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 6617,
+    "location": {
+      "lat": 50.0511833,
+      "lng": 19.9434319
+    },
+    "gridId": "50.051,19.943",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJb8Fl3RJbFkcR7o7LsEoK9nk",
+    "name": "The Leaky Cauldron",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 9576,
+    "location": {
+      "lat": 50.0574574,
+      "lng": 19.9386027
+    },
+    "gridId": "50.057,19.938",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJ8QGqhjJbFkcRR0kP2c_Ijck",
+    "name": "Museum of Illusions Krakow - Muzeum iluzji Kraków",
+    "types": [
+      "museum",
+      "amusement_center",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 5715,
+    "location": {
+      "lat": 50.0576977,
+      "lng": 19.9334949
+    },
+    "gridId": "50.057,19.933",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJ4aELUD9bFkcRQjj84gEbzXw",
+    "name": "Galeria Kazimierz",
+    "types": [
+      "shopping_mall",
+      "womens_clothing_store",
+      "coffee_shop",
+      "supermarket",
+      "shoe_store",
+      "clothing_store",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 22967,
+    "location": {
+      "lat": 50.053379199999995,
+      "lng": 19.9556968
+    },
+    "gridId": "50.053,19.955",
+    "primaryType": "shopping_mall"
+  },
+  {
+    "id": "ChIJTwlwnN1bFkcRKO5XJxdi9WA",
+    "name": "Poranki - Breakfast, coffee & cake",
+    "types": [
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2664,
+    "location": {
+      "lat": 50.0507576,
+      "lng": 19.9489711
+    },
+    "gridId": "50.050,19.948",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJG4z8JkBbFkcREEK9CqAodUU",
+    "name": "Remuh Synagogue",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 1926,
+    "location": {
+      "lat": 50.052678,
+      "lng": 19.94765
+    },
+    "gridId": "50.052,19.947",
+    "primaryType": "synagogue"
+  },
+  {
+    "id": "ChIJ6TAc70FbFkcRJT7xBU4VhZo",
+    "name": "Stara Zajezdnia Kraków by DeSilva",
+    "types": [
+      "restaurant",
+      "beer_garden",
+      "brewery",
+      "pub",
+      "bar",
+      "manufacturer",
+      "event_venue",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 6138,
+    "location": {
+      "lat": 50.0501198,
+      "lng": 19.947116299999998
+    },
+    "gridId": "50.050,19.947",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJqy1mZGxbFkcRnZg3GZwRr10",
+    "name": "Alchemia",
+    "types": [
+      "gastropub",
+      "coffee_shop",
+      "night_club",
+      "bar",
+      "concert_hall",
+      "live_music_venue",
+      "auditorium",
+      "cafe",
+      "food_store",
+      "event_venue",
+      "store",
+      "sports_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "association_or_organization",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 6741,
+    "location": {
+      "lat": 50.0521919,
+      "lng": 19.9450021
+    },
+    "gridId": "50.052,19.945",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJOwi62GpbFkcRoi0KiVCj1dk",
+    "name": "Mirror Bistro - brunch, pierogi & love",
+    "types": [
+      "dumpling_restaurant",
+      "breakfast_restaurant",
+      "polish_restaurant",
+      "bistro",
+      "meal_delivery",
+      "food_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 7366,
+    "location": {
+      "lat": 50.0539579,
+      "lng": 19.9448388
+    },
+    "gridId": "50.053,19.944",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJtzGwyRVbFkcRCkrYgxa2S04",
+    "name": "Sausages from the blue Nysa",
+    "types": [
+      "fast_food_restaurant",
+      "food_court",
+      "catering_service",
+      "food_delivery",
+      "restaurant",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 7481,
+    "location": {
+      "lat": 50.058456299999996,
+      "lng": 19.948540599999998
+    },
+    "gridId": "50.058,19.948",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJN9gUQ2pbFkcRC6_kiZbyTNQ",
+    "name": "Plac Nowy 1 | Restaurant & Cocktail Bar",
+    "types": [
+      "restaurant",
+      "cocktail_bar",
+      "bar",
+      "event_venue",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 7574,
+    "location": {
+      "lat": 50.051418299999995,
+      "lng": 19.9454059
+    },
+    "gridId": "50.051,19.945",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJDXVa30FbFkcR8S7Bl2_l6iM",
+    "name": "Kolanko No 6 Restaurant",
+    "types": [
+      "restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8645,
+    "location": {
+      "lat": 50.0509294,
+      "lng": 19.9461595
+    },
+    "gridId": "50.050,19.946",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJEY4LnDNbFkcRctkQoNhW71U",
+    "name": "Playground",
+    "types": [
+      "playground",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 673,
+    "location": {
+      "lat": 50.0554137,
+      "lng": 19.977491099999998
+    },
+    "gridId": "50.055,19.977",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJifcrtiZFFkcRuH1jqkOmsgU",
+    "name": "GoJump",
+    "types": [
+      "tourist_attraction",
+      "amusement_park",
+      "amusement_center",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 14208,
+    "location": {
+      "lat": 50.0597703,
+      "lng": 20.0169292
+    },
+    "gridId": "50.059,20.016",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJbzH2i7NHFkcR3DyNaTYWUgY",
+    "name": "100 oak park",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 7,
+    "location": {
+      "lat": 50.058175399999996,
+      "lng": 20.1435399
+    },
+    "gridId": "50.058,20.143",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJoyNjkYRZFkcRYaJpY1U8jpo",
+    "name": "SMACZNIE I SZYBKO u Basi",
+    "types": [
+      "lounge_bar",
+      "kebab_shop",
+      "night_club",
+      "fast_food_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 599,
+    "location": {
+      "lat": 50.070248299999996,
+      "lng": 19.8001793
+    },
+    "gridId": "50.070,19.800",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJib7kcgBZFkcRPiHSIbx7Z3Y",
+    "name": "Kawalerskie Skały",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 10,
+    "location": {
+      "lat": 50.062773,
+      "lng": 19.856389999999998
+    },
+    "gridId": "50.062,19.856",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJfzE3BOdbFkcRy-Qmth5YJho",
+    "name": "Decius Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "city_park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 3211,
+    "location": {
+      "lat": 50.0657754,
+      "lng": 19.8719875
+    },
+    "gridId": "50.065,19.871",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJvxFG2-dbFkcRqez850rs3iw",
+    "name": "Portobello",
+    "types": [
+      "italian_restaurant",
+      "candy_store",
+      "pizza_restaurant",
+      "liquor_store",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 2100,
+    "location": {
+      "lat": 50.0656051,
+      "lng": 19.875576799999997
+    },
+    "gridId": "50.065,19.875",
+    "primaryType": "liquor_store"
+  },
+  {
+    "id": "ChIJjfkA4-ZbFkcR1yQFWPodCDI",
+    "name": "The Bronisław Chromy Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 180,
+    "location": {
+      "lat": 50.0652717,
+      "lng": 19.8710429
+    },
+    "gridId": "50.065,19.871",
+    "primaryType": "art_gallery"
+  },
+  {
+    "id": "ChIJBfBVkmRbFkcRpnSIift-G1I",
+    "name": "Współwinni Kraków",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2372,
+    "location": {
+      "lat": 50.070685499999996,
+      "lng": 19.8942378
+    },
+    "gridId": "50.070,19.894",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJhchgRrxbFkcRxI95cbMxxCc",
+    "name": "Villa Incognito",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 19,
+    "location": {
+      "lat": 50.065892,
+      "lng": 19.9033502
+    },
+    "gridId": "50.065,19.903",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJXagf6ApbFkcRWuithnXAZTk",
+    "name": "National Museum in Kraków",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 12800,
+    "location": {
+      "lat": 50.0603322,
+      "lng": 19.923809199999997
+    },
+    "gridId": "50.060,19.923",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJCXqv1KBbFkcRsHO4iNAY5us",
+    "name": "Synerise Arena Kraków - Stadion Miejski im. Henryka Reymana",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8135,
+    "location": {
+      "lat": 50.063726499999994,
+      "lng": 19.911697699999998
+    },
+    "gridId": "50.063,19.911",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJ77IDa7tbFkcRY4xtg-kKCdg",
+    "name": "Klub Studio",
+    "types": [
+      "live_music_venue",
+      "brewery",
+      "night_club",
+      "pub",
+      "bar",
+      "concert_hall",
+      "auditorium",
+      "manufacturer",
+      "event_venue",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 4698,
+    "location": {
+      "lat": 50.068036299999996,
+      "lng": 19.908296699999998
+    },
+    "gridId": "50.068,19.908",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJD8vud6FbFkcRXS1zCjimoa4",
+    "name": "Henryk Jordan Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 13609,
+    "location": {
+      "lat": 50.0634144,
+      "lng": 19.9162589
+    },
+    "gridId": "50.063,19.916",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJ-SAEjRdbFkcRE_Be5gMYckQ",
+    "name": "Dolce far niente",
+    "types": [
+      "coffee_shop",
+      "wine_bar",
+      "cafe",
+      "bar",
+      "bakery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 885,
+    "location": {
+      "lat": 50.0636266,
+      "lng": 19.9260304
+    },
+    "gridId": "50.063,19.926",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJtYlHU6VbFkcRUEJKcIxwLCk",
+    "name": "Church of the Holy Virgin Mary of Lourdes",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 482,
+    "location": {
+      "lat": 50.071151,
+      "lng": 19.9127768
+    },
+    "gridId": "50.071,19.912",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJkXLjf6hbFkcRfC3HmVmgxT0",
+    "name": "\"Mikro\" Kino",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1348,
+    "location": {
+      "lat": 50.0694995,
+      "lng": 19.923783699999998
+    },
+    "gridId": "50.069,19.923",
+    "primaryType": "movie_theater"
+  },
+  {
+    "id": "ChIJ1eqojRpbFkcR-sfAh4SlKFw",
+    "name": "Galeria Krakowska Shopping Mall",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 88145,
+    "location": {
+      "lat": 50.066268199999996,
+      "lng": 19.9461205
+    },
+    "gridId": "50.066,19.946",
+    "primaryType": "shopping_mall"
+  },
+  {
+    "id": "ChIJrcUoRAVbFkcR-p4OG8wc1vk",
+    "name": "Stary Kleparz",
+    "types": [
+      "farmers_market",
+      "tourist_attraction",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 15265,
+    "location": {
+      "lat": 50.067175000000006,
+      "lng": 19.9409083
+    },
+    "gridId": "50.067,19.940",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJv-Yt2g9bFkcR6Iut31RVCzY",
+    "name": "Czartoryski Museum",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 9914,
+    "location": {
+      "lat": 50.0646918,
+      "lng": 19.9400993
+    },
+    "gridId": "50.064,19.940",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJjUf7MRBbFkcRg9Ls9752tqU",
+    "name": "Kraków Barbican",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "monument",
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6644,
+    "location": {
+      "lat": 50.0654718,
+      "lng": 19.9416613
+    },
+    "gridId": "50.065,19.941",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJ39HZXuVbFkcRFRXjXZ4YujE",
+    "name": "Morskie Oko",
+    "types": [
+      "polish_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 11855,
+    "location": {
+      "lat": 50.0636495,
+      "lng": 19.936140899999998
+    },
+    "gridId": "50.063,19.936",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJx9oWOatbFkcRVkTWilS_mmU",
+    "name": "Tawerna Wilczy Dół",
+    "types": [
+      "restaurant",
+      "brewpub",
+      "pub",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 10476,
+    "location": {
+      "lat": 50.0629123,
+      "lng": 19.9412298
+    },
+    "gridId": "50.062,19.941",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJDzlVvQlbFkcRMeR_n0azTXU",
+    "name": "Mr Pancake.",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 8234,
+    "location": {
+      "lat": 50.0638575,
+      "lng": 19.9284066
+    },
+    "gridId": "50.063,19.928",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJRZZafGZbFkcREDLlcrF34ck",
+    "name": "Bunny Cafe - Królicza Kawiarnia [7+]",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 3544,
+    "location": {
+      "lat": 50.0666047,
+      "lng": 19.938754799999998
+    },
+    "gridId": "50.066,19.938",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJXawaRxBbFkcRx-yOIyoSLO8",
+    "name": "Szalone Widelce",
+    "types": [
+      "family_restaurant",
+      "polish_restaurant",
+      "brunch_restaurant",
+      "diner",
+      "european_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 10533,
+    "location": {
+      "lat": 50.0643181,
+      "lng": 19.942156999999998
+    },
+    "gridId": "50.064,19.942",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJyx3P-BdbFkcRhucFB_6DMvA",
+    "name": "Botanical Garden of the Jagiellonian University",
+    "types": [
+      "botanical_garden",
+      "tourist_attraction",
+      "garden",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 13716,
+    "location": {
+      "lat": 50.0635669,
+      "lng": 19.955531099999998
+    },
+    "gridId": "50.063,19.955",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJHwP-ZRhbFkcRxBy0W78JAps",
+    "name": "Kraków Opera",
+    "types": [
+      "opera_house",
+      "concert_hall",
+      "tourist_attraction",
+      "performing_arts_theater",
+      "auditorium",
+      "live_music_venue",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 3999,
+    "location": {
+      "lat": 50.0657437,
+      "lng": 19.9561317
+    },
+    "gridId": "50.065,19.956",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJUxiayxtbFkcRPB47Po57SOM",
+    "name": "Biedronka",
+    "types": [
+      "discount_supermarket",
+      "supermarket",
+      "liquor_store",
+      "grocery_store",
+      "book_store",
+      "cosmetics_store",
+      "food_store",
+      "food",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 3607,
+    "location": {
+      "lat": 50.0684989,
+      "lng": 19.9474602
+    },
+    "gridId": "50.068,19.947",
+    "primaryType": "liquor_store"
+  },
+  {
+    "id": "ChIJW5CWnxlbFkcRi5Wei_XxQq4",
+    "name": "Wesoła Cafe",
+    "types": [
+      "cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 4916,
+    "location": {
+      "lat": 50.066804499999996,
+      "lng": 19.952134100000002
+    },
+    "gridId": "50.066,19.952",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJCVcVThlbFkcRhVr_zFJ238s",
+    "name": "Blossom",
+    "types": [
+      "breakfast_restaurant",
+      "bistro",
+      "brunch_restaurant",
+      "dog_cafe",
+      "coffee_shop",
+      "bakery",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2604,
+    "location": {
+      "lat": 50.069125899999996,
+      "lng": 19.952819899999998
+    },
+    "gridId": "50.069,19.952",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJr2w3SgBbFkcRunVDhaO0rM8",
+    "name": "Otto Pompieri - Kraków",
+    "types": [
+      "restaurant",
+      "italian_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 6596,
+    "location": {
+      "lat": 50.0588993,
+      "lng": 19.952740600000002
+    },
+    "gridId": "50.058,19.952",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJa-V2k2VbFkcRn71ncu-1Z-k",
+    "name": "Chleb&More",
+    "types": [
+      "bakery",
+      "tea_house",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "cake_shop",
+      "coffee_shop",
+      "cafe",
+      "manufacturer",
+      "wholesaler",
+      "restaurant",
+      "food_store",
+      "food",
+      "association_or_organization",
+      "service",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 982,
+    "location": {
+      "lat": 50.055374199999996,
+      "lng": 19.9553331
+    },
+    "gridId": "50.055,19.955",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJ-7SrmB5bFkcR4RUXG8qjxkk",
+    "name": "Muzeum Fotografii w Krakowie - MuFo Rakowicka",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 755,
+    "location": {
+      "lat": 50.0702996,
+      "lng": 19.9536657
+    },
+    "gridId": "50.070,19.953",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJleufnRBbFkcRpTy7F9XzMh0",
+    "name": "Plac Jana Nowaka-Jeziorańskiego",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 8396,
+    "location": {
+      "lat": 50.0655097,
+      "lng": 19.9464281
+    },
+    "gridId": "50.065,19.946",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJG-rjHBdbFkcR14O9GAHeJSU",
+    "name": "Basilica of the Sacred Heart of Jesus",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 983,
+    "location": {
+      "lat": 50.0620498,
+      "lng": 19.9486721
+    },
+    "gridId": "50.062,19.948",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJLTIG1RVbFkcRP9WA20hOE6A",
+    "name": "Hex Cafe",
+    "types": [
+      "coffee_shop",
+      "pub",
+      "bar",
+      "cafe",
+      "restaurant",
+      "food_store",
+      "food",
+      "association_or_organization",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1922,
+    "location": {
+      "lat": 50.0593838,
+      "lng": 19.949403999999998
+    },
+    "gridId": "50.059,19.949",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJJWx2u_VbFkcRY4a-oGzOQ3o",
+    "name": "Fabryczna 13",
+    "types": [
+      "food_court",
+      "beer_garden",
+      "tourist_attraction",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2397,
+    "location": {
+      "lat": 50.0625657,
+      "lng": 19.9735542
+    },
+    "gridId": "50.062,19.973",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJS3ThvWpbFkcRnNKEDzGg1zM",
+    "name": "Burgerija",
+    "types": [
+      "hamburger_restaurant",
+      "food_court",
+      "fast_food_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 1930,
+    "location": {
+      "lat": 50.0670789,
+      "lng": 19.9857385
+    },
+    "gridId": "50.067,19.985",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJfRmg6ihbFkcRuVyoUoqHaM0",
+    "name": "Outpost Grill Bar",
+    "types": [
+      "bar_and_grill",
+      "beer_garden",
+      "meal_delivery",
+      "food_delivery",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1095,
+    "location": {
+      "lat": 50.066579499999996,
+      "lng": 19.9767674
+    },
+    "gridId": "50.066,19.976",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJK3v1NblFFkcRVjNOcX4r9Ek",
+    "name": "Hala Centralna Activity & Food",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "sports_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 4341,
+    "location": {
+      "lat": 50.0677789,
+      "lng": 20.0139697
+    },
+    "gridId": "50.067,20.013",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJ582VMNVaFkcR-uO-eLJ5Mn0",
+    "name": "Polish Airmen Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 9901,
+    "location": {
+      "lat": 50.0702676,
+      "lng": 19.993358
+    },
+    "gridId": "50.070,19.993",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJx89lXAhFFkcRiHTjAOSylGU",
+    "name": "Viale Verde Ristorante",
+    "types": [
+      "restaurant",
+      "pastry_shop",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "bakery",
+      "cocktail_bar",
+      "bar",
+      "cafe",
+      "food_store",
+      "european_restaurant",
+      "italian_restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1916,
+    "location": {
+      "lat": 50.067500700000004,
+      "lng": 20.007850299999998
+    },
+    "gridId": "50.067,20.007",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJNYrMByxFFkcRSmN7qsihJ88",
+    "name": "Stadion AKF",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 592,
+    "location": {
+      "lat": 50.071805,
+      "lng": 20.0004114
+    },
+    "gridId": "50.071,20.000",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJBeirnr5FFkcRoIWwWeBVN98",
+    "name": "Krakow Arcade Museum - Muzeum Gier Wideo",
+    "types": [
+      "museum",
+      "history_museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4259,
+    "location": {
+      "lat": 50.068089699999994,
+      "lng": 20.0146795
+    },
+    "gridId": "50.068,20.014",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJs7UmCwBFFkcRWxRojEpN6wg",
+    "name": "Tężnia Solankowa",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 42,
+    "location": {
+      "lat": 50.0694306,
+      "lng": 20.0300349
+    },
+    "gridId": "50.069,20.030",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJx2PyAuBEFkcRKMsYKZ7mDUA",
+    "name": "PierreOgarnia",
+    "types": [
+      "meal_delivery",
+      "dumpling_restaurant",
+      "lounge_bar",
+      "night_club",
+      "food_delivery",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 195,
+    "location": {
+      "lat": 50.0625261,
+      "lng": 20.020298999999998
+    },
+    "gridId": "50.062,20.020",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJ9eY7b6hFFkcRA-8GU5NE7pY",
+    "name": "Stadion Suche Stawy",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 689,
+    "location": {
+      "lat": 50.06604780000001,
+      "lng": 20.0573725
+    },
+    "gridId": "50.066,20.057",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJbSDKDBBFFkcRHCEyKBIdCqE",
+    "name": "Hotel Centrum",
+    "types": [
+      "hotel",
+      "lounge_bar",
+      "bed_and_breakfast",
+      "coffee_shop",
+      "night_club",
+      "cafe",
+      "food_store",
+      "event_venue",
+      "bar",
+      "lodging",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 904,
+    "location": {
+      "lat": 50.0704826,
+      "lng": 20.0396722
+    },
+    "gridId": "50.070,20.039",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJP2oY_w9FFkcRXANAjJucpG0",
+    "name": "Muzeum Nowej Huty",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1422,
+    "location": {
+      "lat": 50.070108,
+      "lng": 20.041279499999998
+    },
+    "gridId": "50.070,20.041",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJX8amVUxFFkcRFMoDZGbfadg",
+    "name": "Muzeum Duchowości i Kultury Cystersów wraz z Biblioteką w Opactwie Cystersów w Mogile",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 74,
+    "location": {
+      "lat": 50.064108499999996,
+      "lng": 20.0534934
+    },
+    "gridId": "50.064,20.053",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJFdq8daRFFkcR8Vyto3Z0KA4",
+    "name": "Wanda Mound",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1931,
+    "location": {
+      "lat": 50.0702204,
+      "lng": 20.0680738
+    },
+    "gridId": "50.070,20.068",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJzXmI2Q1GFkcRvsAZaJihv5U",
+    "name": "The Archaeological Museum in Krakow",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 121,
+    "location": {
+      "lat": 50.068880799999995,
+      "lng": 20.1343989
+    },
+    "gridId": "50.068,20.134",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJxf4AwR9ZFkcRNGFh2fMtacw",
+    "name": "Airport spotting point",
+    "types": [
+      "tourist_attraction",
+      "landmark",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2943,
+    "location": {
+      "lat": 50.081029,
+      "lng": 19.8086545
+    },
+    "gridId": "50.081,19.808",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJYzUYRtpZFkcRHmwBAfsFzcI",
+    "name": "Caffè Mazza 1960",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 669,
+    "location": {
+      "lat": 50.0806377,
+      "lng": 19.870508900000004
+    },
+    "gridId": "50.080,19.870",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJp5-_L85bFkcRqk6IK66SMG8",
+    "name": "Parish of St. John Cantius",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 337,
+    "location": {
+      "lat": 50.080054999999994,
+      "lng": 19.8884653
+    },
+    "gridId": "50.080,19.888",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJT13TE7BbFkcRW-bK9v7Bd_I",
+    "name": "Złoty Róg Bar & Kawiarnia Speciality",
+    "types": [
+      "coffee_shop",
+      "wine_bar",
+      "lounge_bar",
+      "night_club",
+      "cocktail_bar",
+      "bar",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 231,
+    "location": {
+      "lat": 50.0813446,
+      "lng": 19.899281
+    },
+    "gridId": "50.081,19.899",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJsX1SvrZbFkcRFKT04F0Q7Fw",
+    "name": "WKS Wawel Kraków",
+    "types": [
+      "stadium",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 568,
+    "location": {
+      "lat": 50.076625799999995,
+      "lng": 19.9077217
+    },
+    "gridId": "50.076,19.907",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJy_oN-KVbFkcR2AUIRqB1R8s",
+    "name": "By The Way Restaurant",
+    "types": [
+      "seafood_restaurant",
+      "pizza_restaurant",
+      "catering_service",
+      "food_delivery",
+      "mediterranean_restaurant",
+      "meal_takeaway",
+      "food_store",
+      "italian_restaurant",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2084,
+    "location": {
+      "lat": 50.0701727,
+      "lng": 19.919214
+    },
+    "gridId": "50.070,19.919",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJXRb5jddbFkcR-5y2-t_1Wj0",
+    "name": "S O W I L O Café",
+    "types": [
+      "coffee_shop",
+      "dog_cafe",
+      "beer_garden",
+      "dessert_restaurant",
+      "brunch_restaurant",
+      "sandwich_shop",
+      "bakery",
+      "bar",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 683,
+    "location": {
+      "lat": 50.067464,
+      "lng": 19.913304
+    },
+    "gridId": "50.067,19.913",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJTfeCMqRbFkcRG5EebAxLjPw",
+    "name": "Żaczek - Bar Mleczny",
+    "types": [
+      "dumpling_restaurant",
+      "tourist_attraction",
+      "brunch_restaurant",
+      "soup_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1461,
+    "location": {
+      "lat": 50.067811,
+      "lng": 19.9175579
+    },
+    "gridId": "50.067,19.917",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ5fvWEQFbFkcRWeVDan1pros",
+    "name": "New Kleparz",
+    "types": [
+      "market",
+      "tourist_attraction",
+      "grocery_store",
+      "food_store",
+      "event_venue",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 9937,
+    "location": {
+      "lat": 50.07288,
+      "lng": 19.9354466
+    },
+    "gridId": "50.072,19.935",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJnzQjDodbFkcRVJPgl6cRhLs",
+    "name": "Arabia Kebab",
+    "types": [
+      "kebab_shop",
+      "halal_restaurant",
+      "middle_eastern_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2893,
+    "location": {
+      "lat": 50.0665761,
+      "lng": 19.9396901
+    },
+    "gridId": "50.066,19.939",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ7_9XZsBbFkcR9lddVvrse54",
+    "name": "Tociekawa Specialty Coffee",
+    "types": [
+      "cafe",
+      "lounge_bar",
+      "coffee_shop",
+      "night_club",
+      "bakery",
+      "confectionery",
+      "food_store",
+      "bar",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2542,
+    "location": {
+      "lat": 50.070025699999995,
+      "lng": 19.9373066
+    },
+    "gridId": "50.070,19.937",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJB-_gR7RbFkcRkgsq4hMEpVE",
+    "name": "KAFFE BAGERI Stockholm",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2691,
+    "location": {
+      "lat": 50.067743,
+      "lng": 19.9339139
+    },
+    "gridId": "50.067,19.933",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJL1WmZLBZFkcRUV-v1NNZYVA",
+    "name": "WOMAI Kraków Centrum Nauki i Zmysłów",
+    "types": [
+      "tourist_attraction",
+      "amusement_center",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 5153,
+    "location": {
+      "lat": 50.0694807,
+      "lng": 19.9447541
+    },
+    "gridId": "50.069,19.944",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ3YthUFdbFkcR1Y7q-xoTa6Y",
+    "name": "Kawiarnia Fornir",
+    "types": [
+      "coffee_shop",
+      "wine_bar",
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "bar",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1621,
+    "location": {
+      "lat": 50.0671841,
+      "lng": 19.938551099999998
+    },
+    "gridId": "50.067,19.938",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJz233POpbFkcRUmocc6MDAMg",
+    "name": "Hype Park",
+    "types": [
+      "live_music_venue",
+      "night_club",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 812,
+    "location": {
+      "lat": 50.0775904,
+      "lng": 19.944333
+    },
+    "gridId": "50.077,19.944",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJN5eaEIlbFkcRtl7b2WYunis",
+    "name": "Bread & Butter Breakfast & Brunch Kraków",
+    "types": [
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1535,
+    "location": {
+      "lat": 50.07117950000001,
+      "lng": 19.939236299999997
+    },
+    "gridId": "50.071,19.939",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJoeo_48VbFkcRJppzHYTn0Go",
+    "name": "Szalej Cafe",
+    "types": [
+      "cafe",
+      "dog_cafe",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 2064,
+    "location": {
+      "lat": 50.067628,
+      "lng": 19.9292212
+    },
+    "gridId": "50.067,19.929",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJIwORYhxbFkcRriIbGxAedaU",
+    "name": "Museum of Polish Army AK",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 2730,
+    "location": {
+      "lat": 50.0722348,
+      "lng": 19.948480099999998
+    },
+    "gridId": "50.072,19.948",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJtzOfrhpbFkcRRkyGRpJzQIc",
+    "name": "St. Florian's Church",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1844,
+    "location": {
+      "lat": 50.067558899999995,
+      "lng": 19.9430019
+    },
+    "gridId": "50.067,19.943",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJQwWRfdVbFkcROOJoDSw3xLA",
+    "name": "CSK Shooting Krakow - Cracow shooting range. City Center. Old Town. AK47, GLOCK, BERETTA . Strzelnica w centrum Krakowa.",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 979,
+    "location": {
+      "lat": 50.0685297,
+      "lng": 19.939347299999998
+    },
+    "gridId": "50.068,19.939",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJG3usUAVbFkcR4RMDUqefe6c",
+    "name": "Live Bagel Museum of Kraków",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2802,
+    "location": {
+      "lat": 50.0666362,
+      "lng": 19.9408286
+    },
+    "gridId": "50.066,19.940",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJ4fLDYh1bFkcRf6eDsONQ6WU",
+    "name": "Cmentarz Rakowicki",
+    "types": [
+      "cemetery",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 416,
+    "location": {
+      "lat": 50.073887299999996,
+      "lng": 19.954186999999997
+    },
+    "gridId": "50.073,19.954",
+    "primaryType": "cemetery"
+  },
+  {
+    "id": "ChIJL2RYI_RbFkcROiRa4s8o-Zk",
+    "name": "Boardowa",
+    "types": [
+      "lounge_bar",
+      "brewpub",
+      "night_club",
+      "pub",
+      "bar",
+      "association_or_organization",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1219,
+    "location": {
+      "lat": 50.0664768,
+      "lng": 19.9569479
+    },
+    "gridId": "50.066,19.956",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJs0XS59tbFkcRlW-L1mfW3EY",
+    "name": "Bosacka Station",
+    "types": [
+      "pizza_restaurant",
+      "beer_garden",
+      "meal_takeaway",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 374,
+    "location": {
+      "lat": 50.0674207,
+      "lng": 19.950118800000002
+    },
+    "gridId": "50.067,19.950",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJO6CNDWtbFkcRC5rEWwVvD6I",
+    "name": "Schizofrenia Café",
+    "types": [
+      "lounge_bar",
+      "dumpling_restaurant",
+      "coffee_shop",
+      "polish_restaurant",
+      "cocktail_bar",
+      "beer_garden",
+      "night_club",
+      "live_music_venue",
+      "cafe",
+      "food_store",
+      "event_venue",
+      "pub",
+      "bar",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1215,
+    "location": {
+      "lat": 50.0665717,
+      "lng": 19.955696
+    },
+    "gridId": "50.066,19.955",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJ39ffX9JaFkcR86cKqC04JVg",
+    "name": "Muzeum Lotnictwa Polskiego",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 17103,
+    "location": {
+      "lat": 50.0769631,
+      "lng": 19.989762199999998
+    },
+    "gridId": "50.076,19.989",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJY3sHZdlaFkcRieLtx5KMbWc",
+    "name": "Stadion KS Wieczysta Kraków",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 554,
+    "location": {
+      "lat": 50.0762324,
+      "lng": 19.9773489
+    },
+    "gridId": "50.076,19.977",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJC6RsCtBaFkcRAEl-Dpv6qBc",
+    "name": "Bar \"W Przychodni\"",
+    "types": [
+      "meal_takeaway",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 856,
+    "location": {
+      "lat": 50.0790954,
+      "lng": 19.9834295
+    },
+    "gridId": "50.079,19.983",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJFR4n5dlaFkcRBS5becZYiW0",
+    "name": "Kościół MB Ostrobramskiej w Krakowie",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 611,
+    "location": {
+      "lat": 50.07475480000001,
+      "lng": 19.978911999999998
+    },
+    "gridId": "50.074,19.978",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJU0AoYyhbFkcRNs08axsXIGo",
+    "name": "Świat Kraftu Beer & Burger",
+    "types": [
+      "hamburger_restaurant",
+      "pub",
+      "bar",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 711,
+    "location": {
+      "lat": 50.0733555,
+      "lng": 19.980946499999998
+    },
+    "gridId": "50.073,19.980",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJQ0Xs69tFFkcRMYu-xuuPMmI",
+    "name": "Hangar Czyżyny",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 983,
+    "location": {
+      "lat": 50.077878899999995,
+      "lng": 20.0023157
+    },
+    "gridId": "50.077,20.002",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJafbg15BbFkcRq4HCl_okrjA",
+    "name": "Norma - makarony etc.",
+    "types": [
+      "italian_restaurant",
+      "dessert_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2269,
+    "location": {
+      "lat": 50.074982899999995,
+      "lng": 19.994682299999997
+    },
+    "gridId": "50.074,19.994",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJVbQaQChFFkcRzMumDM9eHns",
+    "name": "The Church of St. Albert",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 667,
+    "location": {
+      "lat": 50.081405100000005,
+      "lng": 20.007727199999998
+    },
+    "gridId": "50.081,20.007",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJ2wFEOlVFFkcRYdG0I1KBu6k",
+    "name": "PrzeKawka",
+    "types": [
+      "coffee_shop",
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 894,
+    "location": {
+      "lat": 50.0805515,
+      "lng": 20.0121868
+    },
+    "gridId": "50.080,20.012",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJuWth2TtFFkcR88oAkFqFwbo",
+    "name": "Tutti Santi pizzeria",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2315,
+    "location": {
+      "lat": 50.0750472,
+      "lng": 20.0169799
+    },
+    "gridId": "50.075,20.016",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJl1DaDRpFFkcRRT71I54TOgo",
+    "name": "Max Grill",
+    "types": [
+      "barbecue_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4717,
+    "location": {
+      "lat": 50.0714335,
+      "lng": 20.034493100000002
+    },
+    "gridId": "50.071,20.034",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJYQl_UWpFFkcRdtjDlIc3CFg",
+    "name": "Cafe NOWA Księgarnia",
+    "types": [
+      "cafe",
+      "book_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1102,
+    "location": {
+      "lat": 50.076333299999995,
+      "lng": 20.0380599
+    },
+    "gridId": "50.076,20.038",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJOYXBx_FaFkcRGp9vzXRcTOI",
+    "name": "TCF HUB Centrum Sportu i Integracji",
+    "types": [
+      "snack_bar",
+      "meal_takeaway",
+      "bar",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "sports_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 931,
+    "location": {
+      "lat": 50.0798907,
+      "lng": 20.0438848
+    },
+    "gridId": "50.079,20.043",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ9X58E0xFFkcRe2DvHNuuEps",
+    "name": "Joker - Food & Friends",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2181,
+    "location": {
+      "lat": 50.074330499999995,
+      "lng": 20.0409275
+    },
+    "gridId": "50.074,20.040",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJrdeM7g1FFkcRI_7CMrx-BdI",
+    "name": "Kościół MB Częstochowskiej w Krakowie",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 519,
+    "location": {
+      "lat": 50.0753954,
+      "lng": 20.0455017
+    },
+    "gridId": "50.075,20.045",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJPeQ0jQxFFkcRMA6t-CgSPog",
+    "name": "Zalew Nowohucki | Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4168,
+    "location": {
+      "lat": 50.079038999999995,
+      "lng": 20.0511046
+    },
+    "gridId": "50.079,20.051",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJMTJubiZZFkcR_R3E4EPu0-g",
+    "name": "Plane Watching Area",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 19,
+    "location": {
+      "lat": 50.083376699999995,
+      "lng": 19.794954399999998
+    },
+    "gridId": "50.083,19.794",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJPznMnEFZFkcR72MMcse7rSU",
+    "name": "Nieczynny kamieniołom w Mydlnikach",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 48,
+    "location": {
+      "lat": 50.089871099999996,
+      "lng": 19.8429337
+    },
+    "gridId": "50.089,19.842",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ2RUiT9VbFkcR1bZOS3YRwcU",
+    "name": "Regionalne Muzeum Młodej Polski \"Rydlówka\"",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 810,
+    "location": {
+      "lat": 50.087740499999995,
+      "lng": 19.878037199999998
+    },
+    "gridId": "50.087,19.878",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJVa11JC5aFkcRQjY73Ky0ec0",
+    "name": "Bronowice Mall",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 22275,
+    "location": {
+      "lat": 50.0922961,
+      "lng": 19.8979662
+    },
+    "gridId": "50.092,19.897",
+    "primaryType": "shopping_mall"
+  },
+  {
+    "id": "ChIJ567ByDJaFkcR2yaxlzlkXlc",
+    "name": "Good Lood – lody rzemieślnicze",
+    "types": [
+      "ice_cream_shop",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2303,
+    "location": {
+      "lat": 50.0860637,
+      "lng": 19.8940956
+    },
+    "gridId": "50.086,19.894",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJx7-zQkhaFkcRKpAmDI4j2zI",
+    "name": "Premier Kraków Hotel",
+    "types": [
+      "hotel",
+      "convention_center",
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "lodging",
+      "event_venue",
+      "restaurant",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "totalReviews": 3897,
+    "location": {
+      "lat": 50.091087099999996,
+      "lng": 19.9142992
+    },
+    "gridId": "50.091,19.914",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJC5U6clJaFkcR7nXHxr8s8Dg",
+    "name": "Parish of Queen St. Jadwiga",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 551,
+    "location": {
+      "lat": 50.0839516,
+      "lng": 19.9226138
+    },
+    "gridId": "50.083,19.922",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJN2AHo8hbFkcRI6D3YcXLkXc",
+    "name": "Indian Flame Garden. Indyjska Restauracja Kraków",
+    "types": [
+      "indian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 4856,
+    "location": {
+      "lat": 50.0852048,
+      "lng": 19.9272279
+    },
+    "gridId": "50.085,19.927",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJix-YG09aFkcRSZ59ySYFeos",
+    "name": "Krowoderski Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4877,
+    "location": {
+      "lat": 50.0887558,
+      "lng": 19.921989999999997
+    },
+    "gridId": "50.088,19.921",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJJ4DWGEpaFkcRDlHiQ82KCK4",
+    "name": "Kościół Niepokalanego Poczęcia NMP w Krakowie",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 254,
+    "location": {
+      "lat": 50.087292299999994,
+      "lng": 19.9106175
+    },
+    "gridId": "50.087,19.910",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJ6dNnG_laFkcRp1Mdf7OX4PQ",
+    "name": "Trattoria Amici",
+    "types": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1638,
+    "location": {
+      "lat": 50.08391830000001,
+      "lng": 19.943217399999998
+    },
+    "gridId": "50.083,19.943",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJS7RNvRFbFkcR0vZIlckMgfM",
+    "name": "Tom Yum",
+    "types": [
+      "thai_restaurant",
+      "vietnamese_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 586,
+    "location": {
+      "lat": 50.0836627,
+      "lng": 19.9274873
+    },
+    "gridId": "50.083,19.927",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJk8ej3N1bFkcRX6j_RLufl70",
+    "name": "Spaghetteria Prądnicka",
+    "types": [
+      "italian_restaurant",
+      "pizza_restaurant",
+      "beer_garden",
+      "meal_delivery",
+      "food_delivery",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 682,
+    "location": {
+      "lat": 50.077347599999996,
+      "lng": 19.9362234
+    },
+    "gridId": "50.077,19.936",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJqaUuN1laFkcRWUyhUsuV4fk",
+    "name": "Kosciuszko Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2999,
+    "location": {
+      "lat": 50.0932756,
+      "lng": 19.9401704
+    },
+    "gridId": "50.093,19.940",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJtRNd95hbFkcRX6TMagqdRBs",
+    "name": "KraCow Burgers",
+    "types": [
+      "hamburger_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 2312,
+    "location": {
+      "lat": 50.0844544,
+      "lng": 19.95534
+    },
+    "gridId": "50.084,19.955",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJ937RzElbFkcRHRKQTaimFow",
+    "name": "Laser park",
+    "types": [
+      "tourist_attraction",
+      "amusement_center",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2504,
+    "location": {
+      "lat": 50.0841931,
+      "lng": 19.9624755
+    },
+    "gridId": "50.084,19.962",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJH0uXO-laFkcRBJ7zJ0YC2PA",
+    "name": "Park Zaczarowanej Dorożki w Krakowie",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2730,
+    "location": {
+      "lat": 50.086793,
+      "lng": 19.966203
+    },
+    "gridId": "50.086,19.966",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJhx_HIe5aFkcREtnDYKHHGfs",
+    "name": "Church of Jesus the Good Shepherd",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 529,
+    "location": {
+      "lat": 50.0885223,
+      "lng": 19.9584027
+    },
+    "gridId": "50.088,19.958",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJZcmIz_ZaFkcRBN89reFVQnw",
+    "name": "Dworek Golden Horn",
+    "types": [
+      "hotel",
+      "beer_garden",
+      "lounge_bar",
+      "extended_stay_hotel",
+      "bed_and_breakfast",
+      "night_club",
+      "polish_restaurant",
+      "chicken_restaurant",
+      "meal_takeaway",
+      "bar",
+      "lodging",
+      "coffee_shop",
+      "cafe",
+      "restaurant",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 518,
+    "location": {
+      "lat": 50.0894815,
+      "lng": 19.9497792
+    },
+    "gridId": "50.089,19.949",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJ18ic2PpaFkcRuz4W1LiYJDs",
+    "name": "Buda u Majstra",
+    "types": [
+      "kebab_shop",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1615,
+    "location": {
+      "lat": 50.083010599999994,
+      "lng": 19.952712
+    },
+    "gridId": "50.083,19.952",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJf1gbFcdaFkcRFk76XHxIy14",
+    "name": "Multikino",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 12689,
+    "location": {
+      "lat": 50.0889388,
+      "lng": 19.9845494
+    },
+    "gridId": "50.088,19.984",
+    "primaryType": "movie_theater"
+  },
+  {
+    "id": "ChIJxzsjlcBaFkcRsMRsBFenXyY",
+    "name": "Hotel Swing",
+    "types": [
+      "hotel",
+      "bar",
+      "lodging",
+      "event_venue",
+      "restaurant",
+      "health",
+      "spa",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2431,
+    "location": {
+      "lat": 50.0886937,
+      "lng": 19.981056
+    },
+    "gridId": "50.088,19.981",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJzcM5DoxbFkcROnxV09JskAw",
+    "name": "Numero UNO",
+    "types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1476,
+    "location": {
+      "lat": 50.091420799999995,
+      "lng": 19.9882299
+    },
+    "gridId": "50.091,19.988",
+    "primaryType": "restaurant"
+  },
+  {
+    "id": "ChIJiaB9zutaFkcRm2JfKXkCaZY",
+    "name": "Church of St. John the Baptist",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 574,
+    "location": {
+      "lat": 50.0894865,
+      "lng": 19.9701716
+    },
+    "gridId": "50.089,19.970",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJK1VRa7ZaFkcR6aItB72byiE",
+    "name": "Park Tysiąclecia w Krakowie",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 3222,
+    "location": {
+      "lat": 50.090840899999996,
+      "lng": 19.9965723
+    },
+    "gridId": "50.090,19.996",
+    "primaryType": "park"
+  },
+  {
+    "id": "ChIJVyol0UtFFkcRGTzOnxAPZ8w",
+    "name": "Good Lood – lody rzemieślnicze",
+    "types": [
+      "ice_cream_shop",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 1559,
+    "location": {
+      "lat": 50.0885904,
+      "lng": 20.0139739
+    },
+    "gridId": "50.088,20.013",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJ1SDEEUNFFkcRBBx4hFO0EEo",
+    "name": "WRT Karting",
+    "types": [
+      "go_karting_venue",
+      "pizza_restaurant",
+      "race_course",
+      "bar",
+      "cafe",
+      "event_venue",
+      "sports_activity_location",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 2443,
+    "location": {
+      "lat": 50.0903803,
+      "lng": 20.0348869
+    },
+    "gridId": "50.090,20.034",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJO6lS10BFFkcRpwgs2g8yXaE",
+    "name": "Our Lady Queen of Poland Church",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1736,
+    "location": {
+      "lat": 50.0849184,
+      "lng": 20.0293451
+    },
+    "gridId": "50.084,20.029",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJN01LZhVFFkcReKSfA_S86JU",
+    "name": "Klubokawiarnia Ludowa",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1161,
+    "location": {
+      "lat": 50.080285599999996,
+      "lng": 20.0339469
+    },
+    "gridId": "50.080,20.033",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJRY6OnmtFFkcRCwpdnXPhMqI",
+    "name": "Kościół MB Pocieszenia w Krakowie",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 541,
+    "location": {
+      "lat": 50.0834997,
+      "lng": 20.0417074
+    },
+    "gridId": "50.083,20.041",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJ74vfuHNFFkcRmQoYe9FD3jU",
+    "name": "Dworek Jana Matejki w Krzesławicach",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 811,
+    "location": {
+      "lat": 50.0818297,
+      "lng": 20.0554459
+    },
+    "gridId": "50.081,20.055",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJEXxr4RRFFkcRnqz63RcEymE",
+    "name": "Kino Sfinks | Ośrodek Kultury Norwida",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 567,
+    "location": {
+      "lat": 50.0797284,
+      "lng": 20.0365318
+    },
+    "gridId": "50.079,20.036",
+    "primaryType": "movie_theater"
+  },
+  {
+    "id": "ChIJ2--KP75FFkcRVWYz0meY2CQ",
+    "name": "Brine graduation tower",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 1244,
+    "location": {
+      "lat": 50.0813467,
+      "lng": 20.051606000000003
+    },
+    "gridId": "50.081,20.051",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ1__zPvdFFkcRppMRIzpfJAg",
+    "name": "Pływające fontanny",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 319,
+    "location": {
+      "lat": 50.0773612,
+      "lng": 20.053150799999997
+    },
+    "gridId": "50.077,20.053",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJA7hvpEdFFkcR7hyXJGwhWFk",
+    "name": "Bar na transbudzie",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 46,
+    "location": {
+      "lat": 50.0849823,
+      "lng": 20.0661818
+    },
+    "gridId": "50.084,20.066",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJg99fyq5IFkcREcoZ8HdNfVM",
+    "name": "Church of Sts. Gregory the Great",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 195,
+    "location": {
+      "lat": 50.0878053,
+      "lng": 20.1469471
+    },
+    "gridId": "50.087,20.146",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJN5211KhIFkcRaIJVDgeuBCI",
+    "name": "Dwór Popielów w Ruszczy",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 14,
+    "location": {
+      "lat": 50.087984899999995,
+      "lng": 20.14817
+    },
+    "gridId": "50.087,20.148",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJS79uzu1ZFkcRLhzjdFV64KQ",
+    "name": "Skałka w Rezerwacie Skały Kmity",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 16,
+    "location": {
+      "lat": 50.098527399999995,
+      "lng": 19.811198800000003
+    },
+    "gridId": "50.098,19.811",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJY5nkAatZFkcRn9rjW5wmJwc",
+    "name": "Stadion Sportowy LKS Wisła Rząska",
+    "types": [
+      "stadium",
+      "event_venue",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 128,
+    "location": {
+      "lat": 50.100777099999995,
+      "lng": 19.8250086
+    },
+    "gridId": "50.100,19.825",
+    "primaryType": "stadium"
+  },
+  {
+    "id": "ChIJU1_2b9pZFkcRMRgo1hC6YHw",
+    "name": "Głaz KCIUK",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.5,
+    "totalReviews": 73,
+    "location": {
+      "lat": 50.093146,
+      "lng": 19.859925999999998
+    },
+    "gridId": "50.093,19.859",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJcR6T7HhZFkcRKGySBP7LSkU",
+    "name": "Szlak Twierdzy Kraków",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 10,
+    "location": {
+      "lat": 50.0888244,
+      "lng": 19.866745299999998
+    },
+    "gridId": "50.088,19.866",
+    "primaryType": "museum"
+  },
+  {
+    "id": "ChIJDcMW4oFZFkcRYRn6DCMNg58",
+    "name": "Ammunition shelter \"Bronowice\"",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "totalReviews": 43,
+    "location": {
+      "lat": 50.089831800000006,
+      "lng": 19.8708806
+    },
+    "gridId": "50.089,19.870",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJXSF0hIhbFkcR65Q8BD0SQgI",
+    "name": "Filo Di Vino - delikatesy włoskie",
+    "types": [
+      "wine_bar",
+      "gift_shop",
+      "bar",
+      "liquor_store",
+      "deli",
+      "grocery_store",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "service",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 286,
+    "location": {
+      "lat": 50.0904775,
+      "lng": 19.881043599999998
+    },
+    "gridId": "50.090,19.881",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJu4xbEA9bFkcRYQjwYbT57ms",
+    "name": "Centrum Dialogu i Kultury Islamu w Krakowie",
+    "types": [
+      "mosque",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 79,
+    "location": {
+      "lat": 50.0889181,
+      "lng": 19.883659299999998
+    },
+    "gridId": "50.088,19.883",
+    "primaryType": "mosque"
+  },
+  {
+    "id": "ChIJ-W97WF5aFkcR9X_ZignipxA",
+    "name": "Camping nr 103 \"Clepardia\"",
+    "types": [
+      "rv_park",
+      "camping_cabin",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1007,
+    "location": {
+      "lat": 50.0954681,
+      "lng": 19.941373799999997
+    },
+    "gridId": "50.095,19.941",
+    "primaryType": "campground"
+  },
+  {
+    "id": "ChIJiXj032laFkcRz-TFBUDspKQ",
+    "name": "Biedronka",
+    "types": [
+      "discount_supermarket",
+      "cosmetics_store",
+      "liquor_store",
+      "supermarket",
+      "grocery_store",
+      "book_store",
+      "food_store",
+      "home_goods_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 2039,
+    "location": {
+      "lat": 50.1018982,
+      "lng": 19.929589
+    },
+    "gridId": "50.101,19.929",
+    "primaryType": "liquor_store"
+  },
+  {
+    "id": "ChIJrdZU0FxaFkcR2HX5HFGGewE",
+    "name": "Parish of Our Lady Mother of the Church",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 308,
+    "location": {
+      "lat": 50.0969364,
+      "lng": 19.9323767
+    },
+    "gridId": "50.096,19.932",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJyfMHGPNaFkcRAbPE8p4p9ao",
+    "name": "Sekret Smaku",
+    "types": [
+      "polish_restaurant",
+      "grocery_store",
+      "dumpling_restaurant",
+      "bar",
+      "cafe",
+      "restaurant",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 2908,
+    "location": {
+      "lat": 50.094226899999995,
+      "lng": 19.9574332
+    },
+    "gridId": "50.094,19.957",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJhXMDSrdaFkcRl3vqJ3QFCLE",
+    "name": "Church of St Maximilian Maria Kolbe",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 625,
+    "location": {
+      "lat": 50.0941311,
+      "lng": 19.9960795
+    },
+    "gridId": "50.094,19.996",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJTcUB77BaFkcRTEjzZ1_4mz0",
+    "name": "Ginza Sushi",
+    "types": [
+      "sushi_restaurant",
+      "catering_service",
+      "food_delivery",
+      "meal_takeaway",
+      "bar",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 1013,
+    "location": {
+      "lat": 50.0955386,
+      "lng": 19.997330299999998
+    },
+    "gridId": "50.095,19.997",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJd2_WpVRFFkcRljmk2vbXALc",
+    "name": "Fort 48a Mistrzejowice",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 345,
+    "location": {
+      "lat": 50.101230699999995,
+      "lng": 20.0170526
+    },
+    "gridId": "50.101,20.017",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJo0ZHMHtFFkcRW8uRJ4To-0M",
+    "name": "Kościół Miłosierdzia Bożego w Krakowie",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 407,
+    "location": {
+      "lat": 50.0923272,
+      "lng": 20.0580681
+    },
+    "gridId": "50.092,20.058",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJlciTCPdFFkcR0lJEg2bEZHw",
+    "name": "Fort 49a DŁUBNIA - Twierdza Kraków",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 54,
+    "location": {
+      "lat": 50.0979451,
+      "lng": 20.0412775
+    },
+    "gridId": "50.097,20.041",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJVXiCcG9FFkcRdjxTNkuitC8",
+    "name": "Lot balonem Kraków Balloon Team",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "transportation_service",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 271,
+    "location": {
+      "lat": 50.0883597,
+      "lng": 20.0499722
+    },
+    "gridId": "50.088,20.049",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ4dalbWNFFkcRytA-MJZMRvo",
+    "name": "Salarias.pl Maritime Aquarium",
+    "types": [
+      "aquarium",
+      "point_of_interest",
+      "pet_store",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 76,
+    "location": {
+      "lat": 50.094895699999995,
+      "lng": 20.0565094
+    },
+    "gridId": "50.094,20.056",
+    "primaryType": "aquarium"
+  },
+  {
+    "id": "ChIJa-cff35FFkcRLQpMh0bPlu4",
+    "name": "Fort 49 1/4 \"Grębałów\" - Twierdza Kraków",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 77,
+    "location": {
+      "lat": 50.0946691,
+      "lng": 20.0679348
+    },
+    "gridId": "50.094,20.067",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJT9I_O51ZFkcR_XF4zzWYTAM",
+    "name": "Glamping Pogorzany",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 22,
+    "location": {
+      "lat": 50.1082805,
+      "lng": 19.791204099999998
+    },
+    "gridId": "50.108,19.791",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJsUxTwZ1XFkcR4STXJzst2Fw",
+    "name": "Restauracja A Dong",
+    "types": [
+      "vietnamese_restaurant",
+      "asian_restaurant",
+      "beer_garden",
+      "meal_delivery",
+      "food_delivery",
+      "chinese_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1409,
+    "location": {
+      "lat": 50.1063307,
+      "lng": 19.843265499999998
+    },
+    "gridId": "50.106,19.843",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ3T6qSABZFkcR3iouWK1-b4s",
+    "name": "Siklawy Kasztanowe",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 6,
+    "location": {
+      "lat": 50.1118669,
+      "lng": 19.838266
+    },
+    "gridId": "50.111,19.838",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ1Xp49nZZFkcR3aM4EFMz6rQ",
+    "name": "BRONX BOULDERING",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 586,
+    "location": {
+      "lat": 50.1048548,
+      "lng": 19.8823456
+    },
+    "gridId": "50.104,19.882",
+    "primaryType": "cafe"
+  },
+  {
+    "id": "ChIJxQjkvqNbFkcRpPqOnbVRToQ",
+    "name": "Obrazy na Zamówienie - Edward Karczmarski - malarstwo",
+    "types": [
+      "art_gallery",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 8,
+    "location": {
+      "lat": 50.1070038,
+      "lng": 19.923538699999998
+    },
+    "gridId": "50.107,19.923",
+    "primaryType": "art_gallery"
+  },
+  {
+    "id": "ChIJDzJqo2ZaFkcRX7qpVg-2Xcc",
+    "name": "Church of Mary Magdalene",
+    "types": [
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 146,
+    "location": {
+      "lat": 50.1029504,
+      "lng": 19.9428095
+    },
+    "gridId": "50.102,19.942",
+    "primaryType": "church"
+  },
+  {
+    "id": "ChIJLRLW0YZ3FkcRmVEzj_3SW3Q",
+    "name": "Bubble Drink Bar - Prosecco Van",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 14,
+    "location": {
+      "lat": 50.110447099999995,
+      "lng": 19.9431193
+    },
+    "gridId": "50.110,19.943",
+    "primaryType": "night_club"
+  },
+  {
+    "id": "ChIJh3USfQBbFkcRR8QndJzJQAE",
+    "name": "Punkt kontroli strefy SCT",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 2,
+    "totalReviews": 9,
+    "location": {
+      "lat": 50.105678999999995,
+      "lng": 19.936708
+    },
+    "gridId": "50.105,19.936",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJhVUmRoVaFkcR0ume6h5qHcE",
+    "name": "Schron amunicyjny „Łysa Góra” - Twierdza Kraków",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "totalReviews": 93,
+    "location": {
+      "lat": 50.1052052,
+      "lng": 19.969265699999998
+    },
+    "gridId": "50.105,19.969",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJE2wDdgRPFkcRiIYS7NGGLQY",
+    "name": "Jaz na Dłubni",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 33,
+    "location": {
+      "lat": 50.104512199999995,
+      "lng": 20.032954099999998
+    },
+    "gridId": "50.104,20.032",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJVwYEb5ZZFkcRR2CDtR6KqDk",
+    "name": "Zalew Kamieniołom w Zabierzowie",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 681,
+    "location": {
+      "lat": 50.1142704,
+      "lng": 19.790028799999998
+    },
+    "gridId": "50.114,19.790",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJoYaYgMBZFkcRj4rrkhJVcbU",
+    "name": "Kamieniołom Zabierzów",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 116,
+    "location": {
+      "lat": 50.114926,
+      "lng": 19.7897636
+    },
+    "gridId": "50.114,19.789",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJjQ8632lYFkcRgoroX4xQSQ8",
+    "name": "Main Square of Zabierzów",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 574,
+    "location": {
+      "lat": 50.1164122,
+      "lng": 19.800829999999998
+    },
+    "gridId": "50.116,19.800",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJpxlsyfBQFkcRrsClJEBNfIM",
+    "name": "Stacja Winiarska",
+    "types": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 388,
+    "location": {
+      "lat": 50.1147402,
+      "lng": 19.919545
+    },
+    "gridId": "50.114,19.919",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJO_lC5X1QFkcRcDffGJ_n6V0",
+    "name": "Restauracja A Dong | Węgrzce",
+    "types": [
+      "vietnamese_restaurant",
+      "beer_garden",
+      "meal_delivery",
+      "asian_restaurant",
+      "chinese_restaurant",
+      "food_delivery",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 1957,
+    "location": {
+      "lat": 50.1211194,
+      "lng": 19.966856999999997
+    },
+    "gridId": "50.121,19.966",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJq3LwxHtQFkcRXjxJUhocr-U",
+    "name": "Monika Malinowska \"Paleta\" - Obrazy na zamówienie",
+    "types": [
+      "art_studio",
+      "art_gallery",
+      "painter",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 21,
+    "location": {
+      "lat": 50.1169997,
+      "lng": 19.977463
+    },
+    "gridId": "50.116,19.977",
+    "primaryType": "art_gallery"
+  },
+  {
+    "id": "ChIJz6wFMY5RFkcRFPM3t_dHDgA",
+    "name": "Obelisk kościuszkowski",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 12,
+    "location": {
+      "lat": 50.1225549,
+      "lng": 19.996134599999998
+    },
+    "gridId": "50.122,19.996",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJcZQtfMhbFkcRm_ACnFE1B0I",
+    "name": "Kościół św. Wojciecha i MB Bolesnej w Modlnicy",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 330,
+    "location": {
+      "lat": 50.130966699999995,
+      "lng": 19.8625135
+    },
+    "gridId": "50.130,19.862",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJN9Ol_9hZFkcR7nKq-pVueMU",
+    "name": "Dwór w Modlnicy UJ",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 94,
+    "location": {
+      "lat": 50.130967,
+      "lng": 19.863969100000002
+    },
+    "gridId": "50.130,19.863",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJC5BemZlZFkcRlWRZ_N3FGRE",
+    "name": "Kolorowa Żyrafa",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "totalReviews": 22,
+    "location": {
+      "lat": 50.127732599999995,
+      "lng": 19.873300999999998
+    },
+    "gridId": "50.127,19.873",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ4YybG9xRFkcREmrNdQoXFp0",
+    "name": "Jaskinia Zielonkowska",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 28,
+    "location": {
+      "lat": 50.1314663,
+      "lng": 19.9185478
+    },
+    "gridId": "50.131,19.918",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJY5LwLvxOFkcRFXk_h-Gy50M",
+    "name": "Byczek Kebab",
+    "types": [
+      "kebab_shop",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 1205,
+    "location": {
+      "lat": 50.1353292,
+      "lng": 20.116021399999997
+    },
+    "gridId": "50.135,20.116",
+    "primaryType": "bar"
+  },
+  {
+    "id": "ChIJ3bK5Ro1ZFkcRIKs_YE1xQIU",
+    "name": "Ekowioska Ujazdowska",
+    "types": [
+      "tourist_attraction",
+      "garden",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "totalReviews": 50,
+    "location": {
+      "lat": 50.140949,
+      "lng": 19.8186695
+    },
+    "gridId": "50.140,19.818",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJ-Va_oehXFkcR1EGBNELa-eg",
+    "name": "Dolina Podskalańska",
+    "types": [
+      "wildlife_park",
+      "zoo",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 41,
+    "location": {
+      "lat": 50.1424861,
+      "lng": 19.8465217
+    },
+    "gridId": "50.142,19.846",
+    "primaryType": "zoo"
+  },
+  {
+    "id": "ChIJ80hY7YFXFkcRyZsA_BvPa8Q",
+    "name": "Jaskinia Borsucza",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 53,
+    "location": {
+      "lat": 50.1408699,
+      "lng": 19.8491336
+    },
+    "gridId": "50.140,19.849",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJuykFLbdXFkcRpgGEhE_zX1g",
+    "name": "Wielka Skała",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "totalReviews": 7,
+    "location": {
+      "lat": 50.141667,
+      "lng": 19.846111
+    },
+    "gridId": "50.141,19.846",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJO_m9HkBRFkcRIG40_jNn_o4",
+    "name": "Zespół dworski w Garlicy Murowanej, Garlicki Lamus",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "totalReviews": 10,
+    "location": {
+      "lat": 50.140847699999995,
+      "lng": 19.929382
+    },
+    "gridId": "50.140,19.929",
+    "primaryType": "tourist_attraction"
+  },
+  {
+    "id": "ChIJLbl1Ge5OFkcRTURElQrxO08",
+    "name": "Karczma Cekierówka",
+    "types": [
+      "polish_restaurant",
+      "lounge_bar",
+      "coffee_shop",
+      "family_restaurant",
+      "night_club",
+      "cafe",
+      "food_store",
+      "dance_hall",
+      "event_venue",
+      "bar",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 1422,
+    "location": {
+      "lat": 50.1437181,
+      "lng": 20.1294531
+    },
+    "gridId": "50.143,20.129",
+    "primaryType": "night_club"
+  }
+]

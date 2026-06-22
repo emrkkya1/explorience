@@ -1,0 +1,148 @@
+# Google Maps Places API - Searchable Place Types
+# These types can be used in the `includedTypes` parameter for place searches
+# API Limit: Maximum 50 types per request
+
+# ============================================================================
+# FOOD & DINING
+# ============================================================================
+restaurant
+cafe
+bar
+bakery
+meal_delivery
+meal_takeaway
+liquor_store
+
+# ============================================================================
+# ATTRACTIONS & ENTERTAINMENT
+# ============================================================================
+tourist_attraction
+amusement_park
+aquarium
+art_gallery
+casino
+movie_theater
+museum
+night_club
+park
+zoo
+stadium
+bowling_alley
+
+# ============================================================================
+# RELIGIOUS & CULTURAL
+# ============================================================================
+church
+mosque
+synagogue
+hindu_temple
+
+# ============================================================================
+# SHOPPING & RETAIL
+# ============================================================================
+book_store
+clothing_store
+convenience_store
+department_store
+electronics_store
+florist
+furniture_store
+hardware_store
+home_goods_store
+jewelry_store
+pet_store
+shoe_store
+shopping_mall
+supermarket
+store
+bicycle_store
+car_dealer
+
+# ============================================================================
+# PROFESSIONAL SERVICES
+# ============================================================================
+accounting
+atm
+bank
+beauty_salon
+car_rental
+car_repair
+car_wash
+cemetery
+city_hall
+courthouse
+dentist
+doctor
+drugstore
+electrician
+embassy
+fire_station
+funeral_home
+gas_station
+gym
+hair_care
+hospital
+insurance_agency
+laundry
+lawyer
+library
+local_government_office
+locksmith
+lodging
+moving_company
+painter
+parking
+pharmacy
+physiotherapist
+plumber
+police
+post_office
+real_estate_agency
+roofing_contractor
+rv_park
+school
+primary_school
+secondary_school
+university
+spa
+storage
+taxi_stand
+travel_agency
+veterinary_care
+
+# ============================================================================
+# TRANSPORTATION
+# ============================================================================
+airport
+bus_station
+light_rail_station
+subway_station
+train_station
+transit_station
+
+# ============================================================================
+# OUTDOOR & RECREATION
+# ============================================================================
+campground
+
+# ============================================================================
+# NOTES
+# ============================================================================
+# 
+# IMPORTANT: The following types are RETURNED by the API but CANNOT be used
+# as search filters (they appear in Table 2 of the docs):
+# - establishment
+# - food
+# - point_of_interest
+# - landmark
+# - place_of_worship
+# - health
+# - geocode
+#
+# Some types we've been using may not be in the official list:
+# - historical_landmark (works but not documented)
+# - monument (works but not documented)
+# - historical_place (works but not documented)
+#
+# Official documentation:
+# https://developers.google.com/maps/documentation/places/web-service/supported_types

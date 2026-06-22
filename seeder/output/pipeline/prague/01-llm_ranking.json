@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "ChIJn7WO5eWUC0cRJrHT0TiXIHU",
+    "name": "Charles Bridge",
+    "types": [
+      "bridge",
+      "tourist_attraction",
+      "transportation_service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 194388,
+    "location": {
+      "lat": 50.0864771,
+      "lng": 14.411436600000002
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "A historic bridge adorned with statues, connecting the Old Town to Malá Strana and offering stunning views of Prague Castle."
+  },
+  {
+    "id": "ChIJIfpRNOmUC0cRxHIewgck75c",
+    "name": "Old Town Square",
+    "types": [
+      "plaza",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 120298,
+    "location": {
+      "lat": 50.0875692,
+      "lng": 14.421187399999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "The vibrant heart of Prague's Old Town, surrounded by colorful buildings, the Astronomical Clock, and historical monuments."
+  },
+  {
+    "id": "ChIJw7ckbB6VC0cRnyUSr4g8zyo",
+    "name": "Prague Castle",
+    "types": [
+      "castle",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 197631,
+    "location": {
+      "lat": 50.0910966,
+      "lng": 14.4016165
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "The largest ancient castle in the world, dominating the Prague skyline and serving as the seat of Czech rulers for centuries."
+  },
+  {
+    "id": "ChIJW08COB6VC0cRoonZ8lA4rWk",
+    "name": "St. Vitus Cathedral",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 94341,
+    "location": {
+      "lat": 50.090891799999994,
+      "lng": 14.4005114
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "A magnificent Gothic cathedral located within Prague Castle, featuring stunning stained glass and the tombs of Bohemian kings."
+  },
+  {
+    "id": "ChIJmwPb-dTqC0cRvbXrAjxU2ZY",
+    "name": "Prague Zoo",
+    "types": [
+      "zoo",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 68436,
+    "location": {
+      "lat": 50.1177321,
+      "lng": 14.406201300000001
+    },
+    "primaryType": "zoo",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A world-class zoo with diverse species and naturalistic habitats, perfect for a family outing or a leisurely day in nature."
+  },
+  {
+    "id": "ChIJSS_AOemUC0cRlgaiWrJEe_E",
+    "name": "Prague Astronomical Clock",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 97522,
+    "location": {
+      "lat": 50.0870215,
+      "lng": 14.420706500000001
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "legendary",
+    "description": "A medieval astronomical clock on the Old Town Hall, drawing crowds every hour to see the procession of the Twelve Apostles."
+  },
+  {
+    "id": "ChIJm3K2Pe2UC0cRr_kkQrOB3D8",
+    "name": "Duplex",
+    "types": [
+      "night_club",
+      "lounge_bar",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 54964,
+    "location": {
+      "lat": 50.082584,
+      "lng": 14.426568999999999
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "epic",
+    "description": "A stylish nightclub with a rooftop terrace offering panoramic views of Prague, popular for dancing and socializing."
+  },
+  {
+    "id": "ChIJCd13PWeUC0cRZihTX2RPn0w",
+    "name": "Vyšehrad",
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 52672,
+    "location": {
+      "lat": 50.064194099999995,
+      "lng": 14.4188977
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A historic fort overlooking the Vltava River, containing a basilica, cemetery of famous Czechs, and peaceful parkland."
+  },
+  {
+    "id": "ChIJBfIPBeuUC0cRphNG7F-4SZM",
+    "name": "The Powder Tower",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 48282,
+    "location": {
+      "lat": 50.087272999999996,
+      "lng": 14.4277887
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A Gothic tower serving as a former gunpowder store and one of the original gates to the Old Town, now housing an exhibition."
+  },
+  {
+    "id": "ChIJbSZndNuUC0cR2lgM9o_zW5Q",
+    "name": "Letna Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 28969,
+    "location": {
+      "lat": 50.0959864,
+      "lng": 14.4152831
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A large park on a hill with a famous giant metronome, offering spectacular city views and a relaxing escape from the urban bustle."
+  },
+  {
+    "id": "ChIJ2QFPvc-UC0cR-yep7ub8N78",
+    "name": "Královská obora Stromovka",
+    "types": [
+      "city_park",
+      "hiking_area",
+      "tourist_attraction",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 17653,
+    "location": {
+      "lat": 50.1063295,
+      "lng": 14.419128899999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A sprawling historic park that was once a royal hunting ground, perfect for leisurely walks and outdoor activities."
+  },
+  {
+    "id": "ChIJ6b6z1OaUC0cROV8QtOpp8W0",
+    "name": "Waldstein Garden",
+    "types": [
+      "garden",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 14829,
+    "location": {
+      "lat": 50.090402999999995,
+      "lng": 14.407880599999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A beautiful Baroque garden with peacocks, statues, and a grand palace backdrop, offering a serene escape in the city center."
+  },
+  {
+    "id": "ChIJKatTv-iUC0cR_ptOFAQG8Z0",
+    "name": "National Theatre",
+    "types": [
+      "performing_arts_theater",
+      "tourist_attraction",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 14617,
+    "location": {
+      "lat": 50.0808458,
+      "lng": 14.413575299999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A stunning Neo-Renaissance building that is the premier stage for opera, ballet, and drama in the Czech Republic."
+  },
+  {
+    "id": "ChIJEw1qJX6UC0cRZz0wkkTsrcg",
+    "name": "Grébovka (Havlíčkovy sady)",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 13887,
+    "location": {
+      "lat": 50.069469600000005,
+      "lng": 14.4449921
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A scenic park with vineyards, a unique artificial grotto, and panoramic views of the city."
+  },
+  {
+    "id": "ChIJ7Wz8at3qC0cRV_CD_fN8fTY",
+    "name": "Nature Park Draháň-Troja",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 17909,
+    "location": {
+      "lat": 50.1433925,
+      "lng": 14.4045062
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A vast natural park with forests, meadows, and hiking trails along the Vltava river."
+  },
+  {
+    "id": "ChIJSfv87u2UC0cRMLvFpMvuPNY",
+    "name": "Franz Kafka - Rotating Head by David Cerny",
+    "types": [
+      "tourist_attraction",
+      "sculpture",
+      "monument",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 41534,
+    "location": {
+      "lat": 50.0816514,
+      "lng": 14.420820999999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A giant rotating bust of Franz Kafka created by David Cerny, a mesmerizing kinetic sculpture in the city center."
+  },
+  {
+    "id": "ChIJpVJlrAOVC0cRDJw3ZbtIsIY",
+    "name": "Petřín Gardens",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 24519,
+    "location": {
+      "lat": 50.0827039,
+      "lng": 14.398732400000002
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "Beautiful terraced gardens on Petřín Hill featuring rose gardens, orchards, and stunning views of Prague."
+  },
+  {
+    "id": "ChIJd71LDf2UC0cRkcGvwf8x33E",
+    "name": "Petrin Tower",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 35525,
+    "location": {
+      "lat": 50.083527,
+      "lng": 14.395083699999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A 63-meter steel observation tower on Petřín Hill offering panoramic views of the entire city."
+  },
+  {
+    "id": "ChIJ-53TmZqUC0cRiqnBgT93RXQ",
+    "name": "Riegrovy Sady",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 11790,
+    "location": {
+      "lat": 50.0802844,
+      "lng": 14.441560599999999
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A lively park with a popular beer garden, sports fields, and excellent views of Prague Castle."
+  },
+  {
+    "id": "ChIJo_PlyuS_C0cRoNY0J75l4sw",
+    "name": "Přírodní park Šárka - Lysolaje",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 11512,
+    "location": {
+      "lat": 50.1078523,
+      "lng": 14.3492818
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A rugged nature park with cliffs, forests, and a picturesque valley, ideal for hiking and exploring."
+  },
+  {
+    "id": "ChIJFz83wvaUC0cRRDMLBTdlAZM",
+    "name": "Dancing House",
+    "types": [
+      "landmark",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "totalReviews": 68748,
+    "location": {
+      "lat": 50.075403099999996,
+      "lng": 14.4141786
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A unique deconstructivist building resembling a dancing couple, known as Ginger and Fred."
+  },
+  {
+    "id": "ChIJ4zz7t-eUC0cRYoyBVOzwQ-o",
+    "name": "Rudolfinum",
+    "types": [
+      "concert_hall",
+      "tourist_attraction",
+      "coffee_shop",
+      "auditorium",
+      "art_gallery",
+      "live_music_venue",
+      "cafe",
+      "food_store",
+      "event_venue",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10658,
+    "location": {
+      "lat": 50.089956199999996,
+      "lng": 14.4154393
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A neo-Renaissance building housing the Czech Philharmonic and a renowned art gallery."
+  },
+  {
+    "id": "ChIJgZa7AeOUC0cRE4hLPeViQBU",
+    "name": "Church of Our Lady Victorious and The Infant Jesus of Prague",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10567,
+    "location": {
+      "lat": 50.0857287,
+      "lng": 14.403550500000001
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A Baroque church housing the famed wax statue of the Infant Jesus of Prague, a pilgrimage destination."
+  },
+  {
+    "id": "ChIJZ9pfyumUC0cR3ZMJBZmRTrc",
+    "name": "Spanish Synagogue",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 8877,
+    "location": {
+      "lat": 50.0901479,
+      "lng": 14.420846500000001
+    },
+    "primaryType": "synagogue",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A stunning Moorish Revival synagogue known for its intricate interior and historical exhibitions."
+  },
+  {
+    "id": "ChIJkZsemNfqC0cRpLkKj1nUXlA",
+    "name": "Botanical Garden of the City Prague",
+    "types": [
+      "botanical_garden",
+      "hiking_area",
+      "vineyard",
+      "park",
+      "sports_activity_location",
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 10103,
+    "location": {
+      "lat": 50.1213706,
+      "lng": 14.413249099999998
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A expansive botanical garden offering diverse plant collections, greenhouses, and a vineyard."
+  },
+  {
+    "id": "ChIJNUIyNe-UC0cRnw1-EJKuNLI",
+    "name": "Klementinum",
+    "types": [
+      "historical_place",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 22833,
+    "location": {
+      "lat": 50.0865979,
+      "lng": 14.4160186
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A historic complex with a magnificent Baroque library hall and panoramic views from its astronomical tower."
+  },
+  {
+    "id": "ChIJ3UB98gKVC0cRwGV3D_tmxY4",
+    "name": "Kinsky Garden",
+    "types": [
+      "garden",
+      "tourist_attraction",
+      "hiking_area",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8336,
+    "location": {
+      "lat": 50.079558,
+      "lng": 14.3987203
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A tranquil garden with sweeping views of Prague, featuring a neoclassical villa and vineyard."
+  },
+  {
+    "id": "ChIJO_W-fZOUC0cRramNCQnVkuA",
+    "name": "Jerusalem Synagogue | Prague",
+    "types": [
+      "synagogue",
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 4748,
+    "location": {
+      "lat": 50.0847038,
+      "lng": 14.432020399999997
+    },
+    "primaryType": "synagogue",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A stunning Moorish Revival synagogue with colorful stained glass and intricate designs."
+  },
+  {
+    "id": "ChIJu2niIWeTC0cRHEJGY5xf_Io",
+    "name": "Church of Our Lady before Týn",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 8045,
+    "location": {
+      "lat": 50.0877486,
+      "lng": 14.422539599999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A dominant Gothic church on Old Town Square with distinctive twin spires and a rich history."
+  },
+  {
+    "id": "ChIJu2niIWeTC0cR8Bp28z1iNc8",
+    "name": "Strahov Monastery",
+    "types": [
+      "tourist_attraction",
+      "place_of_worship",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "totalReviews": 17198,
+    "location": {
+      "lat": 50.0861478,
+      "lng": 14.3892515
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A historic monastery with breathtaking Baroque libraries and a popular brewery."
+  },
+  {
+    "id": "ChIJf27sN8e_C0cR3tig9ehM_ig",
+    "name": "Divoká Šárka",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 5176,
+    "location": {
+      "lat": 50.093301600000004,
+      "lng": 14.325003899999999
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A sprawling nature reserve offering rugged hiking trails, dramatic rock formations, and a serene escape from the city."
+  },
+  {
+    "id": "ChIJAyNP5o6UC0cRH2h_j6e-d9c",
+    "name": "Bazilika sv. Ludmily",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4857,
+    "location": {
+      "lat": 50.0754692,
+      "lng": 14.4368227
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A magnificent neo-Gothic basilica with striking twin spires, known for its peaceful interior and religious significance."
+  },
+  {
+    "id": "ChIJ2ffL1ICUC0cRX92Gw9Hapco",
+    "name": "Grotta Umělá jeskyně",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4829,
+    "location": {
+      "lat": 50.0700386,
+      "lng": 14.443271799999998
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A whimsical artificial grotto constructed in the 1800s, offering a unique and quirky photo opportunity."
+  },
+  {
+    "id": "ChIJweACSJyUC0cRE4gGU06KHKY",
+    "name": "Žižkov Television Tower",
+    "types": [
+      "tourist_attraction",
+      "observation_deck",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 23499,
+    "location": {
+      "lat": 50.0810526,
+      "lng": 14.451174100000001
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A futuristic broadcasting tower offering panoramic views of Prague, famous for its looming baby sculptures by David Černý."
+  },
+  {
+    "id": "ChIJOyEcl6GUC0cRgjtxJnRaU4M",
+    "name": "Vítkov",
+    "types": [
+      "historical_landmark",
+      "hiking_area",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 6662,
+    "location": {
+      "lat": 50.088767,
+      "lng": 14.4514582
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A hilltop historical site featuring the National Memorial and a giant equestrian statue of the Hussite leader Jan Žižka."
+  },
+  {
+    "id": "ChIJE5AKFJKUC0cRY2EE_Oh9MhY",
+    "name": "State Opera",
+    "types": [
+      "opera_house",
+      "tourist_attraction",
+      "performing_arts_theater",
+      "concert_hall",
+      "live_music_venue",
+      "auditorium",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4526,
+    "location": {
+      "lat": 50.0807207,
+      "lng": 14.432691799999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "An opulent neo-Renaissance opera house hosting world-class ballet and opera performances."
+  },
+  {
+    "id": "ChIJZRuQ9F2UC0cRMemKZykpEMk",
+    "name": "Saints Peter & Paul Basilica",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4375,
+    "location": {
+      "lat": 50.064426399999995,
+      "lng": 14.417886699999997
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "rare",
+    "description": "A striking neo-Gothic basilica located within the Vyšehrad fortress, featuring twin spires and vibrant interior frescoes."
+  },
+  {
+    "id": "ChIJS7rJFh-VC0cR6yEQX6AGf9U",
+    "name": "Golden Lane",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "totalReviews": 21482,
+    "location": {
+      "lat": 50.092049499999995,
+      "lng": 14.4040813
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A charming lane of tiny historic houses within Prague Castle, once home to castle marksmen and later to famous artists like Franz Kafka."
+  },
+  {
+    "id": "ChIJu2niIWeTC0cRq-BNOHo-NWY",
+    "name": "Aircraft museum Prague-Kbely",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "totalReviews": 4145,
+    "location": {
+      "lat": 50.125255599999996,
+      "lng": 14.5355237
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "rare",
+    "description": "A large aviation museum showcasing historic aircraft and military aviation history in Prague-Kbely."
+  },
+  {
+    "id": "ChIJG4u6e9GVC0cRdd_jlTayJzU",
+    "name": "Prokop Valley",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "tourist_attraction",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5793,
+    "location": {
+      "lat": 50.042435999999995,
+      "lng": 14.369596800000002
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A scenic valley nature reserve with limestone cliffs, caves, and hiking trails, offering a wild escape within the city."
+  },
+  {
+    "id": "ChIJwd-VWtO_C0cR4cFrUtJDO3Q",
+    "name": "Hvězda",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5704,
+    "location": {
+      "lat": 50.082302399999996,
+      "lng": 14.3314518
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A sprawling Renaissance park with a star-shaped summer palace, perfect for a leisurely stroll or cultural event."
+  },
+  {
+    "id": "ChIJo5qt_WiSC0cRprcEw4NiFFA",
+    "name": "Nature Park Hostivař-Záběhlice",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 8077,
+    "location": {
+      "lat": 50.0424089,
+      "lng": 14.530564400000001
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A large protected natural area offering hiking trails, forests, and a glimpse of Prague's wild side."
+  },
+  {
+    "id": "ChIJ-Y4NmHCVC0cRMeUShKcq63s",
+    "name": "Břevnov Monastery",
+    "types": [
+      "tourist_attraction",
+      "inn",
+      "church",
+      "event_venue",
+      "place_of_worship",
+      "lodging",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 5002,
+    "location": {
+      "lat": 50.0846831,
+      "lng": 14.356885799999997
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "history",
+    "rarity": "epic",
+    "description": "A historic Benedictine monastery founded in the 10th century, featuring beautiful Baroque architecture and a brewery."
+  },
+  {
+    "id": "ChIJg36mqdXqC0cR4LeyXRtMpVw",
+    "name": "Trojský zámek",
+    "types": [
+      "hiking_area",
+      "historical_landmark",
+      "art_gallery",
+      "garden",
+      "castle",
+      "tourist_attraction",
+      "historical_place",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 7050,
+    "location": {
+      "lat": 50.116455599999995,
+      "lng": 14.412874
+    },
+    "primaryType": "art_gallery",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "An elegant Baroque castle set in a French-style garden, now home to an art gallery and vineyard."
+  },
+  {
+    "id": "ChIJteh5-TyTC0cRCKgnejF1ZQ0",
+    "name": "Malešice park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4839,
+    "location": {
+      "lat": 50.0850143,
+      "lng": 14.499155
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "common",
+    "description": "A peaceful local park in the Malešice district, ideal for relaxation and community gatherings."
+  },
+  {
+    "id": "ChIJm-WdsPyUC0cRq14Y6AP1KW4",
+    "name": "Petrin Hill",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6903,
+    "location": {
+      "lat": 50.0815434,
+      "lng": 14.3969205
+    },
+    "primaryType": "park",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A verdant hill with a mini Eiffel Tower, rose gardens, and stunning panoramic views of Prague."
+  },
+  {
+    "id": "ChIJH3y4L-CUC0cRxLvVqnWQK2Q",
+    "name": "Lobkowicz Palace",
+    "types": [
+      "art_museum",
+      "history_museum",
+      "tourist_attraction",
+      "art_gallery",
+      "historical_landmark",
+      "historical_place",
+      "museum",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6823,
+    "location": {
+      "lat": 50.091648299999996,
+      "lng": 14.404950099999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "landmark",
+    "rarity": "epic",
+    "description": "A historic palace within Prague Castle complex, housing a world-renowned art collection and offering royal views."
+  },
+  {
+    "id": "ChIJTdpaTPWUC0cR5cdCYIPAh5U",
+    "name": "Botanic Garden of the Faculty of Science, Charles University",
+    "types": [
+      "botanical_garden",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "totalReviews": 6061,
+    "location": {
+      "lat": 50.0713843,
+      "lng": 14.4214886
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "rare",
+    "description": "A serene botanical garden with diverse plant collections and educational exhibits."
+  },
+  {
+    "id": "ChIJ_SWtQuKUC0cR52xyBNibDjA",
+    "name": "The Vrtba Garden",
+    "types": [
+      "historical_landmark",
+      "tourist_attraction",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4126,
+    "location": {
+      "lat": 50.086644,
+      "lng": 14.402878399999999
+    },
+    "primaryType": "tourist_attraction",
+    "assignedCategory": "nature",
+    "rarity": "epic",
+    "description": "A hidden Baroque gem with terraced gardens, intricate sculptures, and a tranquil atmosphere near Prague Castle."
+  },
+  {
+    "id": "ChIJVwJW9fmUC0cRu3WAFHD1hEc",
+    "name": "Jazz Dock",
+    "types": [
+      "night_club",
+      "bar",
+      "live_music_venue",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "totalReviews": 4027,
+    "location": {
+      "lat": 50.0773912,
+      "lng": 14.408485500000001
+    },
+    "primaryType": "night_club",
+    "assignedCategory": "nightlife",
+    "rarity": "rare",
+    "description": "A lively riverside venue combining live jazz music, excellent food, and a vibrant nightlife experience."
+  }
+]
