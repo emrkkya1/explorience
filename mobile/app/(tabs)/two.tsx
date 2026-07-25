@@ -3,6 +3,7 @@ import { SymbolView } from 'expo-symbols';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import Colors from '@/constants/Colors';
+import { UCKUN_MODE } from '@/constants/UckunMode';
 import { useColorScheme } from '@/components/useColorScheme';
 import { View, Pressable, ScrollView } from '@/tw';
 import { supabase } from '@/lib/supabase';
@@ -10,6 +11,7 @@ import { clearActiveSession } from '@/lib/sessionStore';
 import { stopBackgroundTracking } from '@/lib/backgroundTracking';
 import { ThemedText } from '@/components/ThemedText';
 import { Button } from '@/components/Button';
+import { UckunModeBadge } from '@/components/UckunModeBadge';
 import { BatteryOptimizationWarning } from '@/components/BatteryOptimizationWarning';
 import { useMapPreferences, type ThemeMode } from '@/components/MapPreferencesContext';
 import { useBackgroundTracking } from '@/components/useBackgroundTracking';
@@ -54,6 +56,25 @@ export default function OptionsScreen() {
     <ScrollView className="flex-1 bg-bg dark:bg-bg-dark">
       <View className="px-4 pb-8" style={{ paddingTop: insets.top + 16 }}>
         <ThemedText variant="h2" className="mb-6">OPTIONS</ThemedText>
+
+        {UCKUN_MODE ? (
+          <View className="gap-3 mb-8">
+            <SectionHeader title="UCKUN MODE" />
+            <View className="bg-amber-400/10 rounded-xl p-4" style={{ borderWidth: 1.5, borderColor: '#F59E0B' }}>
+              <View className="flex-row items-center justify-between">
+                <View className="flex-1 pr-3">
+                  <ThemedText variant="h3" className="text-amber-600 dark:text-amber-400">
+                    Uçkun Mode Aktif
+                  </ThemedText>
+                  <ThemedText variant="caption" className="mt-1 text-amber-700/80 dark:text-amber-300/80 normal-case tracking-normal">
+                    Emirhan için özel sürüm. Hoş geldin!
+                  </ThemedText>
+                </View>
+                <UckunModeBadge size="medium" />
+              </View>
+            </View>
+          </View>
+        ) : null}
 
         <View className="gap-3 mb-8">
           <SectionHeader title="APPEARANCE" />
