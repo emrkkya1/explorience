@@ -3,54 +3,80 @@ import { useEffect, useRef } from 'react';
 import { supabase } from '@/lib/supabase';
 import type { PlayerLocation } from '@/types/FogOfWar';
 
-const BROADCAST_INTERVAL_MS = 30000;
+const BROADCAST_INTERVAL_MS = 10000;
 
 export function useBroadcastLocation(
   gameId: string | null,
   playerId: string | null,
   location: PlayerLocation | null
 ) {
-  console.log('[BroadcastLocation] Hook called with:', { gameId, playerId, hasLocation: !!location });
   const locationRef = useRef<PlayerLocation | null>(null);
+  const mountedRef = useRef(false);
 
   useEffect(() => {
-    console.log('[BroadcastLocation] Location updated:', location);
     locationRef.current = location;
   }, [location]);
 
   useEffect(() => {
-    console.log('[BroadcastLocation] Effect running', { gameId, playerId });
-    if (!gameId || !playerId) {
-      console.log('[BroadcastLocation] Missing gameId or playerId, skipping');
-      return;
-    }
+    if (!gameId || !playerId) return;
 
-    const broadcast = () => {
+    mountedRef.current = true;
+
+    const broadcast = async (source: 'foreground' | 'background' = 'foreground') => {
       const loc = locationRef.current;
-      if (!loc) {
-        console.log('[BroadcastLocation] No location available');
-        return;
-      }
+      if (!loc) return;
 
-      console.log('[BroadcastLocation] Broadcasting location update');
-      supabase.from('player_locations').upsert({
-        player_id: playerId,
-        game_id: gameId,
-        latitude: loc.latitude,
-        longitude: loc.longitude,
-        heading: loc.heading,
-        accuracy: loc.accuracy,
-        updated_at: new Date().toISOString(),
-      });
+      const { error } = await supabase
+        .from('player_locations')
+        .upsert(
+          {
+            player_id: playerId,
+            game_id: gameId,
+            latitude: loc.latitude,
+            longitude: loc.longitude,
+            heading: loc.heading,
+            accuracy: loc.accuracy,
+            updated_at: new Date().toISOString(),
+            source,
+          },
+          { onConflict: 'player_id' }
+        );
+
+      if (error) {
+        console.error('[BroadcastLocation] upsert failed:', error.message);
+      }
     };
 
-    console.log('[BroadcastLocation] Starting broadcast interval');
-    broadcast();
-    const interval = setInterval(broadcast, BROADCAST_INTERVAL_MS);
+    void broadcast();
+    const interval = setInterval(() => { void broadcast(); }, BROADCAST_INTERVAL_MS);
 
     return () => {
-      console.log('[BroadcastLocation] Cleaning up interval');
+      mountedRef.current = false;
       clearInterval(interval);
     };
   }, [gameId, playerId]);
+
+  useEffect(() => {
+    if (!location || !gameId || !playerId) return;
+    void (async () => {
+      const { error } = await supabase
+        .from('player_locations')
+        .upsert(
+          {
+            player_id: playerId,
+            game_id: gameId,
+            latitude: location.latitude,
+            longitude: location.longitude,
+            heading: location.heading,
+            accuracy: location.accuracy,
+            updated_at: new Date().toISOString(),
+            source: 'foreground',
+          },
+          { onConflict: 'player_id' }
+        );
+      if (error) {
+        console.error('[BroadcastLocation] first-fix upsert failed:', error.message);
+      }
+    })();
+  }, [location?.timestamp]);
 }

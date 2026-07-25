@@ -1,16 +1,16 @@
 import { SymbolView } from 'expo-symbols';
 import { Dimensions } from 'react-native';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { View, Pressable, ScrollView } from '@/tw';
-import Colors, { semanticColors } from '@/constants/Colors';
+import { semanticColors } from '@/constants/Colors';
 import { useColorScheme } from './useColorScheme';
 import { ThemedText } from './ThemedText';
 import { Card } from './Card';
 import { IconButton } from './IconButton';
-import { isPlayerActive } from './usePlayerColors';
+import { getPlayerActivity, ACTIVITY_COLORS, ACTIVITY_LABELS } from './usePlayerColors';
 import type { Player } from '@/types/Player';
 import type { RemotePlayerLocation } from './usePlayerLocations';
 
@@ -28,7 +28,15 @@ type PlayerListPopupProps = {
 export function PlayerListPopup({ visible, players, remotePlayerLocations, localPlayerId, onClose, onSelectPlayer }: PlayerListPopupProps) {
   const insets = useSafeAreaInsets();
   const colorScheme = useColorScheme();
-  const iconColor = Colors[colorScheme].text;
+  const iconColor = semanticColors.text[colorScheme];
+
+  const [, setTick] = useState(0);
+
+  useEffect(() => {
+    if (!visible) return;
+    const interval = setInterval(() => setTick((t) => t + 1), 10000);
+    return () => clearInterval(interval);
+  }, [visible]);
 
   const translateY = useSharedValue(SCREEN_HEIGHT);
   const backdropOpacity = useSharedValue(0);
@@ -89,8 +97,9 @@ export function PlayerListPopup({ visible, players, remotePlayerLocations, local
             {players.map((player) => {
               const isLocalPlayer = player.id === localPlayerId;
               const loc = remotePlayerLocations.get(player.id);
-              const active = isLocalPlayer || (loc ? isPlayerActive(loc.updatedAt) : false);
-              const colors = Colors[colorScheme];
+              const activity = isLocalPlayer ? 'active' : (loc ? getPlayerActivity(loc) : 'offline');
+              const dotColor = ACTIVITY_COLORS[activity];
+              const label = ACTIVITY_LABELS[activity];
               return (
                 <Pressable
                   key={player.id}
@@ -110,9 +119,9 @@ export function PlayerListPopup({ visible, players, remotePlayerLocations, local
                   </View>
                   <ThemedText variant="body" className="flex-1">{player.username}</ThemedText>
                   <View className="flex-row items-center gap-1.5">
-                    <View className="w-2 h-2 rounded-full" style={{ backgroundColor: active ? colors.success : colors.textTertiary }} />
-                    <ThemedText variant="caption" style={{ color: active ? colors.success : colors.textTertiary }}>
-                      {active ? 'Active' : 'Not Active'}
+                    <View className="w-2 h-2 rounded-full" style={{ backgroundColor: dotColor }} />
+                    <ThemedText variant="caption" style={{ color: dotColor }}>
+                      {label}
                     </ThemedText>
                   </View>
                 </Pressable>

@@ -34,12 +34,38 @@ let pendingDiscoveries: string[] = [];
 let bitmapInitialized = false;
 let lastNotifiedAt = 0;
 let lastPoiIdAt = new Map<string, number>();
+let latestPlayerLoc: { latitude: number; longitude: number; heading: number | null; accuracy: number | null } | null = null;
 
 const flush = async (): Promise<boolean> => {
   const ctx = await getBgTrackingContext();
   if (!ctx) return true;
   try {
     let hadError = false;
+
+    if (latestPlayerLoc) {
+      const loc = latestPlayerLoc;
+      latestPlayerLoc = null;
+      const { error } = await supabase
+        .from('player_locations')
+        .upsert(
+          {
+            player_id: ctx.playerId,
+            game_id: ctx.gameId,
+            latitude: loc.latitude,
+            longitude: loc.longitude,
+            heading: loc.heading,
+            accuracy: loc.accuracy,
+            updated_at: new Date().toISOString(),
+            source: 'background',
+          },
+          { onConflict: 'player_id' }
+        );
+      if (error) {
+        latestPlayerLoc = loc;
+        hadError = true;
+        console.error('[BgTask] player_locations upsert error', error);
+      }
+    }
 
     if (deltaBuffer.length > 0) {
       const deltas = deltaBuffer;
@@ -177,6 +203,14 @@ TaskManager.defineTask(BG_LOCATION_TASK, async ({ data, error }) => {
       heading: null,
       timestamp: loc.timestamp,
     };
+
+    latestPlayerLoc = {
+      latitude: playerLoc.latitude,
+      longitude: playerLoc.longitude,
+      heading: playerLoc.heading,
+      accuracy: playerLoc.accuracy,
+    };
+    coalescer.schedule();
 
     // Fog exploration
     const newBits = exploreCellsAtLocation(
