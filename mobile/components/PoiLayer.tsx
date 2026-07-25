@@ -15,6 +15,7 @@ type PoiLayerProps = {
 };
 
 const CATEGORIES: PoiCategory[] = ['nightlife', 'food', 'landmark', 'history', 'nature', 'shopping', 'miscellaneous'];
+const RARITIES: PoiRarity[] = ['legendary', 'epic', 'rare', 'common'];
 
 export function PoiLayer({ pois, hintedIds, discoveredIds, onPoiSelect }: PoiLayerProps) {
   const hintedPois = pois.filter((poi) => hintedIds.has(poi.id) && !discoveredIds.has(poi.id));
@@ -25,7 +26,7 @@ export function PoiLayer({ pois, hintedIds, discoveredIds, onPoiSelect }: PoiLay
     features: hintedPois.map((poi) => ({
       type: 'Feature',
       geometry: { type: 'Point', coordinates: [poi.longitude, poi.latitude] },
-      properties: { id: poi.id },
+      properties: { id: poi.id, rarity: poi.rarity },
     })),
   };
 
@@ -48,19 +49,50 @@ export function PoiLayer({ pois, hintedIds, discoveredIds, onPoiSelect }: PoiLay
             </View>
           </Mapbox.Image>
         ))}
-        <Mapbox.Image name="icon-hint">
-          <HintMarkerIcon />
-        </Mapbox.Image>
+        {RARITIES.map((rarity) => (
+          <Mapbox.Image key={`icon-hint-${rarity}`} name={`icon-hint-${rarity}`}>
+            <HintMarkerIcon rarity={rarity} />
+          </Mapbox.Image>
+        ))}
       </Mapbox.Images>
 
       <Mapbox.ShapeSource
         key={`hinted-${hintedPois.length}`}
         id="hinted-pois"
-        shape={hintedGeoJSON}>
+        shape={hintedGeoJSON}
+        hitbox={{ width: 50, height: 50 }}
+        onPress={(e) => {
+          const feature = e.features[0];
+          const id = feature?.properties?.id;
+          if (typeof id === 'string') onPoiSelect(id);
+        }}>
+        <Mapbox.CircleLayer
+          id="hinted-poi-glow"
+          filter={['in', ['get', 'rarity'], ['literal', ['legendary', 'epic']]]}
+          style={{
+            circleRadius: [
+              'step', ['zoom'],
+              6, 12, 9, 14, 12, 16, 16,
+            ],
+            circleColor: [
+              'match', ['get', 'rarity'],
+              'legendary', 'rgba(212, 168, 67, 0.20)',
+              'epic', 'rgba(155, 89, 182, 0.20)',
+              'transparent',
+            ],
+            circleOpacity: 0.5,
+          }}
+        />
         <Mapbox.SymbolLayer
           id="hinted-poi-icons"
           style={{
-            iconImage: 'icon-hint',
+            iconImage: [
+              'match', ['get', 'rarity'],
+              'legendary', 'icon-hint-legendary',
+              'epic', 'icon-hint-epic',
+              'rare', 'icon-hint-rare',
+              'icon-hint-common',
+            ],
             iconSize: ['step', ['zoom'], 0.8, 12, 1.0, 14, 1.2, 16, 1.4],
             iconAllowOverlap: true,
             iconAnchor: 'center',

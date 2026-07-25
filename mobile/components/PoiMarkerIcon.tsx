@@ -50,7 +50,8 @@ export function PoiMarkerIcon({ category, rarity }: PoiMarkerIconProps) {
   );
 }
 
-export function HintMarkerIcon() {
+export function HintMarkerIcon({ rarity }: { rarity?: PoiRarity }) {
+  const color = rarity ? RARITY_COLORS[rarity] : '#737373';
   return (
     <View
       style={{
@@ -58,12 +59,13 @@ export function HintMarkerIcon() {
         height: 28,
         borderRadius: 14,
         borderWidth: 2,
-        borderColor: '#737373',
+        borderColor: color,
+        backgroundColor: color + '20',
         alignItems: 'center',
         justifyContent: 'center',
       }}
     >
-      <Text style={{ fontSize: 16, fontWeight: '700', color: '#737373' }}>?</Text>
+      <Text style={{ fontSize: 16, fontWeight: '700', color }}>{'?'}</Text>
     </View>
   );
 }

@@ -4,6 +4,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { SymbolView } from 'expo-symbols';
 import { useSharedValue, withTiming } from 'react-native-reanimated';
 import { Cpu, Play, CheckCircle, XCircle } from 'lucide-react-native';
+import * as FileSystem from 'expo-file-system';
 
 import Colors, { semanticColors } from '@/constants/Colors';
 import { useColorScheme } from '@/components/useColorScheme';
@@ -16,7 +17,6 @@ import { useLlmConfig } from '@/components/LlmConfigContext';
 import { ProviderLogo } from '@/components/ProviderLogo';
 import { ApiKeyDialog } from '@/components/ApiKeyDialog';
 import { Dropdown } from '@/components/Dropdown';
-import { bytesToBase64 } from '@/lib/vision/adapters/gemini';
 import { maskApiKey, normalizeOpenAIEndpoint } from '@/lib/llmConfig';
 import {
   VISION_PROVIDERS,
@@ -150,9 +150,9 @@ export default function VisionAiScreen() {
     try {
       const asset = NativeImage.resolveAssetSource(TEST_IMAGE);
       console.log('[TestEndpoint] Loading test image from:', asset.uri);
-      const response = await fetch(asset.uri);
-      const bytes = new Uint8Array(await response.arrayBuffer());
-      const base64 = bytesToBase64(bytes);
+      const base64 = await FileSystem.readAsStringAsync(asset.uri, {
+        encoding: FileSystem.EncodingType.Base64,
+      });
       console.log('[TestEndpoint] Base64 length:', base64.length);
       const url = normalizeOpenAIEndpoint(endpointInput);
       console.log('[TestEndpoint] Testing endpoint:', url, 'with model:', config.model);
