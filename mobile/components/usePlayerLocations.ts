@@ -67,6 +67,14 @@ export function usePlayerLocations(
     if (appState !== 'active') return;
 
     const signal = { cancelled: false };
+    const topic = `realtime:player-locations:${gameId}`;
+
+    // Remove any stale channel with the same topic (Strict Mode double-mount guard)
+    const existing = supabase.getChannels().find((c) => c.topic === topic);
+    if (existing) {
+      supabase.removeChannel(existing);
+    }
+
     const channel = supabase
       .channel(`player-locations:${gameId}`)
       .on(
