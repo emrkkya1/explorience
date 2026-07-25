@@ -3,18 +3,36 @@ import { useMemo } from 'react';
 import { PLAYER_COLOR_PRESETS } from '@/components/MapPreferencesContext';
 import type { RemotePlayerLocation } from '@/components/usePlayerLocations';
 
-const INACTIVE_THRESHOLD_MS = 30000;
+const THRESHOLD_ACTIVE_MS = 45000;
+const THRESHOLD_IDLE_MS = 150000;
 const INACTIVE_COLOR = '#888888';
+
+export type PlayerActivity = 'active' | 'idle' | 'offline';
+
+export const ACTIVITY_COLORS: Record<PlayerActivity, string> = {
+  active: '#34C759',
+  idle: '#FF9500',
+  offline: '#888888',
+};
+
+export const ACTIVITY_LABELS: Record<PlayerActivity, string> = {
+  active: 'Active',
+  idle: 'Idle',
+  offline: 'Offline',
+};
 
 function hashPlayerId(playerId: string): number {
   const hex = playerId.replace(/-/g, '').slice(0, 8);
   return parseInt(hex, 16);
 }
 
-export function isPlayerActive(updatedAt: string): boolean {
-  const updated = new Date(updatedAt).getTime();
-  const now = Date.now();
-  return now - updated < INACTIVE_THRESHOLD_MS;
+export function getPlayerActivity(loc: RemotePlayerLocation): PlayerActivity {
+  const updated = new Date(loc.updatedAt).getTime();
+  const age = Date.now() - updated;
+
+  if (loc.source === 'foreground' && age < THRESHOLD_ACTIVE_MS) return 'active';
+  if (loc.source === 'background' && age < THRESHOLD_IDLE_MS) return 'idle';
+  return 'offline';
 }
 
 export function usePlayerColors(
@@ -33,7 +51,8 @@ export function usePlayerColors(
     const colorMap = new Map<string, string>();
 
     for (const [playerId, loc] of remoteLocations) {
-      if (!isPlayerActive(loc.updatedAt)) {
+      const activity = getPlayerActivity(loc);
+      if (activity === 'offline') {
         colorMap.set(playerId, INACTIVE_COLOR);
         continue;
       }
