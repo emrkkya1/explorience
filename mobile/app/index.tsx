@@ -5,6 +5,7 @@ import { SymbolView } from 'expo-symbols';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import Colors from '@/constants/Colors';
+import { UCKUN_MODE, UCKUN_LOADING_MESSAGES } from '@/constants/UckunMode';
 import { useColorScheme } from '@/components/useColorScheme';
 import { View, Text, TextInput, Pressable, ScrollView } from '@/tw';
 import { useGameSession } from '@/components/useGameSession';
@@ -14,10 +15,13 @@ import {
   removeSession,
   clearAllSessions,
 } from '@/lib/sessionStore';
+import { hasShownUckunWelcome, setUckunWelcomeShown } from '@/lib/uckunStore';
 import { CITIES } from '@/constants/Cities';
 import { ThemedText } from '@/components/ThemedText';
 import { Button } from '@/components/Button';
 import { Card } from '@/components/Card';
+import { UckunModeBadge } from '@/components/UckunModeBadge';
+import { UckunWelcomeSlideshow } from '@/components/UckunWelcomeSlideshow';
 import type { StoredSession } from '@/lib/sessionStore';
 import type { City } from '@/constants/Cities';
 
@@ -37,6 +41,12 @@ export default function LoginScreen() {
   const [gameCode, setGameCode] = useState('');
   const [selectedCity, setSelectedCity] = useState<City>(CITIES[0]);
   const { createGame, joinGame, loading, error } = useGameSession();
+  const [showUckunWelcome, setShowUckunWelcome] = useState(false);
+  const [loadingMessage] = useState(() =>
+    UCKUN_MODE
+      ? UCKUN_LOADING_MESSAGES[Math.floor(Math.random() * UCKUN_LOADING_MESSAGES.length)]
+      : ''
+  );
 
   useEffect(() => {
     loadSessions().then((s) => {
@@ -44,6 +54,19 @@ export default function LoginScreen() {
       setStep(s.length > 0 ? 'picker' : 'select');
     });
   }, []);
+
+  useEffect(() => {
+    if (UCKUN_MODE) {
+      hasShownUckunWelcome().then((shown) => {
+        if (!shown) setShowUckunWelcome(true);
+      });
+    }
+  }, []);
+
+  const handleUckunWelcomeComplete = () => {
+    setUckunWelcomeShown();
+    setShowUckunWelcome(false);
+  };
 
   const refreshSessions = () => {
     loadSessions().then((s) => {
@@ -117,6 +140,11 @@ export default function LoginScreen() {
     return (
       <View className="flex-1 items-center justify-center bg-bg dark:bg-bg-dark">
         <ActivityIndicator size="large" color={colors.primary} />
+        {UCKUN_MODE ? (
+          <ThemedText variant="body" className="mt-4 text-text-secondary dark:text-text-secondary-dark">
+            {loadingMessage}
+          </ThemedText>
+        ) : null}
       </View>
     );
   }
@@ -126,6 +154,10 @@ export default function LoginScreen() {
       behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
       style={{ flex: 1 }}
     >
+      <UckunWelcomeSlideshow
+        visible={showUckunWelcome}
+        onComplete={handleUckunWelcomeComplete}
+      />
       <ScrollView
         className="flex-1 bg-bg dark:bg-bg-dark"
         contentContainerStyle={{ paddingTop: insets.top + 24, paddingBottom: insets.bottom + 24 }}
@@ -138,7 +170,14 @@ export default function LoginScreen() {
                 style={{ width: 96, height: 96 }}
                 resizeMode="contain"
               />
-              <ThemedText variant="h1" className="mt-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
+              <View className="relative self-center">
+                <ThemedText variant="h1" className="mt-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
+                {UCKUN_MODE ? (
+                  <View className="absolute -right-2 -bottom-1">
+                    <UckunModeBadge size="small" />
+                  </View>
+                ) : null}
+              </View>
             </View>
 
             <Pressable
@@ -215,7 +254,14 @@ export default function LoginScreen() {
               style={{ width: 128, height: 128 }}
               resizeMode="contain"
             />
-            <ThemedText variant="h1" className="mt-3 mb-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
+            <View className="relative self-center">
+              <ThemedText variant="h1" className="mt-3 mb-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
+              {UCKUN_MODE ? (
+                <View className="absolute -right-2 -bottom-1">
+                  <UckunModeBadge size="small" />
+                </View>
+              ) : null}
+            </View>
             <ThemedText variant="body" className="text-text-secondary dark:text-text-secondary-dark text-center mb-10">
               Explore cities, discover places
             </ThemedText>
