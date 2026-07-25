@@ -1,22 +1,34 @@
 import { useState, useEffect } from 'react';
-import { Alert, KeyboardAvoidingView, Platform, ActivityIndicator, Modal, FlatList } from 'react-native';
+import { Alert, Image, KeyboardAvoidingView, Platform, ActivityIndicator, Modal, FlatList, Dimensions } from 'react-native';
 import { router } from 'expo-router';
+import { SymbolView } from 'expo-symbols';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { View, Text, TextInput, Pressable } from '@/tw';
+import Colors from '@/constants/Colors';
+import { useColorScheme } from '@/components/useColorScheme';
+import { View, Text, TextInput, Pressable, ScrollView } from '@/tw';
 import { useGameSession } from '@/components/useGameSession';
 import {
   loadSessions,
   setActiveSession,
   removeSession,
-  clearAllSessions
+  clearAllSessions,
 } from '@/lib/sessionStore';
 import { CITIES } from '@/constants/Cities';
+import { ThemedText } from '@/components/ThemedText';
+import { Button } from '@/components/Button';
+import { Card } from '@/components/Card';
 import type { StoredSession } from '@/lib/sessionStore';
 import type { City } from '@/constants/Cities';
+
+const { width: SCREEN_WIDTH } = Dimensions.get('window');
 
 type Step = 'loading' | 'picker' | 'select' | 'join' | 'create';
 
 export default function LoginScreen() {
+  const insets = useSafeAreaInsets();
+  const colorScheme = useColorScheme();
+  const colors = Colors[colorScheme];
   const [step, setStep] = useState<Step>('loading');
   const [sessions, setSessions] = useState<StoredSession[]>([]);
   const [modalOpen, setModalOpen] = useState(false);
@@ -103,78 +115,8 @@ export default function LoginScreen() {
 
   if (step === 'loading') {
     return (
-      <View className="flex-1 items-center justify-center">
-        <ActivityIndicator size="large" />
-      </View>
-    );
-  }
-
-  if (step === 'picker') {
-    return (
-      <View className="flex-1 px-6 pt-16">
-        <Text className="text-3xl font-bold mb-10">Explorience</Text>
-
-        <Pressable
-          className="w-full bg-white border border-gray-300 rounded-xl px-5 py-4 mb-4 flex-row items-center justify-between active:opacity-80"
-          onPress={() => setModalOpen(true)}
-        >
-          <Text className="text-lg text-gray-700">Saved Games</Text>
-          <Text className="text-gray-400 text-sm">{sessions.length} saved</Text>
-        </Pressable>
-
-        <Pressable
-          className="w-full bg-blue-500 rounded-xl py-4 items-center active:opacity-80"
-          onPress={() => setStep('select')}
-        >
-          <Text className="text-white text-lg font-semibold">New Game</Text>
-        </Pressable>
-
-        <Modal
-          visible={modalOpen}
-          animationType="slide"
-          presentationStyle="pageSheet"
-          onRequestClose={() => setModalOpen(false)}
-        >
-          <View className="flex-1 px-6 pt-4">
-            <View className="flex-row justify-between items-center mb-4">
-              <Text className="text-2xl font-bold">Saved Games</Text>
-              <Pressable onPress={() => setModalOpen(false)} className="p-2">
-                <Text className="text-blue-500 text-lg">Done</Text>
-              </Pressable>
-            </View>
-
-            <FlatList
-              data={sessions}
-              keyExtractor={(s) => s.gameId}
-              renderItem={({ item }) => (
-                <View className="flex-row items-center border-b border-gray-100 py-4">
-                  <Pressable
-                    className="flex-1 active:opacity-60"
-                    onPress={() => handlePickGame(item)}
-                  >
-                    <Text className="text-lg font-semibold">{item.username}</Text>
-                    <Text className="text-gray-400 text-sm mt-0.5">
-                      {item.cityName} &middot; {item.gameCode}
-                    </Text>
-                  </Pressable>
-                  <Pressable
-                    className="ml-3 w-8 h-8 items-center justify-center rounded-full bg-red-100 active:opacity-60"
-                    onPress={() => handleRemoveGame(item.gameId)}
-                  >
-                    <Text className="text-red-500 font-bold text-lg">&times;</Text>
-                  </Pressable>
-                </View>
-              )}
-              ListFooterComponent={
-                sessions.length > 0 ? (
-                  <Pressable className="py-6 items-center" onPress={handleClearAll}>
-                    <Text className="text-red-400 text-sm">Clear All Saved Games</Text>
-                  </Pressable>
-                ) : null
-              }
-            />
-          </View>
-        </Modal>
+      <View className="flex-1 items-center justify-center bg-bg dark:bg-bg-dark">
+        <ActivityIndicator size="large" color={colors.primary} />
       </View>
     );
   }
@@ -184,100 +126,221 @@ export default function LoginScreen() {
       behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
       style={{ flex: 1 }}
     >
-      <View className="flex-1 items-center justify-center px-8">
+      <ScrollView
+        className="flex-1 bg-bg dark:bg-bg-dark"
+        contentContainerStyle={{ paddingTop: insets.top + 24, paddingBottom: insets.bottom + 24 }}
+      >
+        {step === 'picker' && (
+          <View className="px-6">
+            <View className="items-center mb-10">
+              <Image
+                source={require('@/assets/images/explorience-logo.png')}
+                style={{ width: 28, height: 28 }}
+                resizeMode="contain"
+              />
+              <ThemedText variant="h1" className="mt-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
+            </View>
+
+            <Pressable
+              className="w-full bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-2xl px-5 py-5 mb-4 active:opacity-80 flex-row items-center"
+              onPress={() => setModalOpen(true)}
+            >
+              <View className="flex-1">
+                <ThemedText variant="h3">Saved Games</ThemedText>
+                <ThemedText variant="bodySmall" className="text-text-secondary dark:text-text-secondary-dark mt-0.5">
+                  {sessions.length} session{sessions.length !== 1 ? 's' : ''} saved
+                </ThemedText>
+              </View>
+              <SymbolView
+                name={{ ios: 'chevron.right', android: 'chevron_right', web: 'chevron_right' }}
+                size={16}
+                tintColor={colors.tabIconDefault}
+              />
+            </Pressable>
+
+            <Button title="New Game" onPress={() => setStep('select')} />
+
+            <Modal
+              visible={modalOpen}
+              animationType="slide"
+              presentationStyle="pageSheet"
+              onRequestClose={() => setModalOpen(false)}
+            >
+              <View className="flex-1 bg-bg dark:bg-bg-dark">
+                <View className="flex-row items-center justify-between px-6 pt-4 pb-2">
+                  <ThemedText variant="h2">SAVED GAMES</ThemedText>
+                  <Pressable onPress={() => setModalOpen(false)} className="px-3 py-2">
+                    <ThemedText variant="body" color="accent">Done</ThemedText>
+                  </Pressable>
+                </View>
+
+                <FlatList
+                  data={sessions}
+                  contentContainerStyle={{ paddingHorizontal: 24 }}
+                  keyExtractor={(s) => s.gameId}
+                  renderItem={({ item }) => (
+                    <View className="flex-row items-center bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-2xl p-4 mb-3">
+                      <View className="flex-1">
+                        <ThemedText variant="h3">{item.username}</ThemedText>
+                        <ThemedText variant="bodySmall" className="text-text-secondary dark:text-text-secondary-dark mt-0.5">
+                          {item.cityName} &middot; {item.gameCode}
+                        </ThemedText>
+                      </View>
+                      <Pressable
+                        className="w-9 h-9 items-center justify-center rounded-xl bg-danger/10 active:opacity-60 mr-2"
+                        onPress={() => handleRemoveGame(item.gameId)}
+                      >
+                        <Text className="text-danger dark:text-danger-dark font-bold text-base">&times;</Text>
+                      </Pressable>
+                      <Button title="Continue" onPress={() => handlePickGame(item)} />
+                    </View>
+                  )}
+                  ListFooterComponent={
+                    sessions.length > 0 ? (
+                      <Pressable className="py-4 items-center" onPress={handleClearAll}>
+                        <ThemedText variant="bodySmall" color="danger">Clear All Saved Games</ThemedText>
+                      </Pressable>
+                    ) : null
+                  }
+                />
+              </View>
+            </Modal>
+          </View>
+        )}
+
         {step === 'select' && (
-          <View className="w-full items-center">
-            <Text className="text-3xl font-bold mb-12">Explorience</Text>
-            <Pressable
-              className="w-full bg-blue-500 rounded-xl py-4 mb-4 items-center active:opacity-80"
-              onPress={() => setStep('join')}
-            >
-              <Text className="text-white text-lg font-semibold">Join a Game</Text>
-            </Pressable>
-            <Pressable
-              className="w-full bg-emerald-500 rounded-xl py-4 items-center active:opacity-80"
-              onPress={() => setStep('create')}
-            >
-              <Text className="text-white text-lg font-semibold">Create a Game</Text>
-            </Pressable>
+          <View className="px-6 items-center pt-16">
+            <Image
+              source={require('@/assets/images/explorience-logo.png')}
+              style={{ width: 36, height: 36 }}
+              resizeMode="contain"
+            />
+            <ThemedText variant="h1" className="mt-3 mb-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
+            <ThemedText variant="body" className="text-text-secondary dark:text-text-secondary-dark text-center mb-10">
+              Explore cities, discover places
+            </ThemedText>
+
+            <Button title="Join a Game" onPress={() => setStep('join')} className="w-full mb-3" />
+            <Button title="Create a Game" variant="secondary" onPress={() => setStep('create')} className="w-full" />
 
             {sessions.length > 0 && (
               <Pressable className="mt-8 py-2" onPress={() => refreshSessions()}>
-                <Text className="text-gray-400 text-base">Saved Games</Text>
+                <ThemedText variant="bodySmall" className="text-text-secondary dark:text-text-secondary-dark">
+                  {sessions.length} saved session{sessions.length !== 1 ? 's' : ''}
+                </ThemedText>
               </Pressable>
             )}
           </View>
         )}
 
         {step === 'join' && (
-          <View className="w-full items-center">
-            <Text className="text-2xl font-bold mb-8">Join a Game</Text>
+          <View className="px-6">
+            <View className="flex-row items-center gap-3 mb-8">
+              <View className="w-10 h-10 rounded-xl bg-primary/10 items-center justify-center">
+                <SymbolView
+                  name={{ ios: 'gamecontroller.fill', android: 'sports_esports', web: 'controller' }}
+                  size={20}
+                  tintColor={colors.primary}
+                />
+              </View>
+              <View>
+                <ThemedText variant="h2">JOIN A GAME</ThemedText>
+              </View>
+            </View>
 
-            <TextInput
-              className="w-full border border-gray-300 rounded-xl px-4 py-3 mb-4 text-lg"
-              placeholder="Username"
-              placeholderTextColor="#999"
-              value={username}
-              onChangeText={setUsername}
-              autoCapitalize="none"
-              autoCorrect={false}
-            />
-            <TextInput
-              className="w-full border border-gray-300 rounded-xl px-4 py-3 mb-4 text-lg"
-              placeholder="Game Code"
-              placeholderTextColor="#999"
-              value={gameCode}
-              onChangeText={(t) => setGameCode(t.toUpperCase())}
-              autoCapitalize="characters"
-              autoCorrect={false}
-              maxLength={8}
-            />
+            <View className="flex-row items-center bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-2xl px-4 h-14 mb-4">
+              <SymbolView
+                name={{ ios: 'person.fill', android: 'person', web: 'user' }}
+                size={18}
+                tintColor={colors.tabIconDefault}
+              />
+              <TextInput
+                className="flex-1 ml-3 h-full text-text-primary dark:text-text-primary-dark font-jakarta text-[15px]"
+                placeholder="Username"
+                placeholderTextColor={colors.textTertiary}
+                value={username}
+                onChangeText={setUsername}
+                autoCapitalize="none"
+                autoCorrect={false}
+              />
+            </View>
+            <View className="flex-row items-center bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-2xl px-4 h-14 mb-4">
+              <SymbolView
+                name={{ ios: 'key.fill', android: 'key', web: 'key' }}
+                size={18}
+                tintColor={colors.tabIconDefault}
+              />
+              <TextInput
+                className="flex-1 ml-3 h-full text-text-primary dark:text-text-primary-dark font-jakarta text-[15px] tracking-widest"
+                placeholder="Game Code"
+                placeholderTextColor={colors.textTertiary}
+                value={gameCode}
+                onChangeText={(t) => setGameCode(t.toUpperCase())}
+                autoCapitalize="characters"
+                autoCorrect={false}
+                maxLength={8}
+              />
+            </View>
 
             {error ? (
-              <Text className="text-red-500 mb-4">{error}</Text>
+              <ThemedText variant="bodySmall" color="danger" className="mb-4">{error}</ThemedText>
             ) : null}
 
-            <Pressable
-              className="w-full bg-blue-500 rounded-xl py-4 mb-3 items-center active:opacity-80 disabled:opacity-50"
-              onPress={handleJoin}
-              disabled={loading}
-            >
-              {loading ? (
-                <ActivityIndicator color="#fff" />
-              ) : (
-                <Text className="text-white text-lg font-semibold">Join</Text>
-              )}
-            </Pressable>
-
-            <Pressable className="py-2" onPress={goBack}>
-              <Text className="text-blue-500 text-base">Back</Text>
-            </Pressable>
+            <Button title="Join" onPress={handleJoin} loading={loading} className="w-full mb-3" />
+            <Button title="Back" variant="ghost" onPress={goBack} className="w-full" />
           </View>
         )}
 
         {step === 'create' && (
-          <View className="w-full items-center">
-            <Text className="text-2xl font-bold mb-8">Create a Game</Text>
+          <View className="px-6">
+            <View className="flex-row items-center gap-3 mb-8">
+              <View className="w-10 h-10 rounded-xl bg-primary/10 items-center justify-center">
+                <SymbolView
+                  name={{ ios: 'plus.square.fill', android: 'add_box', web: 'plus-square' }}
+                  size={20}
+                  tintColor={colors.primary}
+                />
+              </View>
+              <View>
+                <ThemedText variant="h2">CREATE A GAME</ThemedText>
+              </View>
+            </View>
 
-            <TextInput
-              className="w-full border border-gray-300 rounded-xl px-4 py-3 mb-4 text-lg"
-              placeholder="Username"
-              placeholderTextColor="#999"
-              value={username}
-              onChangeText={setUsername}
-              autoCapitalize="none"
-              autoCorrect={false}
-            />
+            <View className="flex-row items-center bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-2xl px-4 h-14 mb-4">
+              <SymbolView
+                name={{ ios: 'person.fill', android: 'person', web: 'user' }}
+                size={18}
+                tintColor={colors.tabIconDefault}
+              />
+              <TextInput
+                className="flex-1 ml-3 h-full text-text-primary dark:text-text-primary-dark font-jakarta text-[15px]"
+                placeholder="Username"
+                placeholderTextColor={colors.textTertiary}
+                value={username}
+                onChangeText={setUsername}
+                autoCapitalize="none"
+                autoCorrect={false}
+              />
+            </View>
 
             <Pressable
-              className="w-full border border-gray-300 rounded-xl px-4 py-3 mb-4 flex-row items-center justify-between active:bg-gray-50"
+              className="w-full h-14 px-4 rounded-2xl bg-surface dark:bg-surface-dark border border-border dark:border-border-dark flex-row items-center justify-between active:opacity-80 mb-4"
               onPress={() => setCityModalOpen(true)}
             >
               <View className="flex-row items-center">
-                <Text className="text-2xl mr-3">{selectedCity.flag}</Text>
-                <Text className="text-lg text-gray-600">{selectedCity.name}</Text>
+                <View className="w-9 h-9 rounded-xl bg-bg dark:bg-bg-dark items-center justify-center mr-3">
+                  <Text className="text-xl">{selectedCity.flag}</Text>
+                </View>
+                <View>
+                  <ThemedText variant="body" className="font-semibold">{selectedCity.name}</ThemedText>
+                  <ThemedText variant="caption">{selectedCity.country}</ThemedText>
+                </View>
               </View>
-              <Text className="text-gray-400 text-sm">Change</Text>
+              <SymbolView
+                name={{ ios: 'chevron.down', android: 'arrow_drop_down', web: 'expand_more' }}
+                size={18}
+                tintColor={colors.tabIconDefault}
+              />
             </Pressable>
 
             <Modal
@@ -287,55 +350,44 @@ export default function LoginScreen() {
               onRequestClose={() => setCityModalOpen(false)}
             >
               <Pressable
-                className="flex-1 bg-black/40 items-center justify-center"
+                className="flex-1 bg-black/50 items-center justify-center"
                 onPress={() => setCityModalOpen(false)}
               >
-                <View className="bg-white rounded-2xl w-4/5 max-h-80">
-                  <View className="px-5 py-4 border-b border-gray-100">
-                    <Text className="text-xl font-bold text-center">Select City</Text>
+                <Card className="w-4/5 max-h-80 p-0 overflow-hidden rounded-2xl">
+                  <View className="px-5 py-4 border-b border-border dark:border-border-dark">
+                    <ThemedText variant="h3" className="text-center">SELECT CITY</ThemedText>
                   </View>
-                  {CITIES.map((city) => (
-                    <Pressable
-                      key={city.name}
-                      className="flex-row items-center px-5 py-4 border-b border-gray-50 active:bg-gray-50"
-                      onPress={() => {
-                        setSelectedCity(city);
-                        setCityModalOpen(false);
-                      }}
-                    >
-                      <Text className="text-3xl mr-4">{city.flag}</Text>
-                      <View>
-                        <Text className="text-lg font-semibold">{city.name}</Text>
-                        <Text className="text-gray-400 text-sm">{city.country}</Text>
-                      </View>
-                    </Pressable>
-                  ))}
-                </View>
+                  <ScrollView className="max-h-72">
+                    {CITIES.map((city) => (
+                      <Pressable
+                        key={city.name}
+                        className="flex-row items-center px-5 py-4 border-b border-border/50 dark:border-border-dark/50 active:opacity-60"
+                        onPress={() => {
+                          setSelectedCity(city);
+                          setCityModalOpen(false);
+                        }}
+                      >
+                        <Text className="text-3xl mr-4">{city.flag}</Text>
+                        <View>
+                          <ThemedText variant="h3">{city.name}</ThemedText>
+                          <ThemedText variant="bodySmall" className="text-text-secondary dark:text-text-secondary-dark">{city.country}</ThemedText>
+                        </View>
+                      </Pressable>
+                    ))}
+                  </ScrollView>
+                </Card>
               </Pressable>
             </Modal>
 
             {error ? (
-              <Text className="text-red-500 mb-4">{error}</Text>
+              <ThemedText variant="bodySmall" color="danger" className="mb-4">{error}</ThemedText>
             ) : null}
 
-            <Pressable
-              className="w-full bg-emerald-500 rounded-xl py-4 mb-3 items-center active:opacity-80 disabled:opacity-50"
-              onPress={handleCreate}
-              disabled={loading}
-            >
-              {loading ? (
-                <ActivityIndicator color="#fff" />
-              ) : (
-                <Text className="text-white text-lg font-semibold">Create Game</Text>
-              )}
-            </Pressable>
-
-            <Pressable className="py-2" onPress={goBack}>
-              <Text className="text-blue-500 text-base">Back</Text>
-            </Pressable>
+            <Button title="Create Game" onPress={handleCreate} loading={loading} className="w-full mb-3" />
+            <Button title="Back" variant="ghost" onPress={goBack} className="w-full" />
           </View>
         )}
-      </View>
+      </ScrollView>
     </KeyboardAvoidingView>
   );
 }

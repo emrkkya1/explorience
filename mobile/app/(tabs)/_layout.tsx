@@ -3,7 +3,6 @@ import { Tabs } from 'expo-router';
 
 import Colors from '@/constants/Colors';
 import { useColorScheme } from '@/components/useColorScheme';
-import { useClientOnlyValue } from '@/components/useClientOnlyValue';
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
@@ -11,23 +10,28 @@ export default function TabLayout() {
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme].tint,
-        // Disable the static render of the header on web
-        // to prevent a hydration error in React Navigation v6.
-        headerShown: useClientOnlyValue(false, true),
+        tabBarActiveTintColor: Colors[colorScheme].tabIconSelected,
+        tabBarInactiveTintColor: Colors[colorScheme].tabIconDefault,
+        tabBarStyle: {
+          backgroundColor: Colors[colorScheme].surface,
+          borderTopColor: Colors[colorScheme].border,
+          borderTopWidth: 1,
+        },
+        headerShown: false,
       }}>
       <Tabs.Screen
         name="home"
         options={{
+          title: 'Explore',
           tabBarIcon: ({ color }) => (
             <SymbolView
               name={{
-                ios: 'chevron.left.forwardslash.chevron.right',
-                android: 'code',
-                web: 'code',
+                ios: 'location.fill',
+                android: 'location_on',
+                web: 'map-pin',
               }}
               tintColor={color}
-              size={28}
+              size={24}
             />
           ),
         }}
@@ -35,16 +39,16 @@ export default function TabLayout() {
       <Tabs.Screen
         name="two"
         options={{
-          title: 'Details',
+          title: 'Options',
           tabBarIcon: ({ color }) => (
             <SymbolView
               name={{
-                ios: 'list.bullet',
-                android: 'list',
-                web: 'list',
+                ios: 'gearshape.fill',
+                android: 'settings',
+                web: 'settings',
               }}
               tintColor={color}
-              size={28}
+              size={24}
             />
           ),
         }}

@@ -1,58 +1,29 @@
-import { View } from 'react-native';
+import Svg, { Circle, G, Polygon } from 'react-native-svg';
+
+import { useMapPreferences } from './MapPreferencesContext';
 
 type PlayerMarkerProps = {
-  heading: number | null;
+  cameraHeading: number;
 };
 
-export function PlayerMarker({ heading }: PlayerMarkerProps) {
+export function PlayerMarker({ cameraHeading }: PlayerMarkerProps) {
+  const { playerColor } = useMapPreferences();
+
+  // PointAnnotation renders in screen space.
+  // Map north is at angle -cameraHeading from screen-up.
+  const northAngle = ((-cameraHeading % 360) + 360) % 360;
+
   return (
-    <View style={{ alignItems: 'center', justifyContent: 'center' }}>
-      <View
-        style={{
-          width: 24,
-          height: 24,
-          borderRadius: 12,
-          backgroundColor: '#2D6A4F',
-          borderWidth: 3,
-          borderColor: '#FFFFFF',
-          shadowColor: '#000',
-          shadowOffset: { width: 0, height: 2 },
-          shadowOpacity: 0.3,
-          shadowRadius: 4,
-          elevation: 5,
-        }}
-      />
-      <View
-        style={{
-          position: 'absolute',
-          width: 8,
-          height: 8,
-          borderRadius: 4,
-          backgroundColor: '#E8C45A',
-        }}
-      />
-      {heading !== null && (
-        <View
-          style={{
-            position: 'absolute',
-            top: -8,
-            transform: [{ rotate: `${heading}deg` }],
-          }}
-        >
-          <View
-            style={{
-              width: 0,
-              height: 0,
-              borderLeftWidth: 6,
-              borderRightWidth: 6,
-              borderBottomWidth: 12,
-              borderLeftColor: 'transparent',
-              borderRightColor: 'transparent',
-              borderBottomColor: '#2D6A4F',
-            }}
-          />
-        </View>
-      )}
-    </View>
+    <Svg width={44} height={52} viewBox="0 0 44 52">
+      <Circle cx={22} cy={26} r={15} fill="#FFFFFF" />
+      <Circle cx={22} cy={26} r={12} fill={playerColor} />
+      <Circle cx={22} cy={26} r={5} fill="#FFFFFF" />
+      <G origin="22, 26" rotation={northAngle}>
+        <Polygon
+          points="18,13 26,13 22,3"
+          fill={playerColor}
+        />
+      </G>
+    </Svg>
   );
 }

@@ -39,7 +39,7 @@ async function main() {
 
   const supabase = createClient(supabaseUrl, supabaseKey);
 
-  const jsonPath = resolve(__dirname, '../output/pipeline/izmir/99-final_2026-06-19T20-41-09.json');
+  const jsonPath = resolve(__dirname, '../output/pipeline/krakow/99-final_2026-06-26T18-46-19.json');
   const pois: PoiFromJson[] = JSON.parse(readFileSync(jsonPath, 'utf-8'));
 
   logger.info(`Loaded ${pois.length} POIs from ${jsonPath}`);
@@ -47,16 +47,16 @@ async function main() {
   const { data: city, error: cityError } = await supabase
     .from('cities')
     .select('id')
-    .eq('name', 'IZMIR')
+    .eq('name', 'KRAKOW')
     .single();
 
   if (cityError || !city) {
-    logger.error('Could not find IZMIR city', { error: cityError });
+    logger.error('Could not find KRAKOW city', { error: cityError });
     process.exit(1);
   }
 
   const cityId: number = city.id;
-  logger.info(`Found IZMIR city_id: ${cityId}`);
+  logger.info(`Found KRAKOW city_id: ${cityId}`);
 
   let inserted = 0;
   let skipped = 0;

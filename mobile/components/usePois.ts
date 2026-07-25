@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 
 import { supabase } from '@/lib/supabase';
+import { writePoiCache } from '@/lib/poiCache';
 import type { Poi } from '@/types/Poi';
 
 export function usePois(cityId: number | null) {
@@ -22,6 +23,7 @@ export function usePois(cityId: number | null) {
 
       if (!cancelled && !error && data) {
         setPois(data as Poi[]);
+        void writePoiCache(cityId, data as Poi[]);
       }
 
       setLoading(false);

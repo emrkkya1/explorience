@@ -7,10 +7,10 @@ import { CELL_SIZE } from '@/lib/bitmap/mapping';
 
 const FOG_TEXTURES: Record<string, number> = {
   teal: require('../assets/images/fog-teal.png'),
-  navy: require('../assets/images/fog-navy.png'),
-  forest: require('../assets/images/fog-forest.png'),
   amethyst: require('../assets/images/fog-amethyst.png'),
   ember: require('../assets/images/fog-ember.png'),
+  midnight: require('../assets/images/fog-midnight.png'),
+  violet: require('../assets/images/fog-violet.png'),
 };
 
 type FogOfWarLayerProps = {

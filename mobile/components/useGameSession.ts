@@ -2,6 +2,17 @@ import { useState, useCallback } from 'react';
 
 import { supabase } from '@/lib/supabase';
 import { saveSession, setActiveSession } from '@/lib/sessionStore';
+import {
+  ensureAuth,
+  syncPlayerUserId as syncPlayerUserIdLib,
+} from '@/lib/auth';
+import {
+  setBgTrackingContext,
+  getBgTrackingEnabled,
+  type BgTrackingContext,
+} from '@/lib/bgTrackingState';
+import { CITIES } from '@/constants/Cities';
+import { CELL_SIZE } from '@/lib/bitmap/mapping';
 import type { GameSession } from '@/types/GameSession';
 
 function generateGameCode(): string {
@@ -13,19 +24,34 @@ function generateGameCode(): string {
   return code;
 }
 
+// Build the bg-tracking context the background task needs (bounds/grid) from
+// the runtime CITIES table, mirroring the math GameMap does at line 41-46.
+// Only persisted when the user has bg tracking enabled — otherwise we skip
+// the write to keep AsyncStorage quiet for users who opted out.
+async function syncBgCtxIfEnabled(sess: GameSession): Promise<void> {
+  if (!(await getBgTrackingEnabled())) return;
+  const city = CITIES.find((c) => c.name === sess.cityName) ?? CITIES[0];
+  const ctx: BgTrackingContext = {
+    gameId: sess.gameId,
+    playerId: sess.playerId,
+    cityId: sess.cityId,
+    cityName: sess.cityName,
+    bounds: {
+      north: city.north,
+      south: city.north - city.gridHeight * CELL_SIZE,
+      east: city.west + city.gridWidth * CELL_SIZE,
+      west: city.west,
+    },
+    gridWidth: city.gridWidth,
+    gridHeight: city.gridHeight,
+  };
+  await setBgTrackingContext(ctx);
+}
+
 export function useGameSession() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [session, setSession] = useState<GameSession | null>(null);
-
-  const ensureAuth = useCallback(async () => {
-    const { data } = await supabase.auth.getSession();
-    if (data.session) return data.session.user.id;
-
-    const { data: signInData, error: signInError } = await supabase.auth.signInAnonymously();
-    if (signInError) throw new Error(signInError.message);
-    return signInData.user!.id;
-  }, []);
 
   const createGame = useCallback(async (username: string, city: string) => {
     setLoading(true);
@@ -87,6 +113,7 @@ export function useGameSession() {
       setSession(sess);
       await saveSession(sess, username);
       await setActiveSession(sess.gameId);
+      await syncBgCtxIfEnabled(sess);
       return sess;
     } catch (e) {
       const msg = e instanceof Error ? e.message : 'Failed to create game';
@@ -173,6 +200,7 @@ export function useGameSession() {
       };
       await saveSession(sess, username);
       await setActiveSession(sess.gameId);
+      await syncBgCtxIfEnabled(sess);
       setSession(sess);
       return sess;
     } catch (e) {
@@ -184,5 +212,12 @@ export function useGameSession() {
     }
   }, [ensureAuth]);
 
-  return { createGame, joinGame, loading, error, session };
+  const syncPlayerUserId = useCallback(
+    async (gameId: string, playerId: string): Promise<void> => {
+      await syncPlayerUserIdLib(gameId, playerId);
+    },
+    []
+  );
+
+  return { createGame, joinGame, syncPlayerUserId, loading, error, session };
 }

@@ -108,3 +108,6 @@ Three groups, separated by blank lines, in this order:
 ### CSS / Tailwind
 - Tailwind utilities applied via `className` on components wrapped by `tw/` bindings.
 - Global styles and font CSS variables go in `global.css`.
+
+# Security considerations
+Append to `SECURITY-CONSIDERATIONS-FOR-LATER.md` as you discover security gaps. It's okay to leave some security considerations for later, as these are the early iterations of this application. Keep entries concise.

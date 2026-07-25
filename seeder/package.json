@@ -9,7 +9,8 @@
     "trial2": "tsx scripts/trial2.ts",
     "analyze": "tsx scripts/analyze.ts",
     "pipeline": "tsx scripts/run_pipeline.ts",
-    "interactive": "tsx scripts/interactive_pipeline.ts"
+    "interactive": "tsx scripts/interactive_pipeline.ts",
+    "seed:images": "tsx scripts/seed_images.ts"
   },
   "devDependencies": {
     "@types/node": "^25.9.3",

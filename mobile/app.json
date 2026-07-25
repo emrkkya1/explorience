@@ -4,11 +4,14 @@
     "slug": "explorience",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/explorience-logo.png",
     "scheme": "explorience",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Allow Explorience to use your camera to verify discovered locations."
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -18,19 +21,26 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.explorience"
+      "package": "com.anonymous.explorience",
+      "permissions": [
+        "CAMERA",
+        "ACCESS_BACKGROUND_LOCATION",
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_LOCATION",
+        "REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+      ]
     },
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/explorience-logo.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/explorience-logo.png",
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
@@ -39,6 +49,12 @@
         "expo-location",
         {
           "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location to explore nearby places."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Explorience to use your camera to verify discovered locations."
         }
       ]
     ],

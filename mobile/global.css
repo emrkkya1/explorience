@@ -4,12 +4,49 @@
 
 @import "nativewind/theme";
 
+@theme {
+  --color-bg: #FAFAFA;
+  --color-surface: #FFFFFF;
+  --color-primary: #EA580C;
+  --color-secondary: #737373;
+  --color-accent: #EA580C;
+  --color-text-primary: #171717;
+  --color-text-secondary: #737373;
+  --color-danger: #DC2626;
+  --color-border: #E5E5E5;
+
+  --color-bg-dark: #0A0A0A;
+  --color-surface-dark: #171717;
+  --color-primary-dark: #F97316;
+  --color-secondary-dark: #A3A3A3;
+  --color-accent-dark: #F97316;
+  --color-text-primary-dark: #FAFAFA;
+  --color-text-secondary-dark: #A3A3A3;
+  --color-danger-dark: #EF4444;
+  --color-border-dark: #262626;
+
+  --color-rarity-legendary: #EAB308;
+  --color-rarity-epic: #A855F7;
+  --color-rarity-rare: #3B82F6;
+  --color-rarity-common: #78716C;
+
+  --color-success: #16A34A;
+  --color-warning: #CA8A04;
+
+  --font-anton: 'Anton', sans-serif;
+  --font-jakarta: 'Plus Jakarta Sans', sans-serif;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+}
+
 @media android {
   :root {
     --font-mono: monospace;
     --font-rounded: normal;
     --font-serif: serif;
-    --font-sans: normal;
+    --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
   }
 }
 
@@ -17,7 +54,7 @@
   :root {
     --font-mono: ui-monospace;
     --font-serif: ui-serif;
-    --font-sans: system-ui;
+    --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
     --font-rounded: ui-rounded;
   }
 }

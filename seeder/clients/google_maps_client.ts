@@ -12,6 +12,12 @@ export interface SearchNearbyParams {
   maxResults?: number;
 }
 
+export type PhotoMeta = {
+  name: string;
+  widthPx: number;
+  heightPx: number;
+};
+
 export class GoogleMapsClient {
   constructor(private apiKey: string) {}
 
@@ -113,5 +119,52 @@ export class GoogleMapsClient {
 
     const result = Array.from(allPlaces.values());
     return result;
+  }
+
+  async getPlacePhotos(googlePlaceId: string): Promise<PhotoMeta[]> {
+    const response = await fetch(
+      `https://places.googleapis.com/v1/places/${googlePlaceId}`,
+      {
+        headers: {
+          'X-Goog-Api-Key': this.apiKey,
+          'X-Goog-FieldMask': 'photos',
+        },
+      },
+    );
+
+    if (!response.ok) {
+      const error = await response.text();
+      throw new Error(`Place Details API error: ${response.status} ${error}`);
+    }
+
+    const data = await response.json();
+    if (!data.photos) return [];
+
+    return data.photos.map((p: any) => ({
+      name: p.name,
+      widthPx: p.widthPx,
+      heightPx: p.heightPx,
+    }));
+  }
+
+  async downloadPhoto(
+    photoName: string,
+    maxWidthPx: number,
+    maxHeightPx: number,
+  ): Promise<ArrayBuffer> {
+    const url =
+      `https://places.googleapis.com/v1/${photoName}/media` +
+      `?maxWidthPx=${maxWidthPx}&maxHeightPx=${maxHeightPx}`;
+
+    const response = await fetch(url, {
+      headers: { 'X-Goog-Api-Key': this.apiKey },
+    });
+
+    if (!response.ok) {
+      const error = await response.text();
+      throw new Error(`Photo download error: ${response.status} ${error}`);
+    }
+
+    return response.arrayBuffer();
   }
 }

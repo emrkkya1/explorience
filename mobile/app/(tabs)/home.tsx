@@ -1,47 +1,44 @@
 import { useEffect, useState } from 'react';
-import { Text } from 'react-native';
-import { useNavigation } from 'expo-router';
 
 import { View } from '@/tw';
 import { getActiveSession } from '@/lib/sessionStore';
 import type { StoredSession } from '@/lib/sessionStore';
 import { supabase } from '@/lib/supabase';
 import { GameMap } from '@/components/GameMap';
+import { useGameSession } from '@/components/useGameSession';
 
-export default function HomeScreen() {
+export default function ExploreScreen() {
   const [stored, setStored] = useState<StoredSession | null>(null);
   const [cityId, setCityId] = useState<number | null>(null);
-  const navigation = useNavigation();
+  const [ready, setReady] = useState(false);
+  const { syncPlayerUserId } = useGameSession();
 
   useEffect(() => {
     getActiveSession().then(async (session) => {
-      setStored(session);
-      if (session) {
-        navigation.setOptions({
-          title: session.cityName,
-          headerRight: () => (
-            <Text style={{ marginRight: 15, fontSize: 16, fontWeight: '600' }}>
-              {session.username}
-            </Text>
-          ),
-        });
-
-        // Resolve cityId — either from stored session or by looking it up
-        if (session.cityId) {
-          setCityId(session.cityId);
-        } else {
-          const { data } = await supabase
-            .from('cities')
-            .select('id')
-            .eq('name', session.cityName)
-            .single();
-          if (data) setCityId(data.id);
-        }
+      if (!session) {
+        setReady(true);
+        return;
       }
-    });
-  }, [navigation]);
 
-  if (!stored || !cityId) return null;
+      setStored(session);
+
+      if (session.cityId) {
+        setCityId(session.cityId);
+      } else {
+        const { data } = await supabase
+          .from('cities')
+          .select('id')
+          .eq('name', session.cityName)
+          .single();
+        if (data) setCityId(data.id);
+      }
+
+      await syncPlayerUserId(session.gameId, session.playerId);
+      setReady(true);
+    });
+  }, []);
+
+  if (!stored || !cityId || !ready) return null;
 
   return (
     <View className="flex-1">

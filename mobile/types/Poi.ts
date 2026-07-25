@@ -15,4 +15,5 @@ export type Poi = {
   description: string | null;
   rating: number | null;
   total_reviews: number | null;
+  image_uri: string | null;
 };

@@ -6,6 +6,7 @@ import { FOG_CONFIG } from '@/constants/FogOfWar';
 
 export function usePlayerLocation(enabled: boolean = true) {
   const [location, setLocation] = useState<PlayerLocation | null>(null);
+  const [heading, setHeading] = useState<number | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [permissionStatus, setPermissionStatus] = useState<'undetermined' | 'granted' | 'denied' | 'loading'>('loading');
@@ -33,8 +34,13 @@ export function usePlayerLocation(enabled: boolean = true) {
 
         setPermissionStatus('granted');
 
-        headingSubscription = await Location.watchHeadingAsync((heading) => {
-          headingRef.current = heading.trueHeading;
+        headingSubscription = await Location.watchHeadingAsync((h) => {
+          const trueHeading = h.trueHeading;
+          if (trueHeading == null || Number.isNaN(trueHeading)) return;
+          const rounded = Math.round(trueHeading) % 360;
+          if (headingRef.current === rounded) return;
+          headingRef.current = rounded;
+          setHeading(rounded);
         });
 
         locationSubscription = await Location.watchPositionAsync(
@@ -66,5 +72,5 @@ export function usePlayerLocation(enabled: boolean = true) {
     };
   }, [enabled]);
 
-  return { location, error, loading, permissionStatus };
+  return { location, heading, error, loading, permissionStatus };
 }

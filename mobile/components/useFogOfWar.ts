@@ -7,9 +7,11 @@ import {
   createBitmap,
   applyDeltas,
 } from '@/lib/bitmap/core';
+import { exploreCellsAtLocation } from '@/lib/bitmap/fogExploration';
 import { bitmapToRectangles, type Rectangle } from '@/lib/bitmap/rectangles';
-import { getBitIndicesInRadius } from '@/lib/bitmap/mapping';
 import { loadAndMergeBitmap } from '@/lib/bitmap/compaction';
+import { useCoalescedFlush } from '@/components/useCoalescedFlush';
+import { useAppState } from '@/components/useAppState';
 
 type CityBounds = {
   north: number;
@@ -29,8 +31,8 @@ export function useFogOfWar(
   const [rectangles, setRectangles] = useState<Rectangle[]>([]);
   const bitmapRef = useRef<Uint8Array>(createBitmap(gridWidth, gridHeight));
   const deltaBuffer = useRef<number[]>([]);
-  const lastSync = useRef<number>(0);
   const [initialized, setInitialized] = useState(false);
+  const appState = useAppState();
 
   // Load initial state on game join
   useEffect(() => {
@@ -65,6 +67,11 @@ export function useFogOfWar(
 
   useEffect(() => {
     if (!gameId) return;
+    if (appState !== 'active') {
+      // Background: realtime channel paused; background location task
+      // keeps writing fog_deltas to Supabase. Re-subscribes on foreground.
+      return;
+    }
 
     const topic = `realtime:fog-deltas:${gameId}`;
 
@@ -93,43 +100,14 @@ export function useFogOfWar(
       supabase.removeChannel(channel);
       channelRef.current = null;
     };
-  }, [gameId]);
+  }, [gameId, appState]);
 
-  // Explore cells on location update
-  useEffect(() => {
-    if (!location || !bounds || !initialized) return;
-
-    const newIndices = getBitIndicesInRadius(
-      location.latitude,
-      location.longitude,
-      FOG_CONFIG.FOG_CLEAR_RADIUS_CELLS,
-      bounds,
-      gridWidth,
-      gridHeight
-    );
-
-    const newBits: number[] = [];
-    for (const idx of newIndices) {
-      if (bitmapRef.current[idx] === 0) {
-        newBits.push(idx);
-      }
-    }
-
-    if (newBits.length > 0) {
-      console.log('[FogExplore] New bits found:', newBits.length);
-      applyDeltas(bitmapRef.current, newBits);
-      setRectangles(bitmapToRectangles(bitmapRef.current, gridWidth, gridHeight));
-      deltaBuffer.current.push(...newBits);
-      console.log('[FogExplore] Delta buffer size:', deltaBuffer.current.length);
-    }
-  }, [location, bounds, initialized]);
-
-  // Sync deltas every 3s
-  const syncToServer = useCallback(async (gameId: string, playerId: string) => {
+  // Coalesced sync push
+  const syncToServer = useCallback(async (gameId: string, playerId: string): Promise<boolean> => {
     const deltas = deltaBuffer.current;
     console.log('[FogSync] Checking sync:', { deltasCount: deltas.length, gameId, playerId });
     
-    if (deltas.length === 0) return;
+    if (deltas.length === 0) return true;
 
     deltaBuffer.current = [];
 
@@ -144,33 +122,40 @@ export function useFogOfWar(
     if (error) {
       console.error('[FogSync] Insert failed:', error);
       deltaBuffer.current.push(...deltas);
-    } else {
-      console.log('[FogSync] Insert successful');
+      return false;
     }
+    console.log('[FogSync] Insert successful');
+    return true;
   }, []);
 
+  const { schedule } = useCoalescedFlush(
+    () => {
+      if (!gameId || !playerId) return Promise.resolve(true);
+      return syncToServer(gameId, playerId);
+    },
+    FOG_CONFIG.SYNC_COALESCE_MS
+  );
+
+  // Explore cells on location update
   useEffect(() => {
-    if (!gameId || !playerId || !initialized) {
-      console.log('[FogSync] Interval not started:', { gameId, playerId, initialized });
-      return;
+    if (!location || !bounds || !initialized) return;
+
+    const newBits = exploreCellsAtLocation(
+      location,
+      bounds,
+      gridWidth,
+      gridHeight,
+      bitmapRef.current
+    );
+
+    if (newBits.length > 0) {
+      console.log('[FogExplore] New bits found:', newBits.length);
+      setRectangles(bitmapToRectangles(bitmapRef.current, gridWidth, gridHeight));
+      deltaBuffer.current.push(...newBits);
+      console.log('[FogExplore] Delta buffer size:', deltaBuffer.current.length);
+      if (gameId && playerId) schedule();
     }
-
-    console.log('[FogSync] Starting sync interval');
-    
-    const interval = setInterval(() => {
-      const now = Date.now();
-      if (now - lastSync.current >= FOG_CONFIG.SYNC_INTERVAL_MS) {
-        console.log('[FogSync] Interval tick, calling syncToServer');
-        syncToServer(gameId, playerId);
-        lastSync.current = now;
-      }
-    }, FOG_CONFIG.SYNC_INTERVAL_MS);
-
-    return () => {
-      console.log('[FogSync] Clearing interval');
-      clearInterval(interval);
-    };
-  }, [gameId, playerId, initialized, syncToServer]);
+  }, [location, bounds, initialized, schedule]);
 
   return { rectangles };
 }

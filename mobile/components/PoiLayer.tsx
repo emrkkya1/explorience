@@ -1,26 +1,22 @@
-import Mapbox from '@rnmapbox/maps';
 import { View } from 'react-native';
-import { Moon, UtensilsCrossed, Landmark, ScrollText, TreePine, ShoppingBag, MapPin, HelpCircle } from 'lucide-react-native';
+import Mapbox from '@rnmapbox/maps';
 
+import type { PoiCategory, PoiRarity } from '@/types/Poi';
 import type { Poi } from '@/types/Poi';
+import { HintMarkerIcon } from './PoiMarkerIcon';
+import { PoiCategoryIcon } from './PoiCategoryIcon';
+import { RARITY_COLORS } from '@/constants/Rarity';
 
 type PoiLayerProps = {
   pois: Poi[];
   hintedIds: Set<string>;
   discoveredIds: Set<string>;
+  onPoiSelect: (poiId: string) => void;
 };
 
-function CategoryIcon({ name, children }: { name: string; children: React.ReactNode }) {
-  return (
-    <Mapbox.Image name={name}>
-      <View style={{ width: 24, height: 24, alignItems: 'center', justifyContent: 'center' }}>
-        {children}
-      </View>
-    </Mapbox.Image>
-  );
-}
+const CATEGORIES: PoiCategory[] = ['nightlife', 'food', 'landmark', 'history', 'nature', 'shopping', 'miscellaneous'];
 
-export function PoiLayer({ pois, hintedIds, discoveredIds }: PoiLayerProps) {
+export function PoiLayer({ pois, hintedIds, discoveredIds, onPoiSelect }: PoiLayerProps) {
   const hintedPois = pois.filter((poi) => hintedIds.has(poi.id) && !discoveredIds.has(poi.id));
   const discoveredPois = pois.filter((poi) => discoveredIds.has(poi.id));
 
@@ -45,52 +41,77 @@ export function PoiLayer({ pois, hintedIds, discoveredIds }: PoiLayerProps) {
   return (
     <>
       <Mapbox.Images>
-        <CategoryIcon name="icon-nightlife"><Moon size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-food"><UtensilsCrossed size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-landmark"><Landmark size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-history"><ScrollText size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-nature"><TreePine size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-shopping"><ShoppingBag size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-misc"><MapPin size={18} color="#FFFFFF" strokeWidth={2.5} /></CategoryIcon>
-        <CategoryIcon name="icon-hint"><HelpCircle size={16} color="#1A1A1A" strokeWidth={3} /></CategoryIcon>
+        {CATEGORIES.map((category) => (
+          <Mapbox.Image key={`icon-${category}`} name={`icon-${category}`}>
+            <View style={{ width: 24, height: 24, alignItems: 'center', justifyContent: 'center' }}>
+              <PoiCategoryIcon category={category} size={18} color="#FFFFFF" />
+            </View>
+          </Mapbox.Image>
+        ))}
+        <Mapbox.Image name="icon-hint">
+          <HintMarkerIcon />
+        </Mapbox.Image>
       </Mapbox.Images>
 
-      <Mapbox.ShapeSource id="hinted-pois" shape={hintedGeoJSON}>
-        <Mapbox.CircleLayer
-          id="hinted-poi-circles"
-          style={{
-            circleRadius: 14,
-            circleColor: '#D4A843',
-            circleStrokeWidth: 2,
-            circleStrokeColor: '#FFFFFF',
-            circleOpacity: 0.9,
-          }}
-        />
+      <Mapbox.ShapeSource
+        key={`hinted-${hintedPois.length}`}
+        id="hinted-pois"
+        shape={hintedGeoJSON}>
         <Mapbox.SymbolLayer
           id="hinted-poi-icons"
           style={{
             iconImage: 'icon-hint',
-            iconSize: 1.0,
+            iconSize: ['step', ['zoom'], 0.8, 12, 1.0, 14, 1.2, 16, 1.4],
             iconAllowOverlap: true,
+            iconAnchor: 'center',
           }}
         />
       </Mapbox.ShapeSource>
 
-      <Mapbox.ShapeSource id="discovered-pois" shape={discoveredGeoJSON}>
+      <Mapbox.ShapeSource
+        key={`discovered-${discoveredPois.length}`}
+        id="discovered-pois"
+        shape={discoveredGeoJSON}
+        hitbox={{ width: 50, height: 50 }}
+        onPress={(e) => {
+        const feature = e.features[0];
+        const id = feature?.properties?.id;
+        if (typeof id === 'string') onPoiSelect(id);
+      }}>
         <Mapbox.CircleLayer
           id="discovered-poi-circles"
           style={{
-            circleRadius: 12,
+            circleRadius: [
+              'step', ['zoom'],
+              4, 13, 7, 15, 10, 17, 14,
+            ],
             circleColor: [
               'match', ['get', 'rarity'],
-              'legendary', '#FFD700',
-              'epic', '#9B59B6',
-              'rare', '#3498DB',
-              'common', '#95A5A6',
-              '#95A5A6',
+              'legendary', RARITY_COLORS.legendary,
+              'epic', RARITY_COLORS.epic,
+              'rare', RARITY_COLORS.rare,
+              'common', RARITY_COLORS.common,
+              RARITY_COLORS.common,
             ],
             circleStrokeWidth: 2,
             circleStrokeColor: '#FFFFFF',
+          }}
+        />
+        <Mapbox.CircleLayer
+          id="discovered-poi-glow"
+          filter={['in', ['get', 'rarity'], ['literal', ['legendary', 'epic']]]}
+          style={{
+            circleRadius: [
+              'step', ['zoom'],
+              8, 13, 12, 15, 16, 17, 20,
+            ],
+            circleColor: [
+              'match', ['get', 'rarity'],
+              'legendary', 'rgba(212, 168, 67, 0.25)',
+              'epic', 'rgba(155, 89, 182, 0.25)',
+              'transparent',
+            ],
+            circleOpacity: 0.6,
           }}
         />
         <Mapbox.SymbolLayer
@@ -104,9 +125,13 @@ export function PoiLayer({ pois, hintedIds, discoveredIds }: PoiLayerProps) {
               'history', 'icon-history',
               'nature', 'icon-nature',
               'shopping', 'icon-shopping',
-              'icon-misc',
+              'miscellaneous', 'icon-miscellaneous',
+              'icon-miscellaneous',
             ],
-            iconSize: 0.85,
+            iconSize: [
+              'step', ['zoom'],
+              0, 13, 0, 15, 0.5, 17, 0.85,
+            ],
             iconAllowOverlap: true,
           }}
         />
