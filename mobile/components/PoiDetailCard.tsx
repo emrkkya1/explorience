@@ -133,7 +133,7 @@ export function PoiDetailCard({ visible, poi, exploredState, onExplore, onClose 
 
       <Animated.View
         style={[
-          { position: 'absolute', left: 16, right: 16, bottom: insets.bottom + 80 },
+          { position: 'absolute', left: 16, right: 16, bottom: insets.bottom + 40 },
           cardStyle,
         ]}
       >
