@@ -100,11 +100,6 @@ export function RewardRevealOverlay({ visible, reward, onClose }: RewardRevealOv
     };
   }, [visible, reward, finalX, reelX, textOpacity, buttonOpacity, circleScale]);
 
-  if (!visible || !reward) return null;
-
-  const rarityColor = RARITY_COLORS[reward.rarity];
-  const overlayColor = semanticColors.overlay[colorScheme];
-
   const reelStyle = useAnimatedStyle(() => ({
     transform: [{ translateX: reelX.value }],
   }));
@@ -120,6 +115,11 @@ export function RewardRevealOverlay({ visible, reward, onClose }: RewardRevealOv
   const winnerCircleStyle = useAnimatedStyle(() => ({
     transform: [{ scale: circleScale.value }],
   }));
+
+  if (!visible || !reward) return null;
+
+  const rarityColor = RARITY_COLORS[reward.rarity];
+  const overlayColor = semanticColors.overlay[colorScheme];
 
   return (
     <View style={[StyleSheet.absoluteFill, { zIndex: 100 }]} pointerEvents="box-none">

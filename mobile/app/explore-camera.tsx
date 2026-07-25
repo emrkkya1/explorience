@@ -70,7 +70,7 @@ export default function ExploreCameraScreen() {
   const [capturedUri, setCapturedUri] = useState<string | null>(null);
   const [verifying, setVerifying] = useState(false);
   const [resultState, setResultState] = useState<ResultState | null>(null);
-  const [reward, setReward] = useState<ExploreReward>(undefined);
+  const [reward, setReward] = useState<ExploreReward>(null);
 
   const cameraRef = useRef<CameraView>(null);
   const didFinalizeRef = useRef(false);
@@ -385,7 +385,7 @@ export default function ExploreCameraScreen() {
       <RewardRevealOverlay
         visible={!!reward}
         reward={reward}
-        onClose={() => setReward(undefined)}
+        onClose={() => setReward(null)}
       />
     </View>
   );

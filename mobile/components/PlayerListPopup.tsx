@@ -5,7 +5,7 @@ import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-na
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { View, Pressable, ScrollView } from '@/tw';
-import { semanticColors } from '@/constants/Colors';
+import Colors, { semanticColors } from '@/constants/Colors';
 import { useColorScheme } from './useColorScheme';
 import { ThemedText } from './ThemedText';
 import { Card } from './Card';
@@ -28,7 +28,7 @@ type PlayerListPopupProps = {
 export function PlayerListPopup({ visible, players, remotePlayerLocations, localPlayerId, onClose, onSelectPlayer }: PlayerListPopupProps) {
   const insets = useSafeAreaInsets();
   const colorScheme = useColorScheme();
-  const iconColor = semanticColors.text[colorScheme];
+  const iconColor = Colors[colorScheme].text;
 
   const [, setTick] = useState(0);
 
