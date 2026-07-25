@@ -135,7 +135,7 @@ export default function LoginScreen() {
             <View className="items-center mb-10">
               <Image
                 source={require('@/assets/images/explorience-logo.png')}
-                style={{ width: 28, height: 28 }}
+                style={{ width: 96, height: 96 }}
                 resizeMode="contain"
               />
               <ThemedText variant="h1" className="mt-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
@@ -212,7 +212,7 @@ export default function LoginScreen() {
           <View className="px-6 items-center pt-16">
             <Image
               source={require('@/assets/images/explorience-logo.png')}
-              style={{ width: 36, height: 36 }}
+              style={{ width: 128, height: 128 }}
               resizeMode="contain"
             />
             <ThemedText variant="h1" className="mt-3 mb-2 text-center tracking-wider">EXPLORIENCE</ThemedText>
