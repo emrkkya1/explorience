@@ -1,0 +1,145 @@
+name: Build and Release APK
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  version-check:
+    name: Check Version
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.get-version.outputs.version }}
+      should-build: ${{ steps.check-duplicate.outputs.should-build }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Extract version from app.json
+        id: get-version
+        run: |
+          VERSION=$(jq -r '.expo.version' mobile/app.json)
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "📦 Version: $VERSION"
+
+      - name: Check for duplicate release
+        id: check-duplicate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VERSION=${{ steps.get-version.outputs.version }}
+          TAG="v$VERSION"
+          
+          echo "🔍 Checking if release $TAG already exists..."
+          
+          if gh release view "$TAG" --repo ${{ github.repository }} >/dev/null 2>&1; then
+            echo "❌ Release $TAG already exists!"
+            echo "Please bump the version in mobile/app.json before merging to main."
+            echo "should-build=false" >> $GITHUB_OUTPUT
+            exit 1
+          else
+            echo "✅ Release $TAG does not exist, proceeding with build"
+            echo "should-build=true" >> $GITHUB_OUTPUT
+          fi
+
+  build:
+    name: Build APK
+    needs: version-check
+    if: needs.version-check.outputs.should-build == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: mobile/package-lock.json
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: mobile
+
+      - name: Cache Gradle dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('mobile/android/**/*.gradle*', 'mobile/android/**/gradle-wrapper.properties') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
+
+      - name: Build Release APK
+        run: ./gradlew assembleRelease
+        working-directory: mobile/android
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: explorience-apk
+          path: mobile/android/app/build/outputs/apk/release/app-release.apk
+          retention-days: 1
+
+  release:
+    name: Create Release
+    needs: [version-check, build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download APK artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: explorience-apk
+          path: ./
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VERSION=${{ needs.version-check.outputs.version }}
+          TAG="v$VERSION"
+          
+          echo "🚀 Creating release $TAG..."
+          
+          gh release create "$TAG" \
+            --repo ${{ github.repository }} \
+            --title "Release $TAG" \
+            --generate-notes \
+            ./app-release.apk#explorience-$TAG.apk
+          
+          echo "✅ Release $TAG created successfully!"
+
+      - name: Update latest tag
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VERSION=${{ needs.version-check.outputs.version }}
+          TAG="v$VERSION"
+          
+          echo "🏷️  Updating 'latest' tag to $TAG..."
+          
+          # Delete existing latest tag if it exists
+          gh release delete latest --repo ${{ github.repository }} --yes 2>/dev/null || true
+          git tag -d latest 2>/dev/null || true
+          git push origin :refs/tags/latest 2>/dev/null || true
+          
+          # Create new latest tag pointing to same commit
+          git fetch --tags
+          git tag latest "$TAG"
+          git push origin latest
+          
+          echo "✅ 'latest' tag updated to $TAG"
