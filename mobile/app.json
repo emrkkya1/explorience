@@ -2,7 +2,7 @@
   "expo": {
     "name": "explorience",
     "slug": "explorience",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/images/explorience-logo.png",
     "scheme": "explorience",
