@@ -21,13 +21,16 @@ import {
   completeExploreCapture,
   startExploreCapture,
 } from '@/lib/exploreCaptureStore';
+import { grantRandomHint } from '@/lib/exploreReward';
 import Colors from '@/constants/Colors';
 import { useColorScheme } from '@/components/useColorScheme';
 import { useLlmConfig } from '@/components/LlmConfigContext';
 import { ThemedText } from '@/components/ThemedText';
 import { Button } from '@/components/Button';
 import { SimilarityRing } from '@/components/SimilarityRing';
+import { RewardRevealOverlay } from '@/components/RewardRevealOverlay';
 import type { Poi } from '@/types/Poi';
+import type { ExploreReward } from '@/lib/exploreReward';
 import { RARITY_COLORS } from '@/constants/Rarity';
 import type { VisionCompareResult } from '@/lib/vision';
 
@@ -67,6 +70,7 @@ export default function ExploreCameraScreen() {
   const [capturedUri, setCapturedUri] = useState<string | null>(null);
   const [verifying, setVerifying] = useState(false);
   const [resultState, setResultState] = useState<ResultState | null>(null);
+  const [reward, setReward] = useState<ExploreReward>(undefined);
 
   const cameraRef = useRef<CameraView>(null);
   const didFinalizeRef = useRef(false);
@@ -216,6 +220,13 @@ export default function ExploreCameraScreen() {
         } catch (markErr) {
           console.error('[explore-camera] markExplored failed', markErr);
         }
+        let granted: ExploreReward = null;
+        try {
+          granted = await grantRandomHint(gameId, playerId);
+        } catch (grantErr) {
+          console.warn('[explore-camera] grantRandomHint failed', grantErr);
+        }
+        setReward(granted);
         setResultState({ kind: 'success', result });
         setStage('result');
       } else {
@@ -370,6 +381,12 @@ export default function ExploreCameraScreen() {
           </View>
         )}
       </Animated.View>
+
+      <RewardRevealOverlay
+        visible={!!reward}
+        reward={reward}
+        onClose={() => setReward(undefined)}
+      />
     </View>
   );
 }
