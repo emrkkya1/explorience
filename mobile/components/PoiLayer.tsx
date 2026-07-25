@@ -59,13 +59,7 @@ export function PoiLayer({ pois, hintedIds, discoveredIds, onPoiSelect }: PoiLay
       <Mapbox.ShapeSource
         key={`hinted-${hintedPois.length}`}
         id="hinted-pois"
-        shape={hintedGeoJSON}
-        hitbox={{ width: 50, height: 50 }}
-        onPress={(e) => {
-          const feature = e.features[0];
-          const id = feature?.properties?.id;
-          if (typeof id === 'string') onPoiSelect(id);
-        }}>
+        shape={hintedGeoJSON}>
         <Mapbox.CircleLayer
           id="hinted-poi-glow"
           filter={['in', ['get', 'rarity'], ['literal', ['legendary', 'epic']]]}
